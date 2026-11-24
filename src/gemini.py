@@ -26,20 +26,39 @@ class Gemini:
         wanted = [g["model"], *g.get("fallback_models", [])]
         self.min_gap = 7.0      # free tier is ~10 requests/minute; stay under it
         self._last = 0.0
-        # Google renames/retires models often. Ask which ones this key can use and
-        # keep only those, plus the newest available Flash models as fallbacks.
+        # Google renames/retires models often, and a model can be LISTED for a key but
+        # still refuse requests (404) or be overloaded (503). So: list the models,
+        # then send each candidate a tiny test prompt and keep the ones that answer.
         avail = self.available_models()
-        if avail:
-            keep = [m for m in wanted if m in avail]
-            self.models = list(dict.fromkeys(keep + rank_flash(avail)))[:4]
-            dropped = [m for m in wanted if m not in avail]
-            if dropped:
-                log(f"gemini: configured models not available any more: {dropped}")
-        else:
-            self.models = wanted
+        log(f"gemini: key can list {len(avail)} models; flash candidates: {rank_flash(avail)[:10]}")
+        candidates = list(dict.fromkeys([m for m in wanted if m in avail] + rank_flash(avail))) or wanted
+        self.models = []
+        for m in candidates[:10]:
+            ok, why = self.probe(m)
+            log(f"gemini: probe {m}: {'OK' if ok else why}")
+            if ok:
+                self.models.append(m)
+            if len(self.models) >= 2:
+                break
         if not self.models:
-            raise GeminiError(f"no usable Gemini Flash model for this key; available: {sorted(avail)[:20]}")
+            raise GeminiError("no Gemini model answered a test prompt (see probe lines above)")
         log(f"gemini: using {self.models}")
+
+    def probe(self, model: str) -> tuple[bool, str]:
+        """One tiny request: does this model actually answer right now?"""
+        try:
+            r = requests.post(API.format(model=model), timeout=60, headers={"x-goog-api-key": self.key},
+                              json={"contents": [{"role": "user", "parts": [{"text": "Reply with the word OK."}]}]})
+        except requests.RequestException as e:
+            return False, f"network error {type(e).__name__}"
+        self._last = time.time()
+        if r.status_code == 200:
+            return True, ""
+        try:
+            msg = r.json().get("error", {}).get("message", "")[:160]
+        except ValueError:
+            msg = r.text[:160]
+        return False, f"HTTP {r.status_code}: {msg}"
 
     def available_models(self) -> set[str]:
         """Model ids this key can call with generateContent ('' set if the list call fails)."""
@@ -67,14 +86,19 @@ class Gemini:
         wait = self.min_gap - (time.time() - self._last)
         if wait > 0:
             time.sleep(wait)
-        for attempt in range(5):
+        for attempt in range(3):
             self._last = time.time()
-            r = requests.post(API.format(model=model), json=body, timeout=180,
-                              headers={"x-goog-api-key": self.key})
+            try:
+                r = requests.post(API.format(model=model), json=body, timeout=180,
+                                  headers={"x-goog-api-key": self.key})
+            except requests.RequestException as e:      # timeouts must not crash the run
+                log(f"gemini {model}: {type(e).__name__}, retry in 15s")
+                time.sleep(15)
+                continue
             if r.status_code == 200:
                 return r.json()
             if r.status_code in (429, 500, 503):
-                delay = 20 * (attempt + 1)
+                delay = 15 * (attempt + 1)
                 log(f"gemini {model}: HTTP {r.status_code}, retry in {delay}s")
                 time.sleep(delay)
                 continue
