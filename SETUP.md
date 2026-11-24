@@ -15,7 +15,7 @@ pin can ever go out pointing at a github.io link or a dead domain.
 
 | Workflow | When | What it does |
 |---|---|---|
-| `content.yml` | daily | Builds the first 60-recipe library (~25/day), then writes 12 more whenever unposted content drops below 3 weeks. Each recipe: Gemini writes → Gemini + Google Search fact-checks against published recipes → hard rules → **protein recalculated from the ingredients** → Pexels photos. |
+| `content.yml` | daily | Builds the first 60-recipe library (~25/day), then writes 12 more whenever unposted content drops below 3 weeks. Each recipe: Gemini writes → Gemini + Google Search fact-checks against published recipes → hard rules → **protein recalculated from the ingredients** → real Unsplash photos. |
 | `post.yml` | hourly | Checks the live site, then posts whatever is due (image pins + narrated video pins) |
 | `pages.yml` | after new content | Builds and deploys easyproteinkitchen.com |
 | `report.yml` | Mondays 09:00 IST | Weekly summary as a GitHub Issue (GitHub emails it to you) |
@@ -74,15 +74,15 @@ certificate, turns on **Enforce HTTPS**, and checks that both `http://` and `www
 `https://easyproteinkitchen.com`. Claude also checks that `https://easyproteinkitchen.com/privacy/`
 passes the same live-site check the poster uses.
 
-### Step 3: Gemini + Pexels keys (10 min)
+### Step 3: Gemini + Unsplash keys (10 min)
 1. Gemini key: aistudio.google.com/apikey
-2. Pexels key: pexels.com/api (free account → "Your API key")
+2. Unsplash key: unsplash.com/developers → Register as a developer → New Application → "Access Key" (Pexels paused new API keys in Nov 2026)
 3. Save them as secrets from your own Terminal. Each command asks for the value, and the value stays hidden:
    ```bash
    gh secret set GEMINI_API_KEY --repo subuwithasuu/easy-protein-kitchen
    ```
    ```bash
-   gh secret set PEXELS_API_KEY --repo subuwithasuu/easy-protein-kitchen
+   gh secret set UNSPLASH_ACCESS_KEY --repo subuwithasuu/easy-protein-kitchen
    ```
 
 **Then Claude:** starts the content workflow and watches it. Claude reads the first batch of recipes,
@@ -155,7 +155,7 @@ When the approval email arrives, tell Claude. **Claude** then removes `PINTEREST
 **What does your app do?**
 > A private publishing tool for my own Pinterest business account, Easy Protein Kitchen. It publishes
 > original high-protein recipe pins (images and short videos I create from my own recipes and licensed
-> Pexels photography) to my own boards on a schedule, linking to the recipes on my own website
+> Unsplash photography) to my own boards on a schedule, linking to the recipes on my own website
 > easyproteinkitchen.com, and reads analytics for those pins for a weekly performance report.
 > It does not access any other user's data and has no other users.
 
@@ -180,5 +180,5 @@ step 2 and use `subuwithasuu.github.io` wherever this guide says easyproteinkitc
 ## Honest limits
 - The fact-check and rules cut recipe errors a lot but can't promise zero. Skim recipes in week 1.
 - Protein numbers are conservative estimates from USDA averages, not lab values (the site says so).
-- Photos are real Pexels food photos matched by description. They show the dish style, not our exact plate.
+- Photos are real Unsplash food photos matched by description. They show the dish style, not our exact plate.
 - If Pinterest ever shows a spam warning, lower `ramp_pins_per_day` in `config.yaml`.

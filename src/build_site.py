@@ -77,7 +77,7 @@ ABOUT = """
 <p>{name} shares easy, reliable recipes for busy home cooks: {tagline}</p>
 <p>Every recipe is checked against established, published recipes for the same dish before it goes live:
 ingredient ratios, temperatures, timings and food-safety temperatures. Photos are real food photography from
-Pexels and show the style of the dish.</p>
+Unsplash and show the style of the dish.</p>
 """
 
 

@@ -82,7 +82,7 @@ ol.steps li{margin:10px 0}
 <h2>More photos</h2>
 <div class="gallery">{% for p in gallery %}<img src="{{ p.web }}" alt="{{ p.alt }}" loading="lazy">{% endfor %}</div>
 {% endif %}
-<p class="small">Photos: {% for p in r.photos %}<a href="{{ p.pexels_url }}" rel="nofollow">{{ p.photographer }}</a>{% if not loop.last %}, {% endif %}{% endfor %} on Pexels.
+<p class="small">Photos: {% for p in r.photos %}<a href="{{ p.photographer_url }}" rel="nofollow">{{ p.photographer }}</a> on <a href="{{ p.source_url or 'https://unsplash.com' }}" rel="nofollow">{{ p.source or 'Unsplash' }}</a>{% if not loop.last %}, {% endif %}{% endfor %}.
 Photos show the dish style and may differ slightly from your result.</p>
 
 {% if related %}

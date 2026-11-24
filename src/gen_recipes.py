@@ -1,4 +1,4 @@
-"""Write new recipes with Gemini, fact-check them, attach Pexels photos, save.
+"""Write new recipes with Gemini, fact-check them, attach real photos (Unsplash), save.
 
 Pipeline per recipe:
   1. idea      - Gemini proposes a dish for a board (avoids existing titles)
@@ -7,7 +7,7 @@ Pipeline per recipe:
                  ratios, temperatures and times to established published recipes
                  and returns pass / fix / reject (+ the sources it checked)
   4. rules     - validate.py hard checks (food safety temps, absurd amounts...)
-  5. photos    - real Pexels photos whose alt text matches the dish
+  5. photos    - real Unsplash photos whose description matches the dish
 Only recipes that pass every step are saved. Rejections go to rejected.json.
 
 Usage:
@@ -75,7 +75,7 @@ RECIPE_SCHEMA = """{
     "steps_short": ["3-6 spoken lines, <=14 words each, matching the real steps in order"],
     "outro": "spoken closing line, <=14 words, mention the full recipe is on the website"
   },
-  "photo_queries": ["3 Pexels search phrases for the finished dish, most specific first"],
+  "photo_queries": ["3 stock-photo search phrases for the finished dish, most specific first"],
   "must_match": ["2-4 single words; a stock photo's description must contain one of them, e.g. 'shrimp','pasta'"]
 }"""
 
@@ -208,7 +208,7 @@ def make_one(gem: Gemini, cfg: dict, board: dict, title: str, used_photo_ids: se
     photos = pexels.find_photos(r.get("photo_queries") or [r["title"]],
                                 r.get("must_match") or [], used_photo_ids, want=6)
     if len(photos) < 3:
-        reject(title, board["name"], f"only {len(photos)} matching photos on Pexels")
+        reject(title, board["name"], f"only {len(photos)} matching real photos")
         return None
     r["photos"] = photos
     r["verification"] = {"checks": checks, "rule_warnings": warns, "model": gem.models[0]}

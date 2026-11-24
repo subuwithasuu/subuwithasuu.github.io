@@ -1,11 +1,11 @@
 # Pinterest Autopilot
 
 A fully automated Pinterest account plus a recipe website, run by GitHub Actions on free tools only
-(Gemini free tier, Pexels, Pillow, ffmpeg, Kokoro TTS). Start with **[SETUP.md](SETUP.md)**.
+(Gemini free tier, Unsplash, Pillow, ffmpeg, Kokoro TTS). Start with **[SETUP.md](SETUP.md)**.
 
 ```
 config.yaml          niche, boards, schedule, design: the one file to edit
-src/gen_recipes.py   write + fact-check recipes (Gemini) + Pexels photos
+src/gen_recipes.py   write + fact-check recipes (Gemini) + Unsplash photos
 src/validate.py      hard recipe safety/sanity rules
 src/make_pin.py      1000x1500 image pins (3 layouts x 5 palettes)
 src/make_video.py    1080x1920 narrated video pins (Kokoro + ffmpeg)
