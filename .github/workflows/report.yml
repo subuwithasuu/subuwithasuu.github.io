@@ -7,8 +7,12 @@ on:
   workflow_dispatch:
 
 permissions:
-  contents: read
+  contents: write        # saves metrics.json + learnings.json for the feedback loop
   issues: write
+
+concurrency:
+  group: repo-write
+  cancel-in-progress: false
 
 jobs:
   report:
@@ -36,3 +40,11 @@ jobs:
         env:
           GH_TOKEN: ${{ github.token }}
         run: gh issue create --repo "$GITHUB_REPOSITORY" --title "Weekly Pinterest report $(date -u +%F)" --body-file report.md
+      - name: Save learnings
+        run: |
+          git config user.name "pin-bot"
+          git config user.email "pin-bot@users.noreply.github.com"
+          git add data/state
+          git diff --cached --quiet && exit 0
+          git commit -q -m "weekly learnings $(date -u +%F)"
+          git pull -q --rebase && git push -q

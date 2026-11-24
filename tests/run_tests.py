@@ -145,5 +145,67 @@ unfilled = [s for s in q["slots"] if not s["item"]]
 print(f"   total slots {len(q['slots'])}, posted {len(posted)}, unfilled (ran out of content) {len(unfilled)}")
 print("   (test library is fixed at 80 recipes; the daily content job keeps adding more)")
 
+# --- feedback loop ------------------------------------------------------------
+import learn  # noqa: E402
+from hooks import winners  # noqa: E402
+rng = __import__("random").Random(7)
+now = datetime(2027, 2, 1, tzinfo=timezone.utc)
+fake_posted, fake_metrics = [], {}
+for i in range(60):
+    hook = ["number", "outcome", "teacher", "speed"][i % 4]
+    layout = ["split", "single", "band"][i % 3]
+    board = cfg["boards"][i % 8]["name"]
+    pid = f"p{i}"
+    fake_posted.append({"pin_id": pid, "posted_at": (now - timedelta(days=10 + i % 20)).isoformat(),
+                        "title": f"pin {i}", "board": board, "kind": "image", "hook_type": hook,
+                        "layout": layout, "palette": i % 5, "protein_g": 30 + i % 15, "total_minutes": 20})
+    s = 2 + rng.randint(0, 3) + (12 if hook == "teacher" else 0) + (6 if layout == "single" else 0) \
+        + (5 if board == "High Protein Dinners" else 0)
+    fake_metrics[pid] = {"SAVE": s, "OUTBOUND_CLICK": s // 3}
+fake_posted.append({"pin_id": "young", "posted_at": (now - timedelta(days=2)).isoformat(), "title": "new",
+                    "board": "High Protein Snacks", "kind": "image", "hook_type": "budget", "layout": "band", "palette": 0})
+fake_metrics["young"] = {"SAVE": 999, "OUTBOUND_CLICK": 999}
+L = learn.analyze(fake_posted, fake_metrics, now)
+check("learn: ignores pins younger than 7 days", all(r["pin_id"] != "young" for r in L["top10"]))
+check("learn: finds teacher hooks win", learn.weight(L, "hook_type", "teacher") > 1.3)
+check("learn: finds single layout wins", learn.weight(L, "layout", "single") > learn.weight(L, "layout", "band"))
+check("learn: weights clipped 0.5-2.0", all(0.5 <= w <= 2.0 for a in L["weights"].values() for w in a.values()))
+pat = {(p["attr"], p["value"]) for p in L["patterns"] if p["winner"]}
+check("learn: lists hook_type=teacher as a top-10 pattern", ("hook_type", "teacher") in pat)
+check("learn: says 'not enough data' below 20 pins",
+      not learn.analyze(fake_posted[:15], fake_metrics, now)["enough_data"])
+print("   report preview:\n   " + "\n   ".join(learn.report_lines(L, cfg)[:6]))
+write_json(learn.LEARNINGS_FILE, L)
+check("hooks: prompt asks for winning hook types", winners()[:1] == ["teacher"])
+
+# queue follows the winners: compare 2 weeks of slots with vs without learnings
+def share_after(with_learnings: bool):
+    if not with_learnings:
+        learn.LEARNINGS_FILE.unlink()
+    else:
+        write_json(learn.LEARNINGS_FILE, L)
+    for r_ in RECIPES_DIR.glob("*.json"):           # give the test recipes hook types
+        rr = read_json(r_, None)
+        for v_, t_ in zip(rr["pin_variants"], ["number", "outcome", "teacher", "speed"]):
+            v_["hook_type"] = t_
+        write_json(r_, rr)
+    if QUEUE_FILE.exists():
+        QUEUE_FILE.unlink()
+    t_ = datetime(2026, 12, 1, 5, tzinfo=timezone.utc)
+    q_ = None
+    for _ in range(14):
+        q_ = queue_plan.plan(cfg, t_)
+        t_ += timedelta(days=1)
+    items = [s["item"] for s in q_["slots"] if s.get("item")]
+    img = [it for it in items if it["kind"] == "image"]
+    return (sum(it["layout"] == "single" for it in img) / len(img),
+            sum(it.get("hook_type") == "teacher" for it in items) / len(items))
+base_layout, base_hook = share_after(False)
+win_layout, win_hook = share_after(True)
+print(f"   single layout share {base_layout:.0%} -> {win_layout:.0%}; teacher-hook share {base_hook:.0%} -> {win_hook:.0%}")
+check("queue: posts more of the winning layout", win_layout > base_layout + 0.05)
+check("queue: posts more of the winning hook type", win_hook > base_hook + 0.03)
+check("queue: still explores other layouts", win_layout < 0.9)
+
 print("\nALL PASSED" if not fails else f"\n{fails} FAILED")
 sys.exit(1 if fails else 0)

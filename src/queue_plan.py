@@ -69,9 +69,11 @@ def all_items(cfg, recipes) -> list[dict]:
     items = []
     for r in recipes:
         for v in range(min(cfg["mix"]["pins_per_recipe"], len(r["pin_variants"]))):
-            items.append({"slug": r["slug"], "board": r["board"], "kind": "image", "variant": v})
+            items.append({"slug": r["slug"], "board": r["board"], "kind": "image", "variant": v,
+                          "hook_type": r["pin_variants"][v].get("hook_type")})
         if cfg["mix"]["video_share"] > 0 and r.get("video_script"):
-            items.append({"slug": r["slug"], "board": r["board"], "kind": "video", "variant": 0})
+            items.append({"slug": r["slug"], "board": r["board"], "kind": "video", "variant": 0,
+                          "hook_type": r["pin_variants"][0].get("hook_type")})
     return items
 
 
@@ -79,7 +81,25 @@ def _key(it):
     return f"{it['slug']}:{it['kind']}:{it['variant']}"
 
 
+EXPLORE = 0.25      # share of picks that ignore the learnings (so losers can recover)
+
+
+def choose_style(cfg, L, slot_id: str) -> tuple[str, int]:
+    """Layout + palette for an image pin: weighted by learnings, 25% exploratory."""
+    from learn import weight
+    from make_pin import LAYOUTS
+    rnd = random.Random(f"style{slot_id}")
+    pals = list(range(len(cfg["pin_design"]["palettes"])))
+    if not L or rnd.random() < EXPLORE:
+        return rnd.choice(LAYOUTS), rnd.choice(pals)
+    lw = [weight(L, "layout", x) for x in LAYOUTS]
+    pw = [weight(L, "palette", x) for x in pals]
+    return rnd.choices(LAYOUTS, weights=lw)[0], rnd.choices(pals, weights=pw)[0]
+
+
 def assign(cfg, q, recipes) -> int:
+    from learn import load as load_learnings, log2w, weight
+    L = load_learnings()
     created = {r["slug"]: r.get("created", "") for r in recipes}
     used = {_key(s["item"]) for s in q["slots"] if s.get("item")}
     pool = [it for it in all_items(cfg, recipes) if _key(it) not in used]
@@ -104,17 +124,26 @@ def assign(cfg, q, recipes) -> int:
         for s in assigned:
             per_slug[s["item"]["slug"]] = per_slug.get(s["item"]["slug"], 0) + 1
 
+        explore = random.Random(f"explore{slot['slot']}").random() < EXPLORE
+
         def score(it):
+            rotation = last_boards[::-1].index(it["board"]) * -1 if it["board"] in last_boards else -99
+            if L and not explore:   # winners (board, hook type, pin kind) jump the rotation a little
+                boost = weight(L, "board", it["board"]) * weight(L, "hook_type", it.get("hook_type")) \
+                    * weight(L, "kind", it["kind"])
+                rotation -= 2 * log2w(boost)
             return (
                 it["slug"] in recent_slugs,                        # avoid repeats within the gap
                 (it["kind"] == "video") != bool(want_video),       # keep the video share
-                last_boards[::-1].index(it["board"]) * -1 if it["board"] in last_boards else -99,  # rotate boards
+                rotation,                                          # rotate boards (+ learnings)
                 per_slug.get(it["slug"], 0),                       # spread across recipes
                 created.get(it["slug"], ""),                       # older recipes first
                 it["variant"],
             )
         best = min(pool, key=score)
         pool.remove(best)
+        if best["kind"] == "image":
+            best["layout"], best["palette"] = choose_style(cfg, L, slot["slot"])
         slot["item"] = best
         assigned.append(slot)
         filled += 1

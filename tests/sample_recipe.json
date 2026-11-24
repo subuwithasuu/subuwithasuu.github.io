@@ -12,17 +12,83 @@
   "cook_minutes": 15,
   "total_minutes": 25,
   "ingredients": [
-    {"qty": "8", "unit": "oz", "item": "spaghetti", "metric": "225 g", "note": ""},
-    {"qty": "1", "unit": "lb", "item": "large shrimp", "metric": "450 g", "note": "peeled and deveined"},
-    {"qty": "4", "unit": "tbsp", "item": "unsalted butter", "metric": "56 g", "note": "divided"},
-    {"qty": "1", "unit": "tbsp", "item": "olive oil", "metric": "15 ml", "note": ""},
-    {"qty": "5", "unit": "cloves", "item": "garlic", "metric": "", "note": "minced"},
-    {"qty": "1/4", "unit": "tsp", "item": "red pepper flakes", "metric": "", "note": "optional"},
-    {"qty": "1/2", "unit": "cup", "item": "reserved pasta water", "metric": "120 ml", "note": ""},
-    {"qty": "1", "unit": "tbsp", "item": "lemon juice", "metric": "15 ml", "note": "about 1/2 lemon"},
-    {"qty": "1/2", "unit": "cup", "item": "grated Parmesan", "metric": "45 g", "note": ""},
-    {"qty": "2", "unit": "tbsp", "item": "fresh parsley", "metric": "", "note": "chopped"},
-    {"qty": "3/4", "unit": "tsp", "item": "kosher salt", "metric": "", "note": "plus more for the pasta water"}
+    {
+      "qty": "8",
+      "unit": "oz",
+      "item": "spaghetti",
+      "metric": "225 g",
+      "note": ""
+    },
+    {
+      "qty": "1",
+      "unit": "lb",
+      "item": "large shrimp",
+      "metric": "450 g",
+      "note": "peeled and deveined"
+    },
+    {
+      "qty": "4",
+      "unit": "tbsp",
+      "item": "unsalted butter",
+      "metric": "56 g",
+      "note": "divided"
+    },
+    {
+      "qty": "1",
+      "unit": "tbsp",
+      "item": "olive oil",
+      "metric": "15 ml",
+      "note": ""
+    },
+    {
+      "qty": "5",
+      "unit": "cloves",
+      "item": "garlic",
+      "metric": "",
+      "note": "minced"
+    },
+    {
+      "qty": "1/4",
+      "unit": "tsp",
+      "item": "red pepper flakes",
+      "metric": "",
+      "note": "optional"
+    },
+    {
+      "qty": "1/2",
+      "unit": "cup",
+      "item": "reserved pasta water",
+      "metric": "120 ml",
+      "note": ""
+    },
+    {
+      "qty": "1",
+      "unit": "tbsp",
+      "item": "lemon juice",
+      "metric": "15 ml",
+      "note": "about 1/2 lemon"
+    },
+    {
+      "qty": "1/2",
+      "unit": "cup",
+      "item": "grated Parmesan",
+      "metric": "45 g",
+      "note": ""
+    },
+    {
+      "qty": "2",
+      "unit": "tbsp",
+      "item": "fresh parsley",
+      "metric": "",
+      "note": "chopped"
+    },
+    {
+      "qty": "3/4",
+      "unit": "tsp",
+      "item": "kosher salt",
+      "metric": "",
+      "note": "plus more for the pasta water"
+    }
   ],
   "steps": [
     "Bring a large pot of well-salted water to a boil. Cook the spaghetti 1 minute less than the package time, then reserve 1 cup of pasta water and drain.",
@@ -32,15 +98,56 @@
     "Add the drained spaghetti, 1/2 cup reserved pasta water and the lemon juice. Toss for 1 to 2 minutes until the sauce turns glossy and coats the pasta, adding a splash more pasta water if it looks dry.",
     "Return the shrimp to the pan, add the Parmesan and parsley, and toss for 30 seconds to warm through. Taste, adjust salt, and serve right away."
   ],
-  "tips": ["Shrimp cook fast: pull them as soon as they turn opaque, they finish in the sauce.", "Swap spaghetti for linguine or fettuccine."],
+  "tips": [
+    "Shrimp cook fast: pull them as soon as they turn opaque, they finish in the sauce.",
+    "Swap spaghetti for linguine or fettuccine."
+  ],
   "storage": "Keeps 2 days in an airtight container in the fridge. Reheat gently with a splash of water.",
-  "tools": ["12-inch skillet", "large pasta pot", "tongs"],
-  "keywords": ["garlic butter shrimp pasta", "shrimp pasta recipe", "quick shrimp dinner", "easy pasta dinner", "15 minute dinner"],
+  "tools": [
+    "12-inch skillet",
+    "large pasta pot",
+    "tongs"
+  ],
+  "keywords": [
+    "garlic butter shrimp pasta",
+    "shrimp pasta recipe",
+    "quick shrimp dinner",
+    "easy pasta dinner",
+    "15 minute dinner"
+  ],
   "pin_variants": [
-    {"title": "Garlic Butter Shrimp Pasta (25 Minutes!)", "description": "Juicy shrimp, spaghetti and a glossy garlic butter lemon sauce. This easy shrimp pasta is a weeknight dinner that tastes like date night. Save it for your next quick dinner!", "overlay": "Garlic Butter Shrimp Pasta", "subline": "32g Protein • 25 Min", "alt_text": "Spaghetti with shrimp in garlic butter sauce topped with parsley"},
-    {"title": "Easy Shrimp Pasta Dinner with Lemon & Parmesan", "description": "Only one skillet and a pot of pasta: shrimp seared in butter, tossed with garlic, lemon and Parmesan. A fast family dinner idea you will make on repeat.", "overlay": "Easy Lemon Garlic Shrimp Spaghetti", "subline": "One Skillet Dinner", "alt_text": "Bowl of lemon garlic shrimp spaghetti with Parmesan"},
-    {"title": "Restaurant-Style Garlic Shrimp Pasta at Home", "description": "Skip takeout. This garlic butter shrimp pasta uses simple pantry ingredients and is on the table in about 25 minutes. Get the full recipe and tips on the site.", "overlay": "Better Than Takeout Shrimp Pasta", "subline": "Date Night at Home", "alt_text": "Garlic butter shrimp pasta in a skillet"},
-    {"title": "Quick Shrimp Spaghetti for Busy Weeknights", "description": "A budget-friendly shrimp pasta with garlic, butter and a little chili heat. Easy enough for beginners, good enough for guests. Tap for the recipe.", "overlay": "Quick Weeknight Shrimp Pasta", "subline": "Beginner Friendly", "alt_text": "Close-up of shrimp spaghetti with chili flakes"}
+    {
+      "title": "Garlic Butter Shrimp Pasta (25 Minutes!)",
+      "description": "Juicy shrimp, spaghetti and a glossy garlic butter lemon sauce. This easy shrimp pasta is a weeknight dinner that tastes like date night. Save it for your next quick dinner!",
+      "overlay": "Garlic Butter Shrimp Pasta",
+      "subline": "Ready in 25 Minutes",
+      "alt_text": "Spaghetti with shrimp in garlic butter sauce topped with parsley",
+      "hook_type": "number"
+    },
+    {
+      "title": "Easy Shrimp Pasta Dinner with Lemon & Parmesan",
+      "description": "Only one skillet and a pot of pasta: shrimp seared in butter, tossed with garlic, lemon and Parmesan. A fast family dinner idea you will make on repeat.",
+      "overlay": "Easy Lemon Garlic Shrimp Spaghetti",
+      "subline": "One Skillet Dinner",
+      "alt_text": "Bowl of lemon garlic shrimp spaghetti with Parmesan",
+      "hook_type": "outcome"
+    },
+    {
+      "title": "Restaurant-Style Garlic Shrimp Pasta at Home",
+      "description": "Skip takeout. This garlic butter shrimp pasta uses simple pantry ingredients and is on the table in about 25 minutes. Get the full recipe and tips on the site.",
+      "overlay": "Better Than Takeout Shrimp Pasta",
+      "subline": "Date Night at Home",
+      "alt_text": "Garlic butter shrimp pasta in a skillet",
+      "hook_type": "contrarian"
+    },
+    {
+      "title": "Quick Shrimp Spaghetti for Busy Weeknights",
+      "description": "A budget-friendly shrimp pasta with garlic, butter and a little chili heat. Easy enough for beginners, good enough for guests. Tap for the recipe.",
+      "overlay": "25-Minute Shrimp Spaghetti",
+      "subline": "Beginner Friendly",
+      "alt_text": "Close-up of shrimp spaghetti with chili flakes",
+      "hook_type": "speed"
+    }
   ],
   "video_script": {
     "hook": "Garlic butter shrimp pasta with 32 grams of protein, in twenty-five minutes.",
@@ -53,12 +160,47 @@
     ],
     "outro": "Get the full recipe on Easy Protein Kitchen."
   },
-  "photo_queries": ["garlic shrimp pasta", "shrimp spaghetti", "shrimp pasta"],
-  "must_match": ["shrimp", "pasta", "spaghetti"],
+  "photo_queries": [
+    "garlic shrimp pasta",
+    "shrimp spaghetti",
+    "shrimp pasta"
+  ],
+  "must_match": [
+    "shrimp",
+    "pasta",
+    "spaghetti"
+  ],
   "photos": [
-    {"id": 1, "local": "tests/fixtures/photo1.jpg", "alt": "test", "photographer": "Test", "photographer_url": "#", "pexels_url": "#", "src": "", "web": "https://images.pexels.com/photos/1279330/pexels-photo-1279330.jpeg"},
-    {"id": 2, "local": "tests/fixtures/photo2.jpg", "alt": "test", "photographer": "Test", "photographer_url": "#", "pexels_url": "#", "src": "", "web": "https://images.pexels.com/photos/1279330/pexels-photo-1279330.jpeg"},
-    {"id": 3, "local": "tests/fixtures/photo3.jpg", "alt": "test", "photographer": "Test", "photographer_url": "#", "pexels_url": "#", "src": "", "web": "https://images.pexels.com/photos/1279330/pexels-photo-1279330.jpeg"}
+    {
+      "id": 1,
+      "local": "tests/fixtures/photo1.jpg",
+      "alt": "test",
+      "photographer": "Test",
+      "photographer_url": "#",
+      "pexels_url": "#",
+      "src": "",
+      "web": "https://images.pexels.com/photos/1279330/pexels-photo-1279330.jpeg"
+    },
+    {
+      "id": 2,
+      "local": "tests/fixtures/photo2.jpg",
+      "alt": "test",
+      "photographer": "Test",
+      "photographer_url": "#",
+      "pexels_url": "#",
+      "src": "",
+      "web": "https://images.pexels.com/photos/1279330/pexels-photo-1279330.jpeg"
+    },
+    {
+      "id": 3,
+      "local": "tests/fixtures/photo3.jpg",
+      "alt": "test",
+      "photographer": "Test",
+      "photographer_url": "#",
+      "pexels_url": "#",
+      "src": "",
+      "web": "https://images.pexels.com/photos/1279330/pexels-photo-1279330.jpeg"
+    }
   ],
   "created": "2026-11-24"
 }

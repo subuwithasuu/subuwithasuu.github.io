@@ -27,15 +27,17 @@ from common import (RECIPES_DIR, REJECTED_FILE, load_config, load_recipes, log,
 from gemini import Gemini, GeminiError
 from validate import validate
 from nutrition import check_protein
+from hooks import check_hooks, prompt_rules
 import pexels
 from queue_plan import content_runway_days, load_queue
 
 
 def add_protein_sublines(r: dict) -> None:
-    """Half the pin designs lead with the verified protein number (the niche's #1 hook)."""
-    for i, v in enumerate(r.get("pin_variants", [])):
-        if i % 2 == 0:
-            v["subline"] = f"{r['protein_g']}g Protein • {r['total_minutes']} Min"
+    """The verified protein number now sits in the pin's badge, so sublines only need a
+    fallback when Gemini left one empty."""
+    for v in r.get("pin_variants", []):
+        if not v.get("subline", "").strip():
+            v["subline"] = f"Ready in {r['total_minutes']} Min"
 
 SYSTEM = (
     "You are a meticulous recipe developer and food-safety-aware test-kitchen editor. "
@@ -64,10 +66,11 @@ RECIPE_SCHEMA = """{
   "tools": ["named kitchen tools/equipment used, e.g. '12-inch skillet'"],
   "keywords": ["6-10 Pinterest search phrases people really type"],
   "pin_variants": [
-    {"title": "<=100 chars, keyword-first pin title",
-     "description": "<=450 chars, natural keyword-rich pin description ending with a soft call to action",
-     "overlay": "2-6 words for the image text box",
-     "subline": "<=5 words, e.g. 'Ready in 25 Minutes'",
+    {"hook_type": "one of the hook types listed in the rules, different for every variant",
+     "title": "<=100 chars, keyword-first pin title",
+     "description": "<=450 chars, natural keyword-rich pin description ending with a soft save cue",
+     "overlay": "3-7 word hook for the image, concrete food noun + a TRUE number when possible",
+     "subline": "<=5 words supporting the overlay, e.g. 'Ready in 25 Minutes'",
      "alt_text": "<=200 chars, describes the finished dish"}
   ],
   "video_script": {
@@ -115,9 +118,10 @@ Rules:
 - Poultry: state internal temperature 165°F (74°C). Ground meat: 160°F (71°C).
 - Oven temperatures in °F with °C in brackets.
 - total_minutes must be >= prep_minutes + cook_minutes.
-- Make exactly {cfg['mix']['pins_per_recipe']} pin_variants, each with a different angle
-  (speed, flavour, ease, occasion/budget) and different wording.
+- Make exactly {cfg['mix']['pins_per_recipe']} pin_variants, each with a different hook_type and wording.
 - No health, diet or medical claims.
+
+{prompt_rules()}
 
 Return ONLY JSON in this exact shape:
 {RECIPE_SCHEMA}"""
@@ -199,6 +203,9 @@ def make_one(gem: Gemini, cfg: dict, board: dict, title: str, used_photo_ids: se
     errors, warns = validate(r, board.get("max_minutes", cfg["content"]["max_total_time_minutes"]))
     errors += check_protein(r, cfg, board)
     add_protein_sublines(r)
+    h_err, h_warn = check_hooks(r)
+    errors += h_err
+    warns += h_warn
     for w in warns:
         log(f"  warn: {w}")
     if errors:
@@ -217,14 +224,17 @@ def make_one(gem: Gemini, cfg: dict, board: dict, title: str, used_photo_ids: se
 
 
 def pick_boards(cfg: dict, recipes: list[dict], count: int) -> list[dict]:
-    """Spread new recipes so the emptiest boards are filled first."""
+    """Fill the emptiest boards first, weighted by the feedback loop: a board whose
+    pins win (weight 1.6) gets ~1.6x the new recipes of an average board."""
+    from learn import load as load_learnings, weight
+    L = load_learnings()
     counts = {b["name"]: 0 for b in cfg["boards"]}
     for r in recipes:
         if r["board"] in counts:
             counts[r["board"]] += 1
     plan = []
     for _ in range(count):
-        name = min(counts, key=lambda k: (counts[k], random.random()))
+        name = min(counts, key=lambda k: (counts[k] / weight(L, "board", k), random.random()))
         counts[name] += 1
         plan.append(next(b for b in cfg["boards"] if b["name"] == name))
     return plan

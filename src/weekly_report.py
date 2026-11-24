@@ -8,8 +8,11 @@ import sys
 from datetime import datetime, timedelta
 from email.message import EmailMessage
 
-from common import POSTED_FILE, REJECTED_FILE, ROOT, load_config, load_recipes, log, now_utc, read_json
+from common import (POSTED_FILE, REJECTED_FILE, ROOT, load_config, load_recipes, log, now_utc, read_json,
+                    write_json)
 from queue_plan import content_runway_days, load_queue
+import learn
+from learn import METRICS_FILE
 
 
 def main() -> int:
@@ -24,20 +27,26 @@ def main() -> int:
     rejected = [r for r in read_json(REJECTED_FILE, []) if r["date"] >= week_ago.date().isoformat()]
 
     stats = []
+    metrics = read_json(METRICS_FILE, {})
     try:
         from pinterest import Pinterest
         api = Pinterest()
-        recent = [p for p in posted if datetime.fromisoformat(p["posted_at"]) >= now - timedelta(days=30)][-120:]
-        start = (now - timedelta(days=30)).date().isoformat()
+        # lifetime-to-date numbers for every pin from the last 85 days (API window is 90)
+        recent = [p for p in posted if datetime.fromisoformat(p["posted_at"]) >= now - timedelta(days=85)][-300:]
         end = now.date().isoformat()
         for p in recent:
             try:
+                start = p["posted_at"][:10]
                 m = api.pin_analytics(p["pin_id"], start, end, video=p["kind"] == "video")
-                stats.append({**p, **m})
+                metrics[p["pin_id"]] = {**m, "fetched": end}
+                if datetime.fromisoformat(p["posted_at"]) >= now - timedelta(days=30):
+                    stats.append({**p, **m})
             except Exception as e:      # analytics can lag for brand-new pins
                 log(f"analytics {p['pin_id']}: {e}")
+        write_json(METRICS_FILE, metrics)
     except Exception as e:
         log(f"no analytics: {e}")
+    learnings = learn.run(posted, metrics, now)
 
     def tot(k):
         return sum(int(s.get(k, 0) or 0) for s in stats)
@@ -60,6 +69,7 @@ def main() -> int:
         lines.append("")
     else:
         lines += ["_No analytics yet (new pins take 1-2 days to show data, or API access is still in Trial)._", ""]
+    lines += learn.report_lines(learnings, cfg)
     if failed:
         lines += ["## Failures", *[f"- `{s['slot']}` {s.get('item', {}).get('slug')}: {s.get('error', '')[:200]}" for s in failed], ""]
     if rejected:

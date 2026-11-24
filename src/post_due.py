@@ -108,7 +108,7 @@ def main() -> int:
                 import make_video
                 media = make_video.render_for_recipe(cfg, recipe)
             else:
-                media = make_pin.render_for_recipe(cfg, recipe, it["variant"])
+                media = make_pin.render_for_recipe(cfg, recipe, it["variant"], it.get("layout"), it.get("palette"))
             if dry:
                 log(f"[dry] {slot['slot']} {it['kind']} -> {media.name} | {v['title']}")
                 slot["dry_run_media"] = str(media.relative_to(BUILD.parent))
@@ -118,9 +118,16 @@ def main() -> int:
             pin = fn(boards[recipe["board"]], media, v["title"], v["description"], link,
                      v.get("alt_text") or recipe["title"])
             slot.update(status="posted", pin_id=pin["id"], posted_at=now_utc().isoformat())
+            d_layout, d_pal = make_pin.pin_style(cfg, recipe, it["variant"])
             posted_log.append({"pin_id": pin["id"], "slot": slot["slot"], "slug": it["slug"],
                                "kind": it["kind"], "variant": it["variant"], "board": recipe["board"],
-                               "title": v["title"], "posted_at": slot["posted_at"]})
+                               "title": v["title"], "posted_at": slot["posted_at"],
+                               # attributes the weekly feedback loop compares:
+                               "hook_type": v.get("hook_type"), "overlay": v.get("overlay"),
+                               "layout": (it.get("layout") or d_layout) if it["kind"] == "image" else "video",
+                               "palette": it.get("palette", d_pal) if it["kind"] == "image" else None,
+                               "category": recipe.get("category"), "protein_g": recipe.get("protein_g"),
+                               "total_minutes": recipe.get("total_minutes")})
             log(f"POSTED {slot['slot']} {it['kind']} pin {pin['id']} | {v['title']}")
             done += 1
         except Exception as e:                       # keep going; retry next run
