@@ -1,0 +1,1 @@
+<a class="card" href="{{ site.base_url }}/recipes/{{ x.slug }}/"><img src="{{ x.photos[0].web }}" alt="{{ x.title }}" loading="lazy"><div class="t">{{ x.title }}</div><div class="m">{% if x.protein_g %}{{ x.protein_g }}g protein &middot; {% endif %}{{ x.total_minutes }} min &middot; serves {{ x.servings }}</div></a>

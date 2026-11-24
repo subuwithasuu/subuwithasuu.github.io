@@ -1,0 +1,59 @@
+name: Content
+# Daily: writes + fact-checks recipes (Gemini free tier) only when needed:
+# builds the first library ~25 recipes/day, then tops up when unposted
+# content drops below 3 weeks. Commits them, then rebuilds the website.
+on:
+  schedule:
+    - cron: "0 2 * * *"        # daily 02:00 UTC
+  workflow_dispatch:
+    inputs:
+      mode:
+        description: "auto = only if needed; weekly = force recipes_per_week now"
+        type: choice
+        options: [auto, weekly]
+        default: auto
+
+concurrency:
+  group: repo-write
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 300
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+      - run: pip install -r requirements.txt
+      - name: Generate recipes
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          GEMINI_MODEL: ${{ vars.GEMINI_MODEL }}
+          PEXELS_API_KEY: ${{ secrets.PEXELS_API_KEY }}
+        run: |
+          if [ "${{ inputs.mode }}" = "weekly" ]; then
+            python src/gen_recipes.py || true
+          else
+            python src/gen_recipes.py --auto || true
+          fi
+      - name: Commit recipes
+        run: |
+          git config user.name "pin-bot"
+          git config user.email "pin-bot@users.noreply.github.com"
+          git add data
+          git diff --cached --quiet && exit 0
+          git commit -q -m "new recipes $(date -u +%F)"
+          git pull -q --rebase && git push -q
+
+  site:
+    needs: generate
+    uses: ./.github/workflows/pages.yml
+    secrets: inherit

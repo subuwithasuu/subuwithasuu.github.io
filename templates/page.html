@@ -1,0 +1,7 @@
+{% extends "base.html" %}
+{% block title %}{{ heading }} | {{ site.name }}{% endblock %}
+{% block canonical %}{{ url }}{% endblock %}
+{% block body %}
+<h1>{{ heading }}</h1>
+{{ content | safe }}
+{% endblock %}

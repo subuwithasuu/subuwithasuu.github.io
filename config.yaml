@@ -1,0 +1,117 @@
+# ---------------------------------------------------------------
+# Easy Protein Kitchen - Pinterest Autopilot
+# The ONE file you edit to change the project.
+# ---------------------------------------------------------------
+
+site:
+  name: "Easy Protein Kitchen"
+  tagline: "Quick high-protein meals that actually taste good."
+  # FINAL public address. Every pin links here, so it must never change after the
+  # first pin. post.yml refuses to post until the site really loads at this address.
+  base_url: "https://easyproteinkitchen.com"
+  custom_domain: "easyproteinkitchen.com"   # written to site/CNAME for GitHub Pages
+  # Plan A instead (no domain): base_url "https://subuwithasuu.github.io",
+  # custom_domain null, and name the repo subuwithasuu.github.io.
+  language: "en"
+  author: "Easy Protein Kitchen"
+  pin_label: "easyproteinkitchen.com"   # text printed on pins
+  pinterest_verify: null                # set via the PINTEREST_VERIFY repo variable
+
+github:
+  user: "subuwithasuu"                  # existing account
+  repo: "easy-protein-kitchen"
+
+niche:
+  description: "Quick, high-protein meals for people who train, diet or just want to stay full: food meets fitness"
+  audience: "US/UK adults 20-45 who go to the gym or track macros and want fast, tasty, high-protein home cooking"
+
+# The digital product (added later). While url is null, nothing is shown.
+product:
+  name: "30-Day High-Protein Meal Plan"
+  pitch: "30 days of high-protein breakfasts, lunches and dinners with shopping lists and macros."
+  url: null
+
+# Protein rules. Every recipe's protein is recalculated from its ingredients
+# (src/nutrition.py); a recipe that claims more than the ingredients give is rejected.
+protein:
+  min_per_serving: 25          # default for meals
+  max_overclaim_pct: 15        # claimed protein may exceed the ingredient math by at most this
+
+# 8 boards named after what people type into Pinterest search.
+boards:
+  - name: "High Protein Dinners"
+    description: "Easy high-protein dinner recipes with 30g+ protein per serving: chicken, beef, fish, tofu and more."
+    topics: ["high protein dinner", "protein pasta", "high protein bowls", "lean beef dinner", "salmon dinner"]
+  - name: "High Protein Breakfast"
+    description: "High-protein breakfast ideas: eggs, Greek yogurt, cottage cheese, protein oats and breakfast burritos."
+    topics: ["egg breakfast", "protein oats", "greek yogurt breakfast", "cottage cheese breakfast", "breakfast burrito"]
+    min_protein: 20
+  - name: "High Protein Meal Prep"
+    description: "High-protein meal prep for the week: make-ahead lunches and dinners that reheat well."
+    topics: ["chicken meal prep", "turkey meal prep", "protein bowls meal prep", "egg muffins", "burrito bowls"]
+  - name: "High Protein Vegetarian"
+    description: "Vegetarian high-protein meals with tofu, tempeh, lentils, beans, eggs, Greek yogurt and cheese."
+    topics: ["tofu", "lentils", "chickpeas", "tempeh", "cottage cheese", "edamame"]
+    vegetarian: true
+    min_protein: 20
+  - name: "High Protein Snacks"
+    description: "High-protein snacks and sweet treats: protein balls, yogurt bowls, cottage cheese snacks and more."
+    topics: ["protein balls", "protein snack", "greek yogurt snack", "cottage cheese snack", "egg snack"]
+    min_protein: 10
+  - name: "30 Minute High Protein Meals"
+    description: "Quick high-protein meals ready in 30 minutes or less."
+    topics: ["15 minute high protein", "quick chicken", "shrimp", "ground turkey skillet", "protein stir fry"]
+    max_minutes: 30
+  - name: "High Protein Chicken Recipes"
+    description: "High-protein chicken recipes: chicken breast, thighs, sheet pan, air fryer and skillet."
+    topics: ["chicken breast", "chicken thighs", "air fryer chicken", "sheet pan chicken", "chicken bowls"]
+  - name: "Budget High Protein Meals"
+    description: "Cheap high-protein meals using eggs, beans, lentils, chicken thighs, canned tuna and ground turkey."
+    topics: ["cheap protein meals", "canned tuna", "eggs and beans", "chicken thighs budget", "lentils"]
+
+schedule:
+  timezone: "America/New_York"       # US audience
+  start_date: null                    # null = the day of the first real post run
+  ramp_days: 24                       # phase 1: build the boards
+  ramp_pins_per_day: [10, 12]         # 10-12/day (random each day) -> ~30+ pins per board by day 24
+  steady_pins_per_day: 4              # phase 2: 3-5/day
+  total_days: 105                     # ~3.5 months
+  windows: ["07:00-09:30", "11:30-13:30", "17:00-21:30"]
+  max_posts_per_run: 4                # cap per hourly run
+
+mix:
+  video_share: 0.25
+  pins_per_recipe: 4
+  same_recipe_gap_days: 5
+
+content:
+  initial_recipes: 60                 # first library (Gemini free-tier friendly)
+  recipes_per_week: 12
+  min_runway_days: 21                 # daily job writes more when unposted content < 3 weeks
+  max_total_time_minutes: 45
+  units: "us"
+
+gemini:
+  model: "gemini-2.5-flash"
+  fallback_models: ["gemini-2.5-flash-lite", "gemini-2.0-flash"]
+
+pin_design:
+  width: 1000
+  height: 1500
+  palettes:
+    - {box: "#FFFFFF", text: "#1E2A32", accent: "#E4572E", band: "#FFFFFF"}
+    - {box: "#14213D", text: "#FFFFFF", accent: "#FCA311", band: "#14213D"}
+    - {box: "#F4F9F4", text: "#1B3A2B", accent: "#2E933C", band: "#F4F9F4"}
+    - {box: "#E4572E", text: "#FFFFFF", accent: "#FFE8D6", band: "#E4572E"}
+    - {box: "#FFF8E7", text: "#2D2A32", accent: "#3A86FF", band: "#FFF8E7"}
+
+video:
+  width: 1080
+  height: 1920
+  fps: 30
+  voice: "af_heart"
+  speed: 1.05
+  max_steps_shown: 6
+
+report:
+  weekday: "monday"

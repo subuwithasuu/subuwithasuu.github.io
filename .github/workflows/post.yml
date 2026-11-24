@@ -1,0 +1,68 @@
+name: Post due pins
+# Runs every hour; posts whatever the calendar says is due. Your Mac can be off.
+on:
+  schedule:
+    - cron: "17 * * * *"
+  workflow_dispatch:
+    inputs:
+      dry_run:
+        description: "Render only, do not post"
+        type: boolean
+        default: false
+
+concurrency:
+  group: repo-write
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+
+jobs:
+  post:
+    runs-on: ubuntu-latest
+    timeout-minutes: 40
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+      - run: sudo apt-get update -qq && sudo apt-get install -y -qq ffmpeg
+      - run: pip install -r requirements.txt
+      - name: Cache Kokoro voice model
+        uses: actions/cache@v4
+        with:
+          path: models
+          key: kokoro-v1.0
+      - run: ./scripts/fetch_assets.sh
+      - name: Post
+        env:
+          PINTEREST_APP_ID: ${{ secrets.PINTEREST_APP_ID }}
+          PINTEREST_APP_SECRET: ${{ secrets.PINTEREST_APP_SECRET }}
+          PINTEREST_REFRESH_TOKEN: ${{ secrets.PINTEREST_REFRESH_TOKEN }}
+          PINTEREST_ACCESS_TOKEN: ${{ secrets.PINTEREST_ACCESS_TOKEN }}
+          PINTEREST_API_BASE: ${{ vars.PINTEREST_API_BASE || 'https://api.pinterest.com/v5' }}
+          DRY_RUN: ${{ inputs.dry_run && '1' || vars.DRY_RUN || '0' }}
+          NEW_REFRESH_TOKEN_FILE: ${{ runner.temp }}/new_refresh_token
+        run: python src/post_due.py
+      - name: Save rotated Pinterest refresh token
+        if: always()
+        env:
+          GH_TOKEN: ${{ secrets.SECRETS_PAT }}
+        run: |
+          [ -s "$RUNNER_TEMP/new_refresh_token" ] || exit 0
+          if [ -n "$GH_TOKEN" ]; then
+            gh secret set PINTEREST_REFRESH_TOKEN --repo "$GITHUB_REPOSITORY" < "$RUNNER_TEMP/new_refresh_token"
+            echo "refresh token rotated and saved"
+          else
+            echo "::warning::Pinterest issued a new refresh token but SECRETS_PAT is not set, so it was not saved."
+          fi
+          rm -f "$RUNNER_TEMP/new_refresh_token"
+      - name: Commit state
+        run: |
+          git config user.name "pin-bot"
+          git config user.email "pin-bot@users.noreply.github.com"
+          git add data/state
+          git diff --cached --quiet && exit 0
+          git commit -q -m "posting state $(date -u +%FT%H:%MZ)"
+          git pull -q --rebase && git push -q

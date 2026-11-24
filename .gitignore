@@ -1,0 +1,9 @@
+.venv/
+__pycache__/
+build/
+site/
+models/
+report.md
+.env
+*.tmp
+.DS_Store

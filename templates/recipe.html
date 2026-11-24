@@ -1,0 +1,92 @@
+{% extends "base.html" %}
+{% block title %}{{ r.title }} | {{ site.name }}{% endblock %}
+{% block description %}{{ r.description }}{% endblock %}
+{% block canonical %}{{ url }}{% endblock %}
+{% block meta %}
+<meta property="og:type" content="article">
+<meta property="og:title" content="{{ r.title }}">
+<meta property="og:description" content="{{ r.description }}">
+<meta property="og:image" content="{{ hero.web }}">
+<meta property="og:url" content="{{ url }}">
+<meta property="og:site_name" content="{{ site.name }}">
+<script type="application/ld+json">{{ jsonld | safe }}</script>
+{% endblock %}
+{% block head %}
+<style>
+.hero{display:grid;grid-template-columns:1fr 1fr;gap:28px;align-items:start}
+.hero img{width:100%;border-radius:14px;aspect-ratio:4/5;object-fit:cover}
+.meta{display:flex;gap:10px;flex-wrap:wrap;margin:14px 0}
+.meta .pro{background:var(--accent);color:#fff;border-color:var(--accent)}
+.plan{border:2px solid var(--accent)}
+.meta span{background:#fff;border:1px solid var(--line);border-radius:999px;padding:5px 12px;font:600 13px Arial,sans-serif}
+.box{background:#fff;border:1px solid var(--line);border-radius:14px;padding:20px 24px;margin:26px 0}
+ul.ing{padding-left:20px} ul.ing li{margin:6px 0}
+ol.steps li{margin:10px 0}
+.small{font:13px Arial,sans-serif;color:var(--muted)}
+.tools li a{font-weight:700}
+.gallery{display:grid;grid-template-columns:repeat(3,1fr);gap:10px}
+.gallery img{width:100%;aspect-ratio:1;object-fit:cover;border-radius:10px}
+@media(max-width:760px){.hero{grid-template-columns:1fr}.gallery{grid-template-columns:repeat(2,1fr)}}
+</style>
+{% endblock %}
+{% block body %}
+<p class="small"><a href="{{ site.base_url }}/">Home</a> &rsaquo; <a href="{{ site.base_url }}/c/{{ board_slug }}/">{{ r.board }}</a></p>
+<div class="hero">
+  <img src="{{ hero.web }}" alt="{{ r.title }}" loading="eager">
+  <div>
+    <h1>{{ r.title }}</h1>
+    <p>{{ r.description }}</p>
+    <div class="meta">
+      {% if r.protein_g %}<span class="pro">{{ r.protein_g }}g protein / serving</span>{% endif %}
+      <span>Prep {{ r.prep_minutes }} min</span><span>Cook {{ r.cook_minutes }} min</span>
+      <span>Total {{ r.total_minutes }} min</span><span>Serves {{ r.servings }}</span>
+      {% if r.cuisine %}<span>{{ r.cuisine }}</span>{% endif %}
+    </div>
+    <p class="noprint"><a class="btn" href="#recipe">Jump to recipe</a>
+      <button class="btn" onclick="window.print()">Print</button>
+      <a class="btn" href="https://www.pinterest.com/pin/create/button/?url={{ url|urlencode }}&media={{ hero.web|urlencode }}&description={{ r.title|urlencode }}" target="_blank" rel="noopener">Save to Pinterest</a></p>
+  </div>
+</div>
+
+<div class="box" id="recipe">
+  <h2>Ingredients</h2>
+  <ul class="ing">
+  {% for i in r.ingredients %}<li><strong>{{ i.qty }} {{ i.unit }}</strong> {{ i.item }}{% if i.metric %} <span class="small">({{ i.metric }})</span>{% endif %}{% if i.note %}, <em>{{ i.note }}</em>{% endif %}</li>
+  {% endfor %}</ul>
+
+  <h2>Instructions</h2>
+  <ol class="steps">{% for s in r.steps %}<li>{{ s }}</li>{% endfor %}</ol>
+
+  {% if r.tips %}<h2>Tips</h2><ul>{% for t in r.tips %}<li>{{ t }}</li>{% endfor %}</ul>{% endif %}
+  {% if r.storage %}<h3>Storage</h3><p>{{ r.storage }}</p>{% endif %}
+  {% if r.protein_g %}<p class="small">Protein is a conservative estimate (about {{ r.protein_g }}g per serving) calculated from
+  USDA values for the main ingredients. Exact numbers depend on the brands you use.</p>{% endif %}
+</div>
+
+{% if product %}
+<div class="box plan noprint">
+  <h2>{{ product.name }}</h2>
+  <p>{{ product.pitch }}</p>
+  <a class="btn" href="{{ product.url }}" rel="noopener">Get the meal plan</a>
+</div>
+{% endif %}
+
+{% if tools %}
+<div class="box tools">
+  <h2>Tools &amp; ingredients we use</h2>
+  <ul>{% for t in tools %}<li>{% if t.url %}<a href="{{ t.url }}" rel="sponsored nofollow noopener" target="_blank">{{ t.name }}</a>{% else %}{{ t.name }}{% endif %}{% if t.note %} - {{ t.note }}{% endif %}</li>{% endfor %}</ul>
+</div>
+{% endif %}
+
+{% if gallery %}
+<h2>More photos</h2>
+<div class="gallery">{% for p in gallery %}<img src="{{ p.web }}" alt="{{ p.alt }}" loading="lazy">{% endfor %}</div>
+{% endif %}
+<p class="small">Photos: {% for p in r.photos %}<a href="{{ p.pexels_url }}" rel="nofollow">{{ p.photographer }}</a>{% if not loop.last %}, {% endif %}{% endfor %} on Pexels.
+Photos show the dish style and may differ slightly from your result.</p>
+
+{% if related %}
+<h2>You might also like</h2>
+<div class="grid">{% for x in related %}{% include "_card.html" %}{% endfor %}</div>
+{% endif %}
+{% endblock %}
