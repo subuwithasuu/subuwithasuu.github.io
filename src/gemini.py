@@ -23,9 +23,45 @@ class Gemini:
         if not self.key:
             raise GeminiError("GEMINI_API_KEY is not set")
         g = cfg["gemini"]
-        self.models = [g["model"], *g.get("fallback_models", [])]
+        wanted = [g["model"], *g.get("fallback_models", [])]
         self.min_gap = 7.0      # free tier is ~10 requests/minute; stay under it
         self._last = 0.0
+        # Google renames/retires models often. Ask which ones this key can use and
+        # keep only those, plus the newest available Flash models as fallbacks.
+        avail = self.available_models()
+        if avail:
+            keep = [m for m in wanted if m in avail]
+            self.models = list(dict.fromkeys(keep + rank_flash(avail)))[:4]
+            dropped = [m for m in wanted if m not in avail]
+            if dropped:
+                log(f"gemini: configured models not available any more: {dropped}")
+        else:
+            self.models = wanted
+        if not self.models:
+            raise GeminiError(f"no usable Gemini Flash model for this key; available: {sorted(avail)[:20]}")
+        log(f"gemini: using {self.models}")
+
+    def available_models(self) -> set[str]:
+        """Model ids this key can call with generateContent ('' set if the list call fails)."""
+        out, token = set(), None
+        try:
+            for _ in range(5):
+                r = requests.get("https://generativelanguage.googleapis.com/v1beta/models", timeout=30,
+                                 headers={"x-goog-api-key": self.key},
+                                 params={"pageSize": 200, **({"pageToken": token} if token else {})})
+                if r.status_code != 200:
+                    log(f"gemini: model list HTTP {r.status_code}")
+                    return out
+                d = r.json()
+                for m in d.get("models", []):
+                    if "generateContent" in m.get("supportedGenerationMethods", []):
+                        out.add(m["name"].removeprefix("models/"))
+                token = d.get("nextPageToken")
+                if not token:
+                    break
+        except requests.RequestException as e:
+            log(f"gemini: model list failed: {e}")
+        return out
 
     def _call(self, model: str, body: dict) -> dict:
         wait = self.min_gap - (time.time() - self._last)
@@ -78,6 +114,19 @@ class Gemini:
     def generate_json(self, prompt: str, **kw):
         text = self.generate(prompt, **kw)
         return extract_json(text)
+
+
+SKIP = re.compile(r"image|tts|audio|live|embed|vision|thinking|exp|learnlm|robotics|computer|8b", re.I)
+
+
+def rank_flash(avail: set[str]) -> list[str]:
+    """Newest stable Flash first, then -lite, then previews; text-only chat models only."""
+    def version(m):
+        v = re.search(r"gemini-(\d+(?:\.\d+)?)", m)
+        return float(v.group(1)) if v else 0.0
+    flash = [m for m in avail if m.startswith("gemini-") and "flash" in m and not SKIP.search(m)]
+    return sorted(flash, key=lambda m: ("preview" in m, -version(m), "lite" in m,
+                                         bool(re.search(r"-\d{3}$|-\d{2}-\d{4}", m)), m))
 
 
 def extract_json(text: str):

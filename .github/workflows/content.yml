@@ -41,9 +41,9 @@ jobs:
           PEXELS_API_KEY: ${{ secrets.PEXELS_API_KEY }}
         run: |
           if [ "${{ inputs.mode }}" = "weekly" ]; then
-            python src/gen_recipes.py || true
+            python src/gen_recipes.py || { echo "::error::recipe generation produced nothing - see log"; exit 1; }
           else
-            python src/gen_recipes.py --auto || true
+            python src/gen_recipes.py --auto || { echo "::error::recipe generation produced nothing - see log"; exit 1; }
           fi
       - name: Commit recipes
         run: |
