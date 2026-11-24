@@ -1,1 +1,10 @@
-<a class="card" href="{{ site.base_url }}/recipes/{{ x.slug }}/"><img src="{{ x.photos[0].web }}" alt="{{ x.title }}" loading="lazy"><div class="t">{{ x.title }}</div><div class="m">{% if x.protein_g %}{{ x.protein_g }}g protein &middot; {% endif %}{{ x.total_minutes }} min &middot; serves {{ x.servings }}</div></a>
+<a class="card" href="{{ site.base_url }}/recipes/{{ x.slug }}/" data-protein="{{ x.protein_g or 0 }}" data-minutes="{{ x.total_minutes }}" data-veg="{{ 1 if x.veg else 0 }}" data-text="{{ x.search_text }}">
+  <div class="ph">
+    <img src="{{ x.photos[0].web }}" alt="{{ x.title }}" loading="lazy" width="460" height="575">
+    {% if x.protein_g %}<span class="disc" aria-label="{{ x.protein_g }} grams of protein per serving"><span><b>{{ x.protein_g }}g</b><small>PROTEIN</small></span></span>{% endif %}
+  </div>
+  <div class="meta">
+    <h3>{{ x.title }}</h3>
+    <div class="facts">{{ x.total_minutes }} min, serves {{ x.servings }}{% if x.veg %}, vegetarian{% endif %}</div>
+  </div>
+</a>

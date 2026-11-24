@@ -1,0 +1,203 @@
+/* Easy Protein Kitchen
+   One loud thing: the protein number (Anton, plate orange, on navy discs).
+   Everything else quiet: Lato, white pages, navy chrome. */
+
+@font-face { font-family: "Anton"; src: url("fonts/Anton-Regular.woff2") format("woff2"); font-display: swap; }
+@font-face { font-family: "Lato"; src: url("fonts/Lato-Regular.woff2") format("woff2"); font-weight: 400; font-display: swap; }
+@font-face { font-family: "Lato"; src: url("fonts/Lato-Bold.woff2") format("woff2"); font-weight: 700; font-display: swap; }
+
+:root {
+  --iron: #14213D;        /* navy: hero, header, footer, discs */
+  --iron-2: #1E2F55;      /* raised navy */
+  --plate: #E4572E;       /* orange: protein numbers + primary actions only */
+  --plate-ink: #B8401C;   /* orange for text on white (AA contrast) */
+  --chalk: #FFFFFF;
+  --cream: #FFF8E7;       /* from the logo: badge text on navy only */
+  --steel: #5B6577;
+  --line: #E3E6EC;
+  --ink: #141824;
+  --r-photo: 18px;
+  --r-pill: 999px;
+  --pad: clamp(16px, 4vw, 40px);
+  --max: 1180px;
+}
+
+* { box-sizing: border-box; }
+[hidden] { display: none !important; }
+html { -webkit-text-size-adjust: 100%; }
+body { margin: 0; background: var(--chalk); color: var(--ink);
+  font: 400 17px/1.6 "Lato", system-ui, -apple-system, sans-serif; }
+img { max-width: 100%; display: block; }
+a { color: inherit; }
+:focus-visible { outline: 3px solid var(--plate); outline-offset: 3px; border-radius: 6px; }
+.wrap { max-width: var(--max); margin: 0 auto; padding: 0 var(--pad); }
+.sr { position: absolute; width: 1px; height: 1px; overflow: hidden; clip: rect(0 0 0 0); white-space: nowrap; }
+
+h1, h2, h3, .display { font-family: "Anton", Impact, sans-serif; font-weight: 400; line-height: 1.04; letter-spacing: .005em; margin: 0; }
+h1 { font-size: clamp(42px, 7vw, 84px); }
+h2 { font-size: clamp(28px, 4vw, 40px); }
+h3 { font-size: 22px; }
+
+/* ---------- header ---------- */
+.top { background: var(--iron); color: var(--chalk); position: sticky; top: 0; z-index: 20; }
+.top .wrap { display: flex; align-items: center; gap: 18px; height: 68px; }
+.brand { display: flex; align-items: center; gap: 10px; text-decoration: none; font: 400 22px/1 "Anton", sans-serif; letter-spacing: .01em; white-space: nowrap; }
+.brand img { width: 40px; height: 40px; border-radius: 50%; }
+.top nav { margin-left: auto; display: flex; gap: 22px; }
+.top nav a { text-decoration: none; font-weight: 700; font-size: 15px; opacity: .86; }
+.top nav a:hover { opacity: 1; color: var(--plate); }
+@media (max-width: 720px) { .top nav { display: none; } }
+
+/* ---------- hero (home) ---------- */
+.hero { background: var(--iron); color: var(--chalk); overflow: hidden; }
+.hero .wrap { display: grid; grid-template-columns: 1.05fr .95fr; gap: 40px; align-items: center; padding-top: 56px; padding-bottom: 72px; }
+.hero p.lede { font-size: 19px; color: #C9D1E3; max-width: 34ch; margin: 18px 0 28px; }
+.search { display: flex; background: var(--chalk); border-radius: var(--r-pill); padding: 6px; max-width: 460px; }
+.search input { flex: 1; border: 0; background: none; font: inherit; color: var(--ink); padding: 10px 16px; min-width: 0; }
+.search input:focus { outline: none; }
+.search:focus-within { box-shadow: 0 0 0 3px var(--plate); }
+.btn { display: inline-flex; align-items: center; gap: 8px; border: 0; cursor: pointer; text-decoration: none;
+  background: var(--plate); color: var(--chalk); font: 700 15px/1 "Lato", sans-serif; padding: 13px 20px; border-radius: var(--r-pill); }
+.btn:hover { background: #CF4823; }
+.btn.ghost { background: transparent; color: var(--iron); box-shadow: inset 0 0 0 2px var(--iron); }
+.btn.ghost:hover { background: var(--iron); color: var(--chalk); }
+
+/* the 3D plate stack: the one memorable moment */
+.stack { position: relative; height: 440px; perspective: 1400px; }
+.stack .plate-card { position: absolute; width: 54%; aspect-ratio: 4/5; border-radius: var(--r-photo); overflow: hidden;
+  background: var(--iron-2); box-shadow: 0 24px 48px rgba(4, 9, 22, .45), 0 0 0 3px rgba(255,255,255,.08);
+  transform-style: preserve-3d; text-decoration: none;
+  transition: transform .9s cubic-bezier(.2,.8,.2,1), left .9s cubic-bezier(.2,.8,.2,1), top .9s cubic-bezier(.2,.8,.2,1); }
+.stack .plate-card img { width: 100%; height: 100%; object-fit: cover; }
+.stack .plate-card:nth-child(1) { left: -4%; top: 64px; transform: rotateY(22deg) rotateZ(-9deg) translateZ(0); }
+.stack .plate-card:nth-child(2) { left: 23%; top: 0;    transform: rotateY(-3deg) rotateZ(1deg)  translateZ(70px); z-index: 2; }
+.stack .plate-card:nth-child(3) { left: 50%; top: 72px; transform: rotateY(-22deg) rotateZ(9deg) translateZ(10px); z-index: 1; }
+.stack.closed .plate-card { transform: rotateY(0) rotateZ(0) translateZ(0); left: 23%; top: 30px; }
+.stack .disc { position: absolute; left: 14px; bottom: 14px; transform: translateZ(50px); }
+.stack-tilt { transform-style: preserve-3d; height: 100%; transition: transform .25s ease-out; }
+
+/* protein disc (cards, hero, recipe page) */
+.disc { display: grid; place-items: center; width: 74px; height: 74px; border-radius: 50%; background: var(--iron); color: var(--plate);
+  box-shadow: 0 0 0 4px var(--chalk), 0 10px 24px rgba(4,9,22,.35); text-align: center; }
+.disc b { font: 400 30px/1 "Anton", sans-serif; display: block; }
+.disc small { font: 700 10px/1 "Lato", sans-serif; color: var(--cream); letter-spacing: .04em; display: block; margin-top: 3px; }
+.disc.big { width: 132px; height: 132px; box-shadow: 0 0 0 6px var(--chalk), 0 18px 40px rgba(4,9,22,.35); }
+.disc.big b { font-size: 58px; }
+.disc.big small { font-size: 13px; }
+
+/* ---------- boards: round photo plates ---------- */
+.boards { padding: 44px 0 8px; }
+.boards h2 { margin-bottom: 20px; }
+.board-row { display: flex; gap: 22px; overflow-x: auto; padding: 4px 2px 14px; scroll-snap-type: x mandatory; scrollbar-width: thin; }
+.board { flex: 0 0 auto; width: 118px; text-align: center; text-decoration: none; scroll-snap-align: start; }
+.board .ring { width: 104px; height: 104px; margin: 0 auto 10px; border-radius: 50%; overflow: hidden; background: var(--iron);
+  box-shadow: 0 0 0 4px var(--chalk), 0 0 0 7px var(--iron); display: grid; place-items: center; color: var(--plate);
+  font: 400 34px/1 "Anton", sans-serif; transition: transform .2s; }
+.board .ring img { width: 100%; height: 100%; object-fit: cover; }
+.board:hover .ring { transform: translateY(-4px); box-shadow: 0 0 0 4px var(--chalk), 0 0 0 7px var(--plate); }
+.board span { font-weight: 700; font-size: 14px; line-height: 1.3; display: block; }
+
+/* ---------- filters ---------- */
+.filters { display: flex; flex-wrap: wrap; gap: 10px; align-items: center; padding: 26px 0 22px; border-bottom: 1px solid var(--line); margin-bottom: 30px; }
+.filters .label { font-weight: 700; color: var(--steel); margin-right: 4px; }
+.chip { border: 2px solid var(--iron); background: var(--chalk); color: var(--iron); border-radius: var(--r-pill);
+  font: 700 14px/1 "Lato", sans-serif; padding: 9px 14px; cursor: pointer; }
+.chip[aria-pressed="true"] { background: var(--iron); color: var(--chalk); }
+.count { margin-left: auto; color: var(--steel); font-size: 14px; }
+
+/* ---------- recipe grid ---------- */
+.grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(230px, 1fr)); gap: 34px 26px; padding-bottom: 64px; }
+.card { text-decoration: none; display: block; perspective: 900px; }
+.card .ph { position: relative; aspect-ratio: 4/5; border-radius: var(--r-photo); transform-style: preserve-3d;
+  transition: transform .35s cubic-bezier(.2,.8,.2,1); background: #EEF0F4; }
+.card .ph img { width: 100%; height: 100%; object-fit: cover; border-radius: var(--r-photo); }
+.card .disc { position: absolute; left: 12px; bottom: -22px; transform: translateZ(40px); }
+.card .meta { padding: 32px 2px 0; }
+.card h3 { font: 700 18px/1.3 "Lato", sans-serif; margin: 0 0 6px; }
+.card .facts { color: var(--steel); font-size: 14px; }
+.card:hover h3 { color: var(--plate-ink); }
+.empty { padding: 40px 0 80px; max-width: 46ch; }
+.empty h2 { margin-bottom: 10px; }
+
+/* ---------- board page heading ---------- */
+.board-head { background: var(--iron); color: var(--chalk); padding: 46px 0 40px; }
+.board-head p { color: #C9D1E3; max-width: 56ch; margin: 12px 0 0; }
+.crumbs { font-size: 14px; color: #C9D1E3; margin-bottom: 14px; }
+.crumbs a { color: #C9D1E3; }
+
+/* ---------- recipe page ---------- */
+.r-hero { background: var(--iron); color: var(--chalk); padding: 40px 0 64px; }
+.r-hero .wrap { display: grid; grid-template-columns: .95fr 1.05fr; gap: 48px; align-items: center; }
+.r-photo { position: relative; perspective: 1200px; }
+.r-photo .frame { border-radius: 22px; overflow: hidden; aspect-ratio: 4/5; transform: rotateY(-8deg) rotateZ(-1.5deg);
+  box-shadow: 30px 34px 0 -10px var(--plate), 0 40px 70px rgba(4,9,22,.55); transform-style: preserve-3d; }
+.r-photo .frame img { width: 100%; height: 100%; object-fit: cover; }
+.r-photo .disc { position: absolute; right: -18px; top: 26px; }
+.r-hero p.desc { color: #D6DCEA; font-size: 19px; max-width: 46ch; margin: 18px 0 24px; }
+.facts-row { display: flex; flex-wrap: wrap; gap: 26px; margin: 0 0 28px; padding: 0; list-style: none; }
+.facts-row li { display: flex; flex-direction: column; }
+.facts-row b { font: 400 30px/1 "Anton", sans-serif; }
+.facts-row span { font-size: 14px; color: #C9D1E3; }
+.r-actions { display: flex; flex-wrap: wrap; gap: 12px; }
+.r-actions .btn.ghost { color: var(--chalk); box-shadow: inset 0 0 0 2px var(--chalk); }
+.r-actions .btn.ghost:hover { background: var(--chalk); color: var(--iron); }
+
+.r-body { display: grid; grid-template-columns: 360px 1fr; gap: 56px; padding: 56px 0 30px; align-items: start; }
+.ingredients { position: sticky; top: 92px; border: 2px solid var(--iron); border-radius: 20px; padding: 24px 24px 18px; }
+.ingredients h2, .method h2 { margin-bottom: 14px; }
+.ing { list-style: none; margin: 0; padding: 0; }
+.ing li { border-top: 1px solid var(--line); }
+.ing label { display: flex; gap: 12px; padding: 11px 0; cursor: pointer; line-height: 1.45; }
+.ing input { width: 20px; height: 20px; margin-top: 2px; accent-color: var(--plate); flex: none; }
+.ing input:checked + span { color: var(--steel); text-decoration: line-through; text-decoration-color: var(--plate); }
+.ing .metric { color: var(--steel); font-size: 14px; }
+.method ol { list-style: none; counter-reset: step; padding: 0; margin: 0; }
+.method li { counter-increment: step; display: grid; grid-template-columns: 52px 1fr; gap: 16px; padding: 0 0 26px; }
+.method li::before { content: counter(step); font: 400 38px/1 "Anton", sans-serif; color: var(--plate-ink); }
+.note { background: #F4F6FA; border-radius: 14px; padding: 18px 20px; margin: 10px 0 26px; font-size: 15px; color: #3C4456; }
+.tips h3 { font: 700 18px/1.3 "Lato", sans-serif; margin: 22px 0 8px; }
+.extras { padding: 10px 0 40px; }
+.tools ul { padding-left: 20px; }
+.plan-box { background: var(--iron); color: var(--chalk); border-radius: 20px; padding: 28px; display: flex; gap: 24px; align-items: center; flex-wrap: wrap; margin: 20px 0; }
+.plan-box p { margin: 6px 0 0; color: #C9D1E3; max-width: 52ch; }
+.credits { font-size: 13px; color: var(--steel); }
+.related h2 { margin: 30px 0 24px; }
+
+/* ---------- plain pages ---------- */
+.page { max-width: 760px; padding: 50px 0 70px; }
+.page h1 { font-size: clamp(36px, 5vw, 56px); margin-bottom: 20px; }
+
+/* ---------- footer ---------- */
+footer { background: var(--iron); color: #C9D1E3; padding: 40px 0; font-size: 14px; }
+footer .wrap { display: flex; flex-wrap: wrap; gap: 14px 28px; justify-content: space-between; }
+footer a { color: var(--chalk); }
+
+/* ---------- responsive ---------- */
+@media (max-width: 900px) {
+  .hero .wrap, .r-hero .wrap { grid-template-columns: 1fr; }
+  .stack { height: 340px; max-width: 460px; }
+  .r-body { grid-template-columns: 1fr; gap: 36px; }
+  .ingredients { position: static; }
+  .r-photo { max-width: 420px; }
+  .r-photo .disc { right: 8px; }
+}
+@media (max-width: 520px) {
+  .grid { grid-template-columns: repeat(2, 1fr); gap: 28px 14px; }
+  .card h3 { font-size: 15px; }
+  .card .disc { width: 58px; height: 58px; bottom: -18px; left: 8px; }
+  .card .disc b { font-size: 23px; }
+  .card .disc small { font-size: 8px; }
+  .card .meta { padding-top: 26px; }
+  .stack { height: 300px; }
+  .facts-row { gap: 18px; }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  *, *::before, *::after { transition: none !important; animation: none !important; }
+}
+@media print {
+  .top, footer, .r-actions, .related, .plan-box, .filters, .r-photo { display: none !important; }
+  .r-hero { background: none; color: #000; padding: 0; }
+  .r-body { grid-template-columns: 1fr; }
+  .ingredients { position: static; }
+}

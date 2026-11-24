@@ -15,6 +15,16 @@ import yaml
 from jinja2 import Environment, FileSystemLoader, select_autoescape
 
 from common import DATA, ROOT, SITE_OUT, board_slug, load_config, load_recipes, log, recipe_url
+from nutrition import MEAT
+
+
+def asset_version() -> str:
+    """Cache-busting tag: changes whenever the CSS/JS change."""
+    import hashlib
+    h = hashlib.sha1()
+    for f in sorted((ROOT / "assets").glob("site.*")):
+        h.update(f.read_bytes())
+    return h.hexdigest()[:8]
 
 
 def ingredient_line(i: dict) -> str:
@@ -90,13 +100,27 @@ def main() -> None:
     aff = aff or {}
 
     env = Environment(loader=FileSystemLoader(ROOT / "templates"), autoescape=select_autoescape(["html"]))
-    boards = [{"name": b["name"], "slug": board_slug(b["name"]), "description": b["description"]} for b in cfg["boards"]]
+    veg_boards = {b["name"] for b in cfg["boards"] if b.get("vegetarian")}
+    for r in recipes:                          # fields the cards/filters need
+        items_txt = " ".join(str(i.get("item", "")) for i in r.get("ingredients", []))
+        r["veg"] = r["board"] in veg_boards or not MEAT.search(items_txt)
+        r["search_text"] = " ".join([r["title"], r["board"], " ".join(r.get("keywords", [])), items_txt]).lower()
+    boards = []
+    for b in cfg["boards"]:
+        first = next((r for r in recipes if r["board"] == b["name"] and r.get("photos")), None)
+        boards.append({"name": b["name"], "slug": board_slug(b["name"]), "description": b["description"],
+                       "image": first["photos"][0]["web"] if first else None})
+    featured = sorted([r for r in recipes if r.get("photos")], key=lambda r: -(r.get("protein_g") or 0))[:3]
+    if len(featured) == 3:                 # middle card is the front one: put the top recipe there
+        featured = [featured[1], featured[0], featured[2]]
     product = cfg.get("product") if (cfg.get("product") or {}).get("url") else None
-    common = {"site": site, "boards": boards, "year": date.today().year, "product": product}
+    common = {"site": site, "boards": boards, "year": date.today().year, "product": product,
+              "asset_v": asset_version()}
 
     if SITE_OUT.exists():
         shutil.rmtree(SITE_OUT)
     SITE_OUT.mkdir(parents=True)
+    shutil.copytree(ROOT / "assets", SITE_OUT / "assets")
     urls = []
 
     def write(rel: str, html: str):
@@ -122,9 +146,8 @@ def main() -> None:
             **common, heading=b["name"], intro=b["description"], items=items, url=url))
         urls.append((url, None))
 
-    write("index.html", env.get_template("list.html").render(
-        **common, heading=site["name"], intro=site["tagline"] + " " + cfg["niche"]["description"] + ".",
-        items=recipes, url=f"{base}/"))
+    write("index.html", env.get_template("home.html").render(
+        **common, items=recipes, featured=featured, url=f"{base}/"))
     urls.append((f"{base}/", None))
     today = date.today().isoformat()
     for rel, heading, text in (("privacy", "Privacy policy", PRIVACY), ("about", "About", ABOUT)):

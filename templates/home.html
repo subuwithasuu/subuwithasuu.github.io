@@ -1,0 +1,51 @@
+{% extends "base.html" %}
+{% block title %}{{ site.name }}: quick high-protein recipes{% endblock %}
+{% block description %}{{ site.tagline }} Every recipe shows protein per serving, checked against the ingredients.{% endblock %}
+{% block meta %}<meta property="og:image" content="{{ site.base_url }}/assets/logo.png">{% endblock %}
+{% block body %}
+<section class="hero">
+  <div class="wrap">
+    <div>
+      <h1>Quick meals with serious protein.</h1>
+      <p class="lede">Every recipe shows its protein per serving, worked out from the actual ingredients. Most are on the table in 30 minutes.</p>
+      <form class="search" action="{{ site.base_url }}/#recipes" method="get" role="search">
+        <label class="sr" for="q">Search recipes</label>
+        <input id="q" name="q" type="search" placeholder="Try chicken, eggs, tofu…" data-search autocomplete="off">
+        <button class="btn" type="submit">Search</button>
+      </form>
+    </div>
+    <div class="stack" aria-hidden="true">
+      <div class="stack-tilt">
+      {% for x in featured %}
+        <a class="plate-card" href="{{ site.base_url }}/recipes/{{ x.slug }}/" tabindex="-1">
+          <img src="{{ x.photos[0].web }}" alt="" width="420" height="525">
+          {% if x.protein_g %}<span class="disc"><span><b>{{ x.protein_g }}g</b><small>PROTEIN</small></span></span>{% endif %}
+        </a>
+      {% else %}
+        {% for i in range(3) %}<span class="plate-card"><img src="{{ site.base_url }}/assets/logo.png" alt=""></span>{% endfor %}
+      {% endfor %}
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class="boards" id="boards">
+  <div class="wrap">
+    <h2>Pick a category</h2>
+    <div class="board-row">
+      {% for b in boards %}
+      <a class="board" href="{{ site.base_url }}/c/{{ b.slug }}/">
+        <span class="ring">{% if b.image %}<img src="{{ b.image }}" alt="" loading="lazy">{% else %}{{ b.name[0] }}{% endif %}</span>
+        <span>{{ b.name }}</span>
+      </a>
+      {% endfor %}
+    </div>
+  </div>
+</section>
+
+<section id="recipes">
+  <div class="wrap">
+    {% include "_grid.html" %}
+  </div>
+</section>
+{% endblock %}

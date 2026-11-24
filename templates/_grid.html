@@ -1,0 +1,17 @@
+<div class="filters" role="group" aria-label="Filter recipes">
+  <span class="label">Protein</span>
+  <button class="chip" type="button" data-group="protein" data-value="20" aria-pressed="false">20g+</button>
+  <button class="chip" type="button" data-group="protein" data-value="30" aria-pressed="false">30g+</button>
+  <button class="chip" type="button" data-group="protein" data-value="40" aria-pressed="false">40g+</button>
+  <span class="label">Time</span>
+  <button class="chip" type="button" data-group="time" data-value="15" aria-pressed="false">15 min</button>
+  <button class="chip" type="button" data-group="time" data-value="30" aria-pressed="false">30 min</button>
+  <button class="chip" type="button" data-group="veg" data-value="1" aria-pressed="false">Vegetarian</button>
+  <span class="count" aria-live="polite">{{ items|length }} recipes</span>
+</div>
+{% if items %}
+<div class="grid" data-grid>{% for x in items %}{% include "_card.html" %}{% endfor %}</div>
+<div class="empty" data-none hidden><h2>No recipe matches all of that</h2><p>Remove a filter or try a different word, like chicken, eggs or tofu.</p></div>
+{% else %}
+<div class="empty"><h2>The first recipes are cooking</h2><p>New high-protein recipes are added every day. Each one is checked against published recipes and its protein is recalculated from the ingredients before it appears here.</p></div>
+{% endif %}

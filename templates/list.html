@@ -3,9 +3,12 @@
 {% block description %}{{ intro }}{% endblock %}
 {% block canonical %}{{ url }}{% endblock %}
 {% block body %}
-<h1>{{ heading }}</h1>
-<p>{{ intro }}</p>
-{% if items %}
-<div class="grid">{% for x in items %}{% include "_card.html" %}{% endfor %}</div>
-{% else %}<p>New recipes are on the way.</p>{% endif %}
+<section class="board-head">
+  <div class="wrap">
+    <div class="crumbs"><a href="{{ site.base_url }}/">Home</a> / {{ heading }}</div>
+    <h1>{{ heading }}</h1>
+    <p>{{ intro }}</p>
+  </div>
+</section>
+<div class="wrap">{% include "_grid.html" %}</div>
 {% endblock %}

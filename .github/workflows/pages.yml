@@ -2,7 +2,7 @@ name: Build & deploy site
 on:
   push:
     branches: [main]
-    paths: ["data/recipes/**", "data/affiliate.yaml", "templates/**", "src/build_site.py", "config.yaml"]
+    paths: ["data/recipes/**", "data/affiliate.yaml", "templates/**", "assets/**", "src/build_site.py", "config.yaml"]
   workflow_dispatch:
   workflow_call:
 
