@@ -6,20 +6,24 @@
 site:
   name: "Easy Protein Kitchen"
   tagline: "Quick high-protein meals that actually taste good."
-  # FINAL public address. Every pin links here, so it must never change after the
-  # first pin. post.yml refuses to post until the site really loads at this address.
-  base_url: "https://easyproteinkitchen.com"
-  custom_domain: "easyproteinkitchen.com"   # written to site/CNAME for GitHub Pages
-  # Plan A instead (no domain): base_url "https://subuwithasuu.github.io",
-  # custom_domain null, and name the repo subuwithasuu.github.io.
+  # Public address every pin links to. Free GitHub user site for the test phase.
+  # post.yml refuses to post until the site really loads at this address.
+  #
+  # MOVING TO A REAL DOMAIN LATER (e.g. easyproteinkitchen.com) - old pins keep working:
+  #   1. buy the domain, add GitHub's DNS records, set it as the repo's Pages custom domain
+  #      -> GitHub then 301-redirects every subuwithasuu.github.io/... link to the new domain
+  #   2. set base_url + custom_domain below to the new domain, re-claim it on Pinterest
+  #   Never delete or rename the subuwithasuu.github.io repo afterwards: it IS the redirect.
+  base_url: "https://subuwithasuu.github.io"
+  custom_domain: null                       # e.g. "easyproteinkitchen.com" later
   language: "en"
   author: "Easy Protein Kitchen"
-  pin_label: "easyproteinkitchen.com"   # text printed on pins
+  pin_label: "Easy Protein Kitchen"     # text printed on pins (brand, not the long github.io URL)
   pinterest_verify: null                # set via the PINTEREST_VERIFY repo variable
 
 github:
   user: "subuwithasuu"                  # existing account
-  repo: "easy-protein-kitchen"
+  repo: "subuwithasuu.github.io"         # user-site repo = site at the domain root
 
 niche:
   description: "Quick, high-protein meals for people who train, diet or just want to stay full: food meets fitness"

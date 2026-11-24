@@ -84,8 +84,8 @@ check("guard passes when site is live at final address",
       guard_with(FakeResp(f"{base_url}/privacy/", 200, f"<h1>{name}</h1>")) is None)
 check("guard blocks when domain unreachable",
       guard_with(requests.ConnectionError("dns")) is not None)
-check("guard blocks redirect to github.io",
-      guard_with(FakeResp("https://subuwithasuu.github.io/easy-protein-kitchen/privacy/", 200, name)) is not None)
+check("guard blocks redirect to another site",
+      guard_with(FakeResp("https://www.namecheap.com/parked/", 200, name)) is not None)
 check("guard blocks 404 (DNS points at someone else / not deployed)",
       guard_with(FakeResp(f"{base_url}/privacy/", 404, "")) is not None)
 check("guard blocks a parked-domain page", guard_with(FakeResp(f"{base_url}/privacy/", 200, "This domain is for sale")) is not None)

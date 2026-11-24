@@ -3,13 +3,16 @@
 Everything in this folder is built and tested offline. What's left needs **your** accounts.
 You create every account and type every password and key yourself; Claude never does.
 
-- **GitHub:** your existing account `subuwithasuu`, repo **`easy-protein-kitchen`** (public)
-- **Website, the final address from day 1:** **https://easyproteinkitchen.com**
+- **GitHub:** your existing account `subuwithasuu`, repo **`subuwithasuu.github.io`** (public)
+- **Website (free, test phase):** **https://subuwithasuu.github.io**
 
-Every pin links to `easyproteinkitchen.com/recipes/...`. That address lives in exactly one place
+Every pin links to `subuwithasuu.github.io/recipes/...`. That address lives in exactly one place
 (`site.base_url` in `config.yaml`). The posting job **refuses to post** unless
-`https://easyproteinkitchen.com/privacy/` loads over HTTPS with no redirect to another address. So no
-pin can ever go out pointing at a github.io link or a dead domain.
+`https://subuwithasuu.github.io/privacy/` loads over HTTPS with no redirect to another site.
+
+**Moving to your own domain later is safe:** when you add a custom domain to this repo, GitHub
+301-redirects every old `subuwithasuu.github.io/...` link to it, so pins already posted keep
+working. See "Moving to your own domain" at the end. Never delete or rename this repo afterwards.
 
 ## How it runs (your Mac can stay off)
 
@@ -17,7 +20,7 @@ pin can ever go out pointing at a github.io link or a dead domain.
 |---|---|---|
 | `content.yml` | daily | Builds the first 60-recipe library (~25/day), then writes 12 more whenever unposted content drops below 3 weeks. Each recipe: Gemini writes → Gemini + Google Search fact-checks against published recipes → hard rules → **protein recalculated from the ingredients** → real Unsplash photos. |
 | `post.yml` | hourly | Checks the live site, then posts whatever is due (image pins + narrated video pins) |
-| `pages.yml` | after new content | Builds and deploys easyproteinkitchen.com |
+| `pages.yml` | after new content | Builds and deploys subuwithasuu.github.io |
 | `report.yml` | Mondays 09:00 IST | Weekly summary as a GitHub Issue (GitHub emails it to you) |
 
 Calendar: days 1-24 = 10-12 pins/day (each of the 8 boards reaches ~32 pins), then 3-5/day,
@@ -34,55 +37,21 @@ breakfast and vegetarian 20g+, snacks 10g+.
 
 Each step is something only you can do, followed by what Claude does before the next one.
 
-### Step 1: GitHub repo (5 min)
-1. Signed in as **subuwithasuu**, create a **public**, **empty** repo named **`easy-protein-kitchen`**
-   (no README, no licence). It has to be public: free GitHub Pages only serves public repos.
-2. On your Mac, install the GitHub CLI and log in. The login happens in your browser:
-   ```bash
-   brew install gh
-   ```
-   ```bash
-   gh auth login
-   ```
+### Step 1: GitHub repo - DONE
+Repo `subuwithasuu/subuwithasuu.github.io` exists, code is pushed, GitHub Pages is on,
+`DRY_RUN=1` and `PINTEREST_API_BASE` (sandbox) are set, GitHub CLI is logged in.
 
-**Then Claude:** pushes the code, turns on GitHub Pages (source: GitHub Actions) and sets the repo
-variables `DRY_RUN=1` and `PINTEREST_API_BASE` (sandbox).
-
-### Step 2: Domain (15 min + up to a few hours for DNS)
-1. Buy **easyproteinkitchen.com** (about $10-12/year at Cloudflare Registrar, Porkbun or Namecheap).
-2. In the registrar's DNS settings, add these records (if you use Cloudflare, set each to
-   **DNS only / grey cloud**, or GitHub can't issue the HTTPS certificate):
-
-   | Type | Name | Value |
-   |---|---|---|
-   | A | @ | 185.199.108.153 |
-   | A | @ | 185.199.109.153 |
-   | A | @ | 185.199.110.153 |
-   | A | @ | 185.199.111.153 |
-   | AAAA | @ | 2606:50c0:8000::153 |
-   | AAAA | @ | 2606:50c0:8001::153 |
-   | AAAA | @ | 2606:50c0:8002::153 |
-   | AAAA | @ | 2606:50c0:8003::153 |
-   | CNAME | www | subuwithasuu.github.io |
-
-3. Protect the domain from takeover: github.com → your **profile** Settings → Pages →
-   **Add a domain** → `easyproteinkitchen.com`. GitHub shows one TXT record; add it at the
-   registrar, then click **Verify**.
-
-**Then Claude:** sets `easyproteinkitchen.com` as the repo's custom domain, waits for the HTTPS
-certificate, turns on **Enforce HTTPS**, and checks that both `http://` and `www.` redirect to
-`https://easyproteinkitchen.com`. Claude also checks that `https://easyproteinkitchen.com/privacy/`
-passes the same live-site check the poster uses.
+### Step 2: Domain - SKIPPED for now (free github.io address; see the end of this guide)
 
 ### Step 3: Gemini + Unsplash keys (10 min)
 1. Gemini key: aistudio.google.com/apikey
 2. Unsplash key: unsplash.com/developers → Register as a developer → New Application → "Access Key" (Pexels paused new API keys in Nov 2026)
 3. Save them as secrets from your own Terminal. Each command asks for the value, and the value stays hidden:
    ```bash
-   gh secret set GEMINI_API_KEY --repo subuwithasuu/easy-protein-kitchen
+   gh secret set GEMINI_API_KEY --repo subuwithasuu/subuwithasuu.github.io
    ```
    ```bash
-   gh secret set UNSPLASH_ACCESS_KEY --repo subuwithasuu/easy-protein-kitchen
+   gh secret set UNSPLASH_ACCESS_KEY --repo subuwithasuu/subuwithasuu.github.io
    ```
 
 **Then Claude:** starts the content workflow and watches it. Claude reads the first batch of recipes,
@@ -97,19 +66,19 @@ and sends you sample pins and a recipe page to approve the look. The 60-recipe l
    while API access is pending (the bot reuses boards with matching names):
    High Protein Dinners · High Protein Breakfast · High Protein Meal Prep · High Protein Vegetarian ·
    High Protein Snacks · 30 Minute High Protein Meals · High Protein Chicken Recipes · Budget High Protein Meals
-3. Settings → Claimed accounts → Websites → claim **`easyproteinkitchen.com`** with the **HTML tag**
+3. Settings → Claimed accounts → Websites → claim **`subuwithasuu.github.io`** with the **HTML tag**
    option. Send Claude the `content="..."` code (it is public, not a secret).
 
 **Then Claude:** puts the code in the `PINTEREST_VERIFY` variable and redeploys. You then click **Verify** on Pinterest.
 
 ### Step 5: Pinterest developer app (15 min)
 1. developers.pinterest.com → log in with the business account → My apps → Connect app.
-   - Website: `https://easyproteinkitchen.com`
-   - Privacy policy: `https://easyproteinkitchen.com/privacy/`
+   - Website: `https://subuwithasuu.github.io`
+   - Privacy policy: `https://subuwithasuu.github.io/privacy/`
    - Description: use the "What does your app do?" text below
 2. In the app settings, add the redirect URI **`http://localhost:8085/callback`**.
 3. Save the App ID and secret as secrets `PINTEREST_APP_ID` and `PINTEREST_APP_SECRET`
-   (same `gh secret set ... --repo subuwithasuu/easy-protein-kitchen` as in step 3).
+   (same `gh secret set ... --repo subuwithasuu/subuwithasuu.github.io` as in step 3).
 4. If the app page offers a **sandbox token**, save it as secret `PINTEREST_ACCESS_TOKEN`.
 5. Get your refresh token. This opens Pinterest's own consent page, where you click Allow:
    ```bash
@@ -122,7 +91,7 @@ complains about, until an image pin and a video pin both post end-to-end.
 
 ### Step 6: Token auto-renew key (5 min)
 github.com/settings/personal-access-tokens → **Fine-grained** → only repo
-`subuwithasuu/easy-protein-kitchen` → permission **Secrets: Read and write** → expiry 6 months.
+`subuwithasuu/subuwithasuu.github.io` → permission **Secrets: Read and write** → expiry 6 months.
 Save it as secret `SECRETS_PAT`. This lets the bot store the new Pinterest refresh token each time
 Pinterest rotates it, so posting never stops mid-run. Because the token only covers this one repo,
 your other repos stay out of reach.
@@ -156,7 +125,7 @@ When the approval email arrives, tell Claude. **Claude** then removes `PINTEREST
 > A private publishing tool for my own Pinterest business account, Easy Protein Kitchen. It publishes
 > original high-protein recipe pins (images and short videos I create from my own recipes and licensed
 > Unsplash photography) to my own boards on a schedule, linking to the recipes on my own website
-> easyproteinkitchen.com, and reads analytics for those pins for a weekly performance report.
+> subuwithasuu.github.io, and reads analytics for those pins for a weekly performance report.
 > It does not access any other user's data and has no other users.
 
 **Scopes:** `boards:read`, `boards:write`, `pins:read`, `pins:write`, `user_accounts:read`
@@ -171,11 +140,20 @@ When the approval email arrives, tell Claude. **Claude** then removes `PINTEREST
 
 ---
 
-## Switching to plan A (no domain) instead
-In `config.yaml` set `base_url: "https://subuwithasuu.github.io"` and `custom_domain: null`, and name the
-repo `subuwithasuu.github.io`. Do this **before the first pin**: links can't change afterwards. Skip
-step 2 and use `subuwithasuu.github.io` wherever this guide says easyproteinkitchen.com.
-(Only one repo per account can be `subuwithasuu.github.io`; check it isn't already used.)
+## Moving to your own domain (when the account is working)
+1. Buy the domain (e.g. easyproteinkitchen.com; .com renews cheapest - avoid .online, it renews at ~Rs3,300+/yr).
+2. Add these DNS records at the registrar (Cloudflare: "DNS only"):
+
+   | Type | Name | Value |
+   |---|---|---|
+   | A | @ | 185.199.108.153 / .109.153 / .110.153 / .111.153 (4 records) |
+   | AAAA | @ | 2606:50c0:8000::153 / 8001 / 8002 / 8003 (4 records) |
+   | CNAME | www | subuwithasuu.github.io |
+
+3. GitHub profile Settings -> Pages -> Add a domain -> verify with the TXT record GitHub shows.
+4. Claude then sets it as this repo's custom domain, enforces HTTPS, changes `site.base_url` +
+   `custom_domain` in `config.yaml`, and you re-claim the new domain on Pinterest.
+   GitHub redirects all old github.io links, so existing pins keep working.
 
 ## Honest limits
 - The fact-check and rules cut recipe errors a lot but can't promise zero. Skim recipes in week 1.
