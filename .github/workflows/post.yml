@@ -22,15 +22,15 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 40
     steps:
-      - uses: actions/checkout@v4
-      - uses: actions/setup-python@v5
+      - uses: actions/checkout@v7
+      - uses: actions/setup-python@v7
         with:
           python-version: "3.12"
           cache: pip
       - run: sudo apt-get update -qq && sudo apt-get install -y -qq ffmpeg
       - run: pip install -r requirements.txt
       - name: Cache Kokoro voice model
-        uses: actions/cache@v4
+        uses: actions/cache@v6
         with:
           path: models
           key: kokoro-v1.0
