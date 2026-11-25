@@ -1,0 +1,84 @@
+[
+  {
+    "title": "Meal Prep Spinach and Turkey Bacon Egg Bites",
+    "board": "High Protein Snacks",
+    "reason": {
+      "rules": [
+        "poultry recipe must state internal temp 165°F (74°C)"
+      ]
+    },
+    "date": "2026-11-25"
+  },
+  {
+    "title": "Frozen Berry Greek Yogurt Protein Bark",
+    "board": "High Protein Snacks",
+    "reason": {
+      "rules": [
+        "variant 2: claims 10 Mins but recipe takes 130 min"
+      ]
+    },
+    "date": "2026-11-25"
+  },
+  {
+    "title": "High-Protein Tuscan Garlic Chicken Pasta",
+    "board": "High Protein Dinners",
+    "reason": {
+      "verify": "still not passing after fixes",
+      "checks": [
+        {
+          "verdict": "fix",
+          "issues": [
+            "Thin chicken cutlets cook very quickly over medium-high heat. Cooking cutlets for 5 to 6 minutes per side (10-12 minutes total) will severe overcook and dry out the meat. Standard cutlets (1/4 to 1/2-inch thick) require only 3 to 4 minutes per side to reach an internal temperature of 165°F (74°C)."
+          ],
+          "sources": [
+            {
+              "name": "Skinnytaste - Creamy Tuscan Garlic Chicken",
+              "url": "https://www.skinnytaste.com/creamy-tuscan-garlic-chicken/"
+            },
+            {
+              "name": "RecipeTin Eats - Creamy Tuscan Chicken Pasta",
+              "url": "https://www.recipetineats.com/creamy-tuscan-chicken-pasta/"
+            }
+          ],
+          "grounded": false
+        },
+        {
+          "verdict": "fix",
+          "issues": [
+            "Simmering low-fat cottage cheese over medium-low heat directly with broth can cause the low-fat dairy proteins to curdle and become grainy. The broth should simmer first, followed by reducing heat to low before whisking in the blended cottage cheese."
+          ],
+          "sources": [
+            {
+              "name": "Ambitious Kitchen - Healthy Creamy Tuscan Chicken Pasta",
+              "url": "https://www.ambitiouskitchen.com/healthy-creamy-tuscan-chicken-pasta/"
+            },
+            {
+              "name": "Eat Yourself Skinny - Creamy Tuscan Garlic Chicken",
+              "url": "https://www.eatyourselfskinny.com/creamy-tuscan-garlic-chicken/"
+            }
+          ],
+          "grounded": false
+        }
+      ]
+    },
+    "date": "2026-11-25"
+  },
+  {
+    "title": "Honey Garlic Glazed Salmon and Edamame Bowl",
+    "board": "High Protein Dinners",
+    "reason": "write failed: gemini-3.5-flash: gave up after retries",
+    "date": "2026-11-25"
+  },
+  {
+    "title": "Easy Sheet Pan Chicken Fajitas",
+    "board": "High Protein Dinners",
+    "reason": "verify failed: gemini-3.5-flash: gave up after retries",
+    "date": "2026-11-25"
+  },
+  {
+    "title": "High-Protein Creamy Buffalo Chicken Mac and Cheese",
+    "board": "High Protein Dinners",
+    "reason": "verify failed: gemini-3.5-flash: gave up after retries",
+    "date": "2026-11-25"
+  }
+]

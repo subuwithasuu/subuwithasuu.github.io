@@ -1,0 +1,282 @@
+{
+  "title": "High-Protein Chocolate Peanut Butter Mousse",
+  "description": "This high-protein chocolate peanut butter mousse delivers 30 grams of protein per serving and takes just 10 minutes to prepare. Blended Greek yogurt, chocolate protein powder, and real peanut butter create a thick, silky snack.",
+  "cuisine": "American",
+  "category": "Snack",
+  "servings": 2,
+  "protein_g_per_serving": 33,
+  "prep_minutes": 10,
+  "cook_minutes": 0,
+  "total_minutes": 10,
+  "ingredients": [
+    {
+      "qty": "1 1/2",
+      "unit": "cups",
+      "item": "nonfat Greek yogurt",
+      "metric": "340 g",
+      "note": "chilled"
+    },
+    {
+      "qty": "1",
+      "unit": "scoop",
+      "item": "chocolate whey protein powder",
+      "metric": "30 g",
+      "note": "or casein protein"
+    },
+    {
+      "qty": "2",
+      "unit": "tbsp",
+      "item": "creamy natural peanut butter",
+      "metric": "32 g",
+      "note": "well stirred"
+    },
+    {
+      "qty": "2",
+      "unit": "tbsp",
+      "item": "unsweetened cocoa powder",
+      "metric": "10 g",
+      "note": "sifted"
+    },
+    {
+      "qty": "2",
+      "unit": "tbsp",
+      "item": "pure maple syrup",
+      "metric": "30 ml",
+      "note": ""
+    },
+    {
+      "qty": "2",
+      "unit": "tbsp",
+      "item": "unsweetened almond milk",
+      "metric": "30 ml",
+      "note": "cold"
+    },
+    {
+      "qty": "1/2",
+      "unit": "tsp",
+      "item": "vanilla extract",
+      "metric": "2.5 ml",
+      "note": ""
+    },
+    {
+      "qty": "1/8",
+      "unit": "tsp",
+      "item": "fine sea salt",
+      "metric": "0.75 g",
+      "note": ""
+    }
+  ],
+  "steps": [
+    "In a medium mixing bowl, combine the chilled nonfat Greek yogurt, chocolate whey protein powder, creamy peanut butter, sifted cocoa powder, maple syrup, almond milk, vanilla extract, and fine sea salt.",
+    "Vigorously whisk by hand (or beat with an electric hand mixer on low speed) for 1 minute until the mixture is completely smooth, creamy, and free of powder lumps.",
+    "Spoon the mixture into 2 small serving jars, cover, and place in the refrigerator at 38°F (3°C) for at least 15 minutes until chilled and set enough to hold its shape on a spoon."
+  ],
+  "tips": [
+    "Using casein or a whey-casein blend yields an even thicker, pudding-like consistency after chilling.",
+    "If the mixture is too thick to blend initially, add an extra tablespoon of almond milk.",
+    "Garnish with cacao nibs or crushed roasted peanuts right before serving for extra crunch."
+  ],
+  "storage": "Store covered in airtight glass jars in the refrigerator for up to 4 days.",
+  "tools": [
+    "high-speed blender",
+    "rubber spatula",
+    "glass ramekins"
+  ],
+  "keywords": [
+    "high protein chocolate mousse",
+    "peanut butter protein dessert",
+    "greek yogurt protein snack",
+    "high protein snacks",
+    "easy chocolate protein mousse",
+    "quick high protein snack",
+    "chocolate peanut butter mousse recipe"
+  ],
+  "pin_variants": [
+    {
+      "hook_type": "number",
+      "title": "30g Protein Chocolate Peanut Butter Mousse (10 Minutes)",
+      "description": "Blend up this high-protein chocolate peanut butter mousse for a rich snack with 30g of protein in just 10 minutes. Made with Greek yogurt and real cocoa powder. Save it for your next meal prep.",
+      "overlay": "30g Protein Chocolate Mousse",
+      "subline": "Ready in 10 Minutes",
+      "alt_text": "Two glass ramekins filled with thick chocolate peanut butter mousse topped with cacao nibs."
+    },
+    {
+      "hook_type": "speed",
+      "title": "10-Minute High-Protein Chocolate Peanut Butter Mousse",
+      "description": "This 10-minute high-protein chocolate peanut butter mousse combines Greek yogurt and protein powder into a silky treat with 30g protein per portion. Save it for your next meal prep.",
+      "overlay": "10-Minute High-Protein Mousse",
+      "subline": "30g Protein Per Bowl",
+      "alt_text": "A spoon lifting thick chocolate peanut butter mousse out of a white glass jar."
+    },
+    {
+      "hook_type": "contrarian",
+      "title": "Skip the Shake: 30g Protein Chocolate Peanut Butter Mousse",
+      "description": "Skip the standard shake with this spoonable 30g protein chocolate peanut butter mousse. Made in 10 minutes using Greek yogurt and peanut butter. Save it for your next meal prep.",
+      "overlay": "Skip the Shake: 30g Protein",
+      "subline": "Silky Spoonable Dessert",
+      "alt_text": "Creamy chocolate peanut butter mousse served in small bowls with chopped peanuts on top."
+    },
+    {
+      "hook_type": "outcome",
+      "title": "Silky Chocolate Peanut Butter Mousse with 30g Protein",
+      "description": "Prepare a thick, creamy snack with 30g of protein in only 10 minutes. This quick chocolate peanut butter mousse requires standard blender prep. Save it for your next meal prep.",
+      "overlay": "Silky Chocolate Peanut Butter Mousse",
+      "subline": "30g Protein Per Portion",
+      "alt_text": "Close up shot of rich chocolate peanut butter mousse garnished with cocoa powder."
+    }
+  ],
+  "video_script": {
+    "hook": "Whip up 30 grams of protein with this chocolate peanut butter mousse.",
+    "steps_short": [
+      "Add Greek yogurt, chocolate protein powder, and peanut butter to a blender.",
+      "Pour in maple syrup, cocoa powder, almond milk, vanilla, and salt.",
+      "Blend on medium-high for two minutes until silky smooth.",
+      "Spoon into ramekins and chill fifteen minutes until thick."
+    ],
+    "outro": "Find the full high-protein recipe on our website."
+  },
+  "photo_queries": [
+    "chocolate peanut butter mousse ramekin",
+    "chocolate protein mousse jar",
+    "whipped chocolate mousse topped with cocoa"
+  ],
+  "must_match": [
+    "chocolate",
+    "mousse",
+    "pudding"
+  ],
+  "board": "High Protein Snacks",
+  "slug": "high-protein-chocolate-peanut-butter-mousse",
+  "protein_g": 30,
+  "photos": [
+    {
+      "id": "u-v8T17XrIWQk",
+      "width": 3177,
+      "height": 3971,
+      "alt": "A wooden table topped with a jar of chocolate pudding Ramekin of peanut satay sauce on a wooden table.",
+      "photographer": "Kat",
+      "photographer_url": "https://unsplash.com/@northernpaws?utm_source=easy_protein_kitchen&utm_medium=referral",
+      "page_url": "https://unsplash.com/photos/a-wooden-table-topped-with-a-jar-of-chocolate-pudding-v8T17XrIWQk?utm_source=easy_protein_kitchen&utm_medium=referral",
+      "source": "Unsplash",
+      "source_url": "https://unsplash.com/?utm_source=easy_protein_kitchen&utm_medium=referral",
+      "src": "https://images.unsplash.com/photo-1730595807237-93b5381219a4?ixid=M3wxMTQzODc5fDB8MXxzZWFyY2h8NHx8Y2hvY29sYXRlJTIwcGVhbnV0JTIwYnV0dGVyJTIwbW91c3NlJTIwcmFtZWtpbnxlbnwxfDF8fHwxNzk1NjA2MDQ0fDA&ixlib=rb-4.1.0",
+      "web": "https://images.unsplash.com/photo-1730595807237-93b5381219a4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTQzODc5fDB8MXxzZWFyY2h8NHx8Y2hvY29sYXRlJTIwcGVhbnV0JTIwYnV0dGVyJTIwbW91c3NlJTIwcmFtZWtpbnxlbnwxfDF8fHwxNzk1NjA2MDQ0fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "download_location": "https://api.unsplash.com/photos/v8T17XrIWQk/download?ixid=M3wxMTQzODc5fDB8MXxzZWFyY2h8NHx8Y2hvY29sYXRlJTIwcGVhbnV0JTIwYnV0dGVyJTIwbW91c3NlJTIwcmFtZWtpbnxlbnwxfDF8fHwxNzk1NjA2MDQ0fDA",
+      "score": 13
+    },
+    {
+      "id": "u-G0xaK8Lfdlg",
+      "width": 4000,
+      "height": 6000,
+      "alt": "brown and black chocolate cake Oreo chocolate mousse",
+      "photographer": "ABHISHEK HAJARE",
+      "photographer_url": "https://unsplash.com/@abhishek_hajare?utm_source=easy_protein_kitchen&utm_medium=referral",
+      "page_url": "https://unsplash.com/photos/brown-and-black-chocolate-cake-G0xaK8Lfdlg?utm_source=easy_protein_kitchen&utm_medium=referral",
+      "source": "Unsplash",
+      "source_url": "https://unsplash.com/?utm_source=easy_protein_kitchen&utm_medium=referral",
+      "src": "https://images.unsplash.com/photo-1603032305813-be7441bc1037?ixid=M3wxMTQzODc5fDB8MXxzZWFyY2h8MXx8Y2hvY29sYXRlJTIwcGVhbnV0JTIwYnV0dGVyJTIwbW91c3NlJTIwcmFtZWtpbnxlbnwxfDF8fHwxNzk1NjA2MDQ0fDA&ixlib=rb-4.1.0",
+      "web": "https://images.unsplash.com/photo-1603032305813-be7441bc1037?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTQzODc5fDB8MXxzZWFyY2h8MXx8Y2hvY29sYXRlJTIwcGVhbnV0JTIwYnV0dGVyJTIwbW91c3NlJTIwcmFtZWtpbnxlbnwxfDF8fHwxNzk1NjA2MDQ0fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "download_location": "https://api.unsplash.com/photos/G0xaK8Lfdlg/download?ixid=M3wxMTQzODc5fDB8MXxzZWFyY2h8MXx8Y2hvY29sYXRlJTIwcGVhbnV0JTIwYnV0dGVyJTIwbW91c3NlJTIwcmFtZWtpbnxlbnwxfDF8fHwxNzk1NjA2MDQ0fDA",
+      "score": 11
+    },
+    {
+      "id": "u-TchV3LGj8Ms",
+      "width": 4160,
+      "height": 6240,
+      "alt": "Chocolate mousse with a spoon on a table spoonful",
+      "photographer": "Esra Afşar",
+      "photographer_url": "https://unsplash.com/@esraafsar?utm_source=easy_protein_kitchen&utm_medium=referral",
+      "page_url": "https://unsplash.com/photos/chocolate-mousse-with-a-spoon-on-a-table-TchV3LGj8Ms?utm_source=easy_protein_kitchen&utm_medium=referral",
+      "source": "Unsplash",
+      "source_url": "https://unsplash.com/?utm_source=easy_protein_kitchen&utm_medium=referral",
+      "src": "https://images.unsplash.com/photo-1747230395711-772a88c260db?ixid=M3wxMTQzODc5fDB8MXxzZWFyY2h8Mjd8fGNob2NvbGF0ZSUyMHBlYW51dCUyMGJ1dHRlciUyMG1vdXNzZSUyMHJhbWVraW58ZW58MXwxfHx8MTc5NTYwNjA0NHww&ixlib=rb-4.1.0",
+      "web": "https://images.unsplash.com/photo-1747230395711-772a88c260db?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTQzODc5fDB8MXxzZWFyY2h8Mjd8fGNob2NvbGF0ZSUyMHBlYW51dCUyMGJ1dHRlciUyMG1vdXNzZSUyMHJhbWVraW58ZW58MXwxfHx8MTc5NTYwNjA0NHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "download_location": "https://api.unsplash.com/photos/TchV3LGj8Ms/download?ixid=M3wxMTQzODc5fDB8MXxzZWFyY2h8Mjd8fGNob2NvbGF0ZSUyMHBlYW51dCUyMGJ1dHRlciUyMG1vdXNzZSUyMHJhbWVraW58ZW58MXwxfHx8MTc5NTYwNjA0NHww",
+      "score": 11
+    },
+    {
+      "id": "u-Z4zLE_8VZTc",
+      "width": 3648,
+      "height": 5472,
+      "alt": "three clear low-stem glasses with chocolate desert foods I wanted this photo to really FEEL like you were having peanut butter cups for breakfast. So, I served them on a platter, like you would if you were having breakfast in bed, and threw Reese’ peanut butter cups all over the place to drive the message home.",
+      "photographer": "Taylor Kiser",
+      "photographer_url": "https://unsplash.com/@foodfaithfit?utm_source=easy_protein_kitchen&utm_medium=referral",
+      "page_url": "https://unsplash.com/photos/three-clear-low-stem-glasses-with-chocolate-desert-foods-Z4zLE_8VZTc?utm_source=easy_protein_kitchen&utm_medium=referral",
+      "source": "Unsplash",
+      "source_url": "https://unsplash.com/?utm_source=easy_protein_kitchen&utm_medium=referral",
+      "src": "https://images.unsplash.com/photo-1504388192519-fb4be897c4d0?ixid=M3wxMTQzODc5fDB8MXxzZWFyY2h8M3x8Y2hvY29sYXRlJTIwcGVhbnV0JTIwYnV0dGVyJTIwbW91c3NlJTIwcmFtZWtpbnxlbnwxfDF8fHwxNzk1NjA2MDQ0fDA&ixlib=rb-4.1.0",
+      "web": "https://images.unsplash.com/photo-1504388192519-fb4be897c4d0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTQzODc5fDB8MXxzZWFyY2h8M3x8Y2hvY29sYXRlJTIwcGVhbnV0JTIwYnV0dGVyJTIwbW91c3NlJTIwcmFtZWtpbnxlbnwxfDF8fHwxNzk1NjA2MDQ0fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "download_location": "https://api.unsplash.com/photos/Z4zLE_8VZTc/download?ixid=M3wxMTQzODc5fDB8MXxzZWFyY2h8M3x8Y2hvY29sYXRlJTIwcGVhbnV0JTIwYnV0dGVyJTIwbW91c3NlJTIwcmFtZWtpbnxlbnwxfDF8fHwxNzk1NjA2MDQ0fDA",
+      "score": 10
+    },
+    {
+      "id": "u-yK4HYG7C3c0",
+      "width": 4866,
+      "height": 5872,
+      "alt": "chocolate cake on white ceramic plate by binyoussif ",
+      "photographer": "BINYOUSSIF mohammad ali",
+      "photographer_url": "https://unsplash.com/@binyoussif?utm_source=easy_protein_kitchen&utm_medium=referral",
+      "page_url": "https://unsplash.com/photos/chocolate-cake-on-white-ceramic-plate-yK4HYG7C3c0?utm_source=easy_protein_kitchen&utm_medium=referral",
+      "source": "Unsplash",
+      "source_url": "https://unsplash.com/?utm_source=easy_protein_kitchen&utm_medium=referral",
+      "src": "https://images.unsplash.com/photo-1629121005308-d3a96ee3386b?ixid=M3wxMTQzODc5fDB8MXxzZWFyY2h8Nnx8Y2hvY29sYXRlJTIwcGVhbnV0JTIwYnV0dGVyJTIwbW91c3NlJTIwcmFtZWtpbnxlbnwxfDF8fHwxNzk1NjA2MDQ0fDA&ixlib=rb-4.1.0",
+      "web": "https://images.unsplash.com/photo-1629121005308-d3a96ee3386b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTQzODc5fDB8MXxzZWFyY2h8Nnx8Y2hvY29sYXRlJTIwcGVhbnV0JTIwYnV0dGVyJTIwbW91c3NlJTIwcmFtZWtpbnxlbnwxfDF8fHwxNzk1NjA2MDQ0fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "download_location": "https://api.unsplash.com/photos/yK4HYG7C3c0/download?ixid=M3wxMTQzODc5fDB8MXxzZWFyY2h8Nnx8Y2hvY29sYXRlJTIwcGVhbnV0JTIwYnV0dGVyJTIwbW91c3NlJTIwcmFtZWtpbnxlbnwxfDF8fHwxNzk1NjA2MDQ0fDA",
+      "score": 6
+    },
+    {
+      "id": "u-qZDzB-AIgTE",
+      "width": 4000,
+      "height": 6000,
+      "alt": "brown and white cupcakes with strawberry on top Chocolate Pie",
+      "photographer": "Shreyak Singh",
+      "photographer_url": "https://unsplash.com/@shreyaksingh?utm_source=easy_protein_kitchen&utm_medium=referral",
+      "page_url": "https://unsplash.com/photos/brown-and-white-cupcakes-with-strawberry-on-top-qZDzB-AIgTE?utm_source=easy_protein_kitchen&utm_medium=referral",
+      "source": "Unsplash",
+      "source_url": "https://unsplash.com/?utm_source=easy_protein_kitchen&utm_medium=referral",
+      "src": "https://images.unsplash.com/photo-1589899475988-9e0a4a040b2a?ixid=M3wxMTQzODc5fDB8MXxzZWFyY2h8OHx8Y2hvY29sYXRlJTIwcGVhbnV0JTIwYnV0dGVyJTIwbW91c3NlJTIwcmFtZWtpbnxlbnwxfDF8fHwxNzk1NjA2MDQ0fDA&ixlib=rb-4.1.0",
+      "web": "https://images.unsplash.com/photo-1589899475988-9e0a4a040b2a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTQzODc5fDB8MXxzZWFyY2h8OHx8Y2hvY29sYXRlJTIwcGVhbnV0JTIwYnV0dGVyJTIwbW91c3NlJTIwcmFtZWtpbnxlbnwxfDF8fHwxNzk1NjA2MDQ0fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "download_location": "https://api.unsplash.com/photos/qZDzB-AIgTE/download?ixid=M3wxMTQzODc5fDB8MXxzZWFyY2h8OHx8Y2hvY29sYXRlJTIwcGVhbnV0JTIwYnV0dGVyJTIwbW91c3NlJTIwcmFtZWtpbnxlbnwxfDF8fHwxNzk1NjA2MDQ0fDA",
+      "score": 6
+    }
+  ],
+  "verification": {
+    "checks": [
+      {
+        "verdict": "fix",
+        "issues": [
+          "Blending nonfat Greek yogurt in a high-speed blender for 1 to 2 minutes shears the protein gel network of the yogurt, causing it to turn thin and watery rather than maintaining a thick mousse texture. Whisking the ingredients in a mixing bowl or using a hand mixer preserves the yogurt's body while smoothly incorporating the powders."
+        ],
+        "sources": [
+          {
+            "name": "Eating Bird Food - Chocolate Protein Pudding",
+            "url": "https://www.eatingbirdfood.com/chocolate-protein-pudding/"
+          },
+          {
+            "name": "Fit Foodie Finds - Healthy Chocolate Peanut Butter Protein Pudding",
+            "url": "https://fitfoodiefinds.com/healthy-chocolate-peanut-butter-protein-pudding/"
+          }
+        ],
+        "grounded": false
+      },
+      {
+        "verdict": "pass",
+        "issues": [],
+        "sources": [
+          {
+            "name": "Eating Bird Food - Chocolate Protein Pudding",
+            "url": "https://www.eatingbirdfood.com/protein-pudding/"
+          },
+          {
+            "name": "Fit Foodie Finds - Chocolate Peanut Butter Protein Pudding",
+            "url": "https://fitfoodiefinds.com/chocolate-peanut-butter-protein-pudding/"
+          }
+        ],
+        "grounded": false
+      }
+    ],
+    "rule_warnings": [],
+    "model": "gemini-3.6-flash"
+  },
+  "created": "2026-11-25"
+}

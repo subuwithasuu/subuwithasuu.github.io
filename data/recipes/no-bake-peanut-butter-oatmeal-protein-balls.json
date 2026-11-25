@@ -1,0 +1,264 @@
+{
+  "title": "No-Bake Peanut Butter Oatmeal Protein Balls",
+  "description": "Quick no-bake peanut butter oatmeal protein balls packed with 18 grams of protein per serving. Ready in just 15 minutes for easy meal prep snack options.",
+  "cuisine": "American",
+  "category": "Snack",
+  "servings": 5,
+  "protein_g_per_serving": 20,
+  "prep_minutes": 15,
+  "cook_minutes": 0,
+  "total_minutes": 15,
+  "ingredients": [
+    {
+      "qty": "1 1/2",
+      "unit": "cups",
+      "item": "rolled oats",
+      "metric": "135 g",
+      "note": "old-fashioned"
+    },
+    {
+      "qty": "2",
+      "unit": "scoops",
+      "item": "vanilla whey protein powder",
+      "metric": "60 g",
+      "note": "about 1/2 cup total"
+    },
+    {
+      "qty": "2",
+      "unit": "tbsp",
+      "item": "chia seeds",
+      "metric": "24 g",
+      "note": ""
+    },
+    {
+      "qty": "1/2",
+      "unit": "cup",
+      "item": "natural creamy peanut butter",
+      "metric": "128 g",
+      "note": "stirred well"
+    },
+    {
+      "qty": "1/3",
+      "unit": "cup",
+      "item": "honey",
+      "metric": "112 g",
+      "note": ""
+    },
+    {
+      "qty": "2",
+      "unit": "tbsp",
+      "item": "unsweetened almond milk",
+      "metric": "30 ml",
+      "note": "as needed for binding"
+    },
+    {
+      "qty": "2",
+      "unit": "tbsp",
+      "item": "mini dark chocolate chips",
+      "metric": "30 g",
+      "note": ""
+    }
+  ],
+  "steps": [
+    "In a large bowl, whisk together 1 1/2 cups rolled oats, 2 scoops vanilla whey protein powder, and 2 tbsp chia seeds until evenly combined.",
+    "Add 1/2 cup natural creamy peanut butter and 1/3 cup honey to the bowl. Stir vigorously with a stiff spatula for 2 minutes until a thick, uniform dough forms; if mixture feels crumbly, stir in 2 tbsp unsweetened almond milk 1 tbsp at a time until cohesive.",
+    "Fold in 2 tbsp mini dark chocolate chips until evenly dispersed throughout the dough.",
+    "Roll the dough firmly into 10 equal balls (about 1.5 inches each). Serve immediately or chill on a parchment-lined plate for 15 minutes until set."
+  ],
+  "tips": [
+    "If your peanut butter is cold or dry, warm it in the microwave for 15 seconds so it mixes easily into the oats.",
+    "For a dairy-free version, use a plant-based vanilla protein powder and dairy-free chocolate chips.",
+    "Keep the rolled balls chilled so they maintain a firm, dense bite texture."
+  ],
+  "storage": "Store in an airtight container in the refrigerator for up to 1 week or freeze for up to 3 months.",
+  "tools": [
+    "large mixing bowl",
+    "whisk",
+    "stiff spatula",
+    "measuring cups and spoons",
+    "parchment paper"
+  ],
+  "keywords": [
+    "No-Bake Peanut Butter Oatmeal Protein Balls",
+    "High Protein Snacks",
+    "Peanut Butter Protein Balls",
+    "Meal Prep Protein Snacks",
+    "Oatmeal Protein Bites",
+    "No Bake Energy Balls",
+    "Easy Protein Snack Recipe"
+  ],
+  "pin_variants": [
+    {
+      "hook_type": "number",
+      "title": "No-Bake Peanut Butter Oatmeal Protein Balls - 18g Protein",
+      "description": "These no-bake peanut butter oatmeal protein balls deliver 18g protein per serving in just 15 minutes. Stir, roll, and store for quick snacks all week. Save it for your next meal prep.",
+      "overlay": "18g Protein Peanut Butter Oat Balls",
+      "subline": "Ready in 15 Minutes",
+      "alt_text": "Rolled peanut butter oatmeal protein balls arranged on a plate with mini chocolate chips visible."
+    },
+    {
+      "hook_type": "speed",
+      "title": "15-Minute Peanut Butter Oatmeal Protein Balls",
+      "description": "Make 15-minute peanut butter oatmeal protein balls for your post-workout snack. Simple ingredients stirred together in one bowl with 18g protein per serving. Save it for your next meal prep.",
+      "overlay": "15-Minute High-Protein Snack Bites",
+      "subline": "18g Protein Per Serving",
+      "alt_text": "Close-up of no-bake peanut butter oat protein balls stacked in a glass storage container."
+    },
+    {
+      "hook_type": "outcome",
+      "title": "Peanut Butter Oatmeal Protein Balls for Meal Prep",
+      "description": "Prep your high-protein snacks for the week with these no-bake peanut butter oatmeal protein balls. Packing 18g protein per serving with zero cooking required. Save it for your next meal prep.",
+      "overlay": "Prep High-Protein Snacks For The Week",
+      "subline": "5 Servings Ready Fast",
+      "alt_text": "Multiple peanut butter protein bites displayed on a parchment-lined sheet."
+    },
+    {
+      "hook_type": "contrarian",
+      "title": "No-Bake Peanut Butter Protein Balls (Skip the Store Bars)",
+      "description": "Skip packaged protein bars and make these peanut butter oatmeal protein balls instead. Takes 15 minutes with real oats, peanut butter, and 18g protein per serving. Save it for your next meal prep.",
+      "overlay": "Skip Bars: 18g Protein Oat Bites",
+      "subline": "No Baking Required",
+      "alt_text": "Hand picking up a peanut butter oatmeal protein ball from a plate."
+    }
+  ],
+  "video_script": {
+    "hook": "These no-bake peanut butter protein balls deliver 18 grams of protein.",
+    "steps_short": [
+      "Mix rolled oats, vanilla protein powder, and chia seeds in a bowl.",
+      "Stir in natural creamy peanut butter, honey, and almond milk until thick.",
+      "Fold in mini chocolate chips until distributed.",
+      "Roll into ten equal balls and chill for fifteen minutes."
+    ],
+    "outro": "Find the full high-protein recipe details on our website."
+  },
+  "photo_queries": [
+    "peanut butter protein balls chocolate chip oats",
+    "no bake oat protein bites plate",
+    "peanut butter energy balls meal prep container"
+  ],
+  "must_match": [
+    "balls",
+    "bites",
+    "oatmeal",
+    "peanut"
+  ],
+  "board": "High Protein Snacks",
+  "slug": "no-bake-peanut-butter-oatmeal-protein-balls",
+  "protein_g": 18,
+  "photos": [
+    {
+      "id": "u-02cvtE_DNic",
+      "width": 3696,
+      "height": 5544,
+      "alt": "a wooden plate topped with chocolate covered donuts Raw Oatmeal Balls",
+      "photographer": "Mona Bernhardsen",
+      "photographer_url": "https://unsplash.com/@maxxna?utm_source=easy_protein_kitchen&utm_medium=referral",
+      "page_url": "https://unsplash.com/photos/a-wooden-plate-topped-with-chocolate-covered-donuts-02cvtE_DNic?utm_source=easy_protein_kitchen&utm_medium=referral",
+      "source": "Unsplash",
+      "source_url": "https://unsplash.com/?utm_source=easy_protein_kitchen&utm_medium=referral",
+      "src": "https://images.unsplash.com/photo-1680902006117-42727d7d090d?ixid=M3wxMTQzODc5fDB8MXxzZWFyY2h8M3x8bm8lMjBiYWtlJTIwb2F0JTIwcHJvdGVpbiUyMGJpdGVzJTIwcGxhdGV8ZW58MXwxfHx8MTc5NTYwNDc4NXww&ixlib=rb-4.1.0",
+      "web": "https://images.unsplash.com/photo-1680902006117-42727d7d090d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTQzODc5fDB8MXxzZWFyY2h8M3x8bm8lMjBiYWtlJTIwb2F0JTIwcHJvdGVpbiUyMGJpdGVzJTIwcGxhdGV8ZW58MXwxfHx8MTc5NTYwNDc4NXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "download_location": "https://api.unsplash.com/photos/02cvtE_DNic/download?ixid=M3wxMTQzODc5fDB8MXxzZWFyY2h8M3x8bm8lMjBiYWtlJTIwb2F0JTIwcHJvdGVpbiUyMGJpdGVzJTIwcGxhdGV8ZW58MXwxfHx8MTc5NTYwNDc4NXww",
+      "score": 9
+    },
+    {
+      "id": "u-ob4rbqZJMro",
+      "width": 3508,
+      "height": 5262,
+      "alt": "a wooden plate topped with chocolate balls covered in flowers Raw Oatmeal Balls",
+      "photographer": "Mona Bernhardsen",
+      "photographer_url": "https://unsplash.com/@maxxna?utm_source=easy_protein_kitchen&utm_medium=referral",
+      "page_url": "https://unsplash.com/photos/a-wooden-plate-topped-with-chocolate-balls-covered-in-flowers-ob4rbqZJMro?utm_source=easy_protein_kitchen&utm_medium=referral",
+      "source": "Unsplash",
+      "source_url": "https://unsplash.com/?utm_source=easy_protein_kitchen&utm_medium=referral",
+      "src": "https://images.unsplash.com/photo-1680902005886-0f5e39372479?ixid=M3wxMTQzODc5fDB8MXxzZWFyY2h8MTh8fG5vJTIwYmFrZSUyMG9hdCUyMHByb3RlaW4lMjBiaXRlcyUyMHBsYXRlfGVufDF8MXx8fDE3OTU2MDQ3ODV8MA&ixlib=rb-4.1.0",
+      "web": "https://images.unsplash.com/photo-1680902005886-0f5e39372479?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTQzODc5fDB8MXxzZWFyY2h8MTh8fG5vJTIwYmFrZSUyMG9hdCUyMHByb3RlaW4lMjBiaXRlcyUyMHBsYXRlfGVufDF8MXx8fDE3OTU2MDQ3ODV8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "download_location": "https://api.unsplash.com/photos/ob4rbqZJMro/download?ixid=M3wxMTQzODc5fDB8MXxzZWFyY2h8MTh8fG5vJTIwYmFrZSUyMG9hdCUyMHByb3RlaW4lMjBiaXRlcyUyMHBsYXRlfGVufDF8MXx8fDE3OTU2MDQ3ODV8MA",
+      "score": 9
+    },
+    {
+      "id": "u-yVLmWQelQqU",
+      "width": 3840,
+      "height": 5760,
+      "alt": "a plate of chocolate truffles on a wooden table Raw Oatmeal Balls",
+      "photographer": "Mona Bernhardsen",
+      "photographer_url": "https://unsplash.com/@maxxna?utm_source=easy_protein_kitchen&utm_medium=referral",
+      "page_url": "https://unsplash.com/photos/a-plate-of-chocolate-truffles-on-a-wooden-table-yVLmWQelQqU?utm_source=easy_protein_kitchen&utm_medium=referral",
+      "source": "Unsplash",
+      "source_url": "https://unsplash.com/?utm_source=easy_protein_kitchen&utm_medium=referral",
+      "src": "https://images.unsplash.com/photo-1680902007106-62f92b859d2c?ixid=M3wxMTQzODc5fDB8MXxzZWFyY2h8Mjd8fG5vJTIwYmFrZSUyMG9hdCUyMHByb3RlaW4lMjBiaXRlcyUyMHBsYXRlfGVufDF8MXx8fDE3OTU2MDQ3ODV8MA&ixlib=rb-4.1.0",
+      "web": "https://images.unsplash.com/photo-1680902007106-62f92b859d2c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTQzODc5fDB8MXxzZWFyY2h8Mjd8fG5vJTIwYmFrZSUyMG9hdCUyMHByb3RlaW4lMjBiaXRlcyUyMHBsYXRlfGVufDF8MXx8fDE3OTU2MDQ3ODV8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "download_location": "https://api.unsplash.com/photos/yVLmWQelQqU/download?ixid=M3wxMTQzODc5fDB8MXxzZWFyY2h8Mjd8fG5vJTIwYmFrZSUyMG9hdCUyMHByb3RlaW4lMjBiaXRlcyUyMHBsYXRlfGVufDF8MXx8fDE3OTU2MDQ3ODV8MA",
+      "score": 9
+    },
+    {
+      "id": "u-MwOJg51EzYo",
+      "width": 6336,
+      "height": 9504,
+      "alt": "a person reaching for a ball of food in a bowl Energy Bites",
+      "photographer": "Nathenia Landers",
+      "photographer_url": "https://unsplash.com/@juicemetoo?utm_source=easy_protein_kitchen&utm_medium=referral",
+      "page_url": "https://unsplash.com/photos/a-person-reaching-for-a-ball-of-food-in-a-bowl-MwOJg51EzYo?utm_source=easy_protein_kitchen&utm_medium=referral",
+      "source": "Unsplash",
+      "source_url": "https://unsplash.com/?utm_source=easy_protein_kitchen&utm_medium=referral",
+      "src": "https://images.unsplash.com/photo-1633871662468-521a71cbb079?ixid=M3wxMTQzODc5fDB8MXxzZWFyY2h8Mjl8fG5vJTIwYmFrZSUyMG9hdCUyMHByb3RlaW4lMjBiaXRlcyUyMHBsYXRlfGVufDF8MXx8fDE3OTU2MDQ3ODV8MA&ixlib=rb-4.1.0",
+      "web": "https://images.unsplash.com/photo-1633871662468-521a71cbb079?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTQzODc5fDB8MXxzZWFyY2h8Mjl8fG5vJTIwYmFrZSUyMG9hdCUyMHByb3RlaW4lMjBiaXRlcyUyMHBsYXRlfGVufDF8MXx8fDE3OTU2MDQ3ODV8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "download_location": "https://api.unsplash.com/photos/MwOJg51EzYo/download?ixid=M3wxMTQzODc5fDB8MXxzZWFyY2h8Mjl8fG5vJTIwYmFrZSUyMG9hdCUyMHByb3RlaW4lMjBiaXRlcyUyMHBsYXRlfGVufDF8MXx8fDE3OTU2MDQ3ODV8MA",
+      "score": 9
+    },
+    {
+      "id": "u-vmGxZTeCtHU",
+      "width": 4000,
+      "height": 6000,
+      "alt": "a wooden cutting board topped with granola and chocolate Revel bar with Oatmeal and Walnuts",
+      "photographer": "Daniel Maquiling",
+      "photographer_url": "https://unsplash.com/@maquilingskiswifty?utm_source=easy_protein_kitchen&utm_medium=referral",
+      "page_url": "https://unsplash.com/photos/a-wooden-cutting-board-topped-with-granola-and-chocolate-vmGxZTeCtHU?utm_source=easy_protein_kitchen&utm_medium=referral",
+      "source": "Unsplash",
+      "source_url": "https://unsplash.com/?utm_source=easy_protein_kitchen&utm_medium=referral",
+      "src": "https://images.unsplash.com/photo-1642866659818-4e309079abb0?ixid=M3wxMTQzODc5fDB8MXxzZWFyY2h8OXx8bm8lMjBiYWtlJTIwb2F0JTIwcHJvdGVpbiUyMGJpdGVzJTIwcGxhdGV8ZW58MXwxfHx8MTc5NTYwNDc4NXww&ixlib=rb-4.1.0",
+      "web": "https://images.unsplash.com/photo-1642866659818-4e309079abb0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTQzODc5fDB8MXxzZWFyY2h8OXx8bm8lMjBiYWtlJTIwb2F0JTIwcHJvdGVpbiUyMGJpdGVzJTIwcGxhdGV8ZW58MXwxfHx8MTc5NTYwNDc4NXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "download_location": "https://api.unsplash.com/photos/vmGxZTeCtHU/download?ixid=M3wxMTQzODc5fDB8MXxzZWFyY2h8OXx8bm8lMjBiYWtlJTIwb2F0JTIwcHJvdGVpbiUyMGJpdGVzJTIwcGxhdGV8ZW58MXwxfHx8MTc5NTYwNDc4NXww",
+      "score": 4
+    },
+    {
+      "id": "u-q4w8bHm6KtI",
+      "width": 3578,
+      "height": 4472,
+      "alt": "a bowl of protein powder next to a container of protein powder Vegan, organic and protein energy balls for a gourmet break 💪🏼 www.nature-zen.com",
+      "photographer": "Nature Zen",
+      "photographer_url": "https://unsplash.com/@nature_zen?utm_source=easy_protein_kitchen&utm_medium=referral",
+      "page_url": "https://unsplash.com/photos/a-bowl-of-protein-powder-next-to-a-container-of-protein-powder-q4w8bHm6KtI?utm_source=easy_protein_kitchen&utm_medium=referral",
+      "source": "Unsplash",
+      "source_url": "https://unsplash.com/?utm_source=easy_protein_kitchen&utm_medium=referral",
+      "src": "https://images.unsplash.com/photo-1647532198387-d28b32575986?ixid=M3wxMTQzODc5fDB8MXxzZWFyY2h8MTZ8fG5vJTIwYmFrZSUyMG9hdCUyMHByb3RlaW4lMjBiaXRlcyUyMHBsYXRlfGVufDF8MXx8fDE3OTU2MDQ3ODV8MA&ixlib=rb-4.1.0",
+      "web": "https://images.unsplash.com/photo-1647532198387-d28b32575986?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTQzODc5fDB8MXxzZWFyY2h8MTZ8fG5vJTIwYmFrZSUyMG9hdCUyMHByb3RlaW4lMjBiaXRlcyUyMHBsYXRlfGVufDF8MXx8fDE3OTU2MDQ3ODV8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "download_location": "https://api.unsplash.com/photos/q4w8bHm6KtI/download?ixid=M3wxMTQzODc5fDB8MXxzZWFyY2h8MTZ8fG5vJTIwYmFrZSUyMG9hdCUyMHByb3RlaW4lMjBiaXRlcyUyMHBsYXRlfGVufDF8MXx8fDE3OTU2MDQ3ODV8MA",
+      "score": 4
+    }
+  ],
+  "verification": {
+    "checks": [
+      {
+        "verdict": "pass",
+        "issues": [],
+        "sources": [
+          {
+            "name": "Ambitious Kitchen - Protein Peanut Butter Energy Balls",
+            "url": "https://www.ambitiouskitchen.com/protein-peanut-butter-energy-bites/"
+          },
+          {
+            "name": "EatingWell - Peanut Butter Energy Balls",
+            "url": "https://www.eatingwell.com/recipe/275364/peanut-butter-energy-balls/"
+          }
+        ],
+        "grounded": false
+      }
+    ],
+    "rule_warnings": [
+      "unusual unit 'scoops' for 'vanilla whey protein powder'"
+    ],
+    "model": "gemini-3.6-flash"
+  },
+  "created": "2026-11-25"
+}

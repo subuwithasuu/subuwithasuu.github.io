@@ -1,0 +1,305 @@
+{
+  "title": "Quick Korean Lean Ground Beef Rice Bowl",
+  "description": "Flavorful Korean-style ground beef served over warm jasmine rice with a sweet-savory garlic soy sauce. Quick, high-protein meal prep ready in 25 minutes.",
+  "cuisine": "Korean-inspired",
+  "category": "Dinner",
+  "servings": 4,
+  "protein_g_per_serving": 35,
+  "prep_minutes": 10,
+  "cook_minutes": 15,
+  "total_minutes": 25,
+  "ingredients": [
+    {
+      "qty": "1 1/2",
+      "unit": "cups",
+      "item": "uncooked jasmine rice",
+      "metric": "300 g",
+      "note": "rinsed in cold water"
+    },
+    {
+      "qty": "2",
+      "unit": "cups",
+      "item": "water",
+      "metric": "475 ml",
+      "note": "for cooking rice"
+    },
+    {
+      "qty": "1 1/2",
+      "unit": "lbs",
+      "item": "93/7 lean ground beef",
+      "metric": "680 g",
+      "note": null
+    },
+    {
+      "qty": "1/3",
+      "unit": "cup",
+      "item": "reduced-sodium soy sauce",
+      "metric": "80 ml",
+      "note": null
+    },
+    {
+      "qty": "2",
+      "unit": "tbsp",
+      "item": "brown sugar",
+      "metric": "25 g",
+      "note": "packed"
+    },
+    {
+      "qty": "1",
+      "unit": "tbsp",
+      "item": "toasted sesame oil",
+      "metric": "15 ml",
+      "note": null
+    },
+    {
+      "qty": "1",
+      "unit": "tbsp",
+      "item": "gochujang or sriracha",
+      "metric": "15 g",
+      "note": "adjust for heat preference"
+    },
+    {
+      "qty": "4",
+      "unit": "cloves",
+      "item": "garlic",
+      "metric": "12 g",
+      "note": "minced"
+    },
+    {
+      "qty": "1",
+      "unit": "tbsp",
+      "item": "fresh ginger",
+      "metric": "6 g",
+      "note": "finely grated"
+    },
+    {
+      "qty": "4",
+      "unit": "medium",
+      "item": "green onions",
+      "metric": "30 g",
+      "note": "thinly sliced"
+    },
+    {
+      "qty": "1",
+      "unit": "tbsp",
+      "item": "toasted sesame seeds",
+      "metric": "9 g",
+      "note": "for garnish"
+    }
+  ],
+  "steps": [
+    "Combine 1 1/2 cups (300 g) rinsed jasmine rice and 2 cups (475 ml) water in a saucepan over high heat. Bring to a boil, then cover, turn heat to low, and simmer for 12 to 15 minutes until water is absorbed and rice is tender.",
+    "Whisk 1/3 cup (80 ml) reduced-sodium soy sauce, 2 tablespoons (25 g) brown sugar, 1 tablespoon (15 ml) sesame oil, 1 tablespoon (15 g) gochujang, 4 minced garlic cloves, and 1 tablespoon (6 g) grated ginger in a bowl for 1 minute until smooth and sugar dissolves.",
+    "Heat a 12-inch nonstick skillet over medium-high heat for 2 minutes. Add 1 1/2 lbs (680 g) lean ground beef and cook for 6 to 8 minutes, breaking into small crumbles with a spatula, until browned and an instant-read thermometer registers 160°F (71°C).",
+    "Pour the sauce mixture over the cooked beef in the skillet over medium heat. Stir constantly for 2 to 3 minutes until the sauce bubbles, thickens, and evenly coats the ground beef.",
+    "Fluff the rice with a fork and divide among 4 bowls. Top each with one-quarter of the Korean beef, garnish with sliced green onions and sesame seeds, and serve hot."
+  ],
+  "tips": [
+    "Use 93/7 or leaner ground beef to keep protein high without excess saturated fat.",
+    "For extra micronutrients, stir 2 cups of fresh spinach into the beef during the last minute of simmering until wilted."
+  ],
+  "storage": "Store beef and rice in airtight containers in the refrigerator for up to 4 days.",
+  "tools": [
+    "12-inch nonstick skillet",
+    "medium saucepan with lid",
+    "instant-read meat thermometer",
+    "whisk"
+  ],
+  "keywords": [
+    "Korean ground beef rice bowl",
+    "High protein meal prep bowls",
+    "Quick lean beef dinner",
+    "Easy Korean beef bowl",
+    "25 minute high protein dinner",
+    "Macro friendly ground beef recipe",
+    "Korean ground beef prep"
+  ],
+  "pin_variants": [
+    {
+      "hook_type": "number",
+      "title": "High Protein Korean Beef Bowls - 35g Protein",
+      "description": "These quick Korean lean ground beef rice bowls deliver 35g of protein per serving and take just 25 minutes. Ground beef in a savory soy-garlic glaze over warm jasmine rice makes a simple high-protein meal prep. Save it for your next meal prep.",
+      "overlay": "35g Protein Korean Beef Bowls",
+      "subline": "Ready in 25 Minutes",
+      "alt_text": "High protein Korean ground beef rice bowl topped with green onions and sesame seeds."
+    },
+    {
+      "hook_type": "speed",
+      "title": "25-Minute Korean Ground Beef Rice Bowl Recipe",
+      "description": "Make this fast Korean lean ground beef rice bowl in under 25 minutes. Packed with 35g of protein, sweet garlic flavors, and simple pantry staples, it is perfect for busy weeknights. Save it for your next meal prep.",
+      "overlay": "25-Minute Korean Beef Bowls",
+      "subline": "High Protein Meal Prep",
+      "alt_text": "Skillet of glazed Korean ground beef next to bowls of jasmine rice."
+    },
+    {
+      "hook_type": "outcome",
+      "title": "High Protein Korean Beef Rice Bowls for Meal Prep",
+      "description": "Prep high-protein dinners for the week with this easy Korean lean ground beef rice bowl recipe. Garlic-infused beef tossed in a light soy glaze gives you 35g of protein per bowl. Save it for your next meal prep.",
+      "overlay": "Prep Once Eat All Week",
+      "subline": "35g Protein Per Serving",
+      "alt_text": "Four glass meal prep containers filled with Korean ground beef and white rice."
+    },
+    {
+      "hook_type": "teacher",
+      "title": "The Trick to Quick High Protein Korean Beef Bowls",
+      "description": "Learn how to make flavorful Korean ground beef rice bowls at home in just 25 minutes. Using 93% lean beef ensures 35g of protein per serving with big sweet-and-savory flavor. Save it for your next meal prep.",
+      "overlay": "Easy 25-Minute Beef Bowls",
+      "subline": "35 Grams of Protein",
+      "alt_text": "Close up of savory ground beef simmered in Korean sauce over rice."
+    }
+  ],
+  "video_script": {
+    "hook": "These 35 gram protein Korean beef bowls take just 25 minutes.",
+    "steps_short": [
+      "Whisk together soy sauce, brown sugar, gochujang, garlic, and ginger.",
+      "Brown lean ground beef until cooked to 160 degrees Fahrenheit.",
+      "Pour sauce into the skillet and simmer until nicely glazed.",
+      "Serve over fluffy jasmine rice with sliced green onions and sesame seeds."
+    ],
+    "outro": "Find the complete recipe with macro details on our website!"
+  },
+  "photo_queries": [
+    "Korean ground beef rice bowl green onions sesame seeds",
+    "High protein beef meal prep containers jasmine rice",
+    "Ground beef skillet soy sauce ginger garlic bowl"
+  ],
+  "must_match": [
+    "beef",
+    "rice",
+    "bowl"
+  ],
+  "board": "High Protein Dinners",
+  "slug": "quick-korean-lean-ground-beef-rice-bowl",
+  "protein_g": 35,
+  "photos": [
+    {
+      "id": "u-vtTqQJ0hfZc",
+      "width": 3742,
+      "height": 4679,
+      "alt": "A bowl of teriyaki chicken with rice topped with green onions and sesame seeds",
+      "photographer": "Travis Palma",
+      "photographer_url": "https://unsplash.com/@palmavisuals?utm_source=easy_protein_kitchen&utm_medium=referral",
+      "page_url": "https://unsplash.com/photos/teriyaki-chicken-bowl-with-rice-vtTqQJ0hfZc?utm_source=easy_protein_kitchen&utm_medium=referral",
+      "source": "Unsplash",
+      "source_url": "https://unsplash.com/?utm_source=easy_protein_kitchen&utm_medium=referral",
+      "src": "https://images.unsplash.com/photo-1791386804677-815379da3e2e?ixid=M3wxMTQzODc5fDB8MXxzZWFyY2h8M3x8S29yZWFuJTIwZ3JvdW5kJTIwYmVlZiUyMHJpY2UlMjBib3dsJTIwZ3JlZW4lMjBvbmlvbnMlMjBzZXNhbWUlMjBzZWVkc3xlbnwxfDF8fHwxNzk1NjA2ODkzfDA&ixlib=rb-4.1.0",
+      "web": "https://images.unsplash.com/photo-1791386804677-815379da3e2e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTQzODc5fDB8MXxzZWFyY2h8M3x8S29yZWFuJTIwZ3JvdW5kJTIwYmVlZiUyMHJpY2UlMjBib3dsJTIwZ3JlZW4lMjBvbmlvbnMlMjBzZXNhbWUlMjBzZWVkc3xlbnwxfDF8fHwxNzk1NjA2ODkzfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "download_location": "https://api.unsplash.com/photos/vtTqQJ0hfZc/download?ixid=M3wxMTQzODc5fDB8MXxzZWFyY2h8M3x8S29yZWFuJTIwZ3JvdW5kJTIwYmVlZiUyMHJpY2UlMjBib3dsJTIwZ3JlZW4lMjBvbmlvbnMlMjBzZXNhbWUlMjBzZWVkc3xlbnwxfDF8fHwxNzk1NjA2ODkzfDA",
+      "score": 19
+    },
+    {
+      "id": "u-0bXbKLWOczs",
+      "width": 3097,
+      "height": 4336,
+      "alt": "A bowl of rice topped with shredded meat, sauce, and green onions in a kitchen",
+      "photographer": "Travis Palma",
+      "photographer_url": "https://unsplash.com/@palmavisuals?utm_source=easy_protein_kitchen&utm_medium=referral",
+      "page_url": "https://unsplash.com/photos/rice-bowl-with-meat-and-sauce-0bXbKLWOczs?utm_source=easy_protein_kitchen&utm_medium=referral",
+      "source": "Unsplash",
+      "source_url": "https://unsplash.com/?utm_source=easy_protein_kitchen&utm_medium=referral",
+      "src": "https://images.unsplash.com/photo-1791386804685-01b06b13a722?ixid=M3wxMTQzODc5fDB8MXxzZWFyY2h8Nnx8S29yZWFuJTIwZ3JvdW5kJTIwYmVlZiUyMHJpY2UlMjBib3dsJTIwZ3JlZW4lMjBvbmlvbnMlMjBzZXNhbWUlMjBzZWVkc3xlbnwxfDF8fHwxNzk1NjA2ODkzfDA&ixlib=rb-4.1.0",
+      "web": "https://images.unsplash.com/photo-1791386804685-01b06b13a722?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTQzODc5fDB8MXxzZWFyY2h8Nnx8S29yZWFuJTIwZ3JvdW5kJTIwYmVlZiUyMHJpY2UlMjBib3dsJTIwZ3JlZW4lMjBvbmlvbnMlMjBzZXNhbWUlMjBzZWVkc3xlbnwxfDF8fHwxNzk1NjA2ODkzfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "download_location": "https://api.unsplash.com/photos/0bXbKLWOczs/download?ixid=M3wxMTQzODc5fDB8MXxzZWFyY2h8Nnx8S29yZWFuJTIwZ3JvdW5kJTIwYmVlZiUyMHJpY2UlMjBib3dsJTIwZ3JlZW4lMjBvbmlvbnMlMjBzZXNhbWUlMjBzZWVkc3xlbnwxfDF8fHwxNzk1NjA2ODkzfDA",
+      "score": 15
+    },
+    {
+      "id": "u--2qTzJME3vo",
+      "width": 3984,
+      "height": 5976,
+      "alt": "Stir-fried beef with water spinach and a bowl of rice on a wooden table",
+      "photographer": "tommao wang",
+      "photographer_url": "https://unsplash.com/@tommaomaoer?utm_source=easy_protein_kitchen&utm_medium=referral",
+      "page_url": "https://unsplash.com/photos/beef-and-water-spinach-dinner--2qTzJME3vo?utm_source=easy_protein_kitchen&utm_medium=referral",
+      "source": "Unsplash",
+      "source_url": "https://unsplash.com/?utm_source=easy_protein_kitchen&utm_medium=referral",
+      "src": "https://images.unsplash.com/photo-1789296719193-b297d6bf49fd?ixid=M3wxMTQzODc5fDB8MXxzZWFyY2h8MjR8fEdyb3VuZCUyMGJlZWYlMjBza2lsbGV0JTIwc295JTIwc2F1Y2UlMjBnaW5nZXIlMjBnYXJsaWMlMjBib3dsfGVufDF8MXx8fDE3OTU2MDY4OTR8MA&ixlib=rb-4.1.0",
+      "web": "https://images.unsplash.com/photo-1789296719193-b297d6bf49fd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTQzODc5fDB8MXxzZWFyY2h8MjR8fEdyb3VuZCUyMGJlZWYlMjBza2lsbGV0JTIwc295JTIwc2F1Y2UlMjBnaW5nZXIlMjBnYXJsaWMlMjBib3dsfGVufDF8MXx8fDE3OTU2MDY4OTR8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "download_location": "https://api.unsplash.com/photos/-2qTzJME3vo/download?ixid=M3wxMTQzODc5fDB8MXxzZWFyY2h8MjR8fEdyb3VuZCUyMGJlZWYlMjBza2lsbGV0JTIwc295JTIwc2F1Y2UlMjBnaW5nZXIlMjBnYXJsaWMlMjBib3dsfGVufDF8MXx8fDE3OTU2MDY4OTR8MA",
+      "score": 14
+    },
+    {
+      "id": "u-5Oza8PhePew",
+      "width": 3024,
+      "height": 4032,
+      "alt": "green vegetable in white ceramic bowl Beef in black bean sauce",
+      "photographer": "Jezebel Rose",
+      "photographer_url": "https://unsplash.com/@jezebelrose?utm_source=easy_protein_kitchen&utm_medium=referral",
+      "page_url": "https://unsplash.com/photos/green-vegetable-in-white-ceramic-bowl-5Oza8PhePew?utm_source=easy_protein_kitchen&utm_medium=referral",
+      "source": "Unsplash",
+      "source_url": "https://unsplash.com/?utm_source=easy_protein_kitchen&utm_medium=referral",
+      "src": "https://images.unsplash.com/photo-1606070781631-a7e961f84c9e?ixid=M3wxMTQzODc5fDB8MXxzZWFyY2h8MTV8fEdyb3VuZCUyMGJlZWYlMjBza2lsbGV0JTIwc295JTIwc2F1Y2UlMjBnaW5nZXIlMjBnYXJsaWMlMjBib3dsfGVufDF8MXx8fDE3OTU2MDY4OTR8MA&ixlib=rb-4.1.0",
+      "web": "https://images.unsplash.com/photo-1606070781631-a7e961f84c9e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTQzODc5fDB8MXxzZWFyY2h8MTV8fEdyb3VuZCUyMGJlZWYlMjBza2lsbGV0JTIwc295JTIwc2F1Y2UlMjBnaW5nZXIlMjBnYXJsaWMlMjBib3dsfGVufDF8MXx8fDE3OTU2MDY4OTR8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "download_location": "https://api.unsplash.com/photos/5Oza8PhePew/download?ixid=M3wxMTQzODc5fDB8MXxzZWFyY2h8MTV8fEdyb3VuZCUyMGJlZWYlMjBza2lsbGV0JTIwc295JTIwc2F1Y2UlMjBnaW5nZXIlMjBnYXJsaWMlMjBib3dsfGVufDF8MXx8fDE3OTU2MDY4OTR8MA",
+      "score": 13
+    },
+    {
+      "id": "u-y6Sd_50hmz0",
+      "width": 3000,
+      "height": 4000,
+      "alt": "A bowl of vegetable fried rice with a white spoon on a wooden table A large, ornate bowl filled with savory, dark-glazed Chinese wok-fried rice, tossed with mixed vegetables and aromatic seasonings, resting on a rustic wooden table. A white spoon rests inside the hearty grain dish. Editorial publications, food blogs, recipe websites, and Asian culinary features can use this image to illustrate traditional street-style fried rice, comforting wok meals, or authentic dining experiences.",
+      "photographer": "Zoshua Colah",
+      "photographer_url": "https://unsplash.com/@zoshuacolah?utm_source=easy_protein_kitchen&utm_medium=referral",
+      "page_url": "https://unsplash.com/photos/vegetable-fried-rice-dinner-bowl-y6Sd_50hmz0?utm_source=easy_protein_kitchen&utm_medium=referral",
+      "source": "Unsplash",
+      "source_url": "https://unsplash.com/?utm_source=easy_protein_kitchen&utm_medium=referral",
+      "src": "https://images.unsplash.com/photo-1790001074452-c652ddb00f57?ixid=M3wxMTQzODc5fDB8MXxzZWFyY2h8MXx8S29yZWFuJTIwZ3JvdW5kJTIwYmVlZiUyMHJpY2UlMjBib3dsJTIwZ3JlZW4lMjBvbmlvbnMlMjBzZXNhbWUlMjBzZWVkc3xlbnwxfDF8fHwxNzk1NjA2ODkzfDA&ixlib=rb-4.1.0",
+      "web": "https://images.unsplash.com/photo-1790001074452-c652ddb00f57?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTQzODc5fDB8MXxzZWFyY2h8MXx8S29yZWFuJTIwZ3JvdW5kJTIwYmVlZiUyMHJpY2UlMjBib3dsJTIwZ3JlZW4lMjBvbmlvbnMlMjBzZXNhbWUlMjBzZWVkc3xlbnwxfDF8fHwxNzk1NjA2ODkzfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "download_location": "https://api.unsplash.com/photos/y6Sd_50hmz0/download?ixid=M3wxMTQzODc5fDB8MXxzZWFyY2h8MXx8S29yZWFuJTIwZ3JvdW5kJTIwYmVlZiUyMHJpY2UlMjBib3dsJTIwZ3JlZW4lMjBvbmlvbnMlMjBzZXNhbWUlMjBzZWVkc3xlbnwxfDF8fHwxNzk1NjA2ODkzfDA",
+      "score": 11
+    },
+    {
+      "id": "u-rsgscg6sBDQ",
+      "width": 3024,
+      "height": 4032,
+      "alt": "white ceramic bowl with stainless steel spoon Good Beef Gyu Don original, kindly follow @good.beef on Instagram. Thanks.",
+      "photographer": "Roman Bonapart",
+      "photographer_url": "https://unsplash.com/@romanbonapart?utm_source=easy_protein_kitchen&utm_medium=referral",
+      "page_url": "https://unsplash.com/photos/white-ceramic-bowl-with-stainless-steel-spoon-rsgscg6sBDQ?utm_source=easy_protein_kitchen&utm_medium=referral",
+      "source": "Unsplash",
+      "source_url": "https://unsplash.com/?utm_source=easy_protein_kitchen&utm_medium=referral",
+      "src": "https://images.unsplash.com/photo-1612259980822-e13d828e1076?ixid=M3wxMTQzODc5fDB8MXxzZWFyY2h8OHx8R3JvdW5kJTIwYmVlZiUyMHNraWxsZXQlMjBzb3klMjBzYXVjZSUyMGdpbmdlciUyMGdhcmxpYyUyMGJvd2x8ZW58MXwxfHx8MTc5NTYwNjg5NHww&ixlib=rb-4.1.0",
+      "web": "https://images.unsplash.com/photo-1612259980822-e13d828e1076?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTQzODc5fDB8MXxzZWFyY2h8OHx8R3JvdW5kJTIwYmVlZiUyMHNraWxsZXQlMjBzb3klMjBzYXVjZSUyMGdpbmdlciUyMGdhcmxpYyUyMGJvd2x8ZW58MXwxfHx8MTc5NTYwNjg5NHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "download_location": "https://api.unsplash.com/photos/rsgscg6sBDQ/download?ixid=M3wxMTQzODc5fDB8MXxzZWFyY2h8OHx8R3JvdW5kJTIwYmVlZiUyMHNraWxsZXQlMjBzb3klMjBzYXVjZSUyMGdpbmdlciUyMGdhcmxpYyUyMGJvd2x8ZW58MXwxfHx8MTc5NTYwNjg5NHww",
+      "score": 11
+    }
+  ],
+  "verification": {
+    "checks": [
+      {
+        "verdict": "fix",
+        "issues": [
+          "The water-to-rice ratio is too high: 3 cups (710 ml) of water for 1 1/2 cups (300 g) of rinsed jasmine rice (1:2 ratio) will result in mushy, waterlogged rice. Jasmine rice requires a lower liquid-to-rice ratio, typically 1:1.33 to 1:1.5 (2 cups / 475 ml water for 1 1/2 cups rinsed rice)."
+        ],
+        "sources": [
+          {
+            "name": "RecipeTin Eats - Korean Ground Beef Bowls",
+            "url": "https://www.recipetineats.com/korean-ground-beef-bowls/"
+          },
+          {
+            "name": "Allrecipes - Easy Korean Beef Bowl",
+            "url": "https://www.allrecipes.com/recipe/268091/easy-korean-ground-beef-bowl/"
+          }
+        ],
+        "grounded": false
+      },
+      {
+        "verdict": "pass",
+        "issues": [],
+        "sources": [
+          {
+            "name": "RecipeTin Eats - Korean Ground Beef Bowls",
+            "url": "https://www.recipetineats.com/korean-ground-beef-bowls/"
+          },
+          {
+            "name": "Allrecipes - Easy Korean Ground Beef Bowl",
+            "url": "https://www.allrecipes.com/recipe/268091/easy-korean-ground-beef-bowl/"
+          }
+        ],
+        "grounded": false
+      }
+    ],
+    "rule_warnings": [],
+    "model": "gemini-3.6-flash"
+  },
+  "created": "2026-11-25"
+}
