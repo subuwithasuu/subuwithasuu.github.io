@@ -1,0 +1,264 @@
+{
+  "title": "Crispy Ground Turkey Taco Bowl with Black Beans",
+  "description": "This crispy ground turkey taco bowl with black beans packs 35 grams of protein and comes together in just 25 minutes. It features seasoned lean turkey, tender black beans, and fluffy rice for an easy weeknight meal. Save it for your next meal prep.",
+  "cuisine": "Mexican-American",
+  "category": "Dinner",
+  "servings": 4,
+  "protein_g_per_serving": 35,
+  "prep_minutes": 10,
+  "cook_minutes": 15,
+  "total_minutes": 25,
+  "ingredients": [
+    {
+      "qty": "1",
+      "unit": "lb",
+      "item": "lean ground turkey",
+      "metric": "454 g",
+      "note": "93% lean"
+    },
+    {
+      "qty": "1",
+      "unit": "can",
+      "item": "black beans",
+      "metric": "425 g",
+      "note": "rinsed and drained"
+    },
+    {
+      "qty": "1",
+      "unit": "packet",
+      "item": "taco seasoning",
+      "metric": "28 g",
+      "note": "low sodium"
+    },
+    {
+      "qty": "1/4",
+      "unit": "cup",
+      "item": "water",
+      "metric": "60 ml",
+      "note": "for simmering"
+    },
+    {
+      "qty": "3",
+      "unit": "cups",
+      "item": "cooked white rice",
+      "metric": "480 g",
+      "note": "warm"
+    },
+    {
+      "qty": "1",
+      "unit": "cup",
+      "item": "shredded cheddar cheese",
+      "metric": "112 g",
+      "note": "divided"
+    },
+    {
+      "qty": "1",
+      "unit": "cup",
+      "item": "salsa",
+      "metric": "240 g",
+      "note": "divided"
+    }
+  ],
+  "steps": [
+    "Heat a 12-inch skillet over medium-high heat for 2 minutes. Add the lean ground turkey and cook, breaking it apart with a wooden spoon, for 7 to 8 minutes until fully browned and internal temperature reaches 160°F (71°C).",
+    "Add the taco seasoning and water to the browned turkey. Reduce heat to medium and simmer for 3 minutes until the liquid reduces and coats the meat.",
+    "Add the rinsed black beans to a small saucepan over medium heat, warming them for 3 to 4 minutes until steaming hot, stirring occasionally.",
+    "Divide the warm cooked white rice evenly among 4 bowls as the base.",
+    "Top each bowl with the crispy seasoned ground turkey, warm black beans, shredded cheddar cheese, and salsa. Serve immediately."
+  ],
+  "tips": [
+    "Substitute brown rice or quinoa for white rice if preferred.",
+    "Store leftovers in airtight containers in the refrigerator for up to 4 days.",
+    "Reheat in the microwave for 90 seconds until steaming."
+  ],
+  "storage": "Store in airtight containers in the refrigerator for up to 4 days.",
+  "tools": [
+    "12-inch skillet",
+    "wooden spoon",
+    "small saucepan",
+    "measuring cups"
+  ],
+  "keywords": [
+    "high protein taco bowl",
+    "ground turkey taco bowl recipe",
+    "healthy turkey taco bowls",
+    "meal prep taco bowls",
+    "high protein meal prep dinners",
+    "ground turkey black bean bowls",
+    "easy turkey taco bowl"
+  ],
+  "pin_variants": [
+    {
+      "hook_type": "number",
+      "title": "Crispy Ground Turkey Taco Bowl | 35g Protein Dinner",
+      "description": "Make this crispy ground turkey taco bowl with black beans for a quick meal packed with 35g protein. Ready in 25 minutes using simple ingredients for an easy weeknight dinner. Save it for your next meal prep.",
+      "overlay": "35g Protein Turkey Taco Bowls",
+      "subline": "Ready in 25 Minutes",
+      "alt_text": "A close-up of a high-protein turkey taco bowl with black beans, rice, cheese, and salsa."
+    },
+    {
+      "hook_type": "speed",
+      "title": "25-Minute Turkey Taco Bowl with Black Beans",
+      "description": "Whip up a 25-minute turkey taco bowl featuring 35g protein and savory black beans. A fast and flavorful dinner option that fits your macro goals effortlessly. Save it for your next meal prep.",
+      "overlay": "Ready in 25 Minutes",
+      "subline": "35g Protein Dinner",
+      "alt_text": "Top-down view of a colorful taco bowl with ground turkey, black beans, and salsa."
+    },
+    {
+      "hook_type": "outcome",
+      "title": "High Protein Turkey Taco Bowls for Meal Prep",
+      "description": "Prep these high protein turkey taco bowls ahead of time for a reliable 35g protein meal. Takes just 25 minutes total with simple pantry ingredients. Save it for your next meal prep.",
+      "overlay": "Easy High Protein Meal Prep",
+      "subline": "Make Ahead Friendly",
+      "alt_text": "Meal prep containers filled with ground turkey taco bowls and black beans."
+    },
+    {
+      "hook_type": "budget",
+      "title": "Ground Turkey Taco Bowl Recipe with Black Beans",
+      "description": "Enjoy an affordable ground turkey taco bowl with black beans delivering 35g protein per serving. Simple pantry spices and lean meat make this a go-to dinner. Save it for your next meal prep.",
+      "overlay": "Pantry Friendly Taco Bowls",
+      "subline": "Simple Weeknight Dinner",
+      "alt_text": "A rustic bowl of seasoned ground turkey and black beans over rice."
+    }
+  ],
+  "video_script": {
+    "hook": "Make this crispy turkey taco bowl with 35 grams of protein.",
+    "steps_short": [
+      "Brown the lean ground turkey in a skillet over medium-high heat.",
+      "Add taco seasoning and water, then simmer until reduced.",
+      "Warm the black beans in a small saucepan until steaming.",
+      "Layer the warm rice, turkey, beans, cheese, and salsa into bowls."
+    ],
+    "outro": "Find the complete recipe and measurements on our website."
+  },
+  "photo_queries": [
+    "ground turkey taco bowl with black beans",
+    "high protein taco bowl recipe",
+    "turkey and rice bowl with salsa"
+  ],
+  "must_match": [
+    "taco",
+    "bowl",
+    "turkey",
+    "beans"
+  ],
+  "board": "Budget High Protein Meals",
+  "slug": "crispy-ground-turkey-taco-bowl-with-black-beans",
+  "protein_g": 35,
+  "photos": [
+    {
+      "id": "u-jEjCqbVt_bI",
+      "width": 3853,
+      "height": 5779,
+      "alt": "stainless steel spoon on stainless steel round bowl Healthy and nutritious one bowl meal with mango quinoa salad, Pinto beans and asparagus on side. With a glass of fresh juice. ",
+      "photographer": "Shashi Chaturvedula",
+      "photographer_url": "https://unsplash.com/@thephotographermom?utm_source=easy_protein_kitchen&utm_medium=referral",
+      "page_url": "https://unsplash.com/photos/stainless-steel-spoon-on-stainless-steel-round-bowl-jEjCqbVt_bI?utm_source=easy_protein_kitchen&utm_medium=referral",
+      "source": "Unsplash",
+      "source_url": "https://unsplash.com/?utm_source=easy_protein_kitchen&utm_medium=referral",
+      "src": "https://images.unsplash.com/photo-1615865441757-e5328eb6a5ad?ixid=M3wxMTQzODc5fDB8MXxzZWFyY2h8MTV8fGhpZ2glMjBwcm90ZWluJTIwdGFjbyUyMGJvd2wlMjByZWNpcGV8ZW58MXwxfHx8MTc5NTY5NDQzN3ww&ixlib=rb-4.1.0",
+      "web": "https://images.unsplash.com/photo-1615865441757-e5328eb6a5ad?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTQzODc5fDB8MXxzZWFyY2h8MTV8fGhpZ2glMjBwcm90ZWluJTIwdGFjbyUyMGJvd2wlMjByZWNpcGV8ZW58MXwxfHx8MTc5NTY5NDQzN3ww&ixlib=rb-4.1.0&q=80&w=1080",
+      "download_location": "https://api.unsplash.com/photos/jEjCqbVt_bI/download?ixid=M3wxMTQzODc5fDB8MXxzZWFyY2h8MTV8fGhpZ2glMjBwcm90ZWluJTIwdGFjbyUyMGJvd2wlMjByZWNpcGV8ZW58MXwxfHx8MTc5NTY5NDQzN3ww",
+      "score": 9
+    },
+    {
+      "id": "u-qvMbMZT_i3Q",
+      "width": 4000,
+      "height": 6000,
+      "alt": "brown rice with green peas on white ceramic bowl",
+      "photographer": "Gonzalo Mendiola",
+      "photographer_url": "https://unsplash.com/@mendiolamilla10?utm_source=easy_protein_kitchen&utm_medium=referral",
+      "page_url": "https://unsplash.com/photos/brown-rice-with-green-peas-on-white-ceramic-bowl-qvMbMZT_i3Q?utm_source=easy_protein_kitchen&utm_medium=referral",
+      "source": "Unsplash",
+      "source_url": "https://unsplash.com/?utm_source=easy_protein_kitchen&utm_medium=referral",
+      "src": "https://images.unsplash.com/photo-1629793980444-11a91aa44476?ixid=M3wxMTQzODc5fDB8MXxzZWFyY2h8Mnx8aGlnaCUyMHByb3RlaW4lMjB0YWNvJTIwYm93bCUyMHJlY2lwZXxlbnwxfDF8fHwxNzk1Njk0NDM3fDA&ixlib=rb-4.1.0",
+      "web": "https://images.unsplash.com/photo-1629793980444-11a91aa44476?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTQzODc5fDB8MXxzZWFyY2h8Mnx8aGlnaCUyMHByb3RlaW4lMjB0YWNvJTIwYm93bCUyMHJlY2lwZXxlbnwxfDF8fHwxNzk1Njk0NDM3fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "download_location": "https://api.unsplash.com/photos/qvMbMZT_i3Q/download?ixid=M3wxMTQzODc5fDB8MXxzZWFyY2h8Mnx8aGlnaCUyMHByb3RlaW4lMjB0YWNvJTIwYm93bCUyMHJlY2lwZXxlbnwxfDF8fHwxNzk1Njk0NDM3fDA",
+      "score": 6
+    },
+    {
+      "id": "u-zTap5OUPDAE",
+      "width": 4016,
+      "height": 6016,
+      "alt": "sliced tomato and green vegetable on black ceramic plate Buddha bowl ",
+      "photographer": "Frames For Your Heart",
+      "photographer_url": "https://unsplash.com/@framesforyourheart?utm_source=easy_protein_kitchen&utm_medium=referral",
+      "page_url": "https://unsplash.com/photos/sliced-tomato-and-green-vegetable-on-black-ceramic-plate-zTap5OUPDAE?utm_source=easy_protein_kitchen&utm_medium=referral",
+      "source": "Unsplash",
+      "source_url": "https://unsplash.com/?utm_source=easy_protein_kitchen&utm_medium=referral",
+      "src": "https://images.unsplash.com/photo-1599020792689-9fde458e7e17?ixid=M3wxMTQzODc5fDB8MXxzZWFyY2h8M3x8aGlnaCUyMHByb3RlaW4lMjB0YWNvJTIwYm93bCUyMHJlY2lwZXxlbnwxfDF8fHwxNzk1Njk0NDM3fDA&ixlib=rb-4.1.0",
+      "web": "https://images.unsplash.com/photo-1599020792689-9fde458e7e17?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTQzODc5fDB8MXxzZWFyY2h8M3x8aGlnaCUyMHByb3RlaW4lMjB0YWNvJTIwYm93bCUyMHJlY2lwZXxlbnwxfDF8fHwxNzk1Njk0NDM3fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "download_location": "https://api.unsplash.com/photos/zTap5OUPDAE/download?ixid=M3wxMTQzODc5fDB8MXxzZWFyY2h8M3x8aGlnaCUyMHByb3RlaW4lMjB0YWNvJTIwYm93bCUyMHJlY2lwZXxlbnwxfDF8fHwxNzk1Njk0NDM3fDA",
+      "score": 6
+    },
+    {
+      "id": "u-D1u7ibM8vKU",
+      "width": 4480,
+      "height": 6720,
+      "alt": "a white bowl filled with lettuce and meat",
+      "photographer": "Caroline Ross",
+      "photographer_url": "https://unsplash.com/@caroline_ross?utm_source=easy_protein_kitchen&utm_medium=referral",
+      "page_url": "https://unsplash.com/photos/a-white-bowl-filled-with-lettuce-and-meat-D1u7ibM8vKU?utm_source=easy_protein_kitchen&utm_medium=referral",
+      "source": "Unsplash",
+      "source_url": "https://unsplash.com/?utm_source=easy_protein_kitchen&utm_medium=referral",
+      "src": "https://images.unsplash.com/photo-1707080019893-bf8fc3d55f08?ixid=M3wxMTQzODc5fDB8MXxzZWFyY2h8NHx8aGlnaCUyMHByb3RlaW4lMjB0YWNvJTIwYm93bCUyMHJlY2lwZXxlbnwxfDF8fHwxNzk1Njk0NDM3fDA&ixlib=rb-4.1.0",
+      "web": "https://images.unsplash.com/photo-1707080019893-bf8fc3d55f08?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTQzODc5fDB8MXxzZWFyY2h8NHx8aGlnaCUyMHByb3RlaW4lMjB0YWNvJTIwYm93bCUyMHJlY2lwZXxlbnwxfDF8fHwxNzk1Njk0NDM3fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "download_location": "https://api.unsplash.com/photos/D1u7ibM8vKU/download?ixid=M3wxMTQzODc5fDB8MXxzZWFyY2h8NHx8aGlnaCUyMHByb3RlaW4lMjB0YWNvJTIwYm93bCUyMHJlY2lwZXxlbnwxfDF8fHwxNzk1Njk0NDM3fDA",
+      "score": 6
+    },
+    {
+      "id": "u-F324MxuBmh4",
+      "width": 3887,
+      "height": 4859,
+      "alt": "a blue bowl filled with vegetables and a wooden spoon @herbedandhungry\nwww.herbedandhungry.com",
+      "photographer": "Sonny Mauricio",
+      "photographer_url": "https://unsplash.com/@northernstatemedia?utm_source=easy_protein_kitchen&utm_medium=referral",
+      "page_url": "https://unsplash.com/photos/a-blue-bowl-filled-with-vegetables-and-a-wooden-spoon-F324MxuBmh4?utm_source=easy_protein_kitchen&utm_medium=referral",
+      "source": "Unsplash",
+      "source_url": "https://unsplash.com/?utm_source=easy_protein_kitchen&utm_medium=referral",
+      "src": "https://images.unsplash.com/photo-1623428186429-e76984bf48ad?ixid=M3wxMTQzODc5fDB8MXxzZWFyY2h8Nnx8aGlnaCUyMHByb3RlaW4lMjB0YWNvJTIwYm93bCUyMHJlY2lwZXxlbnwxfDF8fHwxNzk1Njk0NDM3fDA&ixlib=rb-4.1.0",
+      "web": "https://images.unsplash.com/photo-1623428186429-e76984bf48ad?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTQzODc5fDB8MXxzZWFyY2h8Nnx8aGlnaCUyMHByb3RlaW4lMjB0YWNvJTIwYm93bCUyMHJlY2lwZXxlbnwxfDF8fHwxNzk1Njk0NDM3fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "download_location": "https://api.unsplash.com/photos/F324MxuBmh4/download?ixid=M3wxMTQzODc5fDB8MXxzZWFyY2h8Nnx8aGlnaCUyMHByb3RlaW4lMjB0YWNvJTIwYm93bCUyMHJlY2lwZXxlbnwxfDF8fHwxNzk1Njk0NDM3fDA",
+      "score": 6
+    },
+    {
+      "id": "u-FKg3t5TfOsY",
+      "width": 4000,
+      "height": 6000,
+      "alt": "a bowl of mexican food next to a bowl of guacamole",
+      "photographer": "Gonzalo Mendiola",
+      "photographer_url": "https://unsplash.com/@mendiolamilla10?utm_source=easy_protein_kitchen&utm_medium=referral",
+      "page_url": "https://unsplash.com/photos/a-bowl-of-mexican-food-next-to-a-bowl-of-guacamole-FKg3t5TfOsY?utm_source=easy_protein_kitchen&utm_medium=referral",
+      "source": "Unsplash",
+      "source_url": "https://unsplash.com/?utm_source=easy_protein_kitchen&utm_medium=referral",
+      "src": "https://images.unsplash.com/photo-1635107420370-b9fac732b284?ixid=M3wxMTQzODc5fDB8MXxzZWFyY2h8N3x8aGlnaCUyMHByb3RlaW4lMjB0YWNvJTIwYm93bCUyMHJlY2lwZXxlbnwxfDF8fHwxNzk1Njk0NDM3fDA&ixlib=rb-4.1.0",
+      "web": "https://images.unsplash.com/photo-1635107420370-b9fac732b284?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTQzODc5fDB8MXxzZWFyY2h8N3x8aGlnaCUyMHByb3RlaW4lMjB0YWNvJTIwYm93bCUyMHJlY2lwZXxlbnwxfDF8fHwxNzk1Njk0NDM3fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "download_location": "https://api.unsplash.com/photos/FKg3t5TfOsY/download?ixid=M3wxMTQzODc5fDB8MXxzZWFyY2h8N3x8aGlnaCUyMHByb3RlaW4lMjB0YWNvJTIwYm93bCUyMHJlY2lwZXxlbnwxfDF8fHwxNzk1Njk0NDM3fDA",
+      "score": 6
+    }
+  ],
+  "verification": {
+    "checks": [
+      {
+        "verdict": "pass",
+        "issues": [],
+        "sources": [
+          {
+            "name": "Serious Eats - Ground Turkey Tacos",
+            "url": "https://www.seriouseats.com/"
+          },
+          {
+            "name": "BBC Good Food - Mexican style turkey mince bowls",
+            "url": "https://www.bbcgoodfood.com/"
+          }
+        ],
+        "grounded": false
+      }
+    ],
+    "rule_warnings": [
+      "unusual unit 'packet' for 'taco seasoning'"
+    ],
+    "model": "gemini-flash-lite-latest"
+  },
+  "created": "2026-11-26"
+}

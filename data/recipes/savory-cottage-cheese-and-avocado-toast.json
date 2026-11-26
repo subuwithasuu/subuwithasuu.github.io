@@ -1,0 +1,243 @@
+{
+  "title": "Savory Cottage Cheese and Avocado Toast",
+  "description": "This Savory Cottage Cheese and Avocado Toast provides 22g of protein and comes together in just 10 minutes. It features creamy whipped cottage cheese topped with fresh avocado and a soft-boiled egg on toasted sourdough. Save it for your next meal prep.",
+  "cuisine": "American",
+  "category": "Breakfast",
+  "servings": 1,
+  "protein_g_per_serving": 22,
+  "prep_minutes": 5,
+  "cook_minutes": 5,
+  "total_minutes": 10,
+  "ingredients": [
+    {
+      "qty": "1/2",
+      "unit": "cup",
+      "item": "low-fat cottage cheese",
+      "metric": "113 g",
+      "note": "blended until smooth"
+    },
+    {
+      "qty": "1",
+      "unit": "slice",
+      "item": "sourdough bread",
+      "metric": "50 g",
+      "note": "toasted until golden brown"
+    },
+    {
+      "qty": "1/2",
+      "unit": "medium",
+      "item": "ripe avocado",
+      "metric": "75 g",
+      "note": "sliced"
+    },
+    {
+      "qty": "1",
+      "unit": "large",
+      "item": "egg",
+      "metric": "50 g",
+      "note": "soft-boiled"
+    },
+    {
+      "qty": "1/4",
+      "unit": "tsp",
+      "item": "red pepper flakes",
+      "metric": "1 g",
+      "note": "for garnish"
+    }
+  ],
+  "steps": [
+    "Place the egg in a small saucepan of boiling water over medium-high heat. Boil for 6 minutes, then immediately transfer to an ice bath for 2 minutes before peeling.",
+    "Place the sourdough slice in a toaster on a medium setting for 2-3 minutes until golden brown and crisp.",
+    "While the bread toasts, blend the cottage cheese in a small food processor or with an immersion blender for 30 seconds until completely smooth and creamy.",
+    "Spread the whipped cottage cheese over the warm toast, top with avocado slices, and place the peeled soft-boiled egg on top. Sprinkle with red pepper flakes and serve immediately."
+  ],
+  "tips": [
+    "Blend the cottage cheese the night before to save time during busy mornings.",
+    "Ensure the egg is at room temperature before boiling to prevent the shell from cracking."
+  ],
+  "storage": "Best enjoyed immediately; the avocado will brown if stored for later.",
+  "tools": [
+    "small saucepan",
+    "toaster",
+    "small food processor or immersion blender"
+  ],
+  "keywords": [
+    "high protein breakfast",
+    "savory cottage cheese toast",
+    "avocado toast with egg",
+    "healthy breakfast ideas",
+    "protein breakfast recipes",
+    "quick breakfast for gym goers"
+  ],
+  "pin_variants": [
+    {
+      "hook_type": "number",
+      "title": "Savory Cottage Cheese and Avocado Toast for High Protein Breakfast",
+      "description": "This Savory Cottage Cheese and Avocado Toast packs 22g of protein into a 10-minute breakfast. It is a perfect savory start to your day using simple, fresh ingredients. Save it for your next meal prep.",
+      "overlay": "22g Protein Avocado Toast",
+      "subline": "Ready in 10 Minutes",
+      "alt_text": "A slice of toasted sourdough topped with whipped cottage cheese, sliced avocado, and a soft-boiled egg."
+    },
+    {
+      "hook_type": "speed",
+      "title": "10-Minute Savory Cottage Cheese and Avocado Toast",
+      "description": "Enjoy a 10-minute Savory Cottage Cheese and Avocado Toast that delivers 22g of protein. This balanced meal is quick to assemble and keeps you full throughout the morning. Save it for your next meal prep.",
+      "overlay": "10-Minute High Protein Toast",
+      "subline": "Packed with 22g Protein",
+      "alt_text": "Close up of creamy cottage cheese and sliced avocado on toasted bread."
+    },
+    {
+      "hook_type": "how_without",
+      "title": "High Protein Avocado Toast Without Protein Powder",
+      "description": "Learn how to make Savory Cottage Cheese and Avocado Toast with 22g of protein without using protein powder. This recipe uses real food for a satisfying breakfast in 10 minutes. Save it for your next meal prep.",
+      "overlay": "High Protein Toast Without Powder",
+      "subline": "Real Food, 22g Protein",
+      "alt_text": "A soft-boiled egg resting on top of avocado and cottage cheese toast."
+    },
+    {
+      "hook_type": "teacher",
+      "title": "The Secret to Creamy High Protein Avocado Toast",
+      "description": "The secret to this Savory Cottage Cheese and Avocado Toast is whipping the cheese for 22g of protein in 10 minutes. It creates a rich, spreadable base that elevates your morning toast. Save it for your next meal prep.",
+      "overlay": "The Secret to Creamy Protein Toast",
+      "subline": "22g Protein, 10 Minutes",
+      "alt_text": "Whipped cottage cheese spread on sourdough toast topped with avocado."
+    }
+  ],
+  "video_script": {
+    "hook": "Need a quick breakfast? This toast has 22 grams of protein.",
+    "steps_short": [
+      "Boil your egg for six minutes and peel it carefully.",
+      "Toast your sourdough slice until it is perfectly golden brown.",
+      "Blend your cottage cheese until it is smooth and creamy.",
+      "Spread the cheese, layer the avocado, and top with your egg."
+    ],
+    "outro": "Find the full recipe and instructions on our website."
+  },
+  "photo_queries": [
+    "avocado toast with cottage cheese and egg",
+    "high protein breakfast toast",
+    "whipped cottage cheese on sourdough"
+  ],
+  "must_match": [
+    "toast",
+    "egg",
+    "avocado"
+  ],
+  "board": "High Protein Breakfast",
+  "slug": "savory-cottage-cheese-and-avocado-toast",
+  "protein_g": 22,
+  "photos": [
+    {
+      "id": "u-Hb5OfGzeKNk",
+      "width": 2268,
+      "height": 3956,
+      "alt": "cooked food A delicious avocado toast with an egg and some walnuts",
+      "photographer": "Ellen Bordal",
+      "photographer_url": "https://unsplash.com/@ellenviktoria?utm_source=easy_protein_kitchen&utm_medium=referral",
+      "page_url": "https://unsplash.com/photos/cooked-food-Hb5OfGzeKNk?utm_source=easy_protein_kitchen&utm_medium=referral",
+      "source": "Unsplash",
+      "source_url": "https://unsplash.com/?utm_source=easy_protein_kitchen&utm_medium=referral",
+      "src": "https://images.unsplash.com/photo-1561467792-ba0b66ddfc83?ixid=M3wxMTQzODc5fDB8MXxzZWFyY2h8NHx8YXZvY2FkbyUyMHRvYXN0JTIwd2l0aCUyMGNvdHRhZ2UlMjBjaGVlc2UlMjBhbmQlMjBlZ2d8ZW58MXwxfHx8MTc5NTY5NjA3M3ww&ixlib=rb-4.1.0",
+      "web": "https://images.unsplash.com/photo-1561467792-ba0b66ddfc83?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTQzODc5fDB8MXxzZWFyY2h8NHx8YXZvY2FkbyUyMHRvYXN0JTIwd2l0aCUyMGNvdHRhZ2UlMjBjaGVlc2UlMjBhbmQlMjBlZ2d8ZW58MXwxfHx8MTc5NTY5NjA3M3ww&ixlib=rb-4.1.0&q=80&w=1080",
+      "download_location": "https://api.unsplash.com/photos/Hb5OfGzeKNk/download?ixid=M3wxMTQzODc5fDB8MXxzZWFyY2h8NHx8YXZvY2FkbyUyMHRvYXN0JTIwd2l0aCUyMGNvdHRhZ2UlMjBjaGVlc2UlMjBhbmQlMjBlZ2d8ZW58MXwxfHx8MTc5NTY5NjA3M3ww",
+      "score": 16
+    },
+    {
+      "id": "u-zU_x3GT4ByQ",
+      "width": 4000,
+      "height": 6000,
+      "alt": "Avocado toast with hard-boiled egg and sun-dried tomatoes",
+      "photographer": "Taylor Friehl",
+      "photographer_url": "https://unsplash.com/@taylor_friehl?utm_source=easy_protein_kitchen&utm_medium=referral",
+      "page_url": "https://unsplash.com/photos/avocado-toast-with-hard-boiled-egg-and-sun-dried-tomatoes-zU_x3GT4ByQ?utm_source=easy_protein_kitchen&utm_medium=referral",
+      "source": "Unsplash",
+      "source_url": "https://unsplash.com/?utm_source=easy_protein_kitchen&utm_medium=referral",
+      "src": "https://images.unsplash.com/photo-1770306925042-05987831cb6e?ixid=M3wxMTQzODc5fDB8MXxzZWFyY2h8Nnx8YXZvY2FkbyUyMHRvYXN0JTIwd2l0aCUyMGNvdHRhZ2UlMjBjaGVlc2UlMjBhbmQlMjBlZ2d8ZW58MXwxfHx8MTc5NTY5NjA3M3ww&ixlib=rb-4.1.0",
+      "web": "https://images.unsplash.com/photo-1770306925042-05987831cb6e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTQzODc5fDB8MXxzZWFyY2h8Nnx8YXZvY2FkbyUyMHRvYXN0JTIwd2l0aCUyMGNvdHRhZ2UlMjBjaGVlc2UlMjBhbmQlMjBlZ2d8ZW58MXwxfHx8MTc5NTY5NjA3M3ww&ixlib=rb-4.1.0&q=80&w=1080",
+      "download_location": "https://api.unsplash.com/photos/zU_x3GT4ByQ/download?ixid=M3wxMTQzODc5fDB8MXxzZWFyY2h8Nnx8YXZvY2FkbyUyMHRvYXN0JTIwd2l0aCUyMGNvdHRhZ2UlMjBjaGVlc2UlMjBhbmQlMjBlZ2d8ZW58MXwxfHx8MTc5NTY5NjA3M3ww",
+      "score": 16
+    },
+    {
+      "id": "u-3Ssl9Xl7un4",
+      "width": 1759,
+      "height": 3125,
+      "alt": "Poached egg over avocado toast is ready to eat",
+      "photographer": "buttercup fin",
+      "photographer_url": "https://unsplash.com/@buttercup_fin?utm_source=easy_protein_kitchen&utm_medium=referral",
+      "page_url": "https://unsplash.com/photos/poached-egg-over-avocado-toast-is-ready-to-eat-3Ssl9Xl7un4?utm_source=easy_protein_kitchen&utm_medium=referral",
+      "source": "Unsplash",
+      "source_url": "https://unsplash.com/?utm_source=easy_protein_kitchen&utm_medium=referral",
+      "src": "https://images.unsplash.com/photo-1743067366938-a83a63c5b9e8?ixid=M3wxMTQzODc5fDB8MXxzZWFyY2h8MTR8fGF2b2NhZG8lMjB0b2FzdCUyMHdpdGglMjBjb3R0YWdlJTIwY2hlZXNlJTIwYW5kJTIwZWdnfGVufDF8MXx8fDE3OTU2OTYwNzN8MA&ixlib=rb-4.1.0",
+      "web": "https://images.unsplash.com/photo-1743067366938-a83a63c5b9e8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTQzODc5fDB8MXxzZWFyY2h8MTR8fGF2b2NhZG8lMjB0b2FzdCUyMHdpdGglMjBjb3R0YWdlJTIwY2hlZXNlJTIwYW5kJTIwZWdnfGVufDF8MXx8fDE3OTU2OTYwNzN8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "download_location": "https://api.unsplash.com/photos/3Ssl9Xl7un4/download?ixid=M3wxMTQzODc5fDB8MXxzZWFyY2h8MTR8fGF2b2NhZG8lMjB0b2FzdCUyMHdpdGglMjBjb3R0YWdlJTIwY2hlZXNlJTIwYW5kJTIwZWdnfGVufDF8MXx8fDE3OTU2OTYwNzN8MA",
+      "score": 16
+    },
+    {
+      "id": "u-wwIGj5h4LmI",
+      "width": 3115,
+      "height": 4672,
+      "alt": "Avocado toast with poached egg and greens",
+      "photographer": "Mulberry Digital",
+      "photographer_url": "https://unsplash.com/@mulberrydigital?utm_source=easy_protein_kitchen&utm_medium=referral",
+      "page_url": "https://unsplash.com/photos/avocado-toast-with-poached-egg-and-greens-wwIGj5h4LmI?utm_source=easy_protein_kitchen&utm_medium=referral",
+      "source": "Unsplash",
+      "source_url": "https://unsplash.com/?utm_source=easy_protein_kitchen&utm_medium=referral",
+      "src": "https://images.unsplash.com/photo-1744893811003-7e6bffd2ec8d?ixid=M3wxMTQzODc5fDB8MXxzZWFyY2h8MjZ8fGF2b2NhZG8lMjB0b2FzdCUyMHdpdGglMjBjb3R0YWdlJTIwY2hlZXNlJTIwYW5kJTIwZWdnfGVufDF8MXx8fDE3OTU2OTYwNzN8MA&ixlib=rb-4.1.0",
+      "web": "https://images.unsplash.com/photo-1744893811003-7e6bffd2ec8d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTQzODc5fDB8MXxzZWFyY2h8MjZ8fGF2b2NhZG8lMjB0b2FzdCUyMHdpdGglMjBjb3R0YWdlJTIwY2hlZXNlJTIwYW5kJTIwZWdnfGVufDF8MXx8fDE3OTU2OTYwNzN8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "download_location": "https://api.unsplash.com/photos/wwIGj5h4LmI/download?ixid=M3wxMTQzODc5fDB8MXxzZWFyY2h8MjZ8fGF2b2NhZG8lMjB0b2FzdCUyMHdpdGglMjBjb3R0YWdlJTIwY2hlZXNlJTIwYW5kJTIwZWdnfGVufDF8MXx8fDE3OTU2OTYwNzN8MA",
+      "score": 16
+    },
+    {
+      "id": "u-4zm5e0ZgYjE",
+      "width": 2848,
+      "height": 4272,
+      "alt": "sunny side up egg, lettuce, bread on white ceramic plate Egg on toast on plate",
+      "photographer": "Alison Marras",
+      "photographer_url": "https://unsplash.com/@foodbymars?utm_source=easy_protein_kitchen&utm_medium=referral",
+      "page_url": "https://unsplash.com/photos/sunny-side-up-egg-lettuce-bread-on-white-ceramic-plate-4zm5e0ZgYjE?utm_source=easy_protein_kitchen&utm_medium=referral",
+      "source": "Unsplash",
+      "source_url": "https://unsplash.com/?utm_source=easy_protein_kitchen&utm_medium=referral",
+      "src": "https://images.unsplash.com/photo-1504382262782-5b4ece78642b?ixid=M3wxMTQzODc5fDB8MXxzZWFyY2h8NXx8YXZvY2FkbyUyMHRvYXN0JTIwd2l0aCUyMGNvdHRhZ2UlMjBjaGVlc2UlMjBhbmQlMjBlZ2d8ZW58MXwxfHx8MTc5NTY5NjA3M3ww&ixlib=rb-4.1.0",
+      "web": "https://images.unsplash.com/photo-1504382262782-5b4ece78642b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTQzODc5fDB8MXxzZWFyY2h8NXx8YXZvY2FkbyUyMHRvYXN0JTIwd2l0aCUyMGNvdHRhZ2UlMjBjaGVlc2UlMjBhbmQlMjBlZ2d8ZW58MXwxfHx8MTc5NTY5NjA3M3ww&ixlib=rb-4.1.0&q=80&w=1080",
+      "download_location": "https://api.unsplash.com/photos/4zm5e0ZgYjE/download?ixid=M3wxMTQzODc5fDB8MXxzZWFyY2h8NXx8YXZvY2FkbyUyMHRvYXN0JTIwd2l0aCUyMGNvdHRhZ2UlMjBjaGVlc2UlMjBhbmQlMjBlZ2d8ZW58MXwxfHx8MTc5NTY5NjA3M3ww",
+      "score": 11
+    },
+    {
+      "id": "u-P7oGUDHswIA",
+      "width": 3353,
+      "height": 5030,
+      "alt": "A white plate topped with a piece of toast covered in avocado Seriously the best avocado toast.",
+      "photographer": "Andrew Spencer",
+      "photographer_url": "https://unsplash.com/@iam_aspencer?utm_source=easy_protein_kitchen&utm_medium=referral",
+      "page_url": "https://unsplash.com/photos/a-white-plate-topped-with-a-piece-of-toast-covered-in-avocado-P7oGUDHswIA?utm_source=easy_protein_kitchen&utm_medium=referral",
+      "source": "Unsplash",
+      "source_url": "https://unsplash.com/?utm_source=easy_protein_kitchen&utm_medium=referral",
+      "src": "https://images.unsplash.com/photo-1719520670204-dbe1903a789f?ixid=M3wxMTQzODc5fDB8MXxzZWFyY2h8N3x8YXZvY2FkbyUyMHRvYXN0JTIwd2l0aCUyMGNvdHRhZ2UlMjBjaGVlc2UlMjBhbmQlMjBlZ2d8ZW58MXwxfHx8MTc5NTY5NjA3M3ww&ixlib=rb-4.1.0",
+      "web": "https://images.unsplash.com/photo-1719520670204-dbe1903a789f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTQzODc5fDB8MXxzZWFyY2h8N3x8YXZvY2FkbyUyMHRvYXN0JTIwd2l0aCUyMGNvdHRhZ2UlMjBjaGVlc2UlMjBhbmQlMjBlZ2d8ZW58MXwxfHx8MTc5NTY5NjA3M3ww&ixlib=rb-4.1.0&q=80&w=1080",
+      "download_location": "https://api.unsplash.com/photos/P7oGUDHswIA/download?ixid=M3wxMTQzODc5fDB8MXxzZWFyY2h8N3x8YXZvY2FkbyUyMHRvYXN0JTIwd2l0aCUyMGNvdHRhZ2UlMjBjaGVlc2UlMjBhbmQlMjBlZ2d8ZW58MXwxfHx8MTc5NTY5NjA3M3ww",
+      "score": 11
+    }
+  ],
+  "verification": {
+    "checks": [
+      {
+        "verdict": "pass",
+        "issues": [],
+        "sources": [
+          {
+            "name": "Bon Appétit - Whipped Cottage Cheese Toast",
+            "url": "https://www.bonappetit.com/recipe/whipped-cottage-cheese-toast"
+          },
+          {
+            "name": "NYT Cooking - Avocado Toast With Soft-Boiled Egg",
+            "url": "https://cooking.nytimes.com/recipes/1018636-avocado-toast-with-soft-boiled-egg"
+          }
+        ],
+        "grounded": false
+      }
+    ],
+    "rule_warnings": [],
+    "model": "gemini-flash-lite-latest"
+  },
+  "created": "2026-11-26"
+}

@@ -1,0 +1,244 @@
+{
+  "title": "Vanilla Berry Greek Yogurt Protein Bowl",
+  "description": "This Vanilla Berry Greek Yogurt Protein Bowl packs 35 grams of protein into a quick, refreshing breakfast. It combines creamy strained yogurt with fresh fruit and crunchy toppings for a satisfying morning meal.",
+  "cuisine": "American",
+  "category": "Breakfast",
+  "servings": 1,
+  "protein_g_per_serving": 35,
+  "prep_minutes": 5,
+  "cook_minutes": 0,
+  "total_minutes": 5,
+  "ingredients": [
+    {
+      "qty": "1",
+      "unit": "cup",
+      "item": "plain non-fat Greek yogurt",
+      "metric": "225 g",
+      "note": "strained"
+    },
+    {
+      "qty": "1",
+      "unit": "scoop",
+      "item": "vanilla whey protein powder",
+      "metric": "30 g",
+      "note": "isolate"
+    },
+    {
+      "qty": "1/2",
+      "unit": "cup",
+      "item": "fresh blueberries",
+      "metric": "75 g",
+      "note": "washed"
+    },
+    {
+      "qty": "1",
+      "unit": "tbsp",
+      "item": "chia seeds",
+      "metric": "12 g",
+      "note": "whole"
+    },
+    {
+      "qty": "2",
+      "unit": "tbsp",
+      "item": "sliced almonds",
+      "metric": "15 g",
+      "note": "raw"
+    }
+  ],
+  "steps": [
+    "In a medium mixing bowl, combine the Greek yogurt and vanilla protein powder, whisking vigorously for 60 seconds until the powder is fully incorporated and the mixture is smooth.",
+    "Fold in half of the blueberries using a silicone spatula until evenly distributed.",
+    "Transfer the mixture to a serving bowl, smoothing the top with the back of a spoon.",
+    "Garnish the surface with the remaining blueberries, chia seeds, and sliced almonds, serving immediately while chilled."
+  ],
+  "tips": [
+    "If the mixture is too thick, stir in one tablespoon of water or almond milk at a time until the desired consistency is reached.",
+    "For added texture, toast the sliced almonds in a dry skillet over medium heat for 2-3 minutes until golden brown and fragrant before adding.",
+    "You can prep this in an airtight container the night before, but add the almonds and chia seeds just before eating to keep them crunchy."
+  ],
+  "storage": "Keep refrigerated in an airtight container for up to 24 hours.",
+  "tools": [
+    "mixing bowl",
+    "whisk",
+    "silicone spatula"
+  ],
+  "keywords": [
+    "high protein breakfast",
+    "greek yogurt bowl",
+    "protein breakfast ideas",
+    "easy high protein breakfast",
+    "vanilla berry protein bowl",
+    "healthy breakfast bowl"
+  ],
+  "pin_variants": [
+    {
+      "hook_type": "number",
+      "title": "Vanilla Berry Greek Yogurt Protein Bowl: 35g Protein",
+      "description": "This Vanilla Berry Greek Yogurt Protein Bowl provides 35g of protein and is ready in 5 minutes. It is a simple, high-protein breakfast option for busy mornings. Save it for your next meal prep.",
+      "overlay": "35g Protein Greek Yogurt Bowl",
+      "subline": "Ready in 5 Minutes",
+      "alt_text": "A bowl of thick vanilla Greek yogurt topped with fresh blueberries, chia seeds, and sliced almonds."
+    },
+    {
+      "hook_type": "speed",
+      "title": "5-Minute High Protein Greek Yogurt Bowl",
+      "description": "This 5-Minute High Protein Greek Yogurt Bowl features 35g of protein in every serving. It is a perfect breakfast for those who need a fast, macro-friendly start to the day. Save it for your next meal prep.",
+      "overlay": "5-Minute High Protein Breakfast",
+      "subline": "35g Protein Per Serving",
+      "alt_text": "Close up of a creamy protein-packed yogurt bowl with berries and nuts."
+    },
+    {
+      "hook_type": "how_without",
+      "title": "High Protein Breakfast Without Eggs: Yogurt Bowl",
+      "description": "Create a High Protein Breakfast Without Eggs using this 35g protein Greek yogurt bowl. It takes 5 minutes to assemble and uses simple, wholesome ingredients. Save it for your next meal prep.",
+      "overlay": "High Protein Breakfast Without Eggs",
+      "subline": "35g Protein, 5 Minutes",
+      "alt_text": "A refreshing bowl of vanilla protein yogurt topped with fresh blueberries and almonds."
+    },
+    {
+      "hook_type": "outcome",
+      "title": "High Protein Breakfast for Busy Mornings",
+      "description": "Fuel your day with this High Protein Breakfast for Busy Mornings, delivering 35g of protein in 5 minutes. It is a delicious, no-cook meal that fits perfectly into your routine. Save it for your next meal prep.",
+      "overlay": "35g Protein Breakfast Prep",
+      "subline": "Ready in 5 Minutes",
+      "alt_text": "A healthy protein yogurt bowl garnished with fresh fruit and seeds."
+    }
+  ],
+  "video_script": {
+    "hook": "Need a quick breakfast with 35 grams of protein?",
+    "steps_short": [
+      "Whisk your Greek yogurt and vanilla protein powder until smooth.",
+      "Fold in your fresh blueberries.",
+      "Top with chia seeds and sliced almonds for a satisfying crunch.",
+      "Enjoy this high-protein bowl in just five minutes."
+    ],
+    "outro": "Find the full recipe on our website for your next meal prep."
+  },
+  "photo_queries": [
+    "greek yogurt bowl with berries and nuts",
+    "vanilla protein yogurt bowl top view",
+    "healthy high protein breakfast bowl"
+  ],
+  "must_match": [
+    "yogurt",
+    "protein",
+    "berries"
+  ],
+  "board": "High Protein Breakfast",
+  "slug": "vanilla-berry-greek-yogurt-protein-bowl",
+  "protein_g": 35,
+  "photos": [
+    {
+      "id": "u-Vtks5c0gohA",
+      "width": 8220,
+      "height": 10275,
+      "alt": "Bowl of granola with fresh berries and yogurt Bowl of Cereal",
+      "photographer": "Haberdoedas",
+      "photographer_url": "https://unsplash.com/@haberdoedas?utm_source=easy_protein_kitchen&utm_medium=referral",
+      "page_url": "https://unsplash.com/photos/bowl-of-granola-with-fresh-berries-and-yogurt-Vtks5c0gohA?utm_source=easy_protein_kitchen&utm_medium=referral",
+      "source": "Unsplash",
+      "source_url": "https://unsplash.com/?utm_source=easy_protein_kitchen&utm_medium=referral",
+      "src": "https://images.unsplash.com/photo-1756678349293-9e4dffc104b6?ixid=M3wxMTQzODc5fDB8MXxzZWFyY2h8MjZ8fHZhbmlsbGElMjBwcm90ZWluJTIweW9ndXJ0JTIwYm93bCUyMHRvcCUyMHZpZXd8ZW58MXwxfHx8MTc5NTY5NjA2MXww&ixlib=rb-4.1.0",
+      "web": "https://images.unsplash.com/photo-1756678349293-9e4dffc104b6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTQzODc5fDB8MXxzZWFyY2h8MjZ8fHZhbmlsbGElMjBwcm90ZWluJTIweW9ndXJ0JTIwYm93bCUyMHRvcCUyMHZpZXd8ZW58MXwxfHx8MTc5NTY5NjA2MXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "download_location": "https://api.unsplash.com/photos/Vtks5c0gohA/download?ixid=M3wxMTQzODc5fDB8MXxzZWFyY2h8MjZ8fHZhbmlsbGElMjBwcm90ZWluJTIweW9ndXJ0JTIwYm93bCUyMHRvcCUyMHZpZXd8ZW58MXwxfHx8MTc5NTY5NjA2MXww",
+      "score": 11
+    },
+    {
+      "id": "u-uzdfBCKwKTk",
+      "width": 2600,
+      "height": 3900,
+      "alt": "red strawberries and blue berries on white ceramic bowl",
+      "photographer": "Eiliv Aceron",
+      "photographer_url": "https://unsplash.com/@shootdelicious?utm_source=easy_protein_kitchen&utm_medium=referral",
+      "page_url": "https://unsplash.com/photos/red-strawberries-and-blue-berries-on-white-ceramic-bowl-uzdfBCKwKTk?utm_source=easy_protein_kitchen&utm_medium=referral",
+      "source": "Unsplash",
+      "source_url": "https://unsplash.com/?utm_source=easy_protein_kitchen&utm_medium=referral",
+      "src": "https://images.unsplash.com/photo-1610441009633-b6ca9c6d4be2?ixid=M3wxMTQzODc5fDB8MXxzZWFyY2h8Mnx8Z3JlZWslMjB5b2d1cnQlMjBib3dsJTIwd2l0aCUyMGJlcnJpZXMlMjBhbmQlMjBudXRzfGVufDF8MXx8fDE3OTU2OTYwNjF8MA&ixlib=rb-4.1.0",
+      "web": "https://images.unsplash.com/photo-1610441009633-b6ca9c6d4be2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTQzODc5fDB8MXxzZWFyY2h8Mnx8Z3JlZWslMjB5b2d1cnQlMjBib3dsJTIwd2l0aCUyMGJlcnJpZXMlMjBhbmQlMjBudXRzfGVufDF8MXx8fDE3OTU2OTYwNjF8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "download_location": "https://api.unsplash.com/photos/uzdfBCKwKTk/download?ixid=M3wxMTQzODc5fDB8MXxzZWFyY2h8Mnx8Z3JlZWslMjB5b2d1cnQlMjBib3dsJTIwd2l0aCUyMGJlcnJpZXMlMjBhbmQlMjBudXRzfGVufDF8MXx8fDE3OTU2OTYwNjF8MA",
+      "score": 8
+    },
+    {
+      "id": "u-AqlcqCzF3aQ",
+      "width": 4480,
+      "height": 6720,
+      "alt": "a bowl of cereal with berries, bananas, and other fruits",
+      "photographer": "Abdelrahman Sarayreh",
+      "photographer_url": "https://unsplash.com/@sarayra?utm_source=easy_protein_kitchen&utm_medium=referral",
+      "page_url": "https://unsplash.com/photos/a-bowl-of-cereal-with-berries-bananas-and-other-fruits-AqlcqCzF3aQ?utm_source=easy_protein_kitchen&utm_medium=referral",
+      "source": "Unsplash",
+      "source_url": "https://unsplash.com/?utm_source=easy_protein_kitchen&utm_medium=referral",
+      "src": "https://images.unsplash.com/photo-1684403620650-81dc661a69db?ixid=M3wxMTQzODc5fDB8MXxzZWFyY2h8M3x8Z3JlZWslMjB5b2d1cnQlMjBib3dsJTIwd2l0aCUyMGJlcnJpZXMlMjBhbmQlMjBudXRzfGVufDF8MXx8fDE3OTU2OTYwNjF8MA&ixlib=rb-4.1.0",
+      "web": "https://images.unsplash.com/photo-1684403620650-81dc661a69db?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTQzODc5fDB8MXxzZWFyY2h8M3x8Z3JlZWslMjB5b2d1cnQlMjBib3dsJTIwd2l0aCUyMGJlcnJpZXMlMjBhbmQlMjBudXRzfGVufDF8MXx8fDE3OTU2OTYwNjF8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "download_location": "https://api.unsplash.com/photos/AqlcqCzF3aQ/download?ixid=M3wxMTQzODc5fDB8MXxzZWFyY2h8M3x8Z3JlZWslMjB5b2d1cnQlMjBib3dsJTIwd2l0aCUyMGJlcnJpZXMlMjBhbmQlMjBudXRzfGVufDF8MXx8fDE3OTU2OTYwNjF8MA",
+      "score": 8
+    },
+    {
+      "id": "u-Xw_oQ3pVBP0",
+      "width": 2697,
+      "height": 4053,
+      "alt": "a bowl of cereal with milk and berries Muesli bowl",
+      "photographer": "Lisa Weinstein",
+      "photographer_url": "https://unsplash.com/@lisa_weinstein?utm_source=easy_protein_kitchen&utm_medium=referral",
+      "page_url": "https://unsplash.com/photos/a-bowl-of-cereal-with-milk-and-berries-Xw_oQ3pVBP0?utm_source=easy_protein_kitchen&utm_medium=referral",
+      "source": "Unsplash",
+      "source_url": "https://unsplash.com/?utm_source=easy_protein_kitchen&utm_medium=referral",
+      "src": "https://images.unsplash.com/photo-1658402218013-18ccf3336bb5?ixid=M3wxMTQzODc5fDB8MXxzZWFyY2h8NXx8Z3JlZWslMjB5b2d1cnQlMjBib3dsJTIwd2l0aCUyMGJlcnJpZXMlMjBhbmQlMjBudXRzfGVufDF8MXx8fDE3OTU2OTYwNjF8MA&ixlib=rb-4.1.0",
+      "web": "https://images.unsplash.com/photo-1658402218013-18ccf3336bb5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTQzODc5fDB8MXxzZWFyY2h8NXx8Z3JlZWslMjB5b2d1cnQlMjBib3dsJTIwd2l0aCUyMGJlcnJpZXMlMjBhbmQlMjBudXRzfGVufDF8MXx8fDE3OTU2OTYwNjF8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "download_location": "https://api.unsplash.com/photos/Xw_oQ3pVBP0/download?ixid=M3wxMTQzODc5fDB8MXxzZWFyY2h8NXx8Z3JlZWslMjB5b2d1cnQlMjBib3dsJTIwd2l0aCUyMGJlcnJpZXMlMjBhbmQlMjBudXRzfGVufDF8MXx8fDE3OTU2OTYwNjF8MA",
+      "score": 8
+    },
+    {
+      "id": "u-RXt2rqGuR88",
+      "width": 3024,
+      "height": 4032,
+      "alt": "ice cream with nuts and berries",
+      "photographer": "George Serb",
+      "photographer_url": "https://unsplash.com/@georgeserb?utm_source=easy_protein_kitchen&utm_medium=referral",
+      "page_url": "https://unsplash.com/photos/ice-cream-with-nuts-and-berries-RXt2rqGuR88?utm_source=easy_protein_kitchen&utm_medium=referral",
+      "source": "Unsplash",
+      "source_url": "https://unsplash.com/?utm_source=easy_protein_kitchen&utm_medium=referral",
+      "src": "https://images.unsplash.com/photo-1569656733377-18f21676a234?ixid=M3wxMTQzODc5fDB8MXxzZWFyY2h8MTB8fGdyZWVrJTIweW9ndXJ0JTIwYm93bCUyMHdpdGglMjBiZXJyaWVzJTIwYW5kJTIwbnV0c3xlbnwxfDF8fHwxNzk1Njk2MDYxfDA&ixlib=rb-4.1.0",
+      "web": "https://images.unsplash.com/photo-1569656733377-18f21676a234?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTQzODc5fDB8MXxzZWFyY2h8MTB8fGdyZWVrJTIweW9ndXJ0JTIwYm93bCUyMHdpdGglMjBiZXJyaWVzJTIwYW5kJTIwbnV0c3xlbnwxfDF8fHwxNzk1Njk2MDYxfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "download_location": "https://api.unsplash.com/photos/RXt2rqGuR88/download?ixid=M3wxMTQzODc5fDB8MXxzZWFyY2h8MTB8fGdyZWVrJTIweW9ndXJ0JTIwYm93bCUyMHdpdGglMjBiZXJyaWVzJTIwYW5kJTIwbnV0c3xlbnwxfDF8fHwxNzk1Njk2MDYxfDA",
+      "score": 8
+    },
+    {
+      "id": "u-pucIo48IUAw",
+      "width": 3064,
+      "height": 4596,
+      "alt": "a blue and white plate topped with yogurt and nuts",
+      "photographer": "Urszula Leśniak",
+      "photographer_url": "https://unsplash.com/@urszulal?utm_source=easy_protein_kitchen&utm_medium=referral",
+      "page_url": "https://unsplash.com/photos/a-blue-and-white-plate-topped-with-yogurt-and-nuts-pucIo48IUAw?utm_source=easy_protein_kitchen&utm_medium=referral",
+      "source": "Unsplash",
+      "source_url": "https://unsplash.com/?utm_source=easy_protein_kitchen&utm_medium=referral",
+      "src": "https://images.unsplash.com/photo-1682243353154-56c0f030db4e?ixid=M3wxMTQzODc5fDB8MXxzZWFyY2h8MTd8fGdyZWVrJTIweW9ndXJ0JTIwYm93bCUyMHdpdGglMjBiZXJyaWVzJTIwYW5kJTIwbnV0c3xlbnwxfDF8fHwxNzk1Njk2MDYxfDA&ixlib=rb-4.1.0",
+      "web": "https://images.unsplash.com/photo-1682243353154-56c0f030db4e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTQzODc5fDB8MXxzZWFyY2h8MTd8fGdyZWVrJTIweW9ndXJ0JTIwYm93bCUyMHdpdGglMjBiZXJyaWVzJTIwYW5kJTIwbnV0c3xlbnwxfDF8fHwxNzk1Njk2MDYxfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "download_location": "https://api.unsplash.com/photos/pucIo48IUAw/download?ixid=M3wxMTQzODc5fDB8MXxzZWFyY2h8MTd8fGdyZWVrJTIweW9ndXJ0JTIwYm93bCUyMHdpdGglMjBiZXJyaWVzJTIwYW5kJTIwbnV0c3xlbnwxfDF8fHwxNzk1Njk2MDYxfDA",
+      "score": 8
+    }
+  ],
+  "verification": {
+    "checks": [
+      {
+        "verdict": "pass",
+        "issues": [],
+        "sources": [
+          {
+            "name": "EatingWell - Protein-Packed Greek Yogurt Bowl",
+            "url": "https://www.eatingwell.com/recipe/279857/protein-packed-greek-yogurt-bowl/"
+          },
+          {
+            "name": "Bodybuilding.com - High-Protein Yogurt Bowl",
+            "url": "https://www.bodybuilding.com/content/the-ultimate-high-protein-yogurt-bowl.html"
+          }
+        ],
+        "grounded": false
+      }
+    ],
+    "rule_warnings": [],
+    "model": "gemini-flash-lite-latest"
+  },
+  "created": "2026-11-26"
+}

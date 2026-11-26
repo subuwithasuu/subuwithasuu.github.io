@@ -1,0 +1,286 @@
+{
+  "title": "Honey Garlic Glazed Chicken Thighs",
+  "description": "Sticky honey garlic chicken thighs deliver 32g of protein in a single skillet. These tender thighs are seared until golden and tossed in a savory-sweet glaze that comes together in minutes.",
+  "cuisine": "American-Asian",
+  "category": "Dinner",
+  "servings": 4,
+  "protein_g_per_serving": 33,
+  "prep_minutes": 10,
+  "cook_minutes": 15,
+  "total_minutes": 25,
+  "ingredients": [
+    {
+      "qty": "1 1/2",
+      "unit": "lbs",
+      "item": "boneless skinless chicken thighs",
+      "metric": "680 g",
+      "note": "trimmed of excess fat"
+    },
+    {
+      "qty": "1/3",
+      "unit": "cup",
+      "item": "honey",
+      "metric": "115 g",
+      "note": null
+    },
+    {
+      "qty": "1/4",
+      "unit": "cup",
+      "item": "low-sodium soy sauce",
+      "metric": "60 ml",
+      "note": "use tamari for gluten-free"
+    },
+    {
+      "qty": "4",
+      "unit": "cloves",
+      "item": "garlic",
+      "metric": "20 g",
+      "note": "minced"
+    },
+    {
+      "qty": "1",
+      "unit": "tbsp",
+      "item": "fresh ginger",
+      "metric": "15 g",
+      "note": "grated"
+    },
+    {
+      "qty": "1",
+      "unit": "tbsp",
+      "item": "apple cider vinegar",
+      "metric": "15 ml",
+      "note": null
+    },
+    {
+      "qty": "1",
+      "unit": "tbsp",
+      "item": "olive oil",
+      "metric": "15 ml",
+      "note": null
+    },
+    {
+      "qty": "1/2",
+      "unit": "tsp",
+      "item": "kosher salt",
+      "metric": "3 g",
+      "note": null
+    },
+    {
+      "qty": "1/4",
+      "unit": "tsp",
+      "item": "black pepper",
+      "metric": "1 g",
+      "note": null
+    },
+    {
+      "qty": "2",
+      "unit": "tbsp",
+      "item": "green onions",
+      "metric": "10 g",
+      "note": "sliced for garnish"
+    }
+  ],
+  "steps": [
+    "Pat the chicken thighs dry with paper towels and season both sides evenly with salt and black pepper.",
+    "In a small bowl, whisk together the honey, soy sauce, minced garlic, grated ginger, and apple cider vinegar until well combined.",
+    "Heat the olive oil in a 12-inch skillet over medium-high heat. Once the oil is shimmering, add the chicken thighs in a single layer.",
+    "Cook the chicken for 5-7 minutes per side until the exterior is deeply browned and the internal temperature reaches 165°F (74°C).",
+    "Reduce the heat to medium and pour the honey garlic sauce into the skillet. Let the sauce simmer for 2-3 minutes, spooning it over the chicken frequently, until the glaze is thick and sticky.",
+    "Remove from heat and garnish with sliced green onions before serving."
+  ],
+  "tips": [
+    "For extra heat, add a teaspoon of red pepper flakes or sriracha to the sauce whisking step.",
+    "Ensure the pan is hot before adding the chicken to get a proper sear and prevent sticking.",
+    "If the sauce thickens too quickly, add a splash of water or chicken broth to loosen it."
+  ],
+  "storage": "Store in an airtight container in the refrigerator for up to 4 days. Reheat in a skillet over low heat with a splash of water.",
+  "tools": [
+    "12-inch skillet",
+    "Instant-read meat thermometer",
+    "Small mixing bowl",
+    "Whisk"
+  ],
+  "keywords": [
+    "high protein chicken recipes",
+    "honey garlic chicken thighs",
+    "easy chicken dinner",
+    "30 minute meals",
+    "skillet chicken recipes",
+    "meal prep chicken",
+    "stovetop chicken thighs",
+    "healthy high protein dinner"
+  ],
+  "pin_variants": [
+    {
+      "hook_type": "number",
+      "title": "32g Protein Honey Garlic Chicken Thighs",
+      "description": "These Honey Garlic Chicken Thighs pack 32g of protein per serving. A simple stovetop glaze makes the chicken sticky and flavorful in just 25 minutes. Save it for your next meal prep.",
+      "overlay": "32g Protein Honey Garlic Chicken",
+      "subline": "Ready in 25 Minutes",
+      "alt_text": "A cast iron skillet filled with golden-brown chicken thighs coated in a glossy dark glaze and topped with green onions."
+    },
+    {
+      "hook_type": "speed",
+      "title": "25-Minute Honey Garlic Chicken - High Protein",
+      "description": "Stop waiting for delivery and make these 25-minute Honey Garlic Chicken Thighs at home. With 32g of protein and a simple pantry sauce, it is the perfect post-gym dinner. Save it for your next meal prep.",
+      "overlay": "25-Minute Honey Garlic Chicken",
+      "subline": "32g Protein Per Serving",
+      "alt_text": "Close up of a glazed chicken thigh being lifted from a skillet with tongs, sauce dripping off the edge."
+    },
+    {
+      "hook_type": "outcome",
+      "title": "Sticky Honey Garlic Chicken Meal Prep",
+      "description": "Get the perfect sticky glaze every time with this high protein Honey Garlic Chicken recipe. Each serving provides 32g of protein and pairs perfectly with rice and steamed broccoli. Save it for your next meal prep.",
+      "overlay": "Sticky Honey Garlic Chicken Prep",
+      "subline": "Easy Skillet Dinner",
+      "alt_text": "Four meal prep containers filled with honey garlic chicken, white rice, and green broccoli florets."
+    },
+    {
+      "hook_type": "teacher",
+      "title": "The Secret to Sticky Garlic Chicken Thighs",
+      "description": "Learn the technique for perfectly seared chicken thighs with a thick honey garlic glaze. This recipe delivers 32g of protein and takes only 25 minutes from start to finish. Save it for your next meal prep.",
+      "overlay": "The Trick to Sticky Chicken",
+      "subline": "32g Protein Dinner",
+      "alt_text": "A chef spooning a thick, dark honey garlic sauce over seared chicken thighs in a pan."
+    }
+  ],
+  "video_script": {
+    "hook": "These honey garlic chicken thighs have 32 grams of protein.",
+    "steps_short": [
+      "Pat the chicken dry and season with salt and pepper.",
+      "Whisk together honey, soy sauce, garlic, ginger, and vinegar.",
+      "Sear the chicken in a hot skillet until golden brown.",
+      "Cook until the internal temperature reaches 165 degrees.",
+      "Pour in the sauce and simmer until thick and sticky.",
+      "Garnish with green onions and serve immediately."
+    ],
+    "outro": "The full high-protein recipe is on our website now."
+  },
+  "photo_queries": [
+    "honey garlic chicken thighs skillet",
+    "sticky glazed chicken thighs green onions",
+    "cooked chicken thighs on white plate"
+  ],
+  "must_match": [
+    "chicken",
+    "glaze",
+    "skillet"
+  ],
+  "board": "High Protein Chicken Recipes",
+  "slug": "honey-garlic-glazed-chicken-thighs",
+  "protein_g": 32,
+  "photos": [
+    {
+      "id": "u-E-0gO9UOBEM",
+      "width": 6552,
+      "height": 8736,
+      "alt": "Crispy fried chicken glazed in dark sauce with green onions and black sesame seeds",
+      "photographer": "Haberdoedas",
+      "photographer_url": "https://unsplash.com/@haberdoedas?utm_source=easy_protein_kitchen&utm_medium=referral",
+      "page_url": "https://unsplash.com/photos/fried-chicken-with-glaze-and-onions-E-0gO9UOBEM?utm_source=easy_protein_kitchen&utm_medium=referral",
+      "source": "Unsplash",
+      "source_url": "https://unsplash.com/?utm_source=easy_protein_kitchen&utm_medium=referral",
+      "src": "https://images.unsplash.com/photo-1795607799294-6406d54c17b9?ixid=M3wxMTQzODc5fDB8MXxzZWFyY2h8MjF8fHN0aWNreSUyMGdsYXplZCUyMGNoaWNrZW4lMjB0aGlnaHMlMjBncmVlbiUyMG9uaW9uc3xlbnwxfDF8fHwxNzk1Njk1Mjg0fDA&ixlib=rb-4.1.0",
+      "web": "https://images.unsplash.com/photo-1795607799294-6406d54c17b9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTQzODc5fDB8MXxzZWFyY2h8MjF8fHN0aWNreSUyMGdsYXplZCUyMGNoaWNrZW4lMjB0aGlnaHMlMjBncmVlbiUyMG9uaW9uc3xlbnwxfDF8fHwxNzk1Njk1Mjg0fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "download_location": "https://api.unsplash.com/photos/E-0gO9UOBEM/download?ixid=M3wxMTQzODc5fDB8MXxzZWFyY2h8MjF8fHN0aWNreSUyMGdsYXplZCUyMGNoaWNrZW4lMjB0aGlnaHMlMjBncmVlbiUyMG9uaW9uc3xlbnwxfDF8fHwxNzk1Njk1Mjg0fDA",
+      "score": 12
+    },
+    {
+      "id": "u-X9OO5_vjZGk",
+      "width": 4912,
+      "height": 7360,
+      "alt": "Roasted chicken with vegetable couscous on a white plate Spiced chicken thigh with vegetable couscous and fresh thyme, elegantly plated on a white plate. A Mediterranean restaurant main course — ideal for restaurant menus, food photography and gastronomy websites.",
+      "photographer": "Arne Buss",
+      "photographer_url": "https://unsplash.com/@arnedaman?utm_source=easy_protein_kitchen&utm_medium=referral",
+      "page_url": "https://unsplash.com/photos/roasted-chicken-with-vegetable-couscous-on-a-white-plate-X9OO5_vjZGk?utm_source=easy_protein_kitchen&utm_medium=referral",
+      "source": "Unsplash",
+      "source_url": "https://unsplash.com/?utm_source=easy_protein_kitchen&utm_medium=referral",
+      "src": "https://images.unsplash.com/photo-1778850790390-c1ba244fbc85?ixid=M3wxMTQzODc5fDB8MXxzZWFyY2h8Nnx8Y29va2VkJTIwY2hpY2tlbiUyMHRoaWdocyUyMG9uJTIwd2hpdGUlMjBwbGF0ZXxlbnwxfDF8fHwxNzk1Njk1Mjg0fDA&ixlib=rb-4.1.0",
+      "web": "https://images.unsplash.com/photo-1778850790390-c1ba244fbc85?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTQzODc5fDB8MXxzZWFyY2h8Nnx8Y29va2VkJTIwY2hpY2tlbiUyMHRoaWdocyUyMG9uJTIwd2hpdGUlMjBwbGF0ZXxlbnwxfDF8fHwxNzk1Njk1Mjg0fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "download_location": "https://api.unsplash.com/photos/X9OO5_vjZGk/download?ixid=M3wxMTQzODc5fDB8MXxzZWFyY2h8Nnx8Y29va2VkJTIwY2hpY2tlbiUyMHRoaWdocyUyMG9uJTIwd2hpdGUlMjBwbGF0ZXxlbnwxfDF8fHwxNzk1Njk1Mjg0fDA",
+      "score": 12
+    },
+    {
+      "id": "u-NQADThxUlOw",
+      "width": 4000,
+      "height": 6000,
+      "alt": "Delicious chicken dish topped with green onions",
+      "photographer": "Khanh Nguyen",
+      "photographer_url": "https://unsplash.com/@thejourneyofframes?utm_source=easy_protein_kitchen&utm_medium=referral",
+      "page_url": "https://unsplash.com/photos/delicious-chicken-dish-topped-with-green-onions-NQADThxUlOw?utm_source=easy_protein_kitchen&utm_medium=referral",
+      "source": "Unsplash",
+      "source_url": "https://unsplash.com/?utm_source=easy_protein_kitchen&utm_medium=referral",
+      "src": "https://images.unsplash.com/photo-1741241857345-3dfc8fc1d7db?ixid=M3wxMTQzODc5fDB8MXxzZWFyY2h8OHx8c3RpY2t5JTIwZ2xhemVkJTIwY2hpY2tlbiUyMHRoaWdocyUyMGdyZWVuJTIwb25pb25zfGVufDF8MXx8fDE3OTU2OTUyODR8MA&ixlib=rb-4.1.0",
+      "web": "https://images.unsplash.com/photo-1741241857345-3dfc8fc1d7db?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTQzODc5fDB8MXxzZWFyY2h8OHx8c3RpY2t5JTIwZ2xhemVkJTIwY2hpY2tlbiUyMHRoaWdocyUyMGdyZWVuJTIwb25pb25zfGVufDF8MXx8fDE3OTU2OTUyODR8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "download_location": "https://api.unsplash.com/photos/NQADThxUlOw/download?ixid=M3wxMTQzODc5fDB8MXxzZWFyY2h8OHx8c3RpY2t5JTIwZ2xhemVkJTIwY2hpY2tlbiUyMHRoaWdocyUyMGdyZWVuJTIwb25pb25zfGVufDF8MXx8fDE3OTU2OTUyODR8MA",
+      "score": 10
+    },
+    {
+      "id": "u-a5N0X43NrQY",
+      "width": 3984,
+      "height": 5976,
+      "alt": "Fried chicken pieces wrapped in lemongrass stalks on a plate with green vegetables",
+      "photographer": "tommao wang",
+      "photographer_url": "https://unsplash.com/@tommaomaoer?utm_source=easy_protein_kitchen&utm_medium=referral",
+      "page_url": "https://unsplash.com/photos/fried-chicken-with-lemongrass-and-vegetables-a5N0X43NrQY?utm_source=easy_protein_kitchen&utm_medium=referral",
+      "source": "Unsplash",
+      "source_url": "https://unsplash.com/?utm_source=easy_protein_kitchen&utm_medium=referral",
+      "src": "https://images.unsplash.com/photo-1786114624401-7dccb1ab07a2?ixid=M3wxMTQzODc5fDB8MXxzZWFyY2h8MTF8fHN0aWNreSUyMGdsYXplZCUyMGNoaWNrZW4lMjB0aGlnaHMlMjBncmVlbiUyMG9uaW9uc3xlbnwxfDF8fHwxNzk1Njk1Mjg0fDA&ixlib=rb-4.1.0",
+      "web": "https://images.unsplash.com/photo-1786114624401-7dccb1ab07a2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTQzODc5fDB8MXxzZWFyY2h8MTF8fHN0aWNreSUyMGdsYXplZCUyMGNoaWNrZW4lMjB0aGlnaHMlMjBncmVlbiUyMG9uaW9uc3xlbnwxfDF8fHwxNzk1Njk1Mjg0fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "download_location": "https://api.unsplash.com/photos/a5N0X43NrQY/download?ixid=M3wxMTQzODc5fDB8MXxzZWFyY2h8MTF8fHN0aWNreSUyMGdsYXplZCUyMGNoaWNrZW4lMjB0aGlnaHMlMjBncmVlbiUyMG9uaW9uc3xlbnwxfDF8fHwxNzk1Njk1Mjg0fDA",
+      "score": 8
+    },
+    {
+      "id": "u-xWm1DjCkUzU",
+      "width": 3532,
+      "height": 4724,
+      "alt": "fried meat with green vegetable on black pan LikeMeat Like Chicken Bites - Soya based, photographer & cook: Line Tscherning",
+      "photographer": "LikeMeat",
+      "photographer_url": "https://unsplash.com/@likemeat?utm_source=easy_protein_kitchen&utm_medium=referral",
+      "page_url": "https://unsplash.com/photos/fried-meat-with-green-vegetable-on-black-pan-xWm1DjCkUzU?utm_source=easy_protein_kitchen&utm_medium=referral",
+      "source": "Unsplash",
+      "source_url": "https://unsplash.com/?utm_source=easy_protein_kitchen&utm_medium=referral",
+      "src": "https://images.unsplash.com/photo-1585325701172-fcb7d019242d?ixid=M3wxMTQzODc5fDB8MXxzZWFyY2h8MjV8fHN0aWNreSUyMGdsYXplZCUyMGNoaWNrZW4lMjB0aGlnaHMlMjBncmVlbiUyMG9uaW9uc3xlbnwxfDF8fHwxNzk1Njk1Mjg0fDA&ixlib=rb-4.1.0",
+      "web": "https://images.unsplash.com/photo-1585325701172-fcb7d019242d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTQzODc5fDB8MXxzZWFyY2h8MjV8fHN0aWNreSUyMGdsYXplZCUyMGNoaWNrZW4lMjB0aGlnaHMlMjBncmVlbiUyMG9uaW9uc3xlbnwxfDF8fHwxNzk1Njk1Mjg0fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "download_location": "https://api.unsplash.com/photos/xWm1DjCkUzU/download?ixid=M3wxMTQzODc5fDB8MXxzZWFyY2h8MjV8fHN0aWNreSUyMGdsYXplZCUyMGNoaWNrZW4lMjB0aGlnaHMlMjBncmVlbiUyMG9uaW9uc3xlbnwxfDF8fHwxNzk1Njk1Mjg0fDA",
+      "score": 8
+    },
+    {
+      "id": "u-Dci1H_S8htY",
+      "width": 3024,
+      "height": 4032,
+      "alt": "a plate of food on a table Pasta with chicken",
+      "photographer": "Alina Chernysheva",
+      "photographer_url": "https://unsplash.com/@achera?utm_source=easy_protein_kitchen&utm_medium=referral",
+      "page_url": "https://unsplash.com/photos/a-plate-of-food-on-a-table-Dci1H_S8htY?utm_source=easy_protein_kitchen&utm_medium=referral",
+      "source": "Unsplash",
+      "source_url": "https://unsplash.com/?utm_source=easy_protein_kitchen&utm_medium=referral",
+      "src": "https://images.unsplash.com/photo-1591921954568-c7358607c1c2?ixid=M3wxMTQzODc5fDB8MXxzZWFyY2h8Mnx8c3RpY2t5JTIwZ2xhemVkJTIwY2hpY2tlbiUyMHRoaWdocyUyMGdyZWVuJTIwb25pb25zfGVufDF8MXx8fDE3OTU2OTUyODR8MA&ixlib=rb-4.1.0",
+      "web": "https://images.unsplash.com/photo-1591921954568-c7358607c1c2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTQzODc5fDB8MXxzZWFyY2h8Mnx8c3RpY2t5JTIwZ2xhemVkJTIwY2hpY2tlbiUyMHRoaWdocyUyMGdyZWVuJTIwb25pb25zfGVufDF8MXx8fDE3OTU2OTUyODR8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "download_location": "https://api.unsplash.com/photos/Dci1H_S8htY/download?ixid=M3wxMTQzODc5fDB8MXxzZWFyY2h8Mnx8c3RpY2t5JTIwZ2xhemVkJTIwY2hpY2tlbiUyMHRoaWdocyUyMGdyZWVuJTIwb25pb25zfGVufDF8MXx8fDE3OTU2OTUyODR8MA",
+      "score": 6
+    }
+  ],
+  "verification": {
+    "checks": [
+      {
+        "verdict": "pass",
+        "issues": [],
+        "sources": [
+          {
+            "name": "RecipeTin Eats - Honey Garlic Chicken",
+            "url": "https://www.recipetineats.com/honey-garlic-chicken/"
+          },
+          {
+            "name": "NYT Cooking - Honey-Garlic Chicken Thighs",
+            "url": "https://cooking.nytimes.com/recipes/1021488-honey-garlic-chicken-thighs"
+          }
+        ],
+        "grounded": false
+      }
+    ],
+    "rule_warnings": [],
+    "model": "gemini-flash-lite-latest"
+  },
+  "created": "2026-11-26"
+}

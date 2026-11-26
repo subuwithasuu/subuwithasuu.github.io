@@ -1,0 +1,294 @@
+{
+  "title": "Mediterranean Chickpea and Greek Yogurt Power Bowl",
+  "description": "This Mediterranean Chickpea and Greek Yogurt Power Bowl delivers 22g of protein in just 25 minutes. It combines fiber-rich chickpeas with creamy yogurt and fresh vegetables for a satisfying meat-free meal.",
+  "cuisine": "Mediterranean",
+  "category": "Lunch",
+  "servings": 4,
+  "protein_g_per_serving": 22,
+  "prep_minutes": 10,
+  "cook_minutes": 15,
+  "total_minutes": 25,
+  "ingredients": [
+    {
+      "qty": "2",
+      "unit": "cans",
+      "item": "chickpeas, drained and rinsed",
+      "metric": "850 g",
+      "note": "canned"
+    },
+    {
+      "qty": "1.5",
+      "unit": "cups",
+      "item": "plain Greek yogurt",
+      "metric": "340 g",
+      "note": "mixed with 1 tbsp lemon juice and 1/2 tsp salt"
+    },
+    {
+      "qty": "1",
+      "unit": "cup",
+      "item": "crumbled feta cheese",
+      "metric": "150 g",
+      "note": "cold"
+    },
+    {
+      "qty": "2",
+      "unit": "tbsp",
+      "item": "olive oil",
+      "metric": "30 ml",
+      "note": "for sautéing"
+    },
+    {
+      "qty": "1",
+      "unit": "tsp",
+      "item": "ground cumin",
+      "metric": "3 g",
+      "note": "dry spice"
+    },
+    {
+      "qty": "1",
+      "unit": "tsp",
+      "item": "smoked paprika",
+      "metric": "3 g",
+      "note": "dry spice"
+    },
+    {
+      "qty": "0.5",
+      "unit": "tsp",
+      "item": "kosher salt",
+      "metric": "3 g",
+      "note": "for chickpeas"
+    },
+    {
+      "qty": "1",
+      "unit": "cup",
+      "item": "cherry tomatoes, halved",
+      "metric": "150 g",
+      "note": "fresh"
+    },
+    {
+      "qty": "1",
+      "unit": "cup",
+      "item": "cucumber, diced",
+      "metric": "130 g",
+      "note": "fresh"
+    }
+  ],
+  "steps": [
+    "In a small bowl, whisk together the Greek yogurt, lemon juice, and salt. Set aside.",
+    "Heat olive oil in a large skillet over medium-high heat.",
+    "Add the chickpeas, cumin, paprika, and salt to the skillet; sauté for 8-10 minutes, stirring occasionally, until chickpeas are lightly browned and fragrant.",
+    "Divide the seasoned yogurt into 4 serving bowls, spreading it to create a base.",
+    "Top each bowl with the warm chickpea mixture, followed by the fresh tomatoes, cucumber, and crumbled feta cheese.",
+    "Serve immediately."
+  ],
+  "tips": [
+    "Add fresh parsley or mint for extra brightness.",
+    "Store the chickpea mixture and yogurt separately to prevent the yogurt from becoming watery.",
+    "Use full-fat Greek yogurt for a creamier texture if preferred."
+  ],
+  "storage": "Store in airtight containers in the refrigerator for up to 3 days.",
+  "tools": [
+    "large skillet",
+    "chef's knife",
+    "measuring cups",
+    "mixing bowls"
+  ],
+  "keywords": [
+    "high protein vegetarian lunch",
+    "mediterranean power bowl recipe",
+    "chickpea greek yogurt bowl",
+    "easy vegetarian meal prep",
+    "meatless high protein dinner",
+    "healthy vegetarian bowls"
+  ],
+  "pin_variants": [
+    {
+      "hook_type": "number",
+      "title": "Mediterranean Chickpea and Greek Yogurt Power Bowl",
+      "description": "This Mediterranean Chickpea and Greek Yogurt Power Bowl provides 22g of protein per serving and is ready in 25 minutes. A perfect vegetarian meal prep option for busy weekdays. Save it for your next meal prep.",
+      "overlay": "22g Protein Vegetarian Power Bowl",
+      "subline": "Ready in 25 Minutes",
+      "alt_text": "A colorful bowl featuring golden chickpeas, fresh cucumber, tomatoes, and a dollop of Greek yogurt."
+    },
+    {
+      "hook_type": "speed",
+      "title": "25-Minute Mediterranean Chickpea Power Bowl",
+      "description": "This Mediterranean Chickpea and Greek Yogurt Power Bowl is a 25-minute meal packed with 22g of protein. It is a simple, meat-free dish that works perfectly for quick lunches. Save it for your next meal prep.",
+      "overlay": "Ready in 25 Minutes",
+      "subline": "22g Protein Per Serving",
+      "alt_text": "Close up of a Mediterranean power bowl with chickpeas and feta."
+    },
+    {
+      "hook_type": "outcome",
+      "title": "High Protein Vegetarian Meal Prep Bowls",
+      "description": "Prep once and eat well with this Mediterranean Chickpea and Greek Yogurt Power Bowl, featuring 22g of protein. It takes only 25 minutes to assemble for a week of healthy lunches. Save it for your next meal prep.",
+      "overlay": "Prep Once, Eat High-Protein",
+      "subline": "22g Protein Per Bowl",
+      "alt_text": "Four meal prep containers filled with Mediterranean chickpea bowls."
+    },
+    {
+      "hook_type": "teacher",
+      "title": "How to Make Mediterranean Chickpea Bowls",
+      "description": "Learn the trick to a satisfying vegetarian meal with this Mediterranean Chickpea and Greek Yogurt Power Bowl, containing 22g of protein. It is a fast 25-minute recipe that balances creamy yogurt with spiced chickpeas. Save it for your next meal prep.",
+      "overlay": "The Secret to Creamy Bowls",
+      "subline": "22g Protein, 25 Minutes",
+      "alt_text": "A wooden spoon scooping spiced chickpeas over a bed of Greek yogurt."
+    }
+  ],
+  "video_script": {
+    "hook": "Make this Mediterranean power bowl with 22 grams of protein today.",
+    "steps_short": [
+      "Sauté your chickpeas with cumin and paprika until golden brown.",
+      "Spread a generous base of chilled Greek yogurt in your bowl.",
+      "Top with the warm chickpeas, fresh cucumbers, and juicy tomatoes.",
+      "Finish with a sprinkle of salty feta cheese for flavor."
+    ],
+    "outro": "Find the full recipe and measurements on our website now."
+  },
+  "photo_queries": [
+    "mediterranean chickpea bowl with yogurt",
+    "vegetarian protein bowl meal prep",
+    "healthy chickpea and feta salad bowl"
+  ],
+  "must_match": [
+    "chickpea",
+    "yogurt",
+    "bowl"
+  ],
+  "board": "High Protein Vegetarian",
+  "slug": "mediterranean-chickpea-and-greek-yogurt-power-bowl",
+  "protein_g": 22,
+  "photos": [
+    {
+      "id": "u-1SPu0KT-Ejg",
+      "width": 3751,
+      "height": 4689,
+      "alt": "silver spoon on black ceramic bowl with vegetables Yogurt Bowl",
+      "photographer": "Odiseo Castrejon",
+      "photographer_url": "https://unsplash.com/@edgarraw?utm_source=easy_protein_kitchen&utm_medium=referral",
+      "page_url": "https://unsplash.com/photos/silver-spoon-on-black-ceramic-bowl-with-vegetables-1SPu0KT-Ejg?utm_source=easy_protein_kitchen&utm_medium=referral",
+      "source": "Unsplash",
+      "source_url": "https://unsplash.com/?utm_source=easy_protein_kitchen&utm_medium=referral",
+      "src": "https://images.unsplash.com/photo-1511690656952-34342bb7c2f2?ixid=M3wxMTQzODc5fDB8MXxzZWFyY2h8MXx8bWVkaXRlcnJhbmVhbiUyMGNoaWNrcGVhJTIwYm93bCUyMHdpdGglMjB5b2d1cnR8ZW58MXwxfHx8MTc5NTY5NDc3N3ww&ixlib=rb-4.1.0",
+      "web": "https://images.unsplash.com/photo-1511690656952-34342bb7c2f2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTQzODc5fDB8MXxzZWFyY2h8MXx8bWVkaXRlcnJhbmVhbiUyMGNoaWNrcGVhJTIwYm93bCUyMHdpdGglMjB5b2d1cnR8ZW58MXwxfHx8MTc5NTY5NDc3N3ww&ixlib=rb-4.1.0&q=80&w=1080",
+      "download_location": "https://api.unsplash.com/photos/1SPu0KT-Ejg/download?ixid=M3wxMTQzODc5fDB8MXxzZWFyY2h8MXx8bWVkaXRlcnJhbmVhbiUyMGNoaWNrcGVhJTIwYm93bCUyMHdpdGglMjB5b2d1cnR8ZW58MXwxfHx8MTc5NTY5NDc3N3ww",
+      "score": 11
+    },
+    {
+      "id": "u-g7WrssBb1Ak",
+      "width": 4284,
+      "height": 5712,
+      "alt": "A bowl of rice, chickpeas, and salad with meat",
+      "photographer": "Sumit Bhatia",
+      "photographer_url": "https://unsplash.com/@iamsumitbhatia?utm_source=easy_protein_kitchen&utm_medium=referral",
+      "page_url": "https://unsplash.com/photos/a-bowl-of-rice-chickpeas-and-salad-with-meat-g7WrssBb1Ak?utm_source=easy_protein_kitchen&utm_medium=referral",
+      "source": "Unsplash",
+      "source_url": "https://unsplash.com/?utm_source=easy_protein_kitchen&utm_medium=referral",
+      "src": "https://images.unsplash.com/photo-1771074168439-0083aaac48e7?ixid=M3wxMTQzODc5fDB8MXxzZWFyY2h8MTh8fG1lZGl0ZXJyYW5lYW4lMjBjaGlja3BlYSUyMGJvd2wlMjB3aXRoJTIweW9ndXJ0fGVufDF8MXx8fDE3OTU2OTQ3Nzd8MA&ixlib=rb-4.1.0",
+      "web": "https://images.unsplash.com/photo-1771074168439-0083aaac48e7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTQzODc5fDB8MXxzZWFyY2h8MTh8fG1lZGl0ZXJyYW5lYW4lMjBjaGlja3BlYSUyMGJvd2wlMjB3aXRoJTIweW9ndXJ0fGVufDF8MXx8fDE3OTU2OTQ3Nzd8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "download_location": "https://api.unsplash.com/photos/g7WrssBb1Ak/download?ixid=M3wxMTQzODc5fDB8MXxzZWFyY2h8MTh8fG1lZGl0ZXJyYW5lYW4lMjBjaGlja3BlYSUyMGJvd2wlMjB3aXRoJTIweW9ndXJ0fGVufDF8MXx8fDE3OTU2OTQ3Nzd8MA",
+      "score": 11
+    },
+    {
+      "id": "u-HohIHrmr_E0",
+      "width": 4284,
+      "height": 5712,
+      "alt": "A colorful bowl of rice, chickpeas, salmon, and salad A vibrant and healthy rice bowl featuring seasoned rice topped with chickpeas, fresh greens, grilled paneer, vegetables, and creamy sauce. Captured in natural light with a soft depth of field, highlighting texture, color, and freshness. A perfect representation of modern healthy eating, vegetarian cuisine, and balanced meals. Shot on iPhone 17 Pro.",
+      "photographer": "Sumit Bhatia",
+      "photographer_url": "https://unsplash.com/@iamsumitbhatia?utm_source=easy_protein_kitchen&utm_medium=referral",
+      "page_url": "https://unsplash.com/photos/a-colorful-bowl-of-rice-chickpeas-salmon-and-salad-HohIHrmr_E0?utm_source=easy_protein_kitchen&utm_medium=referral",
+      "source": "Unsplash",
+      "source_url": "https://unsplash.com/?utm_source=easy_protein_kitchen&utm_medium=referral",
+      "src": "https://images.unsplash.com/photo-1771074168436-8692a866cdb1?ixid=M3wxMTQzODc5fDB8MXxzZWFyY2h8MjV8fG1lZGl0ZXJyYW5lYW4lMjBjaGlja3BlYSUyMGJvd2wlMjB3aXRoJTIweW9ndXJ0fGVufDF8MXx8fDE3OTU2OTQ3Nzd8MA&ixlib=rb-4.1.0",
+      "web": "https://images.unsplash.com/photo-1771074168436-8692a866cdb1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTQzODc5fDB8MXxzZWFyY2h8MjV8fG1lZGl0ZXJyYW5lYW4lMjBjaGlja3BlYSUyMGJvd2wlMjB3aXRoJTIweW9ndXJ0fGVufDF8MXx8fDE3OTU2OTQ3Nzd8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "download_location": "https://api.unsplash.com/photos/HohIHrmr_E0/download?ixid=M3wxMTQzODc5fDB8MXxzZWFyY2h8MjV8fG1lZGl0ZXJyYW5lYW4lMjBjaGlja3BlYSUyMGJvd2wlMjB3aXRoJTIweW9ndXJ0fGVufDF8MXx8fDE3OTU2OTQ3Nzd8MA",
+      "score": 11
+    },
+    {
+      "id": "u-yhc4pSbl01A",
+      "width": 4160,
+      "height": 5200,
+      "alt": "a blue bowl filled with vegetables and a wooden spoon @herbedandhungry\nwww.herbedandhungry.com",
+      "photographer": "Sonny Mauricio",
+      "photographer_url": "https://unsplash.com/@northernstatemedia?utm_source=easy_protein_kitchen&utm_medium=referral",
+      "page_url": "https://unsplash.com/photos/a-blue-bowl-filled-with-vegetables-and-a-wooden-spoon-yhc4pSbl01A?utm_source=easy_protein_kitchen&utm_medium=referral",
+      "source": "Unsplash",
+      "source_url": "https://unsplash.com/?utm_source=easy_protein_kitchen&utm_medium=referral",
+      "src": "https://images.unsplash.com/photo-1623428187969-5da2dcea5ebf?ixid=M3wxMTQzODc5fDB8MXxzZWFyY2h8Mnx8bWVkaXRlcnJhbmVhbiUyMGNoaWNrcGVhJTIwYm93bCUyMHdpdGglMjB5b2d1cnR8ZW58MXwxfHx8MTc5NTY5NDc3N3ww&ixlib=rb-4.1.0",
+      "web": "https://images.unsplash.com/photo-1623428187969-5da2dcea5ebf?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTQzODc5fDB8MXxzZWFyY2h8Mnx8bWVkaXRlcnJhbmVhbiUyMGNoaWNrcGVhJTIwYm93bCUyMHdpdGglMjB5b2d1cnR8ZW58MXwxfHx8MTc5NTY5NDc3N3ww&ixlib=rb-4.1.0&q=80&w=1080",
+      "download_location": "https://api.unsplash.com/photos/yhc4pSbl01A/download?ixid=M3wxMTQzODc5fDB8MXxzZWFyY2h8Mnx8bWVkaXRlcnJhbmVhbiUyMGNoaWNrcGVhJTIwYm93bCUyMHdpdGglMjB5b2d1cnR8ZW58MXwxfHx8MTc5NTY5NDc3N3ww",
+      "score": 6
+    },
+    {
+      "id": "u-kQloRmVQYIs",
+      "width": 2920,
+      "height": 3893,
+      "alt": "white ceramic bowl with yellow and green dish Mashawsha Hummus & Tzatziki  \n@TLV Israel ",
+      "photographer": "Mor Shani",
+      "photographer_url": "https://unsplash.com/@morsha?utm_source=easy_protein_kitchen&utm_medium=referral",
+      "page_url": "https://unsplash.com/photos/white-ceramic-bowl-with-yellow-and-green-dish-kQloRmVQYIs?utm_source=easy_protein_kitchen&utm_medium=referral",
+      "source": "Unsplash",
+      "source_url": "https://unsplash.com/?utm_source=easy_protein_kitchen&utm_medium=referral",
+      "src": "https://images.unsplash.com/photo-1591120583691-49d2741e55da?ixid=M3wxMTQzODc5fDB8MXxzZWFyY2h8M3x8bWVkaXRlcnJhbmVhbiUyMGNoaWNrcGVhJTIwYm93bCUyMHdpdGglMjB5b2d1cnR8ZW58MXwxfHx8MTc5NTY5NDc3N3ww&ixlib=rb-4.1.0",
+      "web": "https://images.unsplash.com/photo-1591120583691-49d2741e55da?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTQzODc5fDB8MXxzZWFyY2h8M3x8bWVkaXRlcnJhbmVhbiUyMGNoaWNrcGVhJTIwYm93bCUyMHdpdGglMjB5b2d1cnR8ZW58MXwxfHx8MTc5NTY5NDc3N3ww&ixlib=rb-4.1.0&q=80&w=1080",
+      "download_location": "https://api.unsplash.com/photos/kQloRmVQYIs/download?ixid=M3wxMTQzODc5fDB8MXxzZWFyY2h8M3x8bWVkaXRlcnJhbmVhbiUyMGNoaWNrcGVhJTIwYm93bCUyMHdpdGglMjB5b2d1cnR8ZW58MXwxfHx8MTc5NTY5NDc3N3ww",
+      "score": 6
+    },
+    {
+      "id": "u-cWqxHoa3zXk",
+      "width": 4480,
+      "height": 6720,
+      "alt": "white ceramic bowl on blue textile",
+      "photographer": "Eiliv Aceron",
+      "photographer_url": "https://unsplash.com/@shootdelicious?utm_source=easy_protein_kitchen&utm_medium=referral",
+      "page_url": "https://unsplash.com/photos/white-ceramic-bowl-on-blue-textile-cWqxHoa3zXk?utm_source=easy_protein_kitchen&utm_medium=referral",
+      "source": "Unsplash",
+      "source_url": "https://unsplash.com/?utm_source=easy_protein_kitchen&utm_medium=referral",
+      "src": "https://images.unsplash.com/photo-1594490393949-7f724f434738?ixid=M3wxMTQzODc5fDB8MXxzZWFyY2h8NHx8bWVkaXRlcnJhbmVhbiUyMGNoaWNrcGVhJTIwYm93bCUyMHdpdGglMjB5b2d1cnR8ZW58MXwxfHx8MTc5NTY5NDc3N3ww&ixlib=rb-4.1.0",
+      "web": "https://images.unsplash.com/photo-1594490393949-7f724f434738?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTQzODc5fDB8MXxzZWFyY2h8NHx8bWVkaXRlcnJhbmVhbiUyMGNoaWNrcGVhJTIwYm93bCUyMHdpdGglMjB5b2d1cnR8ZW58MXwxfHx8MTc5NTY5NDc3N3ww&ixlib=rb-4.1.0&q=80&w=1080",
+      "download_location": "https://api.unsplash.com/photos/cWqxHoa3zXk/download?ixid=M3wxMTQzODc5fDB8MXxzZWFyY2h8NHx8bWVkaXRlcnJhbmVhbiUyMGNoaWNrcGVhJTIwYm93bCUyMHdpdGglMjB5b2d1cnR8ZW58MXwxfHx8MTc5NTY5NDc3N3ww",
+      "score": 6
+    }
+  ],
+  "verification": {
+    "checks": [
+      {
+        "verdict": "fix",
+        "issues": [
+          "The recipe lacks seasoning (salt/pepper/acid) for the chickpeas and the yogurt base, which is standard for Mediterranean bowls.",
+          "The yogurt base is too thick and plain; standard recipes incorporate lemon juice, garlic, or salt into the yogurt to create a sauce rather than serving plain yogurt.",
+          "The chickpea-to-yogurt ratio is slightly imbalanced for a 'power bowl' format; 2 cups of yogurt for 4 servings is quite heavy on dairy compared to the vegetable/protein ratio."
+        ],
+        "sources": [
+          {
+            "name": "Serious Eats - Crispy Roasted Chickpeas",
+            "url": "https://www.seriouseats.com/crispy-roasted-chickpeas-recipe"
+          },
+          {
+            "name": "RecipeTin Eats - Mediterranean Chickpea Salad",
+            "url": "https://www.recipetineats.com/mediterranean-chickpea-salad/"
+          }
+        ],
+        "grounded": false
+      },
+      {
+        "verdict": "pass",
+        "issues": [],
+        "sources": [
+          {
+            "name": "Serious Eats - Crispy Chickpea and Yogurt Bowls",
+            "url": "https://www.seriouseats.com/crispy-chickpea-yogurt-bowl-recipe"
+          },
+          {
+            "name": "NYT Cooking - Spiced Chickpeas With Yogurt and Herbs",
+            "url": "https://cooking.nytimes.com/recipes/1020838-spiced-chickpeas-with-yogurt-and-herbs"
+          }
+        ],
+        "grounded": false
+      }
+    ],
+    "rule_warnings": [],
+    "model": "gemini-flash-lite-latest"
+  },
+  "created": "2026-11-26"
+}

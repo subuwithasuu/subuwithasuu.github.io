@@ -1,0 +1,262 @@
+{
+  "title": "High-Protein Turkey and Black Bean Burrito Bowls",
+  "description": "These high-protein turkey and black bean burrito bowls combine lean ground turkey, seasoned black beans, and fluffy rice for an easy meal prep lunch or dinner. Packed with 35 grams of protein per serving and ready in 25 minutes, they hold up exceptionally well in the refrigerator all week long.",
+  "cuisine": "Mexican-American",
+  "category": "Meal Prep",
+  "servings": 4,
+  "protein_g_per_serving": 35,
+  "prep_minutes": 10,
+  "cook_minutes": 15,
+  "total_minutes": 25,
+  "ingredients": [
+    {
+      "qty": "1",
+      "unit": "lb",
+      "item": "lean ground turkey",
+      "metric": "454 g",
+      "note": "93% lean"
+    },
+    {
+      "qty": "1",
+      "unit": "tbsp",
+      "item": "olive oil",
+      "metric": "15 ml",
+      "note": "divided"
+    },
+    {
+      "qty": "1",
+      "unit": "packet",
+      "item": "taco seasoning",
+      "metric": "28 g",
+      "note": "low sodium"
+    },
+    {
+      "qty": "1",
+      "unit": "can",
+      "item": "black beans",
+      "metric": "425 g",
+      "note": "rinsed and drained"
+    },
+    {
+      "qty": "2",
+      "unit": "cups",
+      "item": "cooked long-grain white rice",
+      "metric": "320 g",
+      "note": "warm"
+    },
+    {
+      "qty": "1",
+      "unit": "cup",
+      "item": "salsa",
+      "metric": "240 g",
+      "note": "mild or medium"
+    },
+    {
+      "qty": "1/2",
+      "unit": "cup",
+      "item": "shredded cheddar cheese",
+      "metric": "56 g",
+      "note": "divided"
+    }
+  ],
+  "steps": [
+    "Heat 1 tablespoon of olive oil in a 12-inch skillet over medium-high heat for 1 minute.",
+    "Add the lean ground turkey to the skillet and cook for 6 to 8 minutes, breaking it apart with a wooden spoon, until fully browned and no pink remains, reaching an internal temperature of 160°F (71°C).",
+    "Stir the taco seasoning and 1/4 cup of water into the cooked turkey, reduce heat to medium-low, and simmer for 3 minutes until thickened.",
+    "In a separate saucepan, warm the rinsed black beans over medium heat for 4 minutes, stirring occasionally until hot.",
+    "Divide the warm cooked white rice evenly among 4 meal prep containers.",
+    "Top each bed of rice with the seasoned turkey, warmed black beans, salsa, and shredded cheddar cheese. Seal and store in the refrigerator."
+  ],
+  "tips": [
+    "Substitute brown rice or quinoa for the white rice if desired.",
+    "Add fresh cilantro or lime wedges just before serving for extra flavor."
+  ],
+  "storage": "Store in airtight containers in the refrigerator for up to 4 days.",
+  "tools": [
+    "12-inch skillet",
+    "wooden spoon",
+    "saucepan",
+    "4 meal prep containers"
+  ],
+  "keywords": [
+    "high protein meal prep",
+    "turkey burrito bowl recipe",
+    "healthy ground turkey lunch",
+    "black bean meal prep bowls",
+    "high protein lunch ideas",
+    "easy turkey and rice bowls"
+  ],
+  "pin_variants": [
+    {
+      "hook_type": "number",
+      "title": "High-Protein Turkey and Black Bean Burrito Bowls | 35g Protein",
+      "description": "High-protein turkey and black bean burrito bowls deliver 35g protein and come together in 25 minutes for an effortless meal prep option. Packed with lean ground turkey, savory beans, and cheese, this dish makes weekday lunch simple. Save it for your next meal prep.",
+      "overlay": "35g Protein Turkey Burrito Bowls",
+      "subline": "Ready in 25 Minutes",
+      "alt_text": "Four meal prep containers filled with seasoned ground turkey, black beans, rice, salsa, and cheese."
+    },
+    {
+      "hook_type": "speed",
+      "title": "25-Minute Turkey and Black Bean Burrito Bowls",
+      "description": "These 25-minute turkey and black bean burrito bowls provide 35g protein per serving using simple, wholesome ingredients. Prep once and enjoy healthy, savory bowls all week long. Save it for your next meal prep.",
+      "overlay": "25-Minute Turkey Burrito Bowls",
+      "subline": "35g Protein Per Serving",
+      "alt_text": "Close-up of a high-protein turkey burrito bowl topped with melted cheese and fresh salsa."
+    },
+    {
+      "hook_type": "outcome",
+      "title": "High-Protein Meal Prep: Turkey and Black Bean Burrito Bowls",
+      "description": "Prep once and eat high-protein all week with these turkey and black bean burrito bowls containing 35g protein. Ready in 25 minutes, they combine lean meat, beans, and rice for a satisfying meal. Save it for your next meal prep.",
+      "overlay": "Prep Once, Eat High-Protein All Week",
+      "subline": "Make-Ahead Friendly",
+      "alt_text": "A neat row of meal prep containers featuring ground turkey, black beans, and rice."
+    },
+    {
+      "hook_type": "budget",
+      "title": "Pantry-Friendly Turkey and Black Bean Burrito Bowls | High Protein",
+      "description": "Make cheap high-protein dinners using pantry staples like canned black beans and ground turkey for 35g protein per serving. This recipe takes 25 minutes from start to finish. Save it for your next meal prep.",
+      "overlay": "Cheap High-Protein Turkey Dinner",
+      "subline": "Pantry Staples Meal",
+      "alt_text": "A rustic bowl of turkey burrito bowls garnished with shredded cheese and black beans."
+    }
+  ],
+  "video_script": {
+    "hook": "Make these 35-gram protein turkey and black bean burrito bowls for meal prep!",
+    "steps_short": [
+      "Brown the lean ground turkey in a hot skillet until fully cooked.",
+      "Stir in the taco seasoning and simmer until thickened.",
+      "Warm the black beans in a separate pan.",
+      "Divide the rice, turkey, beans, and cheese among four containers."
+    ],
+    "outro": "Find the full recipe details on the website!"
+  },
+  "photo_queries": [
+    "turkey burrito bowl meal prep container",
+    "ground turkey and black bean bowl",
+    "high protein meal prep bowls"
+  ],
+  "must_match": [
+    "turkey",
+    "bowl",
+    "beans"
+  ],
+  "board": "High Protein Meal Prep",
+  "slug": "high-protein-turkey-and-black-bean-burrito-bowls",
+  "protein_g": 35,
+  "photos": [
+    {
+      "id": "u-AARH6B4zPvM",
+      "width": 8648,
+      "height": 12976,
+      "alt": "bowl of salad",
+      "photographer": "S'well",
+      "photographer_url": "https://unsplash.com/@swell?utm_source=easy_protein_kitchen&utm_medium=referral",
+      "page_url": "https://unsplash.com/photos/bowl-of-salad-AARH6B4zPvM?utm_source=easy_protein_kitchen&utm_medium=referral",
+      "source": "Unsplash",
+      "source_url": "https://unsplash.com/?utm_source=easy_protein_kitchen&utm_medium=referral",
+      "src": "https://images.unsplash.com/photo-1570650252782-2cd40155e544?ixid=M3wxMTQzODc5fDB8MXxzZWFyY2h8M3x8dHVya2V5JTIwYnVycml0byUyMGJvd2wlMjBtZWFsJTIwcHJlcCUyMGNvbnRhaW5lcnxlbnwxfDF8fHwxNzk1Njk1NTE4fDA&ixlib=rb-4.1.0",
+      "web": "https://images.unsplash.com/photo-1570650252782-2cd40155e544?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTQzODc5fDB8MXxzZWFyY2h8M3x8dHVya2V5JTIwYnVycml0byUyMGJvd2wlMjBtZWFsJTIwcHJlcCUyMGNvbnRhaW5lcnxlbnwxfDF8fHwxNzk1Njk1NTE4fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "download_location": "https://api.unsplash.com/photos/AARH6B4zPvM/download?ixid=M3wxMTQzODc5fDB8MXxzZWFyY2h8M3x8dHVya2V5JTIwYnVycml0byUyMGJvd2wlMjBtZWFsJTIwcHJlcCUyMGNvbnRhaW5lcnxlbnwxfDF8fHwxNzk1Njk1NTE4fDA",
+      "score": 6
+    },
+    {
+      "id": "u-cx_EHbJTJgE",
+      "width": 2001,
+      "height": 2998,
+      "alt": "a bowl filled with meat and vegetables",
+      "photographer": "Dmitriy Frantsev",
+      "photographer_url": "https://unsplash.com/@vapricot?utm_source=easy_protein_kitchen&utm_medium=referral",
+      "page_url": "https://unsplash.com/photos/a-bowl-filled-with-meat-and-vegetables-cx_EHbJTJgE?utm_source=easy_protein_kitchen&utm_medium=referral",
+      "source": "Unsplash",
+      "source_url": "https://unsplash.com/?utm_source=easy_protein_kitchen&utm_medium=referral",
+      "src": "https://images.unsplash.com/photo-1643983249863-98ff1b85712e?ixid=M3wxMTQzODc5fDB8MXxzZWFyY2h8NXx8dHVya2V5JTIwYnVycml0byUyMGJvd2wlMjBtZWFsJTIwcHJlcCUyMGNvbnRhaW5lcnxlbnwxfDF8fHwxNzk1Njk1NTE4fDA&ixlib=rb-4.1.0",
+      "web": "https://images.unsplash.com/photo-1643983249863-98ff1b85712e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTQzODc5fDB8MXxzZWFyY2h8NXx8dHVya2V5JTIwYnVycml0byUyMGJvd2wlMjBtZWFsJTIwcHJlcCUyMGNvbnRhaW5lcnxlbnwxfDF8fHwxNzk1Njk1NTE4fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "download_location": "https://api.unsplash.com/photos/cx_EHbJTJgE/download?ixid=M3wxMTQzODc5fDB8MXxzZWFyY2h8NXx8dHVya2V5JTIwYnVycml0byUyMGJvd2wlMjBtZWFsJTIwcHJlcCUyMGNvbnRhaW5lcnxlbnwxfDF8fHwxNzk1Njk1NTE4fDA",
+      "score": 6
+    },
+    {
+      "id": "u-qRIbkzGZ9k0",
+      "width": 4032,
+      "height": 6048,
+      "alt": "A wooden bowl filled with food on top of a wooden table",
+      "photographer": "Kouji Tsuru",
+      "photographer_url": "https://unsplash.com/@pafuxu?utm_source=easy_protein_kitchen&utm_medium=referral",
+      "page_url": "https://unsplash.com/photos/a-wooden-bowl-filled-with-food-on-top-of-a-wooden-table-qRIbkzGZ9k0?utm_source=easy_protein_kitchen&utm_medium=referral",
+      "source": "Unsplash",
+      "source_url": "https://unsplash.com/?utm_source=easy_protein_kitchen&utm_medium=referral",
+      "src": "https://images.unsplash.com/photo-1735800239422-0718cd255cfe?ixid=M3wxMTQzODc5fDB8MXxzZWFyY2h8MTF8fHR1cmtleSUyMGJ1cnJpdG8lMjBib3dsJTIwbWVhbCUyMHByZXAlMjBjb250YWluZXJ8ZW58MXwxfHx8MTc5NTY5NTUxOHww&ixlib=rb-4.1.0",
+      "web": "https://images.unsplash.com/photo-1735800239422-0718cd255cfe?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTQzODc5fDB8MXxzZWFyY2h8MTF8fHR1cmtleSUyMGJ1cnJpdG8lMjBib3dsJTIwbWVhbCUyMHByZXAlMjBjb250YWluZXJ8ZW58MXwxfHx8MTc5NTY5NTUxOHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "download_location": "https://api.unsplash.com/photos/qRIbkzGZ9k0/download?ixid=M3wxMTQzODc5fDB8MXxzZWFyY2h8MTF8fHR1cmtleSUyMGJ1cnJpdG8lMjBib3dsJTIwbWVhbCUyMHByZXAlMjBjb250YWluZXJ8ZW58MXwxfHx8MTc5NTY5NTUxOHww",
+      "score": 6
+    },
+    {
+      "id": "u-bZKCWyMz0W8",
+      "width": 5464,
+      "height": 8192,
+      "alt": "a plate of food New Lens new Bowl",
+      "photographer": "Filipp Romanovski",
+      "photographer_url": "https://unsplash.com/@filipp_roman_photography?utm_source=easy_protein_kitchen&utm_medium=referral",
+      "page_url": "https://unsplash.com/photos/a-plate-of-food-bZKCWyMz0W8?utm_source=easy_protein_kitchen&utm_medium=referral",
+      "source": "Unsplash",
+      "source_url": "https://unsplash.com/?utm_source=easy_protein_kitchen&utm_medium=referral",
+      "src": "https://images.unsplash.com/photo-1660744563092-2a9c5b9c87ff?ixid=M3wxMTQzODc5fDB8MXxzZWFyY2h8MTN8fHR1cmtleSUyMGJ1cnJpdG8lMjBib3dsJTIwbWVhbCUyMHByZXAlMjBjb250YWluZXJ8ZW58MXwxfHx8MTc5NTY5NTUxOHww&ixlib=rb-4.1.0",
+      "web": "https://images.unsplash.com/photo-1660744563092-2a9c5b9c87ff?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTQzODc5fDB8MXxzZWFyY2h8MTN8fHR1cmtleSUyMGJ1cnJpdG8lMjBib3dsJTIwbWVhbCUyMHByZXAlMjBjb250YWluZXJ8ZW58MXwxfHx8MTc5NTY5NTUxOHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "download_location": "https://api.unsplash.com/photos/bZKCWyMz0W8/download?ixid=M3wxMTQzODc5fDB8MXxzZWFyY2h8MTN8fHR1cmtleSUyMGJ1cnJpdG8lMjBib3dsJTIwbWVhbCUyMHByZXAlMjBjb250YWluZXJ8ZW58MXwxfHx8MTc5NTY5NTUxOHww",
+      "score": 6
+    },
+    {
+      "id": "u-XERfoLSCgOU",
+      "width": 3024,
+      "height": 4032,
+      "alt": "vegetable salad in clear glass bowl Fresh packaged salad ",
+      "photographer": "Yu Hosoi",
+      "photographer_url": "https://unsplash.com/@yu_grino?utm_source=easy_protein_kitchen&utm_medium=referral",
+      "page_url": "https://unsplash.com/photos/vegetable-salad-in-clear-glass-bowl-XERfoLSCgOU?utm_source=easy_protein_kitchen&utm_medium=referral",
+      "source": "Unsplash",
+      "source_url": "https://unsplash.com/?utm_source=easy_protein_kitchen&utm_medium=referral",
+      "src": "https://images.unsplash.com/photo-1584799650072-ee2c8f73b811?ixid=M3wxMTQzODc5fDB8MXxzZWFyY2h8MTV8fHR1cmtleSUyMGJ1cnJpdG8lMjBib3dsJTIwbWVhbCUyMHByZXAlMjBjb250YWluZXJ8ZW58MXwxfHx8MTc5NTY5NTUxOHww&ixlib=rb-4.1.0",
+      "web": "https://images.unsplash.com/photo-1584799650072-ee2c8f73b811?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTQzODc5fDB8MXxzZWFyY2h8MTV8fHR1cmtleSUyMGJ1cnJpdG8lMjBib3dsJTIwbWVhbCUyMHByZXAlMjBjb250YWluZXJ8ZW58MXwxfHx8MTc5NTY5NTUxOHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "download_location": "https://api.unsplash.com/photos/XERfoLSCgOU/download?ixid=M3wxMTQzODc5fDB8MXxzZWFyY2h8MTV8fHR1cmtleSUyMGJ1cnJpdG8lMjBib3dsJTIwbWVhbCUyMHByZXAlMjBjb250YWluZXJ8ZW58MXwxfHx8MTc5NTY5NTUxOHww",
+      "score": 6
+    },
+    {
+      "id": "u-4aJEp9bgHJI",
+      "width": 2261,
+      "height": 3015,
+      "alt": "a table topped with bowls filled with different types of food",
+      "photographer": "Filipp Romanovski",
+      "photographer_url": "https://unsplash.com/@filipp_roman_photography?utm_source=easy_protein_kitchen&utm_medium=referral",
+      "page_url": "https://unsplash.com/photos/a-table-topped-with-bowls-filled-with-different-types-of-food-4aJEp9bgHJI?utm_source=easy_protein_kitchen&utm_medium=referral",
+      "source": "Unsplash",
+      "source_url": "https://unsplash.com/?utm_source=easy_protein_kitchen&utm_medium=referral",
+      "src": "https://images.unsplash.com/photo-1652984021662-c23bfdeac5c5?ixid=M3wxMTQzODc5fDB8MXxzZWFyY2h8MTZ8fHR1cmtleSUyMGJ1cnJpdG8lMjBib3dsJTIwbWVhbCUyMHByZXAlMjBjb250YWluZXJ8ZW58MXwxfHx8MTc5NTY5NTUxOHww&ixlib=rb-4.1.0",
+      "web": "https://images.unsplash.com/photo-1652984021662-c23bfdeac5c5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTQzODc5fDB8MXxzZWFyY2h8MTZ8fHR1cmtleSUyMGJ1cnJpdG8lMjBib3dsJTIwbWVhbCUyMHByZXAlMjBjb250YWluZXJ8ZW58MXwxfHx8MTc5NTY5NTUxOHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "download_location": "https://api.unsplash.com/photos/4aJEp9bgHJI/download?ixid=M3wxMTQzODc5fDB8MXxzZWFyY2h8MTZ8fHR1cmtleSUyMGJ1cnJpdG8lMjBib3dsJTIwbWVhbCUyMHByZXAlMjBjb250YWluZXJ8ZW58MXwxfHx8MTc5NTY5NTUxOHww",
+      "score": 6
+    }
+  ],
+  "verification": {
+    "checks": [
+      {
+        "verdict": "pass",
+        "issues": [],
+        "sources": [
+          {
+            "name": "Budget Bytes - Easy Turkey Taco Bowls",
+            "url": "https://www.budgetbytes.com/easy-turkey-taco-bowls/"
+          },
+          {
+            "name": "Damn Delicious - Meal Prep Turkey Taco Bowls",
+            "url": "https://damndelicious.net/2019/08/07/meal-prep-turkey-taco-bowls/"
+          }
+        ],
+        "grounded": false
+      }
+    ],
+    "rule_warnings": [
+      "unusual unit 'packet' for 'taco seasoning'"
+    ],
+    "model": "gemini-flash-lite-latest"
+  },
+  "created": "2026-11-26"
+}

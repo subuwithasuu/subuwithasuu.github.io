@@ -80,5 +80,633 @@
     "board": "High Protein Dinners",
     "reason": "verify failed: gemini-3.5-flash: gave up after retries",
     "date": "2026-11-25"
+  },
+  {
+    "title": "Spicy Tuna and White Bean Salad",
+    "board": "Budget High Protein Meals",
+    "reason": {
+      "rules": [
+        "protein overclaimed: says 28g, ingredients give ~4g",
+        "only ~4g protein per serving (board needs 25g+)"
+      ]
+    },
+    "date": "2026-11-26"
+  },
+  {
+    "title": "Crispy Skillet Chicken Thighs with Garlic Lentils",
+    "board": "Budget High Protein Meals",
+    "reason": {
+      "verify": "still not passing after fixes",
+      "checks": [
+        {
+          "verdict": "fix",
+          "issues": [
+            "Dry brown lentils (1 cup / 200g) require significantly more liquid (at least 2.5 to 3 cups) and a longer cooking time (25-35 minutes) to become tender, as 2 cups of broth in 10 minutes will leave the lentils raw and crunchy.",
+            "Cook time of 15 minutes is insufficient to finish cooking bone-in, skin-on chicken thighs and tenderize dry lentils from scratch in a single skillet."
+          ],
+          "sources": [
+            {
+              "name": "Serious Eats - Crispy Skillet Chicken Thighs with Pan-Roasted Vegetables/Lentils",
+              "url": "https://www.seriouseats.com/"
+            },
+            {
+              "name": "BBC Good Food - One-pan chicken & lentils",
+              "url": "https://www.bbcgoodfood.com/"
+            },
+            {
+              "name": "NYT Cooking - Braised Chicken Thighs With Lentils and Garlic",
+              "url": "https://cooking.nytimes.com/"
+            }
+          ],
+          "grounded": false
+        },
+        {
+          "verdict": "fix",
+          "issues": [
+            "1 cup of dry brown lentils (200g) requires approximately 2.5 to 3 cups of liquid, but simmering covered for 25-30 minutes with chicken thighs on top will leave the lentils too soupy or undercooked depending on evaporation; standard ratios for braising 1 cup dry lentils call for closer to 2 to 2.5 cups of broth when covered.",
+            "Food safety and doneness: While 165°F (74°C) is the minimum safe temperature for chicken, bone-in dark meat like thighs is vastly superior and more tender when cooked to 175°F-180°F (79°C-82°C)."
+          ],
+          "sources": [
+            {
+              "name": "Serious Eats - Crispy Skillet Chicken Thighs with Wilted Greens and Lentils",
+              "url": "https://www.seriouseats.com/"
+            },
+            {
+              "name": "NYT Cooking - Braised Chicken Thighs With Lentils and Garlic",
+              "url": "https://cooking.nytimes.com/"
+            },
+            {
+              "name": "BBC Good Food - One-pan chicken & green lentils",
+              "url": "https://www.bbcgoodfood.com/"
+            }
+          ],
+          "grounded": false
+        }
+      ]
+    },
+    "date": "2026-11-26"
+  },
+  {
+    "title": "High-Protein Tomato and Chickpea Shakshuka",
+    "board": "Budget High Protein Meals",
+    "reason": {
+      "verify": "still not passing after fixes",
+      "checks": [
+        {
+          "verdict": "fix",
+          "issues": [
+            "A 10-inch skillet is too small to comfortably fit 800g of crushed tomatoes, 400g of chickpeas, vegetables, and 4 eggs without overflowing. A 12-inch skillet (or large braiser/wide pan) is the standard required size.",
+            "Simmering crushed tomatoes and chickpeas for only 5 minutes is insufficient to develop the sauce flavor or reduce the high moisture content of a 28 oz can of tomatoes; standard recipes simmer the base for 10 to 15 minutes before adding eggs.",
+            "Covering and cooking eggs over medium-low heat for 5 minutes often results in overcooked or hard-boiled yolks; standard times are typically 5 to 8 minutes on low heat, checking for set whites and runny yolks."
+          ],
+          "sources": [
+            {
+              "name": "Serious Eats - The Best Shakshuka",
+              "url": "https://www.seriouseats.com/the-best-shakshuka-recipe"
+            },
+            {
+              "name": "NYT Cooking - Shakshuka With Feta",
+              "url": "https://cooking.nytimes.com/recipes/1014721-shakshuka-with-feta"
+            },
+            {
+              "name": "BBC Good Food - Easy Shakshuka",
+              "url": "https://www.bbcgoodfood.com/recipes/easy-shakshuka"
+            }
+          ],
+          "grounded": false
+        },
+        {
+          "verdict": "fix",
+          "issues": [
+            "Missing salt quantity in the ingredients list (only mentioned vaguely in the steps), which is critical for balancing the acidity of 28 oz of crushed tomatoes.",
+            "Ingredient note for olive oil says 'divided' but the recipe calls for all 2 tablespoons at once in the first step."
+          ],
+          "sources": [
+            {
+              "name": "Serious Eats - The Best Shakshuka",
+              "url": "https://www.seriouseats.com/shakshuka-north-african-israeli-tomato-pepper-eggs-recipe"
+            },
+            {
+              "name": "NYT Cooking - Shakshuka With Feta",
+              "url": "https://cooking.nytimes.com/recipes/1014721-shakshuka-with-feta"
+            }
+          ],
+          "grounded": false
+        }
+      ]
+    },
+    "date": "2026-11-26"
+  },
+  {
+    "title": "Crispy Tofu Stir-Fry with Edamame and Peanut Sauce",
+    "board": "High Protein Vegetarian",
+    "reason": {
+      "verify": "still not passing after fixes",
+      "checks": [
+        {
+          "verdict": "fix",
+          "issues": [
+            "The peanut sauce is too thick; 2 tablespoons of water is insufficient to create a pourable sauce for 4 servings.",
+            "The cornstarch amount (2 tbsp) is insufficient to coat 1 lb of tofu effectively for a crispy texture; 3-4 tbsp is standard.",
+            "The cooking method lacks aromatics (garlic, ginger) which are standard in established recipes for this dish."
+          ],
+          "sources": [
+            {
+              "name": "Serious Eats - Crispy Tofu Stir-Fry with Peanut Sauce",
+              "url": "https://www.seriouseats.com/crispy-tofu-stir-fry-peanut-sauce-recipe"
+            },
+            {
+              "name": "RecipeTin Eats - Crispy Tofu Stir Fry",
+              "url": "https://www.recipetineats.com/crispy-tofu-stir-fry/"
+            }
+          ],
+          "grounded": false
+        },
+        {
+          "verdict": "fix",
+          "issues": [
+            "The sauce volume is insufficient for 4 servings; 4 tbsp of water is too little to create a pourable sauce for 1lb of tofu and 6 cups of vegetables.",
+            "The oil amount (2 tbsp) is insufficient to properly crisp 1lb of tofu in a single batch; it will likely stick or steam rather than fry.",
+            "The cooking time for broccoli is slightly aggressive for a stir-fry; adding a splash of water or broth is standard to ensure the broccoli steams through without burning the garlic."
+          ],
+          "sources": [
+            {
+              "name": "Serious Eats - Crispy Tofu Stir-Fry with Peanut Sauce",
+              "url": "https://www.seriouseats.com/crispy-tofu-stir-fry-peanut-sauce-recipe"
+            },
+            {
+              "name": "RecipeTin Eats - Crispy Tofu Stir Fry",
+              "url": "https://www.recipetineats.com/crispy-tofu-stir-fry/"
+            }
+          ],
+          "grounded": false
+        }
+      ]
+    },
+    "date": "2026-11-26"
+  },
+  {
+    "title": "Lentil and Spinach Curry with Paneer",
+    "board": "High Protein Vegetarian",
+    "reason": {
+      "verify": "still not passing after fixes",
+      "checks": [
+        {
+          "verdict": "fix",
+          "issues": [
+            "The cook time is slightly aggressive for flavor development; 15 minutes is technically possible but results in a raw-tasting curry. Increasing to 20-25 minutes allows the aromatics and tomatoes to meld properly.",
+            "The yogurt is added at the very end without a tempering step or heat reduction, which risks curdling when added to a hot acidic tomato base.",
+            "The recipe lacks a liquid component (water or broth) to create a proper sauce consistency, as the tomatoes and lentils alone will result in a very dry, thick mixture."
+          ],
+          "sources": [
+            {
+              "name": "RecipeTin Eats - Spinach and Lentil Curry (Dal Palak)",
+              "url": "https://www.recipetineats.com/spinach-lentil-curry-dal-palak/"
+            },
+            {
+              "name": "BBC Good Food - Spinach and Paneer Curry",
+              "url": "https://www.bbcgoodfood.com/recipes/spinach-paneer-curry"
+            }
+          ],
+          "grounded": false
+        },
+        {
+          "verdict": "fix",
+          "issues": [
+            "The total time is listed as 25 minutes, but the sum of the steps (3-4 + 5-7 + 1 + 8-10 + 3 + 2) equals 22-27 minutes of active cooking, excluding prep time. The total time should be updated to 35 minutes to be realistic.",
+            "The seasoning is insufficient for 4 servings; 1 tbsp of curry powder is too mild for this volume of lentils and tomatoes. Added salt and garam masala are standard for depth of flavor."
+          ],
+          "sources": [
+            {
+              "name": "RecipeTin Eats - Palak Paneer",
+              "url": "https://www.recipetineats.com/palak-paneer/"
+            },
+            {
+              "name": "Serious Eats - Creamy Spinach and Lentil Curry",
+              "url": "https://www.seriouseats.com/creamy-spinach-lentil-curry-recipe"
+            }
+          ],
+          "grounded": false
+        }
+      ]
+    },
+    "date": "2026-11-26"
+  },
+  {
+    "title": "Tempeh and Vegetable Sheet Pan Bake",
+    "board": "High Protein Vegetarian",
+    "reason": {
+      "verify": "still not passing after fixes",
+      "checks": [
+        {
+          "verdict": "fix",
+          "issues": [
+            "The cook time of 15 minutes is insufficient for tempeh to brown and vegetables to roast properly at 425°F; standard recipes require 20-25 minutes.",
+            "Tempeh is often bitter if not steamed or simmered briefly before roasting, though this is optional, the cook time must be extended to ensure texture development.",
+            "The total time is inconsistent with the required roasting time."
+          ],
+          "sources": [
+            {
+              "name": "Serious Eats - Sheet-Pan Tempeh and Vegetables",
+              "url": "https://www.seriouseats.com"
+            },
+            {
+              "name": "RecipeTin Eats - Sheet Pan Tempeh Stir Fry",
+              "url": "https://www.recipetineats.com"
+            }
+          ],
+          "grounded": false
+        },
+        {
+          "verdict": "fix",
+          "issues": [
+            "Tempeh is often bitter when raw; standard practice is to steam or simmer it for 5-10 minutes before roasting to improve texture and flavor.",
+            "The marinade volume is slightly low for the amount of ingredients, leading to uneven seasoning.",
+            "The cook time is sufficient, but the tempeh requires a higher fat-to-protein ratio to prevent drying out during a 25-minute roast at 425°F."
+          ],
+          "sources": [
+            {
+              "name": "Serious Eats - Sheet-Pan Tempeh and Vegetables",
+              "url": "https://www.seriouseats.com"
+            },
+            {
+              "name": "RecipeTin Eats - Sheet Pan Tempeh Stir Fry",
+              "url": "https://www.recipetineats.com"
+            }
+          ],
+          "grounded": false
+        }
+      ]
+    },
+    "date": "2026-11-26"
+  },
+  {
+    "title": "Air Fryer Lemon Herb Chicken Breast",
+    "board": "High Protein Chicken Recipes",
+    "reason": {
+      "verify": "still not passing after fixes",
+      "checks": [
+        {
+          "verdict": "fix",
+          "issues": [
+            "The marinade time is missing; chicken breasts require at least 30 minutes to absorb flavor, otherwise, the marinade is just a surface coating.",
+            "The cook time of 12-15 minutes at 380°F is slightly high for 150g breasts, which risks drying out the meat; 10-12 minutes is standard for this size."
+          ],
+          "sources": [
+            {
+              "name": "RecipeTin Eats - Air Fryer Chicken Breast",
+              "url": "https://www.recipetineats.com/air-fryer-chicken-breast/"
+            },
+            {
+              "name": "Serious Eats - Air Fryer Chicken Breast",
+              "url": "https://www.seriouseats.com/air-fryer-chicken-breast"
+            }
+          ],
+          "grounded": false
+        },
+        {
+          "verdict": "fix",
+          "issues": [
+            "The cook time is slightly aggressive for 150g breasts; 10-12 minutes at 380°F can lead to dry chicken. 8-10 minutes is the standard for this size.",
+            "The marinade contains lemon juice; marinating for 30 minutes is fine, but longer could denature the proteins and change the texture. Added a note to limit time."
+          ],
+          "sources": [
+            {
+              "name": "RecipeTin Eats - Air Fryer Chicken Breast",
+              "url": "https://www.recipetineats.com/air-fryer-chicken-breast/"
+            },
+            {
+              "name": "Serious Eats - Air Fryer Chicken Breast",
+              "url": "https://www.seriouseats.com/air-fryer-chicken-breast"
+            }
+          ],
+          "grounded": false
+        }
+      ]
+    },
+    "date": "2026-11-26"
+  },
+  {
+    "title": "Sheet Pan Pesto Chicken and Roasted Vegetables",
+    "board": "High Protein Chicken Recipes",
+    "reason": {
+      "verify": "still not passing after fixes",
+      "checks": [
+        {
+          "verdict": "fix",
+          "issues": [
+            "The original recipe fails to coat the chicken in pesto before cooking; pesto contains cheese and herbs that burn at 425°F, but tossing the chicken in a portion of the pesto before roasting is standard for flavor penetration.",
+            "15 minutes is likely insufficient for 1.5 lbs of chicken breast cubes and vegetables to roast properly at 425°F without overcrowding the pan, which leads to steaming rather than roasting.",
+            "The salt quantity is low for 1.5 lbs of protein and 4 cups of vegetables."
+          ],
+          "sources": [
+            {
+              "name": "RecipeTin Eats - Sheet Pan Pesto Chicken and Veggies",
+              "url": "https://www.recipetineats.com/sheet-pan-pesto-chicken-and-veggies/"
+            },
+            {
+              "name": "The Kitchn - Sheet Pan Pesto Chicken",
+              "url": "https://www.thekitchn.com/sheet-pan-pesto-chicken-recipe-23005393"
+            }
+          ],
+          "grounded": false
+        },
+        {
+          "verdict": "fix",
+          "issues": [
+            "The total time (25 min) is mathematically inconsistent with the prep (10 min) and cook (20 min) times.",
+            "Roasting 1-inch chicken breast cubes at 425°F for 18-22 minutes will result in dry, overcooked meat (internal temp will far exceed 165°F).",
+            "High heat (425°F) can cause the basil in the pesto to scorch and turn bitter; 400°F is the standard for pesto-based sheet pan meals."
+          ],
+          "sources": [
+            {
+              "name": "WellPlated - Sheet Pan Pesto Chicken",
+              "url": "https://www.wellplated.com/sheet-pan-pesto-chicken/"
+            },
+            {
+              "name": "Cooking Classy - Sheet Pan Pesto Chicken and Veggies",
+              "url": "https://www.cookingclassy.com/sheet-pan-pesto-chicken-veggies/"
+            }
+          ],
+          "grounded": false
+        }
+      ]
+    },
+    "date": "2026-11-26"
+  },
+  {
+    "title": "Teriyaki Chicken and Broccoli Rice Bowl",
+    "board": "High Protein Chicken Recipes",
+    "reason": {
+      "verify": "still not passing after fixes",
+      "checks": [
+        {
+          "verdict": "fix",
+          "issues": [
+            "The ratio of soy sauce (1/2 cup) to other ingredients is too high for 4 servings, resulting in excessive sodium (approx. 1,800mg per serving) and an unbalanced, overly salty flavor profile.",
+            "Cooking the chicken to 165°F (74°C) in Step 3, followed by 4 minutes of steaming and 2 minutes of simmering, will result in significantly overcooked, dry, and rubbery chicken breast (likely exceeding 185°F)."
+          ],
+          "sources": [
+            {
+              "name": "RecipeTin Eats - Teriyaki Chicken",
+              "url": "https://www.recipetineats.com/teriyaki-chicken/"
+            },
+            {
+              "name": "NYT Cooking - Chicken and Broccoli Stir-Fry",
+              "url": "https://cooking.nytimes.com/recipes/1012424-chicken-and-broccoli-stir-fry"
+            },
+            {
+              "name": "Serious Eats - Easy Teriyaki Chicken",
+              "url": "https://www.seriouseats.com/easy-teriyaki-chicken-recipe"
+            }
+          ],
+          "grounded": false
+        },
+        {
+          "verdict": "fix",
+          "issues": [
+            "The ingredients list omits several items referenced in the steps: honey, cornstarch, rice vinegar, ginger, garlic, vegetable oil, rice, and broccoli florets."
+          ],
+          "sources": [
+            {
+              "name": "Serious Eats - Easy Teriyaki Chicken with Broccoli",
+              "url": "https://www.seriouseats.com/"
+            },
+            {
+              "name": "RecipeTin Eats - Teriyaki Chicken",
+              "url": "https://www.recipetineats.com/teriyaki-chicken-recipe/"
+            }
+          ],
+          "grounded": false
+        }
+      ]
+    },
+    "date": "2026-11-26"
+  },
+  {
+    "title": "Spinach and Feta Egg White Muffins",
+    "board": "High Protein Meal Prep",
+    "reason": {
+      "rules": [
+        "protein overclaimed: says 26g, ingredients give ~18g",
+        "only ~18g protein per serving (board needs 25g+)"
+      ]
+    },
+    "date": "2026-11-26"
+  },
+  {
+    "title": "Honey Mustard Chicken and Sweet Potato Meal Prep",
+    "board": "High Protein Meal Prep",
+    "reason": {
+      "verify": "still not passing after fixes",
+      "checks": [
+        {
+          "verdict": "fix",
+          "issues": [
+            "The amount of salt (1/2 tsp) is insufficient for 1.5 lbs of chicken plus 1 lb of sweet potatoes and broccoli; standard seasoning requires approximately 1 to 1.25 tsp for this volume.",
+            "The amount of olive oil (1 tbsp) is too low to properly roast and prevent sticking for both sweet potatoes and broccoli; 2 tbsp is the standard minimum for two vegetable components.",
+            "The instructions for dividing the sauce should explicitly state to set aside the 'clean' portion before the chicken is added to prevent cross-contamination risks."
+          ],
+          "sources": [
+            {
+              "name": "Well Plated - Sheet Pan Honey Mustard Chicken",
+              "url": "https://www.wellplated.com/sheet-pan-honey-mustard-chicken/"
+            },
+            {
+              "name": "EatingWell - Honey-Mustard Chicken with Roasted Vegetables",
+              "url": "https://www.eatingwell.com/recipe/267817/honey-mustard-chicken-with-roasted-vegetables/"
+            }
+          ],
+          "grounded": false
+        },
+        {
+          "verdict": "fix",
+          "issues": [
+            "The ingredients list is missing the primary components of the dish (chicken, sweet potatoes, broccoli, honey, mustard, garlic powder, and smoked paprika) mentioned in the steps.",
+            "The cook_minutes (25) is inconsistent with the sum of the steps (15 + 12-15 = 27-30 minutes)."
+          ],
+          "sources": [
+            {
+              "name": "RecipeTin Eats - Sheet Pan Honey Mustard Chicken and Veggies",
+              "url": "https://www.recipetineats.com/sheet-pan-honey-mustard-chicken-and-vegetables/"
+            },
+            {
+              "name": "Allrecipes - Honey-Mustard Chicken Bake",
+              "url": "https://www.allrecipes.com/recipe/270598/honey-mustard-chicken-and-veggies/"
+            }
+          ],
+          "grounded": false
+        }
+      ]
+    },
+    "date": "2026-11-26"
+  },
+  {
+    "title": "15-Minute Lemon Garlic Butter Shrimp and Asparagus",
+    "board": "30 Minute High Protein Meals",
+    "reason": {
+      "verify": "still not passing after fixes",
+      "checks": [
+        {
+          "verdict": "fix",
+          "issues": [
+            "The salt amount (1/2 tsp) is insufficient for 2.5 lbs of total ingredients (shrimp and asparagus); 1 tsp is the standard ratio for this volume.",
+            "Adding minced garlic at the start of a 4-6 minute sauté on medium-high heat will likely burn the garlic, making it bitter.",
+            "Cooking shrimp for 2-3 minutes per side (up to 6 minutes total) on medium-high heat will result in overcooked, rubbery shrimp; 1-2 minutes per side is standard for large shrimp."
+          ],
+          "sources": [
+            {
+              "name": "Allrecipes - Lemon Garlic Butter Shrimp with Asparagus",
+              "url": "https://www.allrecipes.com/recipe/273521/lemon-garlic-butter-shrimp-with-asparagus/"
+            },
+            {
+              "name": "Eatwell101 - Lemon Garlic Butter Shrimp and Asparagus",
+              "url": "https://www.eatwell101.com/lemon-garlic-butter-shrimp-with-asparagus-recipe"
+            },
+            {
+              "name": "RecipeTin Eats - Garlic Butter Shrimp",
+              "url": "https://www.recipetineats.com/garlic-butter-shrimp-prawns/"
+            }
+          ],
+          "grounded": false
+        },
+        {
+          "verdict": "fix",
+          "issues": [
+            "The prep time of 5 minutes is unrealistic for peeling/deveining 1.5 lbs of shrimp and trimming/cutting asparagus.",
+            "Crowding 1.5 lbs of shrimp and 1 lb of asparagus in a single 12-inch skillet using the 'push to the edges' method will cause the shrimp to steam and release excess moisture rather than sear, resulting in a watery sauce and rubbery texture."
+          ],
+          "sources": [
+            {
+              "name": "Allrecipes - Lemon Garlic Butter Shrimp with Asparagus",
+              "url": "https://www.allrecipes.com/recipe/263545/lemon-garlic-butter-shrimp-with-asparagus/"
+            },
+            {
+              "name": "Eatwell101 - Lemon Garlic Butter Shrimp and Asparagus",
+              "url": "https://www.eatwell101.com/lemon-garlic-butter-shrimp-and-asparagus-recipe"
+            },
+            {
+              "name": "Delish - Garlic Butter Shrimp & Asparagus",
+              "url": "https://www.delish.com/cooking/recipe-ideas/a26833111/garlic-butter-shrimp-asparagus-recipe/"
+            }
+          ],
+          "grounded": false
+        }
+      ]
+    },
+    "date": "2026-11-26"
+  },
+  {
+    "title": "Healthy Chicken and Broccoli Stir Fry",
+    "board": "30 Minute High Protein Meals",
+    "reason": "verify failed: gemini-3.5-flash: busy after retries",
+    "date": "2026-11-26"
+  },
+  {
+    "title": "Cajun Turkey Sausage and Pepper Skillet",
+    "board": "30 Minute High Protein Meals",
+    "reason": {
+      "rules": [
+        "protein overclaimed: says 35g, ingredients give ~16g",
+        "only ~15g protein per serving (board needs 25g+)"
+      ]
+    },
+    "date": "2026-11-26"
+  },
+  {
+    "title": "Sheet Pan Steak Fajitas",
+    "board": "30 Minute High Protein Meals",
+    "reason": {
+      "verify": "still not passing after fixes",
+      "checks": [
+        {
+          "verdict": "fix",
+          "issues": [
+            "Insufficient fat: 2 tbsp of oil is insufficient for 1.5 lbs of steak and 3 peppers, leading to dry, steamed meat rather than roasted/seared.",
+            "Insufficient seasoning: 0.5 tsp of salt for 1.5 lbs of meat is significantly under-seasoned; standard ratio is 1 tsp per lb.",
+            "Missing acid: Fajitas require lime juice to balance the fat and spices."
+          ],
+          "sources": [
+            {
+              "name": "RecipeTin Eats - Sheet Pan Steak Fajitas",
+              "url": "https://www.recipetineats.com/sheet-pan-steak-fajitas/"
+            },
+            {
+              "name": "The Kitchn - Sheet Pan Steak Fajitas",
+              "url": "https://www.thekitchn.com/sheet-pan-steak-fajitas-263378"
+            }
+          ],
+          "grounded": false
+        },
+        {
+          "verdict": "fix",
+          "issues": [
+            "Overcrowding: 1.5 lbs of steak plus 1.5 lbs of vegetables on a single sheet pan will steam rather than roast, preventing the necessary browning (Maillard reaction) for fajitas.",
+            "Missing aromatics: Standard fajita recipes require garlic for depth of flavor.",
+            "Cooking time: 10-12 minutes at 450°F is likely to overcook thin strips of flank steak if the vegetables are to be properly charred."
+          ],
+          "sources": [
+            {
+              "name": "RecipeTin Eats - Sheet Pan Steak Fajitas",
+              "url": "https://www.recipetineats.com/sheet-pan-steak-fajitas/"
+            },
+            {
+              "name": "The Kitchn - Sheet Pan Steak Fajitas",
+              "url": "https://www.thekitchn.com/sheet-pan-steak-fajitas-263303"
+            }
+          ],
+          "grounded": false
+        }
+      ]
+    },
+    "date": "2026-11-26"
+  },
+  {
+    "title": "Spinach and Feta Egg White Frittata",
+    "board": "High Protein Breakfast",
+    "reason": {
+      "verify": "still not passing after fixes",
+      "checks": [
+        {
+          "verdict": "fix",
+          "issues": [
+            "The recipe lacks a liquid component (like milk, cream, or water) to prevent the egg whites from becoming rubbery when cooked.",
+            "The salt content is too low for 2 cups of egg whites and 1 cup of feta; while feta is salty, 1/4 tsp is insufficient for the volume of egg whites.",
+            "The cooking time under the broiler is risky; egg whites can turn rubbery or burn very quickly under high heat. A lower oven temperature (350°F/175°C) is standard for a consistent, tender set."
+          ],
+          "sources": [
+            {
+              "name": "Serious Eats - Frittata with Spinach and Feta",
+              "url": "https://www.seriouseats.com/frittata-spinach-feta-recipe"
+            },
+            {
+              "name": "BBC Good Food - Spinach and Feta Frittata",
+              "url": "https://www.bbcgoodfood.com/recipes/spinach-feta-frittata"
+            }
+          ],
+          "grounded": false
+        },
+        {
+          "verdict": "fix",
+          "issues": [
+            "The egg-to-liquid ratio is slightly low for a standard frittata, which may result in a rubbery texture when using only egg whites. Adding a small amount of extra liquid or adjusting the cooking time is recommended.",
+            "The cooking time in the oven (8-10 minutes) is likely insufficient for 2 cups of egg whites to set fully in a 10-inch skillet, as egg whites lack the fat content of yolks which helps coagulation.",
+            "The recipe lacks a specific instruction to ensure the spinach is dry, which can lead to a watery frittata."
+          ],
+          "sources": [
+            {
+              "name": "Serious Eats - Frittata",
+              "url": "https://www.seriouseats.com/frittata-recipe-5217367"
+            },
+            {
+              "name": "BBC Good Food - Spinach and Feta Frittata",
+              "url": "https://www.bbcgoodfood.com/recipes/spinach-feta-frittata"
+            }
+          ],
+          "grounded": false
+        }
+      ]
+    },
+    "date": "2026-11-26"
   }
 ]

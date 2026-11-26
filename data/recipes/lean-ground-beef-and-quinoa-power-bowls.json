@@ -1,0 +1,301 @@
+{
+  "title": "Lean Ground Beef and Quinoa Power Bowls",
+  "description": "These Ground Beef and Quinoa Power Bowls deliver 34g of protein and are ready in just 30 minutes. Savory lean beef, fluffy quinoa, and black beans make this a satisfying and efficient meal for your weekly prep.",
+  "cuisine": "American",
+  "category": "Dinner | Lunch",
+  "servings": 4,
+  "protein_g_per_serving": 34,
+  "prep_minutes": 10,
+  "cook_minutes": 20,
+  "total_minutes": 30,
+  "ingredients": [
+    {
+      "qty": "1",
+      "unit": "cup",
+      "item": "dry quinoa",
+      "metric": "170 g",
+      "note": "rinsed well"
+    },
+    {
+      "qty": "2",
+      "unit": "cups",
+      "item": "low-sodium beef broth",
+      "metric": "480 ml",
+      "note": ""
+    },
+    {
+      "qty": "1",
+      "unit": "lb",
+      "item": "93% lean ground beef",
+      "metric": "454 g",
+      "note": ""
+    },
+    {
+      "qty": "1",
+      "unit": "tbsp",
+      "item": "olive oil",
+      "metric": "15 ml",
+      "note": ""
+    },
+    {
+      "qty": "1",
+      "unit": "large",
+      "item": "bell pepper",
+      "metric": "150 g",
+      "note": "diced"
+    },
+    {
+      "qty": "1/2",
+      "unit": "cup",
+      "item": "red onion",
+      "metric": "75 g",
+      "note": "diced"
+    },
+    {
+      "qty": "1",
+      "unit": "can",
+      "item": "black beans",
+      "metric": "425 g",
+      "note": "rinsed and drained"
+    },
+    {
+      "qty": "2",
+      "unit": "tsp",
+      "item": "chili powder",
+      "metric": "5 g",
+      "note": ""
+    },
+    {
+      "qty": "1",
+      "unit": "tsp",
+      "item": "ground cumin",
+      "metric": "2 g",
+      "note": ""
+    },
+    {
+      "qty": "1/2",
+      "unit": "tsp",
+      "item": "garlic powder",
+      "metric": "1 g",
+      "note": ""
+    },
+    {
+      "qty": "1/2",
+      "unit": "tsp",
+      "item": "fine sea salt",
+      "metric": "3 g",
+      "note": ""
+    },
+    {
+      "qty": "1/2",
+      "unit": "cup",
+      "item": "crumbled feta cheese",
+      "metric": "75 g",
+      "note": ""
+    }
+  ],
+  "steps": [
+    "In a medium saucepan, combine the rinsed quinoa and beef broth. Bring to a boil over high heat, then reduce to low, cover, and simmer for 15 minutes until the liquid is absorbed and the quinoa is fluffy.",
+    "While the quinoa cooks, heat the olive oil in a 12-inch skillet over medium-high heat. Add the diced bell pepper and red onion, sautéing for 4-5 minutes until the vegetables are softened and slightly browned.",
+    "Add the lean ground beef to the skillet. Cook for 6-8 minutes, breaking the meat into small crumbles with a wooden spoon, until the beef is fully browned and reaches an internal temperature of 160°F (71°C).",
+    "Stir the chili powder, cumin, garlic powder, salt, and drained black beans into the beef mixture. Cook for 2-3 minutes over medium heat until the beans are heated through and the spices are fragrant.",
+    "Remove the quinoa from the heat and fluff with a fork. Divide the quinoa evenly among four bowls.",
+    "Top each bowl with the beef and bean mixture, then sprinkle with crumbled feta cheese before serving."
+  ],
+  "tips": [
+    "Swap the beef broth for water if you prefer a milder flavor, but broth adds significant savory depth to the quinoa.",
+    "For extra volume without many calories, stir in two cups of fresh baby spinach at the very end until wilted.",
+    "If meal prepping, keep the feta in a separate small container to maintain its texture until you are ready to eat."
+  ],
+  "storage": "Store in airtight containers in the refrigerator for up to 4 days. Reheat in the microwave for 90 seconds.",
+  "tools": [
+    "12-inch skillet",
+    "medium saucepan",
+    "meat thermometer",
+    "wooden spoon"
+  ],
+  "keywords": [
+    "High Protein Ground Beef Recipes",
+    "Quinoa Meal Prep Bowls",
+    "Healthy Lunch Ideas for Gym",
+    "30 Minute High Protein Dinner",
+    "Ground Beef and Quinoa Recipe",
+    "Macro Friendly Meal Prep",
+    "Lean Beef Power Bowls"
+  ],
+  "pin_variants": [
+    {
+      "hook_type": "number",
+      "title": "34g Protein Ground Beef and Quinoa Bowls",
+      "description": "Fuel your workouts with these Ground Beef and Quinoa Power Bowls containing 34g of protein per serving. This simple 30-minute recipe uses lean beef and black beans for a macro-friendly meal. Save it for your next meal prep.",
+      "overlay": "34g Protein Beef Power Bowls",
+      "subline": "Ready in 30 Minutes",
+      "alt_text": "Four meal prep containers filled with fluffy quinoa, seasoned ground beef, black beans, and peppers topped with feta."
+    },
+    {
+      "hook_type": "speed",
+      "title": "30-Minute Quinoa Power Bowls with Lean Beef",
+      "description": "Get a high-protein dinner on the table fast with these 30-Minute Quinoa Power Bowls. Featuring lean ground beef and savory spices, it is the perfect solution for busy weeknights. Save it for your next meal prep.",
+      "overlay": "30-Minute High Protein Bowls",
+      "subline": "34g Protein Per Serving",
+      "alt_text": "A close up shot of a ceramic bowl filled with quinoa, colorful bell peppers, and seasoned ground beef."
+    },
+    {
+      "hook_type": "outcome",
+      "title": "Prep Once, Eat High-Protein All Week",
+      "description": "Simplify your nutrition with these Ground Beef and Quinoa Power Bowls. One batch makes four high-protein servings that stay fresh in the fridge for days. Save it for your next meal prep.",
+      "overlay": "Prep Once, Eat All Week",
+      "subline": "Perfect for Macro Tracking",
+      "alt_text": "A stack of four glass meal prep containers showing layers of quinoa and beef."
+    },
+    {
+      "hook_type": "teacher",
+      "title": "The Secret to Flavorful High-Protein Quinoa Bowls",
+      "description": "Learn how to make the ultimate Ground Beef and Quinoa Power Bowls by simmering your grains in broth for maximum flavor. This recipe packs 34g of protein to keep you full. Save it for your next meal prep.",
+      "overlay": "The Secret to Better Quinoa",
+      "subline": "34g Protein Meal Prep",
+      "alt_text": "A hand fluffing cooked quinoa with a fork next to a skillet of browned ground beef and peppers."
+    }
+  ],
+  "video_script": {
+    "hook": "This ground beef and quinoa bowl has 34 grams of protein.",
+    "steps_short": [
+      "Simmer quinoa in beef broth for 15 minutes until fluffy.",
+      "Sauté bell peppers and onions in olive oil until softened.",
+      "Brown the lean beef until it reaches 160 degrees Fahrenheit.",
+      "Stir in the black beans and savory spices for two minutes.",
+      "Layer the beef over the quinoa in four prep bowls.",
+      "Top with crumbled feta for a salty, high-protein finish."
+    ],
+    "outro": "The full recipe for these power bowls is on the website."
+  },
+  "photo_queries": [
+    "ground beef quinoa bowl feta black beans",
+    "high protein meal prep containers beef quinoa",
+    "cooked quinoa with ground meat and peppers"
+  ],
+  "must_match": [
+    "beef",
+    "quinoa",
+    "bowl"
+  ],
+  "board": "High Protein Meal Prep",
+  "slug": "lean-ground-beef-and-quinoa-power-bowls",
+  "protein_g": 34,
+  "photos": [
+    {
+      "id": "u-9ZwwvMFj_4M",
+      "width": 3064,
+      "height": 3830,
+      "alt": "a white bowl filled with food on top of a table Za'atar roasted Cauliflower, Quinoa Salad",
+      "photographer": "Max Griss",
+      "photographer_url": "https://unsplash.com/@grissphoto?utm_source=easy_protein_kitchen&utm_medium=referral",
+      "page_url": "https://unsplash.com/photos/a-white-bowl-filled-with-food-on-top-of-a-table-9ZwwvMFj_4M?utm_source=easy_protein_kitchen&utm_medium=referral",
+      "source": "Unsplash",
+      "source_url": "https://unsplash.com/?utm_source=easy_protein_kitchen&utm_medium=referral",
+      "src": "https://images.unsplash.com/photo-1649000475401-6bc57e7ecf48?ixid=M3wxMTQzODc5fDB8MXxzZWFyY2h8MjJ8fGdyb3VuZCUyMGJlZWYlMjBxdWlub2ElMjBib3dsJTIwZmV0YSUyMGJsYWNrJTIwYmVhbnN8ZW58MXwxfHx8MTc5NTY5NTc3MHww&ixlib=rb-4.1.0",
+      "web": "https://images.unsplash.com/photo-1649000475401-6bc57e7ecf48?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTQzODc5fDB8MXxzZWFyY2h8MjJ8fGdyb3VuZCUyMGJlZWYlMjBxdWlub2ElMjBib3dsJTIwZmV0YSUyMGJsYWNrJTIwYmVhbnN8ZW58MXwxfHx8MTc5NTY5NTc3MHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "download_location": "https://api.unsplash.com/photos/9ZwwvMFj_4M/download?ixid=M3wxMTQzODc5fDB8MXxzZWFyY2h8MjJ8fGdyb3VuZCUyMGJlZWYlMjBxdWlub2ElMjBib3dsJTIwZmV0YSUyMGJsYWNrJTIwYmVhbnN8ZW58MXwxfHx8MTc5NTY5NTc3MHww",
+      "score": 11
+    },
+    {
+      "id": "u-r1VTw7WmEz8",
+      "width": 3456,
+      "height": 5184,
+      "alt": "Bowls of rice, black beans, chopped herbs, and onions on a wooden kitchen counter",
+      "photographer": "Jael Rodriguez",
+      "photographer_url": "https://unsplash.com/@jr_photos?utm_source=easy_protein_kitchen&utm_medium=referral",
+      "page_url": "https://unsplash.com/photos/bowls-of-ingredients-on-kitchen-counter-r1VTw7WmEz8?utm_source=easy_protein_kitchen&utm_medium=referral",
+      "source": "Unsplash",
+      "source_url": "https://unsplash.com/?utm_source=easy_protein_kitchen&utm_medium=referral",
+      "src": "https://images.unsplash.com/photo-1794853022128-fdcd3aa63adc?ixid=M3wxMTQzODc5fDB8MXxzZWFyY2h8N3x8Z3JvdW5kJTIwYmVlZiUyMHF1aW5vYSUyMGJvd2wlMjBmZXRhJTIwYmxhY2slMjBiZWFuc3xlbnwxfDF8fHwxNzk1Njk1NzcwfDA&ixlib=rb-4.1.0",
+      "web": "https://images.unsplash.com/photo-1794853022128-fdcd3aa63adc?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTQzODc5fDB8MXxzZWFyY2h8N3x8Z3JvdW5kJTIwYmVlZiUyMHF1aW5vYSUyMGJvd2wlMjBmZXRhJTIwYmxhY2slMjBiZWFuc3xlbnwxfDF8fHwxNzk1Njk1NzcwfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "download_location": "https://api.unsplash.com/photos/r1VTw7WmEz8/download?ixid=M3wxMTQzODc5fDB8MXxzZWFyY2h8N3x8Z3JvdW5kJTIwYmVlZiUyMHF1aW5vYSUyMGJvd2wlMjBmZXRhJTIwYmxhY2slMjBiZWFuc3xlbnwxfDF8fHwxNzk1Njk1NzcwfDA",
+      "score": 10
+    },
+    {
+      "id": "u-hs2-nikyJ4o",
+      "width": 4024,
+      "height": 6048,
+      "alt": "round black ceramic bowl with vegetables",
+      "photographer": "Pesce Huang",
+      "photographer_url": "https://unsplash.com/@pesce?utm_source=easy_protein_kitchen&utm_medium=referral",
+      "page_url": "https://unsplash.com/photos/round-black-ceramic-bowl-with-vegetables-hs2-nikyJ4o?utm_source=easy_protein_kitchen&utm_medium=referral",
+      "source": "Unsplash",
+      "source_url": "https://unsplash.com/?utm_source=easy_protein_kitchen&utm_medium=referral",
+      "src": "https://images.unsplash.com/photo-1569580990554-3be3f43d8879?ixid=M3wxMTQzODc5fDB8MXxzZWFyY2h8MTV8fGdyb3VuZCUyMGJlZWYlMjBxdWlub2ElMjBib3dsJTIwZmV0YSUyMGJsYWNrJTIwYmVhbnN8ZW58MXwxfHx8MTc5NTY5NTc3MHww&ixlib=rb-4.1.0",
+      "web": "https://images.unsplash.com/photo-1569580990554-3be3f43d8879?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTQzODc5fDB8MXxzZWFyY2h8MTV8fGdyb3VuZCUyMGJlZWYlMjBxdWlub2ElMjBib3dsJTIwZmV0YSUyMGJsYWNrJTIwYmVhbnN8ZW58MXwxfHx8MTc5NTY5NTc3MHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "download_location": "https://api.unsplash.com/photos/hs2-nikyJ4o/download?ixid=M3wxMTQzODc5fDB8MXxzZWFyY2h8MTV8fGdyb3VuZCUyMGJlZWYlMjBxdWlub2ElMjBib3dsJTIwZmV0YSUyMGJsYWNrJTIwYmVhbnN8ZW58MXwxfHx8MTc5NTY5NTc3MHww",
+      "score": 8
+    },
+    {
+      "id": "u-Kz8TxG4kbP8",
+      "width": 3456,
+      "height": 5184,
+      "alt": "black ceramic bowl with food Pizza🍕",
+      "photographer": "Razieh Bakhtom",
+      "photographer_url": "https://unsplash.com/@raziii1375?utm_source=easy_protein_kitchen&utm_medium=referral",
+      "page_url": "https://unsplash.com/photos/black-ceramic-bowl-with-food-Kz8TxG4kbP8?utm_source=easy_protein_kitchen&utm_medium=referral",
+      "source": "Unsplash",
+      "source_url": "https://unsplash.com/?utm_source=easy_protein_kitchen&utm_medium=referral",
+      "src": "https://images.unsplash.com/photo-1624633813008-0ce3dbe9e9e7?ixid=M3wxMTQzODc5fDB8MXxzZWFyY2h8MjV8fGdyb3VuZCUyMGJlZWYlMjBxdWlub2ElMjBib3dsJTIwZmV0YSUyMGJsYWNrJTIwYmVhbnN8ZW58MXwxfHx8MTc5NTY5NTc3MHww&ixlib=rb-4.1.0",
+      "web": "https://images.unsplash.com/photo-1624633813008-0ce3dbe9e9e7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTQzODc5fDB8MXxzZWFyY2h8MjV8fGdyb3VuZCUyMGJlZWYlMjBxdWlub2ElMjBib3dsJTIwZmV0YSUyMGJsYWNrJTIwYmVhbnN8ZW58MXwxfHx8MTc5NTY5NTc3MHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "download_location": "https://api.unsplash.com/photos/Kz8TxG4kbP8/download?ixid=M3wxMTQzODc5fDB8MXxzZWFyY2h8MjV8fGdyb3VuZCUyMGJlZWYlMjBxdWlub2ElMjBib3dsJTIwZmV0YSUyMGJsYWNrJTIwYmVhbnN8ZW58MXwxfHx8MTc5NTY5NTc3MHww",
+      "score": 8
+    },
+    {
+      "id": "u-_Iz3y5RXqs8",
+      "width": 2624,
+      "height": 3936,
+      "alt": "Creamy pasta dish with diced tomatoes in a white bowl",
+      "photographer": "jackson kondili",
+      "photographer_url": "https://unsplash.com/@jax969?utm_source=easy_protein_kitchen&utm_medium=referral",
+      "page_url": "https://unsplash.com/photos/creamy-pasta-dish-with-diced-tomatoes-in-a-white-bowl-_Iz3y5RXqs8?utm_source=easy_protein_kitchen&utm_medium=referral",
+      "source": "Unsplash",
+      "source_url": "https://unsplash.com/?utm_source=easy_protein_kitchen&utm_medium=referral",
+      "src": "https://images.unsplash.com/photo-1781941622549-24f14a8bc5b4?ixid=M3wxMTQzODc5fDB8MXxzZWFyY2h8MXx8Z3JvdW5kJTIwYmVlZiUyMHF1aW5vYSUyMGJvd2wlMjBmZXRhJTIwYmxhY2slMjBiZWFuc3xlbnwxfDF8fHwxNzk1Njk1NzcwfDA&ixlib=rb-4.1.0",
+      "web": "https://images.unsplash.com/photo-1781941622549-24f14a8bc5b4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTQzODc5fDB8MXxzZWFyY2h8MXx8Z3JvdW5kJTIwYmVlZiUyMHF1aW5vYSUyMGJvd2wlMjBmZXRhJTIwYmxhY2slMjBiZWFuc3xlbnwxfDF8fHwxNzk1Njk1NzcwfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "download_location": "https://api.unsplash.com/photos/_Iz3y5RXqs8/download?ixid=M3wxMTQzODc5fDB8MXxzZWFyY2h8MXx8Z3JvdW5kJTIwYmVlZiUyMHF1aW5vYSUyMGJvd2wlMjBmZXRhJTIwYmxhY2slMjBiZWFuc3xlbnwxfDF8fHwxNzk1Njk1NzcwfDA",
+      "score": 6
+    },
+    {
+      "id": "u-ocG_gVS6I4Y",
+      "width": 4359,
+      "height": 6538,
+      "alt": "white ceramic bowl with cooked food Edamame Soy Pasta with Vegetarian Bolognese",
+      "photographer": "Bakd&Raw by Karolin Baitinger",
+      "photographer_url": "https://unsplash.com/@bakdandraw?utm_source=easy_protein_kitchen&utm_medium=referral",
+      "page_url": "https://unsplash.com/photos/white-ceramic-bowl-with-cooked-food-ocG_gVS6I4Y?utm_source=easy_protein_kitchen&utm_medium=referral",
+      "source": "Unsplash",
+      "source_url": "https://unsplash.com/?utm_source=easy_protein_kitchen&utm_medium=referral",
+      "src": "https://images.unsplash.com/photo-1624034767201-65382729948e?ixid=M3wxMTQzODc5fDB8MXxzZWFyY2h8Mnx8Z3JvdW5kJTIwYmVlZiUyMHF1aW5vYSUyMGJvd2wlMjBmZXRhJTIwYmxhY2slMjBiZWFuc3xlbnwxfDF8fHwxNzk1Njk1NzcwfDA&ixlib=rb-4.1.0",
+      "web": "https://images.unsplash.com/photo-1624034767201-65382729948e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTQzODc5fDB8MXxzZWFyY2h8Mnx8Z3JvdW5kJTIwYmVlZiUyMHF1aW5vYSUyMGJvd2wlMjBmZXRhJTIwYmxhY2slMjBiZWFuc3xlbnwxfDF8fHwxNzk1Njk1NzcwfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "download_location": "https://api.unsplash.com/photos/ocG_gVS6I4Y/download?ixid=M3wxMTQzODc5fDB8MXxzZWFyY2h8Mnx8Z3JvdW5kJTIwYmVlZiUyMHF1aW5vYSUyMGJvd2wlMjBmZXRhJTIwYmxhY2slMjBiZWFuc3xlbnwxfDF8fHwxNzk1Njk1NzcwfDA",
+      "score": 6
+    }
+  ],
+  "verification": {
+    "checks": [
+      {
+        "verdict": "pass",
+        "issues": [],
+        "sources": [
+          {
+            "name": "EatingWell - Ground Beef & Quinoa Bowls",
+            "url": "https://www.eatingwell.com/recipe/279184/ground-beef-quinoa-bowls/"
+          },
+          {
+            "name": "Skinnytaste - Beef and Quinoa Taco Bowls",
+            "url": "https://www.skinnytaste.com/beef-and-quinoa-taco-bowls/"
+          }
+        ],
+        "grounded": false
+      }
+    ],
+    "rule_warnings": [
+      "variant 2: title does not contain the dish keyword"
+    ],
+    "model": "gemini-flash-lite-latest"
+  },
+  "created": "2026-11-26"
+}
