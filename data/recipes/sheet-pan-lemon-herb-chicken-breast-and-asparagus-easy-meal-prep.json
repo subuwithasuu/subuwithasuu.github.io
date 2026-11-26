@@ -1,0 +1,275 @@
+{
+  "title": "Sheet Pan Lemon Herb Chicken Breast and Asparagus - Easy Meal Prep",
+  "description": "Make this sheet pan lemon herb chicken breast and asparagus for an easy 25-minute high protein dinner. Fresh lemon, garlic, and herbs flavor lean chicken and tender-crisp vegetables on one pan. Save it for your next meal prep.",
+  "cuisine": "American",
+  "category": "Dinner",
+  "servings": 4,
+  "protein_g_per_serving": 38,
+  "prep_minutes": 10,
+  "cook_minutes": 15,
+  "total_minutes": 25,
+  "ingredients": [
+    {
+      "qty": "4",
+      "unit": "medium",
+      "item": "boneless skinless chicken breasts",
+      "metric": "680 g",
+      "note": "pounded to even thickness"
+    },
+    {
+      "qty": "1",
+      "unit": "pound",
+      "item": "fresh asparagus",
+      "metric": "454 g",
+      "note": "woody ends trimmed"
+    },
+    {
+      "qty": "2",
+      "unit": "tablespoons",
+      "item": "olive oil",
+      "metric": "30 ml",
+      "note": "divided"
+    },
+    {
+      "qty": "2",
+      "unit": "tablespoons",
+      "item": "fresh lemon juice",
+      "metric": "30 ml",
+      "note": "plus lemon slices for the pan"
+    },
+    {
+      "qty": "2",
+      "unit": "teaspoons",
+      "item": "minced garlic",
+      "metric": "6 g",
+      "note": "fresh"
+    },
+    {
+      "qty": "1",
+      "unit": "teaspoon",
+      "item": "dried oregano",
+      "metric": "2 g",
+      "note": "or Italian seasoning"
+    },
+    {
+      "qty": "3/4",
+      "unit": "teaspoon",
+      "item": "salt",
+      "metric": "4 g",
+      "note": "divided"
+    },
+    {
+      "qty": "1/4",
+      "unit": "teaspoon",
+      "item": "black pepper",
+      "metric": "1 g",
+      "note": "divided"
+    }
+  ],
+  "steps": [
+    "Preheat the oven to 400°F (200°C) and line a large rimmed baking sheet with parchment paper.",
+    "Place the chicken breasts on one side of the prepared baking sheet. Rub them with 1 tablespoon of olive oil, minced garlic, dried oregano, half of the salt, and half of the black pepper.",
+    "Arrange the trimmed asparagus on the empty side of the baking sheet. Drizzle the asparagus with the remaining 1 tablespoon of olive oil, fresh lemon juice, and the remaining salt and pepper, tossing to coat. Place thin lemon slices over the chicken and asparagus.",
+    "Bake in the preheated oven at 400°F (200°C) for 15 to 18 minutes, until the chicken reaches an internal temperature of 165°F (74°C) on a digital meat thermometer and the asparagus is tender-crisp.",
+    "Remove from the oven, let the chicken rest for 5 minutes, then serve warm."
+  ],
+  "tips": [
+    "Ensure chicken breasts are pounded to an even thickness so they cook at the same rate as the asparagus.",
+    "Store leftovers in an airtight container in the refrigerator for up to 3 days."
+  ],
+  "storage": "Keeps well in an airtight container in the refrigerator for up to 3 days.",
+  "tools": [
+    "large rimmed baking sheet",
+    "parchment paper",
+    "digital meat thermometer",
+    "measuring spoons"
+  ],
+  "keywords": [
+    "sheet pan chicken breast and asparagus",
+    "high protein chicken recipes",
+    "lemon herb chicken meal prep",
+    "baked chicken breast and asparagus",
+    "easy high protein dinner",
+    "low carb chicken sheet pan meal"
+  ],
+  "pin_variants": [
+    {
+      "hook_type": "speed",
+      "title": "25-Minute Sheet Pan Lemon Herb Chicken Breast and Asparagus",
+      "description": "Make this sheet pan lemon herb chicken breast and asparagus in just 25 minutes for a 37g protein meal. Clean ingredients come together on one pan for fast cleanup. Save it for your next meal prep.",
+      "overlay": "25-Minute High Protein Dinner",
+      "subline": "Ready in 25 Minutes",
+      "alt_text": "Baked chicken breasts and asparagus on a sheet pan with lemon slices"
+    },
+    {
+      "hook_type": "number",
+      "title": "37g Protein Sheet Pan Lemon Herb Chicken Breast and Asparagus",
+      "description": "Get 37g of protein from this sheet pan lemon herb chicken breast and asparagus recipe. Simple seasonings and fresh lemon make this a flavorful high protein dinner. Save it for your next meal prep.",
+      "overlay": "37g Protein Sheet Pan Dinner",
+      "subline": "Packed With Protein",
+      "alt_text": "Sheet pan meal featuring roasted chicken breast and tender asparagus"
+    },
+    {
+      "hook_type": "outcome",
+      "title": "High Protein Sheet Pan Lemon Herb Chicken Breast and Asparagus",
+      "description": "Achieve your macro goals with this sheet pan lemon herb chicken breast and asparagus dinner providing 37g protein. Everything bakes on a single pan in 25 minutes. Save it for your next meal prep.",
+      "overlay": "Easy Macro-Friendly Sheet Pan Meal",
+      "subline": "Meal Prep Friendly",
+      "alt_text": "Juicy baked chicken breast next to roasted green asparagus spears"
+    },
+    {
+      "hook_type": "teacher",
+      "title": "The Secret to Juicy Sheet Pan Chicken Breast and Asparagus",
+      "description": "Master the technique for tender chicken breast and crisp asparagus on one pan. This 25-minute recipe delivers 37g protein per serving with fresh lemon and herbs. Save it for your next meal prep.",
+      "overlay": "How to Bake Juicy Chicken",
+      "subline": "Simple One-Pan Method",
+      "alt_text": "Overhead view of seasoned chicken and asparagus roasting on a baking sheet"
+    }
+  ],
+  "video_script": {
+    "hook": "Make this sheet pan lemon herb chicken with 37 grams of protein.",
+    "steps_short": [
+      "Place chicken breasts and asparagus on a lined baking sheet.",
+      "Rub the chicken with oil, garlic, herbs, salt, and pepper.",
+      "Drizzle the asparagus with oil, lemon juice, and seasonings.",
+      "Top with fresh lemon slices and bake at 400°F for 15 minutes.",
+      "Check that the chicken reaches 165°F and serve."
+    ],
+    "outro": "The full recipe details are on the website. Save it for later!"
+  },
+  "photo_queries": [
+    "sheet pan chicken breast and asparagus",
+    "baked lemon herb chicken and asparagus",
+    "high protein chicken dinner"
+  ],
+  "must_match": [
+    "chicken",
+    "asparagus",
+    "lemon"
+  ],
+  "board": "High Protein Chicken Recipes",
+  "slug": "sheet-pan-lemon-herb-chicken-breast-and-asparagus-easy-meal-prep",
+  "protein_g": 37,
+  "photos": [
+    {
+      "id": "u-FwtLhbYqa70",
+      "width": 4016,
+      "height": 6016,
+      "alt": "Asparagus bundle with sliced chicken and edible flower garnish food photography,macro photography,food macro,food texture,close up,culinary photography,ingredient detail,macro detail,texture photography,gourmet food,food styling,natural light,food composition,food aesthetic,detailed texture,culinary art,food background,professional photography,macro food shot,close up food",
+      "photographer": "Monaz Hastam",
+      "photographer_url": "https://unsplash.com/@monazme?utm_source=easy_protein_kitchen&utm_medium=referral",
+      "page_url": "https://unsplash.com/photos/asparagus-bundle-with-sliced-chicken-and-edible-flower-garnish-FwtLhbYqa70?utm_source=easy_protein_kitchen&utm_medium=referral",
+      "source": "Unsplash",
+      "source_url": "https://unsplash.com/?utm_source=easy_protein_kitchen&utm_medium=referral",
+      "src": "https://images.unsplash.com/photo-1782112833922-d69e3bdc2c64?ixid=M3wxMTQzODc5fDB8MXxzZWFyY2h8MXx8c2hlZXQlMjBwYW4lMjBjaGlja2VuJTIwYnJlYXN0JTIwYW5kJTIwYXNwYXJhZ3VzfGVufDF8MXx8fDE3OTU3MzM4OTJ8MA&ixlib=rb-4.1.0",
+      "web": "https://images.unsplash.com/photo-1782112833922-d69e3bdc2c64?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTQzODc5fDB8MXxzZWFyY2h8MXx8c2hlZXQlMjBwYW4lMjBjaGlja2VuJTIwYnJlYXN0JTIwYW5kJTIwYXNwYXJhZ3VzfGVufDF8MXx8fDE3OTU3MzM4OTJ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "download_location": "https://api.unsplash.com/photos/FwtLhbYqa70/download?ixid=M3wxMTQzODc5fDB8MXxzZWFyY2h8MXx8c2hlZXQlMjBwYW4lMjBjaGlja2VuJTIwYnJlYXN0JTIwYW5kJTIwYXNwYXJhZ3VzfGVufDF8MXx8fDE3OTU3MzM4OTJ8MA",
+      "score": 11
+    },
+    {
+      "id": "u-hedjoXMWij8",
+      "width": 4000,
+      "height": 6000,
+      "alt": "a plate of asparagus with lemon slices and a glass of wine",
+      "photographer": "Nataliya Melnychuk",
+      "photographer_url": "https://unsplash.com/@natinati?utm_source=easy_protein_kitchen&utm_medium=referral",
+      "page_url": "https://unsplash.com/photos/a-plate-of-asparagus-with-lemon-slices-and-a-glass-of-wine-hedjoXMWij8?utm_source=easy_protein_kitchen&utm_medium=referral",
+      "source": "Unsplash",
+      "source_url": "https://unsplash.com/?utm_source=easy_protein_kitchen&utm_medium=referral",
+      "src": "https://images.unsplash.com/photo-1683405909636-19e9e4c6f033?ixid=M3wxMTQzODc5fDB8MXxzZWFyY2h8NXx8YmFrZWQlMjBsZW1vbiUyMGhlcmIlMjBjaGlja2VuJTIwYW5kJTIwYXNwYXJhZ3VzfGVufDF8MXx8fDE3OTU3MzM4OTJ8MA&ixlib=rb-4.1.0",
+      "web": "https://images.unsplash.com/photo-1683405909636-19e9e4c6f033?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTQzODc5fDB8MXxzZWFyY2h8NXx8YmFrZWQlMjBsZW1vbiUyMGhlcmIlMjBjaGlja2VuJTIwYW5kJTIwYXNwYXJhZ3VzfGVufDF8MXx8fDE3OTU3MzM4OTJ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "download_location": "https://api.unsplash.com/photos/hedjoXMWij8/download?ixid=M3wxMTQzODc5fDB8MXxzZWFyY2h8NXx8YmFrZWQlMjBsZW1vbiUyMGhlcmIlMjBjaGlja2VuJTIwYW5kJTIwYXNwYXJhZ3VzfGVufDF8MXx8fDE3OTU3MzM4OTJ8MA",
+      "score": 11
+    },
+    {
+      "id": "u-QQ6M6ecXQUA",
+      "width": 4000,
+      "height": 6000,
+      "alt": "a white plate topped with asparagus and lemon slices",
+      "photographer": "Nataliya Melnychuk",
+      "photographer_url": "https://unsplash.com/@natinati?utm_source=easy_protein_kitchen&utm_medium=referral",
+      "page_url": "https://unsplash.com/photos/a-white-plate-topped-with-asparagus-and-lemon-slices-QQ6M6ecXQUA?utm_source=easy_protein_kitchen&utm_medium=referral",
+      "source": "Unsplash",
+      "source_url": "https://unsplash.com/?utm_source=easy_protein_kitchen&utm_medium=referral",
+      "src": "https://images.unsplash.com/photo-1683405731287-8205c0a92ace?ixid=M3wxMTQzODc5fDB8MXxzZWFyY2h8N3x8YmFrZWQlMjBsZW1vbiUyMGhlcmIlMjBjaGlja2VuJTIwYW5kJTIwYXNwYXJhZ3VzfGVufDF8MXx8fDE3OTU3MzM4OTJ8MA&ixlib=rb-4.1.0",
+      "web": "https://images.unsplash.com/photo-1683405731287-8205c0a92ace?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTQzODc5fDB8MXxzZWFyY2h8N3x8YmFrZWQlMjBsZW1vbiUyMGhlcmIlMjBjaGlja2VuJTIwYW5kJTIwYXNwYXJhZ3VzfGVufDF8MXx8fDE3OTU3MzM4OTJ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "download_location": "https://api.unsplash.com/photos/QQ6M6ecXQUA/download?ixid=M3wxMTQzODc5fDB8MXxzZWFyY2h8N3x8YmFrZWQlMjBsZW1vbiUyMGhlcmIlMjBjaGlja2VuJTIwYW5kJTIwYXNwYXJhZ3VzfGVufDF8MXx8fDE3OTU3MzM4OTJ8MA",
+      "score": 11
+    },
+    {
+      "id": "u-ofKYmXaihH4",
+      "width": 4000,
+      "height": 6000,
+      "alt": "a bunch of asparagus on a plate with lemon wedges",
+      "photographer": "Nataliya Melnychuk",
+      "photographer_url": "https://unsplash.com/@natinati?utm_source=easy_protein_kitchen&utm_medium=referral",
+      "page_url": "https://unsplash.com/photos/a-bunch-of-asparagus-on-a-plate-with-lemon-wedges-ofKYmXaihH4?utm_source=easy_protein_kitchen&utm_medium=referral",
+      "source": "Unsplash",
+      "source_url": "https://unsplash.com/?utm_source=easy_protein_kitchen&utm_medium=referral",
+      "src": "https://images.unsplash.com/photo-1683406738225-44cea174429c?ixid=M3wxMTQzODc5fDB8MXxzZWFyY2h8MTF8fGJha2VkJTIwbGVtb24lMjBoZXJiJTIwY2hpY2tlbiUyMGFuZCUyMGFzcGFyYWd1c3xlbnwxfDF8fHwxNzk1NzMzODkyfDA&ixlib=rb-4.1.0",
+      "web": "https://images.unsplash.com/photo-1683406738225-44cea174429c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTQzODc5fDB8MXxzZWFyY2h8MTF8fGJha2VkJTIwbGVtb24lMjBoZXJiJTIwY2hpY2tlbiUyMGFuZCUyMGFzcGFyYWd1c3xlbnwxfDF8fHwxNzk1NzMzODkyfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "download_location": "https://api.unsplash.com/photos/ofKYmXaihH4/download?ixid=M3wxMTQzODc5fDB8MXxzZWFyY2h8MTF8fGJha2VkJTIwbGVtb24lMjBoZXJiJTIwY2hpY2tlbiUyMGFuZCUyMGFzcGFyYWd1c3xlbnwxfDF8fHwxNzk1NzMzODkyfDA",
+      "score": 11
+    },
+    {
+      "id": "u-NNcjClnncHE",
+      "width": 4000,
+      "height": 6000,
+      "alt": "a plate of asparagus, lemon slices, and a glass of wine",
+      "photographer": "Nataliya Melnychuk",
+      "photographer_url": "https://unsplash.com/@natinati?utm_source=easy_protein_kitchen&utm_medium=referral",
+      "page_url": "https://unsplash.com/photos/a-plate-of-asparagus-lemon-slices-and-a-glass-of-wine-NNcjClnncHE?utm_source=easy_protein_kitchen&utm_medium=referral",
+      "source": "Unsplash",
+      "source_url": "https://unsplash.com/?utm_source=easy_protein_kitchen&utm_medium=referral",
+      "src": "https://images.unsplash.com/photo-1683406380738-6c26df224d7a?ixid=M3wxMTQzODc5fDB8MXxzZWFyY2h8MjN8fGJha2VkJTIwbGVtb24lMjBoZXJiJTIwY2hpY2tlbiUyMGFuZCUyMGFzcGFyYWd1c3xlbnwxfDF8fHwxNzk1NzMzODkyfDA&ixlib=rb-4.1.0",
+      "web": "https://images.unsplash.com/photo-1683406380738-6c26df224d7a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTQzODc5fDB8MXxzZWFyY2h8MjN8fGJha2VkJTIwbGVtb24lMjBoZXJiJTIwY2hpY2tlbiUyMGFuZCUyMGFzcGFyYWd1c3xlbnwxfDF8fHwxNzk1NzMzODkyfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "download_location": "https://api.unsplash.com/photos/NNcjClnncHE/download?ixid=M3wxMTQzODc5fDB8MXxzZWFyY2h8MjN8fGJha2VkJTIwbGVtb24lMjBoZXJiJTIwY2hpY2tlbiUyMGFuZCUyMGFzcGFyYWd1c3xlbnwxfDF8fHwxNzk1NzMzODkyfDA",
+      "score": 11
+    },
+    {
+      "id": "u-w5usyhZsI8Q",
+      "width": 4000,
+      "height": 6000,
+      "alt": "a plate of asparagus, lemons, and a bottle of wine",
+      "photographer": "Nataliya Melnychuk",
+      "photographer_url": "https://unsplash.com/@natinati?utm_source=easy_protein_kitchen&utm_medium=referral",
+      "page_url": "https://unsplash.com/photos/a-plate-of-asparagus-lemons-and-a-bottle-of-wine-w5usyhZsI8Q?utm_source=easy_protein_kitchen&utm_medium=referral",
+      "source": "Unsplash",
+      "source_url": "https://unsplash.com/?utm_source=easy_protein_kitchen&utm_medium=referral",
+      "src": "https://images.unsplash.com/photo-1683406164037-5c97ea978964?ixid=M3wxMTQzODc5fDB8MXxzZWFyY2h8MjZ8fGJha2VkJTIwbGVtb24lMjBoZXJiJTIwY2hpY2tlbiUyMGFuZCUyMGFzcGFyYWd1c3xlbnwxfDF8fHwxNzk1NzMzODkyfDA&ixlib=rb-4.1.0",
+      "web": "https://images.unsplash.com/photo-1683406164037-5c97ea978964?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTQzODc5fDB8MXxzZWFyY2h8MjZ8fGJha2VkJTIwbGVtb24lMjBoZXJiJTIwY2hpY2tlbiUyMGFuZCUyMGFzcGFyYWd1c3xlbnwxfDF8fHwxNzk1NzMzODkyfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "download_location": "https://api.unsplash.com/photos/w5usyhZsI8Q/download?ixid=M3wxMTQzODc5fDB8MXxzZWFyY2h8MjZ8fGJha2VkJTIwbGVtb24lMjBoZXJiJTIwY2hpY2tlbiUyMGFuZCUyMGFzcGFyYWd1c3xlbnwxfDF8fHwxNzk1NzMzODkyfDA",
+      "score": 11
+    }
+  ],
+  "verification": {
+    "checks": [
+      {
+        "verdict": "pass",
+        "issues": [],
+        "sources": [
+          {
+            "name": "Damn Delicious - Sheet Pan Lemon Herb Chicken and Asparagus",
+            "url": "https://damndelicious.net/2017/04/24/sheet-pan-lemon-herb-chicken-and-asparagus/"
+          },
+          {
+            "name": "Well Plated by Erin - Sheet Pan Lemon Garlic Chicken and Asparagus",
+            "url": "https://www.wellplated.com/sheet-pan-lemon-garlic-chicken-asparagus/"
+          }
+        ],
+        "grounded": false
+      }
+    ],
+    "rule_warnings": [
+      "unusual unit 'pound' for 'fresh asparagus'",
+      "unusual unit 'tablespoons' for 'olive oil'",
+      "unusual unit 'tablespoons' for 'fresh lemon juice'",
+      "unusual unit 'teaspoons' for 'minced garlic'",
+      "unusual unit 'teaspoon' for 'dried oregano'",
+      "unusual unit 'teaspoon' for 'salt'",
+      "unusual unit 'teaspoon' for 'black pepper'"
+    ],
+    "model": "gemini-3.5-flash-lite"
+  },
+  "created": "2026-11-26"
+}

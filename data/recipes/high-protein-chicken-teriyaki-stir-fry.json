@@ -1,0 +1,321 @@
+{
+  "title": "High-Protein Chicken Teriyaki Stir-Fry",
+  "description": "A quick 25-minute chicken teriyaki stir-fry packed with tender chicken breast and crisp vegetables in a savory homemade sauce. This balanced meal delivers 38 grams of protein per serving and works great for quick weeknight dinners.",
+  "cuisine": "Asian-Inspired",
+  "category": "Dinner",
+  "servings": 4,
+  "protein_g_per_serving": 38,
+  "prep_minutes": 10,
+  "cook_minutes": 15,
+  "total_minutes": 25,
+  "ingredients": [
+    {
+      "qty": "1 1/2",
+      "unit": "lbs",
+      "item": "boneless skinless chicken breasts, cut into bite-sized pieces",
+      "metric": "680 g",
+      "note": "trimmed of excess fat"
+    },
+    {
+      "qty": "1/3",
+      "unit": "cup",
+      "item": "low-sodium soy sauce",
+      "metric": "80 ml",
+      "note": "or tamari"
+    },
+    {
+      "qty": "2",
+      "unit": "tbsp",
+      "item": "honey",
+      "metric": "40 g",
+      "note": "for sweetness"
+    },
+    {
+      "qty": "1",
+      "unit": "tbsp",
+      "item": "rice vinegar",
+      "metric": "15 ml",
+      "note": "unseasoned"
+    },
+    {
+      "qty": "1",
+      "unit": "tsp",
+      "item": "fresh ginger, minced",
+      "metric": "5 g",
+      "note": "peeled"
+    },
+    {
+      "qty": "2",
+      "unit": "cloves",
+      "item": "garlic, minced",
+      "metric": "6 g",
+      "note": "freshly minced"
+    },
+    {
+      "qty": "1",
+      "unit": "tbsp",
+      "item": "cornstarch",
+      "metric": "8 g",
+      "note": "dissolved in 2 tablespoons cold water"
+    },
+    {
+      "qty": "1",
+      "unit": "tbsp",
+      "item": "avocado oil",
+      "metric": "15 ml",
+      "note": "divided"
+    },
+    {
+      "qty": "3",
+      "unit": "cups",
+      "item": "broccoli florets",
+      "metric": "300 g",
+      "note": "fresh"
+    },
+    {
+      "qty": "1",
+      "unit": "medium",
+      "item": "bell pepper, sliced",
+      "metric": "120 g",
+      "note": "any color"
+    },
+    {
+      "qty": "2",
+      "unit": "cups",
+      "item": "cooked jasmine rice",
+      "metric": "320 g",
+      "note": "for serving"
+    }
+  ],
+  "steps": [
+    "Whisk soy sauce, honey, rice vinegar, ginger, and garlic together in a small bowl to make the teriyaki sauce. Whisk the cornstarch and cold water separately in a small dish to create a slurry.",
+    "Heat 1/2 tablespoon of avocado oil in a 12-inch skillet over medium-high heat for 2 minutes until shimmering. Add the chicken pieces in a single layer and cook undisturbed for 4 minutes until golden brown on the bottom.",
+    "Flip the chicken and cook for another 3 to 4 minutes until an internal temperature of 165°F (74°C) is reached and the chicken is no longer pink inside. Remove the chicken from the skillet and set aside on a clean plate.",
+    "Add the remaining 1/2 tablespoon of avocado oil to the same skillet over medium-high heat. Add the broccoli florets and sliced bell pepper, stir-frying for 4 minutes until crisp-tender and vibrant green.",
+    "Pour the teriyaki sauce into the skillet with the vegetables and bring to a simmer over medium heat.",
+    "Give the cornstarch slurry a quick stir, then pour it into the simmering sauce, stirring constantly for 1 to 2 minutes until thickened and glossy.",
+    "Return the cooked chicken and any resting juices back into the skillet, tossing everything together for 1 minute until heated through and fully coated in the sauce. Remove from heat and serve warm over cooked jasmine rice."
+  ],
+  "tips": [
+    "Cut the chicken into uniform bite-sized pieces so they cook evenly and quickly.",
+    "Swap jasmine rice for cauliflower rice to adjust the carbohydrate content if desired.",
+    "Store leftovers in an airtight container in the refrigerator for up to 3 days."
+  ],
+  "storage": "Store in an airtight container in the refrigerator for up to 3 days. Reheat in a skillet over medium heat until steaming hot.",
+  "tools": [
+    "12-inch skillet",
+    "small mixing bowl",
+    "whisk",
+    "measuring cups and spoons",
+    "chefs knife",
+    "cutting board"
+  ],
+  "keywords": [
+    "high protein chicken teriyaki",
+    "chicken teriyaki stir fry recipe",
+    "30 minute high protein meal",
+    "healthy chicken stir fry",
+    "high protein dinner idea",
+    "easy chicken teriyaki meal prep"
+  ],
+  "pin_variants": [
+    {
+      "hook_type": "number",
+      "title": "High-Protein Chicken Teriyaki Stir-Fry (38g Protein)",
+      "description": "Make this High-Protein Chicken Teriyaki Stir-Fry in just 25 minutes with 38g of protein per serving. Tender chicken breast and crisp vegetables come together in a savory homemade sauce. Save it for your next meal prep.",
+      "overlay": "38g Protein Chicken Teriyaki Stir-Fry",
+      "subline": "Ready in 25 Minutes",
+      "alt_text": "Bowl of chicken teriyaki stir-fry with broccoli and peppers over white rice."
+    },
+    {
+      "hook_type": "speed",
+      "title": "25-Minute High-Protein Chicken Teriyaki Stir-Fry",
+      "description": "Whip up a 25-minute High-Protein Chicken Teriyaki Stir-Fry loaded with 38g of protein per serving. Fast, flavorful, and made with real, wholesome ingredients. Save it for your next meal prep.",
+      "overlay": "25-Minute Chicken Teriyaki Stir-Fry",
+      "subline": "38g Protein Per Serving",
+      "alt_text": "Skillet filled with chicken teriyaki and fresh green broccoli."
+    },
+    {
+      "hook_type": "outcome",
+      "title": "High-Protein Chicken Teriyaki Stir-Fry for Meal Prep",
+      "description": "Master this High-Protein Chicken Teriyaki Stir-Fry for an easy dinner that delivers 38g of protein in only 25 minutes. Satisfying, savory, and quick to put together on a busy weeknight. Save it for your next meal prep.",
+      "overlay": "Easy High-Protein Chicken Dinner",
+      "subline": "Make-Ahead Friendly",
+      "alt_text": "Close-up of glazed chicken teriyaki pieces with sesame seeds."
+    },
+    {
+      "hook_type": "teacher",
+      "title": "The Trick to Juicy Chicken Teriyaki Stir-Fry",
+      "description": "Learn the secret to tender chicken in this High-Protein Chicken Teriyaki Stir-Fry ready in 25 minutes with 38g of protein. Packed with lean meat and crisp veggies in a glossy glaze. Save it for your next meal prep.",
+      "overlay": "How to Make Juicy Chicken Stir-Fry",
+      "subline": "25 Minutes Total",
+      "alt_text": "Serving of chicken teriyaki stir-fry plated next to steamed rice."
+    }
+  ],
+  "video_script": {
+    "hook": "Make this 25-minute chicken teriyaki with 38 grams of protein!",
+    "steps_short": [
+      "Whisk soy sauce, honey, vinegar, ginger, and garlic together.",
+      "Sear chicken breast pieces in a hot skillet until golden.",
+      "Cook broccoli and bell peppers until crisp and tender.",
+      "Simmer the teriyaki sauce and thicken with cornstarch.",
+      "Toss the chicken and veggies back into the glossy glaze."
+    ],
+    "outro": "Find the full recipe details and measurements on the website."
+  },
+  "photo_queries": [
+    "chicken teriyaki stir fry with broccoli and rice",
+    "healthy chicken stir fry skillet",
+    "teriyaki chicken breast bowl"
+  ],
+  "must_match": [
+    "chicken",
+    "broccoli",
+    "rice",
+    "stir"
+  ],
+  "board": "30 Minute High Protein Meals",
+  "slug": "high-protein-chicken-teriyaki-stir-fry",
+  "protein_g": 38,
+  "photos": [
+    {
+      "id": "u-84JxtS4vI2A",
+      "width": 4000,
+      "height": 6000,
+      "alt": "rice with sliced vegetables on green ceramic plate Chicken, rice and vegetables with penauts - fast ad tasty dinner ",
+      "photographer": "Karolina Kołodziejczak",
+      "photographer_url": "https://unsplash.com/@rabbit_in_blue?utm_source=easy_protein_kitchen&utm_medium=referral",
+      "page_url": "https://unsplash.com/photos/rice-with-sliced-vegetables-on-green-ceramic-plate-84JxtS4vI2A?utm_source=easy_protein_kitchen&utm_medium=referral",
+      "source": "Unsplash",
+      "source_url": "https://unsplash.com/?utm_source=easy_protein_kitchen&utm_medium=referral",
+      "src": "https://images.unsplash.com/photo-1606250593181-5a81736038ed?ixid=M3wxMTQzODc5fDB8MXxzZWFyY2h8Mnx8Y2hpY2tlbiUyMHRlcml5YWtpJTIwc3RpciUyMGZyeSUyMHdpdGglMjBicm9jY29saSUyMGFuZCUyMHJpY2V8ZW58MXwxfHx8MTc5NTczMzY5N3ww&ixlib=rb-4.1.0",
+      "web": "https://images.unsplash.com/photo-1606250593181-5a81736038ed?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTQzODc5fDB8MXxzZWFyY2h8Mnx8Y2hpY2tlbiUyMHRlcml5YWtpJTIwc3RpciUyMGZyeSUyMHdpdGglMjBicm9jY29saSUyMGFuZCUyMHJpY2V8ZW58MXwxfHx8MTc5NTczMzY5N3ww&ixlib=rb-4.1.0&q=80&w=1080",
+      "download_location": "https://api.unsplash.com/photos/84JxtS4vI2A/download?ixid=M3wxMTQzODc5fDB8MXxzZWFyY2h8Mnx8Y2hpY2tlbiUyMHRlcml5YWtpJTIwc3RpciUyMGZyeSUyMHdpdGglMjBicm9jY29saSUyMGFuZCUyMHJpY2V8ZW58MXwxfHx8MTc5NTczMzY5N3ww",
+      "score": 11
+    },
+    {
+      "id": "u-RK_L7fq7E0A",
+      "width": 2000,
+      "height": 2500,
+      "alt": "A plate of chicken and rice on a table",
+      "photographer": "Mayte Baque",
+      "photographer_url": "https://unsplash.com/@mtbaque?utm_source=easy_protein_kitchen&utm_medium=referral",
+      "page_url": "https://unsplash.com/photos/a-plate-of-chicken-and-rice-on-a-table-RK_L7fq7E0A?utm_source=easy_protein_kitchen&utm_medium=referral",
+      "source": "Unsplash",
+      "source_url": "https://unsplash.com/?utm_source=easy_protein_kitchen&utm_medium=referral",
+      "src": "https://images.unsplash.com/photo-1724441980118-741eaf55b0f8?ixid=M3wxMTQzODc5fDB8MXxzZWFyY2h8Nnx8Y2hpY2tlbiUyMHRlcml5YWtpJTIwc3RpciUyMGZyeSUyMHdpdGglMjBicm9jY29saSUyMGFuZCUyMHJpY2V8ZW58MXwxfHx8MTc5NTczMzY5N3ww&ixlib=rb-4.1.0",
+      "web": "https://images.unsplash.com/photo-1724441980118-741eaf55b0f8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTQzODc5fDB8MXxzZWFyY2h8Nnx8Y2hpY2tlbiUyMHRlcml5YWtpJTIwc3RpciUyMGZyeSUyMHdpdGglMjBicm9jY29saSUyMGFuZCUyMHJpY2V8ZW58MXwxfHx8MTc5NTczMzY5N3ww&ixlib=rb-4.1.0&q=80&w=1080",
+      "download_location": "https://api.unsplash.com/photos/RK_L7fq7E0A/download?ixid=M3wxMTQzODc5fDB8MXxzZWFyY2h8Nnx8Y2hpY2tlbiUyMHRlcml5YWtpJTIwc3RpciUyMGZyeSUyMHdpdGglMjBicm9jY29saSUyMGFuZCUyMHJpY2V8ZW58MXwxfHx8MTc5NTczMzY5N3ww",
+      "score": 11
+    },
+    {
+      "id": "u-DsfxM781CMk",
+      "width": 4160,
+      "height": 5200,
+      "alt": "fried rice and green broccoli on blue ceramic plate www.herbedandhungry.com\n@herbedandhungry",
+      "photographer": "Sonny Mauricio",
+      "photographer_url": "https://unsplash.com/@northernstatemedia?utm_source=easy_protein_kitchen&utm_medium=referral",
+      "page_url": "https://unsplash.com/photos/fried-rice-and-green-broccoli-on-blue-ceramic-plate-DsfxM781CMk?utm_source=easy_protein_kitchen&utm_medium=referral",
+      "source": "Unsplash",
+      "source_url": "https://unsplash.com/?utm_source=easy_protein_kitchen&utm_medium=referral",
+      "src": "https://images.unsplash.com/photo-1623800850352-270214d332e8?ixid=M3wxMTQzODc5fDB8MXxzZWFyY2h8OHx8Y2hpY2tlbiUyMHRlcml5YWtpJTIwc3RpciUyMGZyeSUyMHdpdGglMjBicm9jY29saSUyMGFuZCUyMHJpY2V8ZW58MXwxfHx8MTc5NTczMzY5N3ww&ixlib=rb-4.1.0",
+      "web": "https://images.unsplash.com/photo-1623800850352-270214d332e8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTQzODc5fDB8MXxzZWFyY2h8OHx8Y2hpY2tlbiUyMHRlcml5YWtpJTIwc3RpciUyMGZyeSUyMHdpdGglMjBicm9jY29saSUyMGFuZCUyMHJpY2V8ZW58MXwxfHx8MTc5NTczMzY5N3ww&ixlib=rb-4.1.0&q=80&w=1080",
+      "download_location": "https://api.unsplash.com/photos/DsfxM781CMk/download?ixid=M3wxMTQzODc5fDB8MXxzZWFyY2h8OHx8Y2hpY2tlbiUyMHRlcml5YWtpJTIwc3RpciUyMGZyeSUyMHdpdGglMjBicm9jY29saSUyMGFuZCUyMHJpY2V8ZW58MXwxfHx8MTc5NTczMzY5N3ww",
+      "score": 11
+    },
+    {
+      "id": "u-dIhXRDZTmb8",
+      "width": 2268,
+      "height": 4032,
+      "alt": "a plate of rice, broccoli, and other vegetables",
+      "photographer": "Filipp Romanovski",
+      "photographer_url": "https://unsplash.com/@filipp_roman_photography?utm_source=easy_protein_kitchen&utm_medium=referral",
+      "page_url": "https://unsplash.com/photos/a-plate-of-rice-broccoli-and-other-vegetables-dIhXRDZTmb8?utm_source=easy_protein_kitchen&utm_medium=referral",
+      "source": "Unsplash",
+      "source_url": "https://unsplash.com/?utm_source=easy_protein_kitchen&utm_medium=referral",
+      "src": "https://images.unsplash.com/photo-1676984933404-01d8e2b2fce3?ixid=M3wxMTQzODc5fDB8MXxzZWFyY2h8MTB8fGNoaWNrZW4lMjB0ZXJpeWFraSUyMHN0aXIlMjBmcnklMjB3aXRoJTIwYnJvY2NvbGklMjBhbmQlMjByaWNlfGVufDF8MXx8fDE3OTU3MzM2OTd8MA&ixlib=rb-4.1.0",
+      "web": "https://images.unsplash.com/photo-1676984933404-01d8e2b2fce3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTQzODc5fDB8MXxzZWFyY2h8MTB8fGNoaWNrZW4lMjB0ZXJpeWFraSUyMHN0aXIlMjBmcnklMjB3aXRoJTIwYnJvY2NvbGklMjBhbmQlMjByaWNlfGVufDF8MXx8fDE3OTU3MzM2OTd8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "download_location": "https://api.unsplash.com/photos/dIhXRDZTmb8/download?ixid=M3wxMTQzODc5fDB8MXxzZWFyY2h8MTB8fGNoaWNrZW4lMjB0ZXJpeWFraSUyMHN0aXIlMjBmcnklMjB3aXRoJTIwYnJvY2NvbGklMjBhbmQlMjByaWNlfGVufDF8MXx8fDE3OTU3MzM2OTd8MA",
+      "score": 11
+    },
+    {
+      "id": "u-UYzXiPLozhI",
+      "width": 2183,
+      "height": 3880,
+      "alt": "a plate of rice, broccoli, and other vegetables",
+      "photographer": "Filipp Romanovski",
+      "photographer_url": "https://unsplash.com/@filipp_roman_photography?utm_source=easy_protein_kitchen&utm_medium=referral",
+      "page_url": "https://unsplash.com/photos/a-plate-of-rice-broccoli-and-other-vegetables-UYzXiPLozhI?utm_source=easy_protein_kitchen&utm_medium=referral",
+      "source": "Unsplash",
+      "source_url": "https://unsplash.com/?utm_source=easy_protein_kitchen&utm_medium=referral",
+      "src": "https://images.unsplash.com/photo-1674052207792-55b01a4eed4e?ixid=M3wxMTQzODc5fDB8MXxzZWFyY2h8MjJ8fGNoaWNrZW4lMjB0ZXJpeWFraSUyMHN0aXIlMjBmcnklMjB3aXRoJTIwYnJvY2NvbGklMjBhbmQlMjByaWNlfGVufDF8MXx8fDE3OTU3MzM2OTd8MA&ixlib=rb-4.1.0",
+      "web": "https://images.unsplash.com/photo-1674052207792-55b01a4eed4e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTQzODc5fDB8MXxzZWFyY2h8MjJ8fGNoaWNrZW4lMjB0ZXJpeWFraSUyMHN0aXIlMjBmcnklMjB3aXRoJTIwYnJvY2NvbGklMjBhbmQlMjByaWNlfGVufDF8MXx8fDE3OTU3MzM2OTd8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "download_location": "https://api.unsplash.com/photos/UYzXiPLozhI/download?ixid=M3wxMTQzODc5fDB8MXxzZWFyY2h8MjJ8fGNoaWNrZW4lMjB0ZXJpeWFraSUyMHN0aXIlMjBmcnklMjB3aXRoJTIwYnJvY2NvbGklMjBhbmQlMjByaWNlfGVufDF8MXx8fDE3OTU3MzM2OTd8MA",
+      "score": 11
+    },
+    {
+      "id": "u-c1gCogPXC_s",
+      "width": 4000,
+      "height": 6000,
+      "alt": "cooked rice with sliced carrots and green vegetable on white ceramic plate Kung pao chicken with rice and vegetables",
+      "photographer": "Karolina Kołodziejczak",
+      "photographer_url": "https://unsplash.com/@rabbit_in_blue?utm_source=easy_protein_kitchen&utm_medium=referral",
+      "page_url": "https://unsplash.com/photos/cooked-rice-with-sliced-carrots-and-green-vegetable-on-white-ceramic-plate-c1gCogPXC_s?utm_source=easy_protein_kitchen&utm_medium=referral",
+      "source": "Unsplash",
+      "source_url": "https://unsplash.com/?utm_source=easy_protein_kitchen&utm_medium=referral",
+      "src": "https://images.unsplash.com/photo-1605704931020-ba62cdb2ba9b?ixid=M3wxMTQzODc5fDB8MXxzZWFyY2h8Mjl8fGNoaWNrZW4lMjB0ZXJpeWFraSUyMHN0aXIlMjBmcnklMjB3aXRoJTIwYnJvY2NvbGklMjBhbmQlMjByaWNlfGVufDF8MXx8fDE3OTU3MzM2OTd8MA&ixlib=rb-4.1.0",
+      "web": "https://images.unsplash.com/photo-1605704931020-ba62cdb2ba9b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTQzODc5fDB8MXxzZWFyY2h8Mjl8fGNoaWNrZW4lMjB0ZXJpeWFraSUyMHN0aXIlMjBmcnklMjB3aXRoJTIwYnJvY2NvbGklMjBhbmQlMjByaWNlfGVufDF8MXx8fDE3OTU3MzM2OTd8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "download_location": "https://api.unsplash.com/photos/c1gCogPXC_s/download?ixid=M3wxMTQzODc5fDB8MXxzZWFyY2h8Mjl8fGNoaWNrZW4lMjB0ZXJpeWFraSUyMHN0aXIlMjBmcnklMjB3aXRoJTIwYnJvY2NvbGklMjBhbmQlMjByaWNlfGVufDF8MXx8fDE3OTU3MzM2OTd8MA",
+      "score": 11
+    }
+  ],
+  "verification": {
+    "checks": [
+      {
+        "verdict": "fix",
+        "issues": [
+          "Teriyaki sauce ratio lacks umami depth (traditionally includes mirin or sake, though soy sauce and honey work for a simple stir-fry variation).",
+          "The cornstarch slurry amount (1 tsp cornstarch to 1 tbsp water) is too low to properly thicken 1/3 cup of soy sauce plus added moisture from vegetables; standard practice is at least 1 tbsp cornstarch for this liquid volume.",
+          "Adding the sauce directly to the pan before the slurry risks burning the honey and high sodium reduction before thickening."
+        ],
+        "sources": [
+          {
+            "name": "Serious Eats - Easy Chicken Teriyaki",
+            "url": "https://www.seriouseats.com/"
+          },
+          {
+            "name": "RecipeTin Eats - Chicken Teriyaki",
+            "url": "https://www.recipetineats.com/chicken-teriyaki/"
+          },
+          {
+            "name": "BBC Good Food - Easy chicken teriyaki",
+            "url": "https://www.bbcgoodfood.com/recipes/easy-chicken-teriyaki"
+          }
+        ],
+        "grounded": false
+      },
+      {
+        "verdict": "pass",
+        "issues": [],
+        "sources": [
+          {
+            "name": "Serious Eats - Easy Chicken Teriyaki",
+            "url": "https://www.seriouseats.com/"
+          },
+          {
+            "name": "RecipeTin Eats - Chicken Teriyaki",
+            "url": "https://www.recipetineats.com/chicken-teriyaki/"
+          },
+          {
+            "name": "BBC Good Food - Easy chicken teriyaki",
+            "url": "https://www.bbcgoodfood.com/recipes/easy-chicken-teriyaki"
+          }
+        ],
+        "grounded": false
+      }
+    ],
+    "rule_warnings": [],
+    "model": "gemini-3.5-flash-lite"
+  },
+  "created": "2026-11-26"
+}

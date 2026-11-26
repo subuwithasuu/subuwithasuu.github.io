@@ -1,0 +1,298 @@
+{
+  "title": "Air Fryer Crispy Chicken Breast Nuggets",
+  "description": "These air fryer crispy chicken breast nuggets deliver 35 grams of protein per serving and are ready in 25 minutes. Made with bite-sized lean chicken breast and a light cornflake crunch, they offer a healthier alternative to fast-food favorites. Save it for your next meal prep.",
+  "cuisine": "American",
+  "category": "Dinner",
+  "servings": 4,
+  "protein_g_per_serving": 35,
+  "prep_minutes": 10,
+  "cook_minutes": 12,
+  "total_minutes": 25,
+  "ingredients": [
+    {
+      "qty": "1 1/2",
+      "unit": "lbs",
+      "item": "boneless skinless chicken breasts",
+      "metric": "680 g",
+      "note": "cut into 1-inch bite-sized pieces"
+    },
+    {
+      "qty": "1/2",
+      "unit": "cup",
+      "item": "all-purpose flour",
+      "metric": "60 g",
+      "note": ""
+    },
+    {
+      "qty": "2",
+      "unit": "large",
+      "item": "eggs",
+      "metric": "100 g",
+      "note": "beaten"
+    },
+    {
+      "qty": "3",
+      "unit": "cups",
+      "item": "crushed cornflakes",
+      "metric": "120 g",
+      "note": "finely crushed"
+    },
+    {
+      "qty": "1",
+      "unit": "tsp",
+      "item": "garlic powder",
+      "metric": "3 g",
+      "note": ""
+    },
+    {
+      "qty": "1",
+      "unit": "tsp",
+      "item": "smoked paprika",
+      "metric": "3 g",
+      "note": ""
+    },
+    {
+      "qty": "1 1/4",
+      "unit": "tsp",
+      "item": "salt",
+      "metric": "7 g",
+      "note": ""
+    },
+    {
+      "qty": "1/2",
+      "unit": "tsp",
+      "item": "black pepper",
+      "metric": "2 g",
+      "note": ""
+    },
+    {
+      "qty": "1",
+      "unit": "tbsp",
+      "item": "olive oil spray",
+      "metric": "15 ml",
+      "note": ""
+    }
+  ],
+  "steps": [
+    "Set up a three-bowl breading station: place the all-purpose flour in the first bowl, the beaten eggs in the second bowl, and the crushed cornflakes mixed with garlic powder, smoked paprika, salt, and black pepper in the third bowl.",
+    "Working in batches, dredge each chicken piece in the flour, shaking off any excess. Dip the floured chicken into the beaten eggs, letting any extra drip off.",
+    "Press the chicken firmly into the spiced cornflake crumbs until fully coated on all sides, then set aside on a clean plate.",
+    "Preheat the air fryer to 400°F (200°C) for 3 minutes. Lightly mist the air fryer basket with olive oil spray.",
+    "Arrange the coated chicken nuggets in a single layer in the air fryer basket without overcrowding, and mist the tops lightly with olive oil spray.",
+    "Air fry at 400°F (200°C) for 10 to 12 minutes, shaking the basket halfway through at the 6-minute mark, until the coating is golden brown and the internal temperature of the chicken reaches 165°F (74°C)."
+  ],
+  "tips": [
+    "Crush the cornflakes inside a sealed ziplock bag using a rolling pin for an even, fine texture.",
+    "Do not overcrowd the air fryer basket; cook the nuggets in two batches if necessary to ensure maximum crispiness.",
+    "Leftover cooked nuggets can be stored in an airtight container in the refrigerator for up to 3 days and reheated in the air fryer at 350°F (175°C) for 4 minutes."
+  ],
+  "storage": "Store in an airtight container in the refrigerator for up to 3 days.",
+  "tools": [
+    "Air fryer",
+    "3 shallow bowls",
+    "Ziplock bag",
+    "Digital meat thermometer"
+  ],
+  "keywords": [
+    "air fryer chicken breast nuggets",
+    "high protein chicken recipes",
+    "healthy homemade chicken nuggets",
+    "crispy air fryer chicken",
+    "easy high protein meal prep",
+    "healthy chicken nuggets air fryer",
+    "high protein dinner ideas"
+  ],
+  "pin_variants": [
+    {
+      "hook_type": "number",
+      "title": "Air Fryer Crispy Chicken Breast Nuggets | 35g Protein",
+      "description": "Get 35g of protein in just 25 minutes with these air fryer crispy chicken breast nuggets. Coated in a crunchy cornflake crust and cooked golden brown, they make an easy high-protein dinner. Save it for your next meal prep.",
+      "overlay": "35g Protein Chicken Nuggets",
+      "subline": "Ready in 25 Minutes",
+      "alt_text": "Crispy golden air fryer chicken nuggets served in a basket with dipping sauce."
+    },
+    {
+      "hook_type": "speed",
+      "title": "25-Minute Air Fryer Crispy Chicken Breast Nuggets",
+      "description": "Make crispy air fryer chicken breast nuggets in only 25 minutes with 35g of protein per serving. This simple homemade recipe uses lean chicken breast for a satisfying meal. Save it for your next meal prep.",
+      "overlay": "25-Minute Crispy Chicken Nuggets",
+      "subline": "High Protein Dinner",
+      "alt_text": "Close-up of crunchy air fryer chicken breast nuggets on a wooden board."
+    },
+    {
+      "hook_type": "outcome",
+      "title": "Air Fryer Crispy Chicken Breast Nuggets for Meal Prep",
+      "description": "Prepare wholesome air fryer crispy chicken breast nuggets yielding 35g of protein and ready in 25 minutes. They reheat wonderfully for quick weekday lunches and dinners. Save it for your next meal prep.",
+      "overlay": "Make High-Protein Chicken Nuggets",
+      "subline": "Meal Prep Friendly",
+      "alt_text": "A batch of homemade chicken nuggets arranged neatly on a plate."
+    },
+    {
+      "hook_type": "teacher",
+      "title": "How to Make Air Fryer Crispy Chicken Breast Nuggets",
+      "description": "Learn the secret to making air fryer crispy chicken breast nuggets with 35g of protein in 25 minutes. A seasoned cornflake crust keeps the lean chicken exceptionally juicy. Save it for your next meal prep.",
+      "overlay": "The Secret to Crispy Nuggets",
+      "subline": "Juicy and Crunchy",
+      "alt_text": "Golden brown chicken nuggets fresh from the air fryer."
+    }
+  ],
+  "video_script": {
+    "hook": "Make these crispy chicken nuggets with 35 grams of protein!",
+    "steps_short": [
+      "Dredge lean chicken breast pieces in flour, beaten eggs, and seasoned cornflakes.",
+      "Place the coated nuggets in a single layer in the preheated air fryer basket.",
+      "Mist the nuggets lightly with olive oil spray for extra crunch.",
+      "Air fry at 400 degrees Fahrenheit for 12 minutes until fully cooked."
+    ],
+    "outro": "Get the full recipe and nutrition breakdown on the website."
+  },
+  "photo_queries": [
+    "air fryer chicken nuggets",
+    "crispy chicken breast bites",
+    "homemade healthy chicken nuggets"
+  ],
+  "must_match": [
+    "chicken",
+    "nuggets",
+    "crispy"
+  ],
+  "board": "High Protein Chicken Recipes",
+  "slug": "air-fryer-crispy-chicken-breast-nuggets",
+  "protein_g": 35,
+  "photos": [
+    {
+      "id": "u-tkeFwOBsWVQ",
+      "width": 3382,
+      "height": 6012,
+      "alt": "a plate of food on a table with dipping sauce Vegetarian “chicken nuggets”\n素鸡块",
+      "photographer": "keshb3",
+      "photographer_url": "https://unsplash.com/@keshb3?utm_source=easy_protein_kitchen&utm_medium=referral",
+      "page_url": "https://unsplash.com/photos/a-plate-of-food-on-a-table-with-dipping-sauce-tkeFwOBsWVQ?utm_source=easy_protein_kitchen&utm_medium=referral",
+      "source": "Unsplash",
+      "source_url": "https://unsplash.com/?utm_source=easy_protein_kitchen&utm_medium=referral",
+      "src": "https://images.unsplash.com/photo-1646475696467-dea01be909d3?ixid=M3wxMTQzODc5fDB8MXxzZWFyY2h8MTd8fGFpciUyMGZyeWVyJTIwY2hpY2tlbiUyMG51Z2dldHN8ZW58MXwxfHx8MTc5NTczMzg4MHww&ixlib=rb-4.1.0",
+      "web": "https://images.unsplash.com/photo-1646475696467-dea01be909d3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTQzODc5fDB8MXxzZWFyY2h8MTd8fGFpciUyMGZyeWVyJTIwY2hpY2tlbiUyMG51Z2dldHN8ZW58MXwxfHx8MTc5NTczMzg4MHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "download_location": "https://api.unsplash.com/photos/tkeFwOBsWVQ/download?ixid=M3wxMTQzODc5fDB8MXxzZWFyY2h8MTd8fGFpciUyMGZyeWVyJTIwY2hpY2tlbiUyMG51Z2dldHN8ZW58MXwxfHx8MTc5NTczMzg4MHww",
+      "score": 11
+    },
+    {
+      "id": "u-NtMlAesMdH8",
+      "width": 2719,
+      "height": 4000,
+      "alt": "Crispy fried chicken wings on a black plate against a dark leafy background Crispy Fried Chicken",
+      "photographer": "Chad Montano",
+      "photographer_url": "https://unsplash.com/@briewilly?utm_source=easy_protein_kitchen&utm_medium=referral",
+      "page_url": "https://unsplash.com/photos/fried-chicken-wings-on-black-plate-NtMlAesMdH8?utm_source=easy_protein_kitchen&utm_medium=referral",
+      "source": "Unsplash",
+      "source_url": "https://unsplash.com/?utm_source=easy_protein_kitchen&utm_medium=referral",
+      "src": "https://images.unsplash.com/photo-1790702140123-9a841ad560da?ixid=M3wxMTQzODc5fDB8MXxzZWFyY2h8MTF8fGNyaXNweSUyMGNoaWNrZW4lMjBicmVhc3QlMjBiaXRlc3xlbnwxfDF8fHwxNzk1NzMzODgwfDA&ixlib=rb-4.1.0",
+      "web": "https://images.unsplash.com/photo-1790702140123-9a841ad560da?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTQzODc5fDB8MXxzZWFyY2h8MTF8fGNyaXNweSUyMGNoaWNrZW4lMjBicmVhc3QlMjBiaXRlc3xlbnwxfDF8fHwxNzk1NzMzODgwfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "download_location": "https://api.unsplash.com/photos/NtMlAesMdH8/download?ixid=M3wxMTQzODc5fDB8MXxzZWFyY2h8MTF8fGNyaXNweSUyMGNoaWNrZW4lMjBicmVhc3QlMjBiaXRlc3xlbnwxfDF8fHwxNzk1NzMzODgwfDA",
+      "score": 11
+    },
+    {
+      "id": "u-Qx7XfoUnsU0",
+      "width": 2000,
+      "height": 2997,
+      "alt": "Crispy fried chicken wings with dipping sauce",
+      "photographer": "Diego Arenas de Rodrigo",
+      "photographer_url": "https://unsplash.com/@diegoarenasderodrigo?utm_source=easy_protein_kitchen&utm_medium=referral",
+      "page_url": "https://unsplash.com/photos/crispy-fried-chicken-wings-with-dipping-sauce-Qx7XfoUnsU0?utm_source=easy_protein_kitchen&utm_medium=referral",
+      "source": "Unsplash",
+      "source_url": "https://unsplash.com/?utm_source=easy_protein_kitchen&utm_medium=referral",
+      "src": "https://images.unsplash.com/photo-1766589221324-656419e4c844?ixid=M3wxMTQzODc5fDB8MXxzZWFyY2h8Mjh8fGNyaXNweSUyMGNoaWNrZW4lMjBicmVhc3QlMjBiaXRlc3xlbnwxfDF8fHwxNzk1NzMzODgwfDA&ixlib=rb-4.1.0",
+      "web": "https://images.unsplash.com/photo-1766589221324-656419e4c844?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTQzODc5fDB8MXxzZWFyY2h8Mjh8fGNyaXNweSUyMGNoaWNrZW4lMjBicmVhc3QlMjBiaXRlc3xlbnwxfDF8fHwxNzk1NzMzODgwfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "download_location": "https://api.unsplash.com/photos/Qx7XfoUnsU0/download?ixid=M3wxMTQzODc5fDB8MXxzZWFyY2h8Mjh8fGNyaXNweSUyMGNoaWNrZW4lMjBicmVhc3QlMjBiaXRlc3xlbnwxfDF8fHwxNzk1NzMzODgwfDA",
+      "score": 11
+    },
+    {
+      "id": "u-ay6_VtsmxZc",
+      "width": 2000,
+      "height": 2997,
+      "alt": "Crispy fried chicken wings with dipping sauce",
+      "photographer": "Diego Arenas de Rodrigo",
+      "photographer_url": "https://unsplash.com/@diegoarenasderodrigo?utm_source=easy_protein_kitchen&utm_medium=referral",
+      "page_url": "https://unsplash.com/photos/crispy-fried-chicken-wings-with-dipping-sauce-ay6_VtsmxZc?utm_source=easy_protein_kitchen&utm_medium=referral",
+      "source": "Unsplash",
+      "source_url": "https://unsplash.com/?utm_source=easy_protein_kitchen&utm_medium=referral",
+      "src": "https://images.unsplash.com/photo-1766589221215-b182d7a4df0b?ixid=M3wxMTQzODc5fDB8MXxzZWFyY2h8MjN8fGFpciUyMGZyeWVyJTIwY2hpY2tlbiUyMG51Z2dldHN8ZW58MXwxfHx8MTc5NTczMzg4MHww&ixlib=rb-4.1.0",
+      "web": "https://images.unsplash.com/photo-1766589221215-b182d7a4df0b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTQzODc5fDB8MXxzZWFyY2h8MjN8fGFpciUyMGZyeWVyJTIwY2hpY2tlbiUyMG51Z2dldHN8ZW58MXwxfHx8MTc5NTczMzg4MHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "download_location": "https://api.unsplash.com/photos/ay6_VtsmxZc/download?ixid=M3wxMTQzODc5fDB8MXxzZWFyY2h8MjN8fGFpciUyMGZyeWVyJTIwY2hpY2tlbiUyMG51Z2dldHN8ZW58MXwxfHx8MTc5NTczMzg4MHww",
+      "score": 9
+    },
+    {
+      "id": "u-yeEoMHtkCuM",
+      "width": 4000,
+      "height": 6016,
+      "alt": "fried chicken on tray You will love jackfruit ! Here is one of my vegan recipe with jackfruit that you can find on my website and that perfectly mimics chicken wings! Visit my website to discover more vegan recipes with jackfruit and discover my vegan recipe book with jackfruit in English or in French !",
+      "photographer": "Nadine Primeau",
+      "photographer_url": "https://unsplash.com/@nadineprimeau?utm_source=easy_protein_kitchen&utm_medium=referral",
+      "page_url": "https://unsplash.com/photos/fried-chicken-on-tray-yeEoMHtkCuM?utm_source=easy_protein_kitchen&utm_medium=referral",
+      "source": "Unsplash",
+      "source_url": "https://unsplash.com/?utm_source=easy_protein_kitchen&utm_medium=referral",
+      "src": "https://images.unsplash.com/photo-1569691899455-88464f6d3ab1?ixid=M3wxMTQzODc5fDB8MXxzZWFyY2h8M3x8YWlyJTIwZnJ5ZXIlMjBjaGlja2VuJTIwbnVnZ2V0c3xlbnwxfDF8fHwxNzk1NzMzODgwfDA&ixlib=rb-4.1.0",
+      "web": "https://images.unsplash.com/photo-1569691899455-88464f6d3ab1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTQzODc5fDB8MXxzZWFyY2h8M3x8YWlyJTIwZnJ5ZXIlMjBjaGlja2VuJTIwbnVnZ2V0c3xlbnwxfDF8fHwxNzk1NzMzODgwfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "download_location": "https://api.unsplash.com/photos/yeEoMHtkCuM/download?ixid=M3wxMTQzODc5fDB8MXxzZWFyY2h8M3x8YWlyJTIwZnJ5ZXIlMjBjaGlja2VuJTIwbnVnZ2V0c3xlbnwxfDF8fHwxNzk1NzMzODgwfDA",
+      "score": 6
+    },
+    {
+      "id": "u-uf3wNWYmyRg",
+      "width": 3915,
+      "height": 5872,
+      "alt": "close-up photo of nuggets in white ceramic bowl Food close up",
+      "photographer": "Clayton Tonna",
+      "photographer_url": "https://unsplash.com/@claytontonna?utm_source=easy_protein_kitchen&utm_medium=referral",
+      "page_url": "https://unsplash.com/photos/close-up-photo-of-nuggets-in-white-ceramic-bowl-uf3wNWYmyRg?utm_source=easy_protein_kitchen&utm_medium=referral",
+      "source": "Unsplash",
+      "source_url": "https://unsplash.com/?utm_source=easy_protein_kitchen&utm_medium=referral",
+      "src": "https://images.unsplash.com/photo-1575918766310-d95c6e9df6d7?ixid=M3wxMTQzODc5fDB8MXxzZWFyY2h8MTZ8fGFpciUyMGZyeWVyJTIwY2hpY2tlbiUyMG51Z2dldHN8ZW58MXwxfHx8MTc5NTczMzg4MHww&ixlib=rb-4.1.0",
+      "web": "https://images.unsplash.com/photo-1575918766310-d95c6e9df6d7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTQzODc5fDB8MXxzZWFyY2h8MTZ8fGFpciUyMGZyeWVyJTIwY2hpY2tlbiUyMG51Z2dldHN8ZW58MXwxfHx8MTc5NTczMzg4MHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "download_location": "https://api.unsplash.com/photos/uf3wNWYmyRg/download?ixid=M3wxMTQzODc5fDB8MXxzZWFyY2h8MTZ8fGFpciUyMGZyeWVyJTIwY2hpY2tlbiUyMG51Z2dldHN8ZW58MXwxfHx8MTc5NTczMzg4MHww",
+      "score": 6
+    }
+  ],
+  "verification": {
+    "checks": [
+      {
+        "verdict": "fix",
+        "issues": [
+          "Salt quantity is insufficient for 1 1/2 lbs of chicken breast. Standard ratio for poultry is about 1 tsp to 1 1/4 tsp of salt per pound, so 1/2 tsp for 1.5 lbs will taste extremely bland.",
+          "Cornflake crumb quantity (1.5 cups / 60g) is typically insufficient to properly coat 1.5 lbs (680g) of chicken breast pieces through a standard 3-step dredging process. Standard amount is around 2.5 to 3 cups."
+        ],
+        "sources": [
+          {
+            "name": "Serious Eats - Air Fryer Chicken Nuggets",
+            "url": "https://www.seriouseats.com"
+          },
+          {
+            "name": "Allrecipes - Air Fryer Chicken Nuggets",
+            "url": "https://www.allrecipes.com"
+          },
+          {
+            "name": "BBC Good Food - Air fryer chicken nuggets",
+            "url": "https://www.bbcgoodfood.com"
+          }
+        ],
+        "grounded": false
+      },
+      {
+        "verdict": "pass",
+        "issues": [],
+        "sources": [
+          {
+            "name": "Allrecipes - Air Fryer Homemade Chicken Nuggets",
+            "url": "https://www.allrecipes.com/recipe/283300/air-fryer-homemade-chicken-nuggets/"
+          },
+          {
+            "name": "RecipeTin Eats - Air Fryer Chicken Nuggets",
+            "url": "https://www.recipetineats.com/air-fryer-chicken-nuggets/"
+          }
+        ],
+        "grounded": false
+      }
+    ],
+    "rule_warnings": [],
+    "model": "gemini-3.5-flash-lite"
+  },
+  "created": "2026-11-26"
+}

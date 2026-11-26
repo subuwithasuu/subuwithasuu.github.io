@@ -708,5 +708,485 @@
       ]
     },
     "date": "2026-11-26"
+  },
+  {
+    "title": "Garlic Butter Shrimp and Zucchini Noodles",
+    "board": "30 Minute High Protein Meals",
+    "reason": "write failed: Expecting property name enclosed in double quotes: line 164 column 5 (char 7177)",
+    "date": "2026-11-26"
+  },
+  {
+    "title": "Turkey and Spinach Protein Meatballs with Marinara",
+    "board": "30 Minute High Protein Meals",
+    "reason": {
+      "rules": [
+        "protein overclaimed: says 35g, ingredients give ~25g",
+        "only ~24g protein per serving (board needs 25g+)"
+      ]
+    },
+    "date": "2026-11-26"
+  },
+  {
+    "title": "Greek Lemon Chicken and Quinoa Skillet",
+    "board": "30 Minute High Protein Meals",
+    "reason": {
+      "verify": "still not passing after fixes",
+      "checks": [
+        {
+          "verdict": "fix",
+          "issues": [
+            "Liquid-to-quinoa ratio is too low for 1 cup of uncooked quinoa combined with the chicken broth and lemon juice. Standard ratio for quinoa is 1:1.75 or 1:2. 1 cup of quinoa typically requires 1.75 to 2 cups of total liquid (broth + lemon juice) to cook fully without being crunchy.",
+            "Cook time for quinoa (12 minutes) is slightly too short; standard simmer time for quinoa in a covered skillet is 15 minutes plus a 5-minute steam."
+          ],
+          "sources": [
+            {
+              "name": "RecipeTin Eats - One Pot Greek Chicken and Quinoa",
+              "url": "https://www.recipetineats.com/one-pot-greek-chicken-and-quinoa/"
+            },
+            {
+              "name": "Ambitious Kitchen - Greek Lemon Chicken and Quinoa Skillet",
+              "url": "https://www.ambitiouskitchen.com/greek-lemon-chicken-quinoa-skillet/"
+            }
+          ],
+          "grounded": false
+        },
+        {
+          "verdict": "fix",
+          "issues": [
+            "Liquid to quinoa ratio is slightly low for 1 cup of uncooked quinoa combined with the chicken broth and lemon juice, risking crunchy quinoa (standard ratio is about 1:1.75 to 1:2 liquid to quinoa, but lemon juice adds acid which can hinder softening; standard recipes use 1.75 to 2 cups broth plus lemon juice).",
+            "Cooking chicken for 5 minutes then 3-4 minutes will overcook and dry out bite-sized pieces of chicken breast, especially since they are returned to the skillet later.",
+            "Safety check: Ensure the chicken reaches 165°F (74°C) internal temperature, but to prevent rubbery chicken, sear it just until golden on the outside (about 3 minutes total) and finish cooking it gently when combined with the quinoa or briefly at the end."
+          ],
+          "sources": [
+            {
+              "name": "Ambitious Kitchen - One Pan Greek Lemon Chicken and Quinoa",
+              "url": "https://www.ambitiouskitchen.com/one-pan-greek-lemon-chicken-and-quinoa/"
+            },
+            {
+              "name": "Simply Scratch - Greek Lemon Chicken and Quinoa Skillet",
+              "url": "https://simplyscratch.com/greek-lemon-chicken-and-quinoa-skillet/"
+            }
+          ],
+          "grounded": false
+        }
+      ]
+    },
+    "date": "2026-11-26"
+  },
+  {
+    "title": "High-Protein Tuna Salad Stuffed Avocados",
+    "board": "Budget High Protein Meals",
+    "reason": {
+      "rules": [
+        "protein overclaimed: says 28g, ingredients give ~3g",
+        "only ~2g protein per serving (board needs 25g+)"
+      ]
+    },
+    "date": "2026-11-26"
+  },
+  {
+    "title": "Crispy Skin Chicken Thighs with White Bean Mash",
+    "board": "Budget High Protein Meals",
+    "reason": {
+      "rules": [
+        "variant 0: claims 25 Minutes but recipe takes 35 min",
+        "variant 1: claims 25-Minute but recipe takes 35 min",
+        "variant 1: claims 25-Minute but recipe takes 35 min"
+      ]
+    },
+    "date": "2026-11-26"
+  },
+  {
+    "title": "Spicy Tomato Baked Eggs with Chickpeas (Shakshuka)",
+    "board": "Budget High Protein Meals",
+    "reason": {
+      "rules": [
+        "protein overclaimed: says 25g, ingredients give ~11g",
+        "only ~11g protein per serving (board needs 25g+)"
+      ]
+    },
+    "date": "2026-11-26"
+  },
+  {
+    "title": "Ground Turkey and Red Lentil Chili",
+    "board": "Budget High Protein Meals",
+    "reason": {
+      "verify": "still not passing after fixes",
+      "checks": [
+        {
+          "verdict": "fix",
+          "issues": [
+            "Red lentils require at least 20-25 minutes of simmering to fully soften, rather than the listed 15 minutes, which will leave them crunchy.",
+            "Cook time and total time are understated given the actual simmering time needed for the lentils and reduction."
+          ],
+          "sources": [
+            {
+              "name": "Serious Eats - Quick and Easy Turkey Chili",
+              "url": "https://www.seriouseats.com/quick-and-easy-turkey-chili-recipe"
+            },
+            {
+              "name": "BBC Good Food - Red Lentil & Turkey Chilli",
+              "url": "https://www.bbcgoodfood.com/recipes/red-lentil-turkey-chilli"
+            }
+          ],
+          "grounded": false
+        },
+        {
+          "verdict": "fix",
+          "issues": [
+            "Red lentils break down and absorb a lot of liquid quickly; 3 cups of broth plus 400g of tomatoes for 3/4 cup of red lentils and 1 lb of turkey is actually balanced, but the 25-minute simmer might not be quite enough to fully soften red lentils and let the starches thicken properly if the heat is too low.",
+            "Lack of salt: The recipe contains no added salt, relying only on low-sodium broth and canned tomatoes, resulting in an under-seasoned, bland dish.",
+            "Cooking time for red lentils: 25 minutes is adequate for red lentils, but adding a specific salt and pepper measurement ensures proper flavor development."
+          ],
+          "sources": [
+            {
+              "name": "Serious Eats - Pressure Cooker Turkey Chili with Lentils",
+              "url": "https://www.seriouseats.com/"
+            },
+            {
+              "name": "BBC Good Food - Healthy Turkey Chili",
+              "url": "https://www.bbcgoodfood.com/"
+            },
+            {
+              "name": "Cookie and Kate - Sweet Potato Red Lentil Chili",
+              "url": "https://cookieandkate.com/"
+            }
+          ],
+          "grounded": false
+        }
+      ]
+    },
+    "date": "2026-11-26"
+  },
+  {
+    "title": "High-Protein Creamy Garlic Parmesan Chicken Pasta",
+    "board": "High Protein Dinners",
+    "reason": {
+      "verify": "still not passing after fixes",
+      "checks": [
+        {
+          "verdict": "fix",
+          "issues": [
+            "Plain non-fat Greek yogurt will curdle and separate immediately when mixed into a warm pan with broth and cheese due to lack of fat and low pH. Adding starch or tempering properly, or using a higher fat yogurt/cream, is required to prevent breaking.",
+            "Total salt (1/2 tsp) is insufficient for 1 lb of chicken, 8 oz of pasta, and sauce, leading to a bland dish. Standard ratio is closer to 1 to 1.25 tsp total salt."
+          ],
+          "sources": [
+            {
+              "name": "Serious Eats - Creamy Garlic Pasta with Chicken",
+              "url": "https://www.seriouseats.com"
+            },
+            {
+              "name": "Allrecipes - Creamy Garlic Chicken Pasta",
+              "url": "https://www.allrecipes.com"
+            }
+          ],
+          "grounded": false
+        },
+        {
+          "verdict": "fix",
+          "issues": [
+            "Using plain Greek yogurt as the primary base for a creamy pasta sauce without a stabilizer often leads to severe curdling when mixed with hot pan liquids, even with tempering and removing from heat.",
+            "Heavy cream or cream cheese is traditionally used to prevent breaking, but to maintain the high-protein intent of this recipe, combining Greek yogurt with a small amount of heavy cream or cornstarch/pasta water slurry, or properly managing the heat with added pasta starch, is required for a smooth sauce. However, to stay truest to standard high-protein cooking methods (like those from NYT Cooking or Ambitious Kitchen), adding a splash of pasta cooking water and keeping the heat completely off while vigorously stirring prevents curdling, but the original text's step 7 mentions 'tossing gently over very low heat' which can still break the yogurt. We should remove the heat entirely in the final tossing step."
+          ],
+          "sources": [
+            {
+              "name": "Serious Eats - Creamy Chicken and Garlic Pasta",
+              "url": "https://www.seriouseats.com/"
+            },
+            {
+              "name": "BBC Good Food - Creamy garlic chicken pasta",
+              "url": "https://www.bbcgoodfood.com/recipes/creamy-garlic-chicken-pasta"
+            }
+          ],
+          "grounded": false
+        }
+      ]
+    },
+    "date": "2026-11-26"
+  },
+  {
+    "title": "Garlic Butter Steak Bites with Sweet Potato and Broccoli",
+    "board": "High Protein Dinners",
+    "reason": {
+      "rules": [
+        "protein overclaimed: says 42g, ingredients give ~34g"
+      ]
+    },
+    "date": "2026-11-26"
+  },
+  {
+    "title": "Crispy Air Fryer Salmon with Quinoa and Roasted Asparagus",
+    "board": "High Protein Dinners",
+    "reason": {
+      "rules": [
+        "poultry recipe must state internal temp 165°F (74°C)"
+      ]
+    },
+    "date": "2026-11-26"
+  },
+  {
+    "title": "Spicy Lean Ground Turkey and Edamame Protein Fried Rice",
+    "board": "High Protein Dinners",
+    "reason": {
+      "verify": "still not passing after fixes",
+      "checks": [
+        {
+          "verdict": "fix",
+          "issues": [
+            "The rice-to-protein ratio is too low for a standard fried rice; 1.5 cups (300g) of cooked rice for 1 lb (454g) of ground turkey and 1 cup of edamame will result in a heavy turkey-and-bean scramble rather than fried rice. Standard fried rice calls for roughly 3 to 4 cups of cooked rice per 1 lb of total protein/add-ins.",
+            "The total soy sauce amount is 4 tablespoons (3 tbsp low-sodium + 1 tbsp mentioned in the sauce mix though only 2 tbsp is listed in step 1), which creates excess liquid for only 1.5 cups of rice and will make the fried rice soggy."
+          ],
+          "sources": [
+            {
+              "name": "Serious Eats - Easy Fried Rice",
+              "url": "https://www.seriouseats.com/easy-fried-rice-recipe"
+            },
+            {
+              "name": "NYT Cooking - Pork Fried Rice",
+              "url": "https://cooking.nytimes.com/recipes/1020864-pork-fried-rice"
+            }
+          ],
+          "grounded": false
+        },
+        {
+          "verdict": "fix",
+          "issues": [
+            "Sesame oil is used for high-heat stir-frying in the steps, but sesame oil has a low smoke point and is best used as a finishing oil or blended with a neutral oil.",
+            "The total fat content (1 tbsp sesame oil for 4 servings) is insufficient to properly fry 3 cups of cold rice, leading to sticking and dry rice rather than fried rice."
+          ],
+          "sources": [
+            {
+              "name": "Serious Eats - Easy Fried Rice",
+              "url": "https://www.seriouseats.com/easy-fried-rice-recipe"
+            },
+            {
+              "name": "NYT Cooking - Pork Fried Rice",
+              "url": "https://cooking.nytimes.com/recipes/1019688-pork-fried-rice"
+            }
+          ],
+          "grounded": false
+        }
+      ]
+    },
+    "date": "2026-11-26"
+  },
+  {
+    "title": "Crispy Air Fryer Tofu and Edamame Grain Bowl",
+    "board": "High Protein Vegetarian",
+    "reason": {
+      "verify": "still not passing after fixes",
+      "checks": [
+        {
+          "verdict": "fix",
+          "issues": [
+            "1 tablespoon of cornstarch is insufficient to properly coat and crisp 16 oz of extra-firm tofu; standard is 2 tablespoons.",
+            "Liquid (soy sauce and sesame oil) added directly to the tofu before cornstarch can create a gummy texture instead of a crispy crust; standard technique is to toss tofu with soy sauce and oil first, let it absorb, and then toss with cornstarch.",
+            "Edamame is not cooked in the air fryer alongside the tofu or warmed, resulting in cold/chewy edamame in a warm bowl; standard is to toss thawed edamame with the tofu for the last few minutes or warm them."
+          ],
+          "sources": [
+            {
+              "name": "Serious Eats - Crispy Air Fryer Tofu",
+              "url": "https://www.seriouseats.com/air-fryer-crispy-tofu-recipe"
+            },
+            {
+              "name": "Minimalist Baker - Crispy Peanut Tofu Grain Bowl",
+              "url": "https://minimalistbaker.com/crispy-peanut-tofu-grain-bowl/"
+            }
+          ],
+          "grounded": false
+        },
+        {
+          "verdict": "fix",
+          "issues": [
+            "Tossing tofu in wet soy sauce before adding cornstarch can cause the cornstarch to clump into a gummy paste rather than creating a light, even crispy coating. Standard technique is to coat with oil and soy sauce first, but cornstarch adheres best when applied after, or tossed gently so it doesn't gum up.",
+            "The dressing step forgets to include a liquid or sweetener to properly emulsify tahini, rice vinegar, soy sauce, and sesame oil (tahini seizes when mixed directly with acids without water/sweetener). The recipe notes a splash of water, but it should be explicit in the ingredient list and quantities."
+          ],
+          "sources": [
+            {
+              "name": "Serious Eats - Crispy Air Fryer Tofu",
+              "url": "https://www.seriouseats.com/air-fryer-crispy-tofu-recipe"
+            },
+            {
+              "name": "Minimalist Baker - Crispy Peanut Tofu Grain Bowl",
+              "url": "https://minimalistbaker.com/crispy-peanut-tofu-grain-bowl/"
+            },
+            {
+              "name": "BBC Good Food - Edamame & tofu quinoa bowl",
+              "url": "https://www.bbcgoodfood.com/recipes"
+            }
+          ],
+          "grounded": false
+        }
+      ]
+    },
+    "date": "2026-11-26"
+  },
+  {
+    "title": "High-Protein Creamy Cottage Cheese Tomato Pasta",
+    "board": "High Protein Vegetarian",
+    "reason": {
+      "verify": "still not passing after fixes",
+      "checks": [
+        {
+          "verdict": "fix",
+          "issues": [
+            "Cottage cheese can curdle or break if exposed to direct, high heat in a skillet. Standard methods (like NYT Cooking and Serious Eats) advise tossing the blended sauce directly with hot pasta and reserved pasta water off the heat, or warming very gently without boiling, but heating it in a skillet alone first can cause separation.",
+            "The recipe calls for dividing the olive oil and sautéing garlic in a skillet before adding the blended sauce. Standard cottage cheese pasta recipes emulsify the aromatics or oil directly into the blend or toss everything together with the pasta to maintain a smooth texture."
+          ],
+          "sources": [
+            {
+              "name": "Serious Eats - Creamy Cottage Cheese Pasta Sauce",
+              "url": "https://www.seriouseats.com"
+            },
+            {
+              "name": "NYT Cooking - Creamy Tomato Pasta With Cottage Cheese",
+              "url": "https://cooking.nytimes.com"
+            }
+          ],
+          "grounded": false
+        },
+        {
+          "verdict": "fix",
+          "issues": [
+            "Raw garlic is added directly to the blender without cooking, which can result in an overly sharp, pungent, and harsh raw-garlic flavor in a sauce that is only gently warmed for 1 to 2 minutes. Standard recipes sauté the garlic in olive oil first."
+          ],
+          "sources": [
+            {
+              "name": "Serious Eats - Creamy Cottage Cheese Pasta Sauce Formula",
+              "url": "https://www.seriouseats.com"
+            },
+            {
+              "name": "NYT Cooking - Blended Cottage Cheese Pasta Recipes",
+              "url": "https://cooking.nytimes.com"
+            }
+          ],
+          "grounded": false
+        }
+      ]
+    },
+    "date": "2026-11-26"
+  },
+  {
+    "title": "Smoky Tempeh and Black Bean Chili",
+    "board": "High Protein Vegetarian",
+    "reason": {
+      "verify": "still not passing after fixes",
+      "checks": [
+        {
+          "verdict": "fix",
+          "issues": [
+            "Cook time is too short for a chili; 15 minutes of cooking is insufficient to meld the flavors of raw spices, tomatoes, and tempeh. Standard simmer time is 25-30 minutes.",
+            "Total minutes must be updated to reflect the increased cook time (prep 10 + cook 30 = 40 minutes total).",
+            "The order of operations in the steps has the tempeh added after the spices, but usually, tempeh is browned first or with the aromatics to develop flavor before adding dry spices which can burn easily in dry pan areas. Adjusting step order to brown tempeh with onions/peppers or immediately after aromatics with added moisture/oil is safer."
+          ],
+          "sources": [
+            {
+              "name": "Serious Eats - Vegan Black Bean and Tempeh Chili",
+              "url": "https://www.seriouseats.com/"
+            },
+            {
+              "name": "Minimalist Baker - 1-Pot Smoky Black Bean Chili",
+              "url": "https://minimalistbaker.com/"
+            }
+          ],
+          "grounded": false
+        },
+        {
+          "verdict": "fix",
+          "issues": [
+            "Salt content is too low for 4 servings of chili (0.5 tsp for the whole batch is bland; standard is around 1 to 1.5 tsp or seasoned to taste with a recommendation for more).",
+            "The cook time and liquid ratio can lead to a slightly thick or dry chili if simmered covered for 30 minutes, but more importantly, the tempeh needs longer or a preliminary simmer/brown to absorb flavors properly. However, the method mostly works, mainly the salt needs adjusting."
+          ],
+          "sources": [
+            {
+              "name": "Serious Eats - Vegan Black Bean Chili with Tempeh",
+              "url": "https://www.seriouseats.com/"
+            },
+            {
+              "name": "Minimalist Baker - Easy 1-Pot Tempeh Chili",
+              "url": "https://minimalistbaker.com/"
+            }
+          ],
+          "grounded": false
+        }
+      ]
+    },
+    "date": "2026-11-26"
+  },
+  {
+    "title": "Spiced Red Lentil and Chickpea Coconut Curry",
+    "board": "High Protein Vegetarian",
+    "reason": {
+      "verify": "still not passing after fixes",
+      "checks": [
+        {
+          "verdict": "fix",
+          "issues": [
+            "Salt content is too low for 1 cup of dry lentils and 1.5 cups of chickpeas (3g / 0.5 tsp is insufficient for proper seasoning; standard recipes call for 1 to 1.5 teaspoons or about 6-9g of salt).",
+            "Cooking time of 12 minutes is slightly too short for standard red lentils to fully break down into a thick sauce with this liquid ratio; 15-20 minutes is standard."
+          ],
+          "sources": [
+            {
+              "name": "Serious Eats - Coconut Red Lentil Soup with Spinach",
+              "url": "https://www.seriouseats.com/coconut-red-lentil-soup-with-spinach"
+            },
+            {
+              "name": "BBC Good Food - Spinachy lentil & coconut dhal",
+              "url": "https://www.bbcgoodfood.com/recipes/spinachy-lentil-coconut-dhal"
+            }
+          ],
+          "grounded": false
+        },
+        {
+          "verdict": "fix",
+          "issues": [
+            "Red lentils to liquid ratio is slightly too low for 20 minutes of simmering. 1 cup (200g) of dry red lentils typically absorbs about 3 cups of liquid to become a creamy curry rather than sticking/burning. The original 2 cups of broth + 1 can of coconut milk is generous, but the cooking time of 15-18 minutes can result in undercooked lentils or a dry pot if not stirred constantly. Furthermore, simmering covered with starchy lentils and coconut milk very easily leads to scorching and boiling over. Standard test kitchen method recommends simmering partially covered or uncovered with slightly more adjustment to prevent scorching."
+          ],
+          "sources": [
+            {
+              "name": "Serious Eats - Vegan Coconut, Red Lentil, and Spinach Soup",
+              "url": "https://www.seriouseats.com/vegan-coconut-red-lentil-spinach-soup-recipe"
+            },
+            {
+              "name": "BBC Good Food - Spinachy coconut lentil dhal",
+              "url": "https://www.bbcgoodfood.com/recipes/spinachy-coconut-lentil-dhal"
+            }
+          ],
+          "grounded": false
+        }
+      ]
+    },
+    "date": "2026-11-26"
+  },
+  {
+    "title": "High-Protein Greek Yogurt Berry Breakfast Bowl",
+    "board": "High Protein Breakfast",
+    "reason": {
+      "rules": [
+        "protein overclaimed: says 24g, ingredients give ~18g",
+        "only ~18g protein per serving (board needs 20g+)"
+      ]
+    },
+    "date": "2026-11-26"
+  },
+  {
+    "title": "High-Protein Egg White and Turkey Bacon Breakfast Burrito",
+    "board": "High Protein Breakfast",
+    "reason": {
+      "rules": [
+        "poultry recipe must state internal temp 165°F (74°C)"
+      ]
+    },
+    "date": "2026-11-26"
+  },
+  {
+    "title": "High-Protein Creamy Cottage Cheese Scrambled Eggs",
+    "board": "High Protein Breakfast",
+    "reason": {
+      "rules": [
+        "only ~18g protein per serving (board needs 20g+)"
+      ]
+    },
+    "date": "2026-11-26"
   }
 ]
