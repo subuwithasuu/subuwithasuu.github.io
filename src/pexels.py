@@ -85,7 +85,22 @@ def _mark_used(photo: dict) -> None:
             log(f"unsplash download ping failed: {e}")
 
 
-def find_photos(queries: list[str], must_match: list[str], used_ids: set, want: int = 6) -> list[dict]:
+# Main foods: a photo described with one of these must not show a DIFFERENT one than
+# the recipe uses (e.g. "teriyaki chicken" photo on a beef recipe).
+MAIN_FOODS = {"chicken", "beef", "steak", "pork", "bacon", "ham", "turkey", "lamb", "salmon", "tuna",
+              "shrimp", "prawn", "fish", "cod", "crab", "tofu", "tempeh", "egg", "pasta", "noodle",
+              "pizza", "burger", "cake", "pancake", "waffle", "cookie", "donut", "doughnut", "bread",
+              "sushi", "taco", "curry", "soup", "salad", "oat", "smoothie"}
+
+
+def conflicts(alt: set[str], recipe_text: str) -> set[str]:
+    """Main foods in the photo description that the recipe doesn't contain."""
+    have = {w.rstrip("s") for w in re.findall(r"[a-z]+", recipe_text.lower())}
+    return {f for f in MAIN_FOODS if f in alt and f not in have}
+
+
+def find_photos(queries: list[str], must_match: list[str], used_ids: set, want: int = 6,
+                recipe_text: str = "") -> list[dict]:
     """Return up to `want` relevant portrait-ish photos, best first."""
     search = _unsplash if provider() == "unsplash" else _pexels
     must = {w.rstrip("s").lower() for w in must_match}
@@ -104,6 +119,8 @@ def find_photos(queries: list[str], must_match: list[str], used_ids: set, want: 
                 continue
             alt = _words(p["alt"])
             if must and not (alt & must):
+                continue
+            if recipe_text and conflicts(alt, recipe_text):
                 continue
             p["score"] = len(alt & qw) * 2 + len(alt & must) * 3 + (1 if p["height"] > p["width"] else 0)
             picked[p["id"]] = p

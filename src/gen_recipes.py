@@ -212,8 +212,9 @@ def make_one(gem: Gemini, cfg: dict, board: dict, title: str, used_photo_ids: se
         reject(title, board["name"], {"rules": errors})
         return None
 
+    recipe_text = " ".join([r["title"], *(str(i.get("item", "")) for i in r.get("ingredients", []))])
     photos = pexels.find_photos(r.get("photo_queries") or [r["title"]],
-                                r.get("must_match") or [], used_photo_ids, want=6)
+                                r.get("must_match") or [], used_photo_ids, want=6, recipe_text=recipe_text)
     if len(photos) < 3:
         reject(title, board["name"], f"only {len(photos)} matching real photos")
         return None
