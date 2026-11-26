@@ -96,8 +96,10 @@ content:
   units: "us"
 
 gemini:
-  model: "gemini-2.5-flash"
-  fallback_models: ["gemini-2.5-flash-lite", "gemini-2.0-flash"]
+  # Preferred models; the code test-prompts these plus every Flash model the key can see,
+  # and keeps the ones that actually answer (Google retires names often).
+  model: "gemini-3.6-flash"
+  fallback_models: ["gemini-3.5-flash", "gemini-3.5-flash-lite"]
 
 pin_design:
   width: 1000

@@ -4,7 +4,8 @@ name: Content
 # content drops below 3 weeks. Commits them, then rebuilds the website.
 on:
   schedule:
-    - cron: "0 2 * * *"        # daily 02:00 UTC
+    - cron: "0 2 * * *"        # 02:00 UTC
+    - cron: "0 14 * * *"       # 14:00 UTC (second daily run spreads the free-tier quota)
   workflow_dispatch:
     inputs:
       mode:

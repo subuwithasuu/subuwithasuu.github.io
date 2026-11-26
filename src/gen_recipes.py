@@ -252,7 +252,7 @@ def main() -> int:
     c = cfg["content"]
     if a.auto:
         if len(recipes) < c["initial_recipes"]:
-            count = min(c["initial_recipes"] - len(recipes), 25)     # ~25/day fits the free tier
+            count = min(c["initial_recipes"] - len(recipes), 12)     # 12 per run x 2 runs/day fits the free tier
         elif content_runway_days(cfg, load_queue(), recipes) < c["min_runway_days"]:
             count = c["recipes_per_week"]
         else:
