@@ -24,10 +24,17 @@ def ensure_boards(api, cfg) -> dict:
     want = [b for b in cfg["boards"] if b["name"] not in known]
     if not want:
         return known
-    existing = {b["name"].lower(): b["id"] for b in api.list_boards()}
+    listed = {b["name"].lower(): b for b in api.list_boards()}
+    existing = {k: v["id"] for k, v in listed.items()}
     for b in want:
         if b["name"].lower() in existing:
             known[b["name"]] = existing[b["name"].lower()]
+            if not (listed[b["name"].lower()].get("description") or "").strip():
+                try:     # boards made by hand have no description yet: add the searchable one
+                    api.update_board_description(known[b["name"]], b["description"])
+                    log(f"added description to board {b['name']}")
+                except Exception as e:
+                    log(f"could not set description for {b['name']}: {e}")
         else:
             created = api.create_board(b["name"], b["description"])
             known[b["name"]] = created["id"]

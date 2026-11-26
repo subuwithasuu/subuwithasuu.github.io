@@ -92,6 +92,9 @@ class Pinterest:
             if not bookmark:
                 return out
 
+    def update_board_description(self, board_id: str, description: str) -> dict:
+        return self._req("PATCH", f"/boards/{board_id}", json={"description": description[:500]})
+
     def create_board(self, name: str, description: str) -> dict:
         return self._req("POST", "/boards", json={"name": name, "description": description[:500],
                                                     "privacy": "PUBLIC"})
