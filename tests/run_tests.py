@@ -129,7 +129,11 @@ ramp_boards = Counter(s["item"]["board"] for s in posted if s["slot"] < days[24]
 print("   pins per board after ramp:", dict(ramp_boards))
 check("ramp gives every board 30+ pins", all(c >= 30 for c in ramp_boards.values()))
 vid = sum(1 for s in posted if s["item"]["kind"] == "video") / len(posted)
-check(f"video share ~25% (got {vid:.0%})", 0.18 <= vid <= 0.32)
+want_vid = cfg["mix"]["video_share"]
+if want_vid:
+    check(f"video share ~{want_vid:.0%} (got {vid:.0%})", abs(vid - want_vid) <= 0.08)
+else:
+    check(f"RSS mode: no video pins scheduled (got {vid:.0%})", vid == 0)
 keys = [f"{s['item']['slug']}:{s['item']['kind']}:{s['item']['variant']}" for s in posted]
 check("no pin posted twice", len(keys) == len(set(keys)))
 # same recipe gap
