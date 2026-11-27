@@ -111,6 +111,24 @@ def upload(csv_path: Path) -> tuple[bool, str]:
     return False, f"no success message, see {shot}"
 
 
+def report_status(login: str) -> None:
+    """Tell the GitHub health check whether the helper is logged in to Pinterest.
+    Only pushes when the state changes, so the repo isn't spammed."""
+    f = ROOT / "data" / "state" / "mac_status.json"
+    old = read_json(f, {})
+    if old.get("pinterest_login") == login:
+        return
+    write_json(f, {"pinterest_login": login, "updated": datetime.now(timezone.utc).isoformat()})
+    try:
+        git("add", str(f))
+        git("-c", "user.name=subuwithasuu", "-c", "user.email=subuwithasuu@users.noreply.github.com",
+            "commit", "-q", "-m", f"mac helper: pinterest {login}")
+        git("pull", "-q", "--rebase", "--autostash")
+        git("push", "-q")
+    except subprocess.CalledProcessError as e:
+        log(f"status push failed: {e.stderr}")
+
+
 def login_flow() -> bool:
     """Open the helper's Chrome at Pinterest's login page and wait (up to 30 min)
     until you have logged in; the window then closes by itself."""
@@ -214,6 +232,7 @@ def main() -> int:
         state["last_login_prompt"] = now.isoformat()
         write_json(STATE, state)
         notify("Pinterest logged out the video helper. Please log in in the window that just opened.")
+        report_status("logged_out")
         if not login_flow():
             return 2
         ok, info = upload(csv_path)
@@ -224,6 +243,7 @@ def main() -> int:
         notify("Video pin upload had a problem. Open the uploader log.")
         return 1
 
+    report_status("ok")
     stamp = now.isoformat()
     posted = read_json(POSTED_FILE, [])
     ids = {v["id"]: when for v, when in zip(ready, slots)}
