@@ -107,7 +107,7 @@ if QUEUE_FILE.exists():
 import queue_plan  # noqa: E402
 start = datetime(2026, 12, 1, 5, 0, tzinfo=timezone.utc)
 t = start
-while t < start + timedelta(days=110):
+while t < start + timedelta(days=cfg["schedule"]["total_days"] + 5):
     q = queue_plan.plan(cfg, t)
     for s in q["slots"]:                     # pretend everything due got posted
         if s["status"] == "planned" and s["item"] and s["due"] <= t.isoformat():
@@ -122,7 +122,7 @@ ramp = [per_day[d] for d in days[:24]]
 print(f"   ramp pins/day: {ramp}")
 check("ramp days have 10-12 pins", all(10 <= n <= 12 for n in ramp))
 check(f"steady days 3-5 slots (day 30: {per_day[days[30]]})", 3 <= per_day[days[30]] <= 5)
-check(f"stops after 105 days ({len(days)} days planned)", len(days) == 105)
+check(f"stops after {cfg['schedule']['total_days']} days ({len(days)} days planned)", len(days) == cfg["schedule"]["total_days"])
 boards = Counter(s["item"]["board"] for s in posted)
 print("   pins per board:", dict(boards))
 ramp_boards = Counter(s["item"]["board"] for s in posted if s["slot"] < days[24])
