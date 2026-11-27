@@ -202,7 +202,7 @@
     {
       "slot": "2026-11-27#00",
       "due": "2026-11-27T12:25:04+00:00",
-      "status": "planned",
+      "status": "posted",
       "item": {
         "slug": "lean-ground-beef-and-quinoa-power-bowls",
         "board": "High Protein Meal Prep",
@@ -212,12 +212,15 @@
         "layout": "single",
         "palette": 1
       },
-      "attempts": 0
+      "attempts": 0,
+      "pin_id": "2026-11-27-00",
+      "posted_at": "2026-11-27T13:27:34.419937+00:00",
+      "via": "rss"
     },
     {
       "slot": "2026-11-27#01",
       "due": "2026-11-27T12:55:21+00:00",
-      "status": "planned",
+      "status": "posted",
       "item": {
         "slug": "vanilla-berry-greek-yogurt-protein-bowl",
         "board": "High Protein Breakfast",
@@ -227,7 +230,10 @@
         "layout": "single",
         "palette": 4
       },
-      "attempts": 0
+      "attempts": 0,
+      "pin_id": "2026-11-27-01",
+      "posted_at": "2026-11-27T13:27:37.169951+00:00",
+      "via": "rss"
     },
     {
       "slot": "2026-11-27#02",
