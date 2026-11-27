@@ -46,6 +46,19 @@ def main() -> int:
         write_json(METRICS_FILE, metrics)
     except Exception as e:
         log(f"no analytics: {e}")
+    # Without the API (RSS / CSV pins): rank pins by real site visits from GoatCounter
+    clicks = {}
+    try:
+        import clicks as clicks_mod
+        since = now - timedelta(days=85)
+        clicks = clicks_mod.pin_clicks(cfg, since, now)
+        for p in posted:
+            if p.get("via") in ("rss", "csv") and datetime.fromisoformat(p["posted_at"]) >= since:
+                metrics[p["pin_id"]] = {"SAVE": 0, "OUTBOUND_CLICK": clicks.get(p["pin_id"], 0),
+                                        "source": "goatcounter", "fetched": now.date().isoformat()}
+        write_json(METRICS_FILE, metrics)
+    except Exception as e:
+        log(f"no click data: {e}")
     learnings = learn.run(posted, metrics, now)
 
     def tot(k):
@@ -67,14 +80,23 @@ def main() -> int:
             lines.append(f"| [{s['title'][:60]}](https://www.pinterest.com/pin/{s['pin_id']}/) | {s['board']} | {s['kind']} | "
                          f"{s.get('IMPRESSION', 0)} | {s.get('SAVE', 0)} | {s.get('OUTBOUND_CLICK', 0)} |")
         lines.append("")
+    elif clicks:
+        month = [p for p in posted if datetime.fromisoformat(p["posted_at"]) >= now - timedelta(days=30)]
+        top = sorted(month, key=lambda p: -clicks.get(p["pin_id"], 0))[:10]
+        lines += ["## Last 30 days: visits to the site from each pin (GoatCounter)",
+                  f"Total pin visits **{sum(clicks.get(p['pin_id'], 0) for p in month)}** "
+                  f"from {len(month)} pins posted in that window", "",
+                  "| Pin | Board | Type | Site visits |", "|---|---|---|---|"]
+        lines += [f"| {p['title'][:60]} | {p['board']} | {p['kind']} | {clicks.get(p['pin_id'], 0)} |" for p in top]
+        lines.append("")
     else:
-        lines += ["_No analytics yet (new pins take 1-2 days to show data, or API access is still in Trial)._", ""]
+        lines += ["_No click data yet (GoatCounter not set up, or no visits yet)._", ""]
     lines += learn.report_lines(learnings, cfg)
     if failed:
         lines += ["## Failures", *[f"- `{s['slot']}` {s.get('item', {}).get('slug')}: {s.get('error', '')[:200]}" for s in failed], ""]
     if rejected:
         lines += ["## Recipes rejected by the fact-check", *[f"- {r['title']} ({r['board']})" for r in rejected[:20]], ""]
-    lines += ["## This week's pins", *[f"- {p['posted_at'][:10]} [{p['title']}](https://www.pinterest.com/pin/{p['pin_id']}/)" for p in week]]
+    lines += ["## This week's pins", *[f"- {p['posted_at'][:10]} {p['title']} ({p['board']}, {p['kind']})" for p in week]]
     report = "\n".join(lines)
     (ROOT / "report.md").write_text(report, encoding="utf-8")
     print(report)

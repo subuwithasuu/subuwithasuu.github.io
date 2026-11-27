@@ -120,8 +120,11 @@ PRIVACY = """
 <p>Last updated: {date}</p>
 <p>{name} ("we") runs this website and the {name} Pinterest account. This policy explains what data we handle.</p>
 <h2>Website visitors</h2>
-<p>This is a static website hosted on GitHub Pages. We do not use accounts, forms, cookies or tracking scripts.
+<p>This is a static website hosted on GitHub Pages. We do not use accounts, forms or cookies.
 GitHub may log basic technical data (such as IP address) for security; see GitHub's privacy statement.</p>
+<p>We count visits with GoatCounter, a privacy-friendly counter that sets no cookies and stores no personal
+data (no IP addresses). It tells us which pages and which of our Pinterest pins bring visitors, so we can make
+more of the recipes people like. See goatcounter.com/privacy.</p>
 <h2>Pinterest integration</h2>
 <p>Our own automation uses the Pinterest API only to publish pins and boards to <strong>our own</strong> Pinterest
 account and to read analytics for those pins. We do not access, collect, store or share any data about other

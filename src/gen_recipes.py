@@ -30,6 +30,7 @@ from nutrition import check_protein
 from hooks import check_hooks, prompt_rules
 import pexels
 from queue_plan import content_runway_days, load_queue
+import trends
 
 
 def add_protein_sublines(r: dict) -> None:
@@ -87,7 +88,7 @@ def ideas_for_board(gem: Gemini, cfg: dict, board: dict, n: int, existing: list[
     prompt = f"""Niche: {cfg['niche']['description']}. Audience: {cfg['niche']['audience']}.
 Pinterest board: "{board['name']}" - {board['description']}
 Topic hints: {', '.join(board['topics'])}
-
+{trends.prompt_block(board)}
 Suggest {n} different, popular, well-established HIGH-PROTEIN dishes for this board that people
 actively search for on Pinterest (think gym-goers and macro trackers).{" Vegetarian only." if board.get("vegetarian") else ""} Classic, proven dishes only (no strange fusions). Total time
 <= {cfg['content']['max_total_time_minutes']} minutes unless the board is about make-ahead food.
@@ -267,6 +268,7 @@ def main() -> int:
         return 0
 
     gem = Gemini(cfg)
+    trends.refresh(gem, cfg)                 # once a week: what high-protein food is rising now
     titles = [r["title"] for r in recipes]
     used = {p["id"] for r in recipes for p in r.get("photos", [])}
     plan = pick_boards(cfg, recipes, count)

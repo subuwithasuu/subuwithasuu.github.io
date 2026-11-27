@@ -36,5 +36,22 @@
   </div>
 </footer>
 <script src="{{ site.base_url }}/assets/site.js?v={{ asset_v }}" defer></script>
+{% if site.goatcounter %}
+<script data-goatcounter="https://{{ site.goatcounter }}.goatcounter.com/count" async src="//gc.zgo.at/count.js"></script>
+<script>
+/* Which pin brought this visit? Pin links end in ?pin=<id>; count that as an event
+   "pin-<id>" so the weekly report can rank pins by real clicks (no cookies). */
+(function () {
+  var m = location.search.match(/[?&]pin=([A-Za-z0-9_-]+)/);
+  if (!m) return;
+  var n = 0, t = setInterval(function () {
+    if (++n > 100) return clearInterval(t);
+    if (!window.goatcounter || !window.goatcounter.count) return;
+    clearInterval(t);
+    window.goatcounter.count({ path: "pin-" + m[1], title: document.title, event: true });
+  }, 100);
+})();
+</script>
+{% endif %}
 </body>
 </html>
