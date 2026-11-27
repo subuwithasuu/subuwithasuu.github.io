@@ -81,7 +81,8 @@ schedule:
   steady_pins_per_day: 4              # phase 2: 3-5/day
   total_days: 105                     # ~3.5 months
   windows: ["07:00-09:30", "11:30-13:30", "17:00-21:30"]
-  max_posts_per_run: 4                # cap per hourly run
+  max_posts_per_run: 4                # cap per hourly run (API mode)
+  rss_max_posts_per_run: 12           # RSS mode: GitHub cron often skips hours, so catch up in one run
 
 mix:
   video_share: 0.0                    # RSS auto-publish carries image pins only (0.25 with the API route)

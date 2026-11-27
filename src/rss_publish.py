@@ -49,7 +49,7 @@ def main() -> int:
     PINS_DIR.mkdir(parents=True, exist_ok=True)
     done = 0
     for slot in due:
-        if done >= cfg["schedule"]["max_posts_per_run"]:
+        if done >= cfg["schedule"].get("rss_max_posts_per_run", 12):
             break
         if now - datetime.fromisoformat(slot["due"]) > timedelta(hours=STALE_HOURS):
             slot["status"] = "skipped"

@@ -5,7 +5,7 @@ name: Post due pins
 # approved developer app).
 on:
   schedule:
-    - cron: "17 * * * *"
+    - cron: "17,47 * * * *"     # twice an hour: GitHub often drops scheduled runs
   workflow_dispatch:
     inputs:
       dry_run:
