@@ -76,7 +76,7 @@
     {
       "slot": "2026-11-26#04",
       "due": "2026-11-26T17:32:32+00:00",
-      "status": "planned",
+      "status": "posted",
       "item": {
         "slug": "high-protein-chicken-teriyaki-stir-fry",
         "board": "30 Minute High Protein Meals",
@@ -86,12 +86,15 @@
         "layout": "single",
         "palette": 4
       },
-      "attempts": 0
+      "attempts": 0,
+      "pin_id": "2026-11-26-04",
+      "posted_at": "2026-11-27T03:59:12.085199+00:00",
+      "via": "rss"
     },
     {
       "slot": "2026-11-26#05",
       "due": "2026-11-26T18:21:00+00:00",
-      "status": "planned",
+      "status": "posted",
       "item": {
         "slug": "high-protein-turkey-and-black-bean-burrito-bowls",
         "board": "High Protein Meal Prep",
@@ -101,12 +104,15 @@
         "layout": "single",
         "palette": 4
       },
-      "attempts": 0
+      "attempts": 0,
+      "pin_id": "2026-11-26-05",
+      "posted_at": "2026-11-27T03:59:12.472128+00:00",
+      "via": "rss"
     },
     {
       "slot": "2026-11-26#06",
       "due": "2026-11-26T22:38:42+00:00",
-      "status": "planned",
+      "status": "posted",
       "item": {
         "slug": "mediterranean-chickpea-and-greek-yogurt-power-bowl",
         "board": "High Protein Vegetarian",
@@ -116,12 +122,15 @@
         "layout": "band",
         "palette": 1
       },
-      "attempts": 0
+      "attempts": 0,
+      "pin_id": "2026-11-26-06",
+      "posted_at": "2026-11-27T03:59:13.867305+00:00",
+      "via": "rss"
     },
     {
       "slot": "2026-11-26#07",
       "due": "2026-11-26T23:40:34+00:00",
-      "status": "planned",
+      "status": "posted",
       "item": {
         "slug": "savory-cottage-cheese-and-avocado-toast",
         "board": "High Protein Breakfast",
@@ -131,12 +140,15 @@
         "layout": "split",
         "palette": 3
       },
-      "attempts": 0
+      "attempts": 0,
+      "pin_id": "2026-11-26-07",
+      "posted_at": "2026-11-27T03:59:15.990231+00:00",
+      "via": "rss"
     },
     {
       "slot": "2026-11-26#08",
       "due": "2026-11-27T00:25:03+00:00",
-      "status": "planned",
+      "status": "posted",
       "item": {
         "slug": "high-protein-cottage-cheese-cookie-dough",
         "board": "High Protein Snacks",
@@ -146,12 +158,15 @@
         "layout": "single",
         "palette": 3
       },
-      "attempts": 0
+      "attempts": 0,
+      "pin_id": "2026-11-26-08",
+      "posted_at": "2026-11-27T03:59:16.334839+00:00",
+      "via": "rss"
     },
     {
       "slot": "2026-11-26#09",
       "due": "2026-11-27T01:26:32+00:00",
-      "status": "planned",
+      "status": "posted",
       "item": {
         "slug": "honey-garlic-glazed-chicken-thighs",
         "board": "High Protein Chicken Recipes",
@@ -161,12 +176,15 @@
         "layout": "single",
         "palette": 4
       },
-      "attempts": 0
+      "attempts": 0,
+      "pin_id": "2026-11-26-09",
+      "posted_at": "2026-11-27T03:59:18.138138+00:00",
+      "via": "rss"
     },
     {
       "slot": "2026-11-26#10",
       "due": "2026-11-27T02:16:57+00:00",
-      "status": "planned",
+      "status": "posted",
       "item": {
         "slug": "spicy-cajun-salmon-and-asparagus-sheet-pan-25-minute-dinner",
         "board": "30 Minute High Protein Meals",
@@ -176,7 +194,10 @@
         "layout": "single",
         "palette": 2
       },
-      "attempts": 0
+      "attempts": 0,
+      "pin_id": "2026-11-26-10",
+      "posted_at": "2026-11-27T03:59:19.772118+00:00",
+      "via": "rss"
     },
     {
       "slot": "2026-11-27#00",
