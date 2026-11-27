@@ -310,7 +310,7 @@
     {
       "slot": "2026-11-27#06",
       "due": "2026-11-27T22:35:44+00:00",
-      "status": "planned",
+      "status": "posted",
       "item": {
         "slug": "mediterranean-chickpea-and-greek-yogurt-power-bowl",
         "board": "High Protein Vegetarian",
@@ -320,7 +320,10 @@
         "layout": "split",
         "palette": 4
       },
-      "attempts": 0
+      "attempts": 0,
+      "pin_id": "2026-11-27-06",
+      "posted_at": "2026-11-27T22:43:24.063463+00:00",
+      "via": "rss"
     },
     {
       "slot": "2026-11-27#07",

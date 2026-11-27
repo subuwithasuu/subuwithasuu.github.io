@@ -526,5 +526,27 @@
     "category": "Dinner",
     "protein_g": 35,
     "total_minutes": 25
+  },
+  {
+    "pin_id": "2026-11-27-06",
+    "via": "rss",
+    "slot": "2026-11-27#06",
+    "slug": "mediterranean-chickpea-and-greek-yogurt-power-bowl",
+    "kind": "image",
+    "variant": 1,
+    "board": "High Protein Vegetarian",
+    "title": "25-Minute Mediterranean Chickpea Power Bowl",
+    "description": "This Mediterranean Chickpea and Greek Yogurt Power Bowl is a 25-minute meal packed with 22g of protein. It is a simple, meat-free dish that works perfectly for quick lunches. Save it for your next meal prep.",
+    "alt_text": "Close up of a Mediterranean power bowl with chickpeas and feta.",
+    "link": "https://easyproteinkitchen.online/recipes/mediterranean-chickpea-and-greek-yogurt-power-bowl/?pin=2026-11-27-06",
+    "image": "pins/2026-11-27-06.jpg",
+    "posted_at": "2026-11-27T22:43:24.063463+00:00",
+    "hook_type": "speed",
+    "overlay": "Ready in 25 Minutes",
+    "layout": "split",
+    "palette": 4,
+    "category": "Lunch",
+    "protein_g": 22,
+    "total_minutes": 25
   }
 ]
