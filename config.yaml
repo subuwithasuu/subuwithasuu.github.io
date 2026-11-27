@@ -6,7 +6,9 @@
 site:
   name: "Easy Protein Kitchen"
   tagline: "Quick high-protein meals that actually taste good."
-  # Public address every pin links to. Free GitHub user site for the test phase.
+  # Public address every pin links to. Custom domain since 2026-11-27 (bought for 1 year at
+  # Namecheap, auto-renew OFF). If it is ever dropped: set base_url back to
+  # https://subuwithasuu.github.io, custom_domain null, and remove the Pages custom domain.
   # post.yml refuses to post until the site really loads at this address.
   #
   # MOVING TO A REAL DOMAIN LATER (e.g. easyproteinkitchen.com) - old pins keep working:
@@ -14,8 +16,8 @@ site:
   #      -> GitHub then 301-redirects every subuwithasuu.github.io/... link to the new domain
   #   2. set base_url + custom_domain below to the new domain, re-claim it on Pinterest
   #   Never delete or rename the subuwithasuu.github.io repo afterwards: it IS the redirect.
-  base_url: "https://subuwithasuu.github.io"
-  custom_domain: null                       # e.g. "easyproteinkitchen.com" later
+  base_url: "https://easyproteinkitchen.online"
+  custom_domain: "easyproteinkitchen.online"
   language: "en"
   author: "Easy Protein Kitchen"
   pin_label: "Easy Protein Kitchen"     # text printed on pins (brand, not the long github.io URL)
