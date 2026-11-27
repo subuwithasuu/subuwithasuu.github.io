@@ -106,9 +106,9 @@ def upload(csv_path: Path) -> tuple[bool, str]:
         shot = HOME / f"upload-{datetime.now():%Y%m%d-%H%M}.png"
         page.screenshot(path=str(shot))
         ctx.close()
-    low = text.lower()
-    bad = [w for w in ("error", "couldn't", "could not", "invalid", "failed", "try again") if w in low]
-    return (not bad), f"screenshot {shot}" + (f"; page says: {', '.join(bad)}" if bad else "")
+    if "upload successful" in text.lower():        # Pinterest's confirmation dialog
+        return True, f"Pinterest: upload successful ({shot})"
+    return False, f"no success message, see {shot}"
 
 
 def main() -> int:
