@@ -14,7 +14,7 @@ Mac is on. It does nothing unless a week has passed since the last upload.
   .venv/bin/python scripts/mac_video_upload.py            # normal (respects the weekly gap)
   .venv/bin/python scripts/mac_video_upload.py --force    # upload now
   .venv/bin/python scripts/mac_video_upload.py --dry-run  # write the .csv only
-  .venv/bin/python scripts/mac_video_upload.py --login    # open the profile so you can log in once
+  .venv/bin/python scripts/mac_video_upload.py --login    # open the login window by hand (normally automatic)
 """
 from __future__ import annotations
 
@@ -111,6 +111,35 @@ def upload(csv_path: Path) -> tuple[bool, str]:
     return False, f"no success message, see {shot}"
 
 
+def login_flow() -> bool:
+    """Open the helper's Chrome at Pinterest's login page and wait (up to 30 min)
+    until you have logged in; the window then closes by itself."""
+    from playwright.sync_api import sync_playwright
+    with sync_playwright() as p:
+        ctx = open_browser(p)
+        page = ctx.pages[0] if ctx.pages else ctx.new_page()
+        page.goto("https://www.pinterest.com/login/")
+        page.bring_to_front()
+        log("waiting for Pinterest login in the helper window")
+        ok = False
+        for _ in range(900):
+            time.sleep(2)
+            try:
+                cookies = ctx.cookies()
+            except Exception:                          # window was closed
+                break
+            if any(c["name"] == "_auth" and c["value"] == "1" for c in cookies):
+                ok = True
+                time.sleep(3)
+                break
+        try:
+            ctx.close()
+        except Exception:
+            pass
+    log("logged in" if ok else "login not finished")
+    return ok
+
+
 def main() -> int:
     ap = argparse.ArgumentParser()
     ap.add_argument("--force", action="store_true")
@@ -125,31 +154,7 @@ def main() -> int:
         return 0                                        # another run is busy
 
     if a.login:
-        from playwright.sync_api import sync_playwright
-        with sync_playwright() as p:
-            ctx = open_browser(p)
-            page = ctx.pages[0] if ctx.pages else ctx.new_page()
-            page.goto("https://www.pinterest.com/login/")
-            log("Log in to Pinterest in the window that opened; it closes by itself when done.")
-            page.bring_to_front()
-            for _ in range(900):                       # up to 30 minutes
-                time.sleep(2)
-                try:
-                    cookies = ctx.cookies()
-                except Exception:                      # whole window was closed
-                    log("window closed before login finished")
-                    return 1
-                if any(c["name"] == "_auth" and c["value"] == "1" for c in cookies):
-                    log("logged in")
-                    time.sleep(3)
-                    break
-            else:
-                log("login timed out")
-            try:
-                ctx.close()
-            except Exception:
-                pass
-        return 0
+        return 0 if login_flow() else 1
 
     cfg = load_config()
     vb = cfg["video_batch"]
@@ -201,9 +206,19 @@ def main() -> int:
 
     ok, info = upload(csv_path)
     if info == "LOGIN":
-        notify("Video pins are waiting: log in to Pinterest once (see SETUP.md).")
-        log("not logged in: run with --login")
-        return 2
+        # Pinterest logged the helper out: open the login window by itself (at most
+        # every 12 hours, so an ignored window doesn't keep popping up).
+        last_ask = state.get("last_login_prompt")
+        if last_ask and now - datetime.fromisoformat(last_ask) < timedelta(hours=12) and not a.force:
+            return 2
+        state["last_login_prompt"] = now.isoformat()
+        write_json(STATE, state)
+        notify("Pinterest logged out the video helper. Please log in in the window that just opened.")
+        if not login_flow():
+            return 2
+        ok, info = upload(csv_path)
+        if info == "LOGIN":
+            return 2
     log(info)
     if not ok:
         notify("Video pin upload had a problem. Open the uploader log.")
