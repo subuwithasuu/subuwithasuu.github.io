@@ -2204,5 +2204,514 @@
       ]
     },
     "date": "2026-11-27"
+  },
+  {
+    "title": "High-Protein Tuna White Bean Salad",
+    "board": "Budget High Protein Meals",
+    "reason": {
+      "rules": [
+        "protein overclaimed: says 28g, ingredients give ~8g",
+        "only ~8g protein per serving (board needs 25g+)"
+      ]
+    },
+    "date": "2026-11-27"
+  },
+  {
+    "title": "Crispy Ground Turkey and Sweet Potato Hash",
+    "board": "Budget High Protein Meals",
+    "reason": {
+      "verify": "still not passing after fixes",
+      "checks": [
+        {
+          "verdict": "fix",
+          "issues": [
+            "1/2-inch raw sweet potato cubes will not cook through to 'fork-tender' in only 7 to 8 minutes without steam or a lid, especially using only 1/2 tablespoon of oil.",
+            "Total cook time of 15 minutes is too short for cooking raw 1/2-inch sweet potatoes and browning ground turkey sequentially.",
+            "Ground turkey food safety temperature is 165°F (74°C), not 160°F (71°C)."
+          ],
+          "sources": [
+            {
+              "name": "Skinnytaste - Sweet Potato, Turkey Sausage, and Spinach Hash",
+              "url": "https://www.skinnytaste.com/sweet-potato-turkey-sausage-and-spinach-hash/"
+            },
+            {
+              "name": "Well Plated by Erin - Sweet Potato Turkey Hash",
+              "url": "https://www.wellplated.com/sweet-potato-turkey-hash/"
+            }
+          ],
+          "grounded": false
+        },
+        {
+          "verdict": "fix",
+          "issues": [
+            "Insufficient fat: 1 tbsp of oil for 1 lb of lean turkey and 400g of sweet potatoes is too low for achieving good crispness and preventing sticking in a 12-inch skillet.",
+            "Unrealistic cook time: Steaming 1/3-inch sweet potato cubes for 5 minutes and browning for 5-6 minutes is generally too fast for raw sweet potatoes to become truly fork-tender without steaming them longer or covering them.",
+            "Technique flaw: Cooking onions simultaneously with raw 93% lean ground turkey in a dry pan can release too much moisture from the onions, preventing the turkey from browning properly within 6-7 minutes."
+          ],
+          "sources": [
+            {
+              "name": "Serious Eats - Sweet Potato and Sausage Hash Recipe",
+              "url": "https://www.seriouseats.com/"
+            },
+            {
+              "name": "Well Plated - Sweet Potato Turkey Hash",
+              "url": "https://www.wellplated.com/"
+            }
+          ],
+          "grounded": false
+        }
+      ]
+    },
+    "date": "2026-11-27"
+  },
+  {
+    "title": "Spicy Chickpea and Egg Shakshuka",
+    "board": "Budget High Protein Meals",
+    "reason": {
+      "verify": "still not passing after fixes",
+      "checks": [
+        {
+          "verdict": "fix",
+          "issues": [
+            "Salt amount is far too low for 800g of tomatoes and 480g of chickpeas (a single pinch/2g is not enough to properly season this volume, standard is 1 to 1.5 tsp or about 5-8g).",
+            "Olive oil amount (1 tbsp) is a bit low for sweating onions and bell peppers in a 12-inch skillet; 2 tbsp is standard for proper texture.",
+            "Simmering tomatoes and chickpeas for only 5 minutes is insufficient to meld flavors; 10-15 minutes is standard."
+          ],
+          "sources": [
+            {
+              "name": "Serious Eats - The Best Shakshuka Recipe",
+              "url": "https://www.seriouseats.com/shakshuka-north-african-shirred-eggs-tomato-pepper-recipe"
+            },
+            {
+              "name": "BBC Good Food - Easy Shakshuka",
+              "url": "https://www.bbcgoodfood.com/recipes/easy-shakshuka"
+            },
+            {
+              "name": "NYT Cooking - Shakshuka With Feta",
+              "url": "https://cooking.nytimes.com/recipes/1014721-shakshuka-with-feta"
+            }
+          ],
+          "grounded": false
+        },
+        {
+          "verdict": "fix",
+          "issues": [
+            "Protein quantity is too low for a 4-serving main dish containing chickpeas: 4 eggs total for 4 servings means only 1 egg per person, whereas standard shakshuka recipes serve 1 to 2 eggs per person, and adding chickpeas calls for at least 6 to 8 eggs total to make it a balanced main dish.",
+            "Step 4 instructs to create 4 wells for 4 eggs, which contradicts a 4-serving recipe where guests expect adequate protein."
+          ],
+          "sources": [
+            {
+              "name": "Serious Eats - Easy Shakshuka (North African-Style Poached Eggs in Tomato Sauce) Recipe",
+              "url": "https://www.seriouseats.com/shakshuka-north-african-shirred-eggs-tomato-pepper-recipe"
+            },
+            {
+              "name": "NYT Cooking - Shakshuka With Feta Recipe",
+              "url": "https://cooking.nytimes.com/recipes/1014721-shakshuka-with-feta"
+            },
+            {
+              "name": "BBC Good Food - Simple shakshuka Recipe",
+              "url": "https://www.bbcgoodfood.com/recipes/simple-shakshuka"
+            }
+          ],
+          "grounded": false
+        }
+      ]
+    },
+    "date": "2026-11-27"
+  },
+  {
+    "title": "Budget Garlic Butter Chicken Thighs with Steamed Rice",
+    "board": "Budget High Protein Meals",
+    "reason": {
+      "verify": "still not passing after fixes",
+      "checks": [
+        {
+          "verdict": "fix",
+          "issues": [
+            "Total salt is 1/2 tsp for 680g of chicken and 1 cup of rice, which is severely under-seasoned (standard is at least 1 to 1.5 tsp total salt).",
+            "Minced garlic added directly to high-heat butter along with the chicken pan-searing will burn within seconds; garlic should be added near the end of cooking or at reduced heat."
+          ],
+          "sources": [
+            {
+              "name": "RecipeTin Eats - Garlic Butter Chicken Thighs",
+              "url": "https://www.recipetineats.com/garlic-butter-chicken-thighs/"
+            },
+            {
+              "name": "Allrecipes - Garlic Butter Chicken Thighs",
+              "url": "https://www.allrecipes.com/recipe/276579/garlic-butter-chicken-thighs/"
+            }
+          ],
+          "grounded": false
+        },
+        {
+          "verdict": "fix",
+          "issues": [
+            "Minced garlic added directly to high-heat pan with butter at the beginning of the butter-basting step will burn quickly and turn bitter; garlic should be added at a lower heat or bloom gently.",
+            "Total cook time of 15 minutes is slightly tight for cooking raw thick chicken thighs and cooking rice simultaneously from scratch without overlap preparation."
+          ],
+          "sources": [
+            {
+              "name": "RecipeTin Eats - Garlic Butter Chicken Thighs",
+              "url": "https://www.recipetineats.com/garlic-butter-chicken-thighs/"
+            },
+            {
+              "name": "Allrecipes - Garlic Butter Chicken",
+              "url": "https://www.allrecipes.com/recipe/236056/garlic-butter-chicken/"
+            },
+            {
+              "name": "BBC Good Food - Easy garlic chicken",
+              "url": "https://www.bbcgoodfood.com/recipes/easy-garlic-chicken"
+            }
+          ],
+          "grounded": false
+        }
+      ]
+    },
+    "date": "2026-11-27"
+  },
+  {
+    "title": "High-Protein Lentil and Egg Breakfast Bowl",
+    "board": "Budget High Protein Meals",
+    "reason": {
+      "verify": "still not passing after fixes",
+      "checks": [
+        {
+          "verdict": "fix",
+          "issues": [
+            "1 cup of dry brown or green lentils yields about 2.5 to 3 cups cooked, which significantly exceeds a sensible 4-serving portion ratio for a breakfast bowl when combined with eggs and cheese. Furthermore, 1 cup of dry lentils cannot properly cook and absorb all liquid in 15 minutes; standard cook time for green/brown lentils is 25-30 minutes with more liquid or drained afterward.",
+            "Cook time listed as 15 minutes total is too short for dry lentils, making total time inaccurate."
+          ],
+          "sources": [
+            {
+              "name": "Serious Eats - Basic Lentil Salad / Technique",
+              "url": "https://www.seriouseats.com"
+            },
+            {
+              "name": "BBC Good Food - Healthy Breakfast Bowls",
+              "url": "https://www.bbcgoodfood.com"
+            }
+          ],
+          "grounded": false
+        },
+        {
+          "verdict": "fix",
+          "issues": [
+            "Cooking 3/4 cup (150g) of dry brown or green lentils in only 2 cups of broth for 25-30 minutes can result in undercooked lentils or scorching because standard ratio for brown/green lentils is 1:2.5 to 1:3 by volume (requiring at least 2.25 cups of liquid) and simmer time is often 30-40 minutes.",
+            "The instruction for adding ground cumin in step 4 says 'Pour in the seasoned egg mixture and ground cumin', but spices are better bloomed in oil or whisked into the eggs thoroughly; as written, adding dry cumin directly to wet eggs without blooming can leave a raw spice taste."
+          ],
+          "sources": [
+            {
+              "name": "Serious Eats - Basic Lentils",
+              "url": "https://www.seriouseats.com/basic-lentils-recipe"
+            },
+            {
+              "name": "BBC Good Food - Healthy Egg Breakfast Bowl",
+              "url": "https://www.bbcgoodfood.com/"
+            }
+          ],
+          "grounded": false
+        }
+      ]
+    },
+    "date": "2026-11-27"
+  },
+  {
+    "title": "Mediterranean Canned Tuna Salad Stuffed Avocados",
+    "board": "Budget High Protein Meals",
+    "reason": {
+      "verify": "still not passing after fixes",
+      "checks": [
+        {
+          "verdict": "fix",
+          "issues": [
+            "The recipe calls for 4 cans (480 g drained) of tuna for only 2 avocados (4 halves). Standard recipes use about 1 can (120 g - 140 g) of tuna for 2 avocados (4 halves) to ensure the tuna mixture actually fits inside the avocado cavities without massive overflow."
+          ],
+          "sources": [
+            {
+              "name": "Serious Eats - Avocado Stuffed with Tuna Salad",
+              "url": "https://www.seriouseats.com/"
+            },
+            {
+              "name": "Allrecipes - Tuna Stuffed Avocados",
+              "url": "https://www.allrecipes.com/"
+            }
+          ],
+          "grounded": false
+        },
+        {
+          "verdict": "fix",
+          "issues": [
+            "One 120g can of drained tuna yields about 1/2 cup of protein, which is insufficient to generously fill 4 avocado halves for 4 servings (standard recipes use at least two 5-oz/140g-170g cans of tuna for 2 to 4 servings, or 1 can per 2 avocado halves).",
+            "Lemon juice quantity (1 tsp) is too low to prevent rapid oxidation/browning of the avocados and properly balance the olive oil and rich tuna."
+          ],
+          "sources": [
+            {
+              "name": "EatingWell - Tuna Salad-Stuffed Avocados",
+              "url": "https://www.eatingwell.com/recipe/252277/tuna-salad-stuffed-avocados/"
+            },
+            {
+              "name": "Delish - Tuna Salad Stuffed Avocados",
+              "url": "https://www.delish.com/cooking/a27122116/tuna-salad-stuffed-avocados/"
+            }
+          ],
+          "grounded": false
+        }
+      ]
+    },
+    "date": "2026-11-27"
+  },
+  {
+    "title": "Creamy High-Protein Cottage Cheese Mac and Cheese",
+    "board": "High Protein Vegetarian",
+    "reason": {
+      "rules": [
+        "protein overclaimed: says 35g, ingredients give ~25g"
+      ]
+    },
+    "date": "2026-11-27"
+  },
+  {
+    "title": "High-Protein Red Lentil Dahl with Greek Yogurt",
+    "board": "High Protein Vegetarian",
+    "reason": {
+      "verify": "still not passing after fixes",
+      "checks": [
+        {
+          "verdict": "fix",
+          "issues": [
+            "Adding 1 cup of cold Greek yogurt directly into a hot saucepan off the heat can cause the dairy to curdle and break, resulting in a grainy texture. Yogurt should be tempered or stirred in gradually over very low heat, or used primarily as a topping.",
+            "1 cup of dry red lentils (200g) to 3 cups of liquid (720ml) plus 1 cup of yogurt may become overly wet or soup-like if all liquid is absorbed and the yogurt is added directly. Standard ratio is around 1 cup red lentils to 2.5 to 3 cups broth for a proper dahl consistency."
+          ],
+          "sources": [
+            {
+              "name": "Serious Eats - Quick Red Lentil Dal Recipe",
+              "url": "https://www.seriouseats.com/quick-red-lentil-dal-recipe"
+            },
+            {
+              "name": "BBC Good Food - Easy red lentil dhal",
+              "url": "https://www.bbcgoodfood.com/recipes/easy-red-lentil-dhal"
+            }
+          ],
+          "grounded": false
+        },
+        {
+          "verdict": "fix",
+          "issues": [
+            "Red lentils (1 cup / 200g) require more liquid and time to break down than 3 cups of broth cooked for only 15 minutes; standard ratio is at least 3 to 3.5 cups of liquid per 1 cup of lentils, and cooking time usually takes 20-25 minutes.",
+            "Stirring cold or room-temperature Greek yogurt directly into a hot simmering pot of lentils without tempering or proper stabilization risks curdling due to the high acidity and thickness of Greek yogurt."
+          ],
+          "sources": [
+            {
+              "name": "Serious Eats - Quick Red Lentil Dal",
+              "url": "https://www.seriouseats.com"
+            },
+            {
+              "name": "BBC Good Food - Easy red lentil dhal",
+              "url": "https://www.bbcgoodfood.com"
+            }
+          ],
+          "grounded": false
+        }
+      ]
+    },
+    "date": "2026-11-27"
+  },
+  {
+    "title": "Crispy Baked Falafel Bowls with Tahini Greek Yogurt Sauce",
+    "board": "High Protein Vegetarian",
+    "reason": {
+      "verify": "still not passing after fixes",
+      "checks": [
+        {
+          "verdict": "fix",
+          "issues": [
+            "Using canned chickpeas for baked falafel without a binder like baking powder and with too little flour/oil often results in dry, crumbly balls that fall apart or turn to mush when baked at 425°F for only 15 minutes.",
+            "Baking time of 15 minutes at 425°F is too short to cook through and properly crisp canned-chickpea falafel; standard baked falafel recipes require 20 to 25 minutes with a higher oil coating (or oil drizzled on the pan)."
+          ],
+          "sources": [
+            {
+              "name": "Serious Eats - Easy Baked Falafel",
+              "url": "https://www.seriouseats.com/easy-baked-falafel-recipe"
+            },
+            {
+              "name": "NYT Cooking - Baked Falafel",
+              "url": "https://cooking.nytimes.com/recipes/1018241-baked-falafel"
+            },
+            {
+              "name": "Minimalist Baker - Easy Baked Falafel",
+              "url": "https://minimalistbaker.com/easy-baked-falafel/"
+            }
+          ],
+          "grounded": false
+        },
+        {
+          "verdict": "fix",
+          "issues": [
+            "Using canned chickpeas in baked falafel without chilling the mixture often results in the falafel falling apart or turning mushy in the oven. Standard recipes using canned chickpeas call for chilling the mixture for 30-60 minutes to help them firm up.",
+            "Total time stated as 30 minutes is unrealistic given prep, baking time (22 mins), and assembly, especially when chilling is needed."
+          ],
+          "sources": [
+            {
+              "name": "Serious Eats - Easy Baked Falafel",
+              "url": "https://www.seriouseats.com/easy-baked-falafel-recipe"
+            },
+            {
+              "name": "Minimalist Baker - Baked Falafel Bowls",
+              "url": "https://minimalistbaker.com/easy-baked-falafel-bowl/"
+            }
+          ],
+          "grounded": false
+        }
+      ]
+    },
+    "date": "2026-11-27"
+  },
+  {
+    "title": "High-Protein Egg White and Turkey Bacon Breakfast Burrito",
+    "board": "High Protein Breakfast",
+    "reason": {
+      "rules": [
+        "poultry recipe must state internal temp 165°F (74°C)"
+      ]
+    },
+    "date": "2026-11-27"
+  },
+  {
+    "title": "Creamy Blended Cottage Cheese Scrambled Eggs",
+    "board": "High Protein Breakfast",
+    "reason": {
+      "rules": [
+        "protein overclaimed: says 26g, ingredients give ~19g",
+        "only ~18g protein per serving (board needs 20g+)"
+      ]
+    },
+    "date": "2026-11-27"
+  },
+  {
+    "title": "High-Protein Chocolate Chip Baked Proats",
+    "board": "High Protein Breakfast",
+    "reason": {
+      "rules": [
+        "protein overclaimed: says 35g, ingredients give ~25g"
+      ]
+    },
+    "date": "2026-11-27"
+  },
+  {
+    "title": "High-Protein Steak and Pepper Stir-Fry with Brown Rice",
+    "board": "30 Minute High Protein Meals",
+    "reason": {
+      "verify": "still not passing after fixes",
+      "checks": [
+        {
+          "verdict": "fix",
+          "issues": [
+            "Sesame oil has a low smoke point and is not ideal for high-heat stir-frying; neutral cooking oil like canola or vegetable oil should be used, with sesame oil added at the end for flavor.",
+            "2 cups of cooked brown rice for 4 servings yields only 1/2 cup per serving (approx. 80g), which is very low for a standard meal portion. Standard is usually 1 cup cooked rice per serving (4 cups total).",
+            "Cooking flank steak for 6 total minutes in a hot pan will lead to dry, tough meat. Standard stir-fry technique sears the beef quickly for 1-2 minutes until just browned, removes it, and returns it at the very end.",
+            "Sesame oil quantity should be adjusted to include a neutral high-smoke-point oil for cooking."
+          ],
+          "sources": [
+            {
+              "name": "Serious Eats - Easy Stir-Fried Beef and Peppers with Black Bean Sauce",
+              "url": "https://www.seriouseats.com/easy-stir-fried-beef-and-peppers-recipe"
+            },
+            {
+              "name": "BBC Good Food - Beef and broccoli stir-fry",
+              "url": "https://www.bbcgoodfood.com/recipes/beef-and-broccoli-stir-fry"
+            }
+          ],
+          "grounded": false
+        },
+        {
+          "verdict": "fix",
+          "issues": [
+            "The marinade/sauce lacks any added liquid (like water or broth) to dissolve the cornstarch properly, which is needed to create a glossy sauce rather than a clumpy paste.",
+            "The recipe mentions dividing the soy sauce in the ingredient note ('divided'), but the steps do not clearly define the split for marinating the beef versus mixing the sauce."
+          ],
+          "sources": [
+            {
+              "name": "Serious Eats - Classic Beef and Broccoli Stir-Fry",
+              "url": "https://www.seriouseats.com/beef-and-broccoli-with-ginger-garlic-sauce-recipe"
+            },
+            {
+              "name": "RecipeTin Eats - Beef and Black Pepper Stir Fry",
+              "url": "https://www.recipetineats.com/chinese-pepper-steak/"
+            }
+          ],
+          "grounded": false
+        }
+      ]
+    },
+    "date": "2026-11-27"
+  },
+  {
+    "title": "High-Protein Turkey Sausage and Egg White Breakfast Muffins",
+    "board": "High Protein Meal Prep",
+    "reason": {
+      "rules": [
+        "poultry recipe must state internal temp 165°F (74°C)",
+        "protein overclaimed: says 35g, ingredients give ~24g",
+        "only ~23g protein per serving (board needs 25g+)",
+        "variant 0: claims 25 Minutes but recipe takes 30 min",
+        "variant 1: claims 25-Minute but recipe takes 30 min",
+        "variant 1: claims 25-Minute but recipe takes 30 min",
+        "variant 1: number 25 in pin text is not a fact of this recipe",
+        "variant 1: number 25 in pin text is not a fact of this recipe"
+      ]
+    },
+    "date": "2026-11-27"
+  },
+  {
+    "title": "High-Protein Honey Sriracha Chicken Meal Prep Bowls with Jasmine Rice",
+    "board": "High Protein Meal Prep",
+    "reason": {
+      "rules": [
+        "variant 3: claims 15-Minute but recipe takes 25 min"
+      ]
+    },
+    "date": "2026-11-27"
+  },
+  {
+    "title": "High-Protein Ground Turkey and Sweet Potato Power Skillet",
+    "board": "High Protein Meal Prep",
+    "reason": {
+      "rules": [
+        "protein overclaimed: says 38g, ingredients give ~21g",
+        "only ~20g protein per serving (board needs 25g+)",
+        "variant 0: claims 25 Minutes but recipe takes 30 min",
+        "variant 1: claims 25-Minute but recipe takes 30 min",
+        "variant 1: claims 25-Minute but recipe takes 30 min",
+        "variant 1: number 25 in pin text is not a fact of this recipe",
+        "variant 1: number 25 in pin text is not a fact of this recipe"
+      ]
+    },
+    "date": "2026-11-27"
+  },
+  {
+    "title": "High-Protein Cinnamon Apple Cottage Cheese Bowl",
+    "board": "High Protein Snacks",
+    "reason": {
+      "rules": [
+        "protein overclaimed: says 36g, ingredients give ~12g"
+      ]
+    },
+    "date": "2026-11-27"
+  },
+  {
+    "title": "High-Protein Cake Batter Greek Yogurt Dip",
+    "board": "High Protein Snacks",
+    "reason": {
+      "rules": [
+        "protein overclaimed: says 15g, ingredients give ~11g"
+      ]
+    },
+    "date": "2026-11-27"
+  },
+  {
+    "title": "High-Protein Almond Butter Protein Balls",
+    "board": "High Protein Snacks",
+    "reason": "only 1 matching real photos",
+    "date": "2026-11-27"
   }
 ]

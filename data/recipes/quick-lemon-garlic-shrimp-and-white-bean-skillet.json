@@ -1,0 +1,298 @@
+{
+  "title": "Quick Lemon Garlic Shrimp and White Bean Skillet",
+  "description": "This quick lemon garlic shrimp and white bean skillet delivers 35g of protein per serving in just 25 minutes. Plump shrimp and creamy cannellini beans are tossed in a bright citrus herb sauce for a fast high-protein meal.",
+  "cuisine": "Mediterranean",
+  "category": "Dinner",
+  "servings": 4,
+  "protein_g_per_serving": 35,
+  "prep_minutes": 10,
+  "cook_minutes": 15,
+  "total_minutes": 25,
+  "ingredients": [
+    {
+      "qty": "1 1/2",
+      "unit": "lbs",
+      "item": "large shrimp",
+      "metric": "680 g",
+      "note": "peeled and deveined"
+    },
+    {
+      "qty": "2",
+      "unit": "cans",
+      "item": "cannellini beans",
+      "metric": "820 g",
+      "note": "rinsed and drained"
+    },
+    {
+      "qty": "2",
+      "unit": "tbsp",
+      "item": "olive oil",
+      "metric": "30 ml",
+      "note": "divided"
+    },
+    {
+      "qty": "4",
+      "unit": "cloves",
+      "item": "garlic",
+      "metric": "16 g",
+      "note": "minced"
+    },
+    {
+      "qty": "1/4",
+      "unit": "tsp",
+      "item": "red pepper flakes",
+      "metric": "1 g",
+      "note": "optional"
+    },
+    {
+      "qty": "1/3",
+      "unit": "cup",
+      "item": "low-sodium chicken broth",
+      "metric": "80 ml",
+      "note": ""
+    },
+    {
+      "qty": "1",
+      "unit": "whole",
+      "item": "lemon",
+      "metric": "60 ml",
+      "note": "zested and juiced"
+    },
+    {
+      "qty": "2",
+      "unit": "cups",
+      "item": "baby spinach",
+      "metric": "60 g",
+      "note": "fresh"
+    },
+    {
+      "qty": "1/4",
+      "unit": "cup",
+      "item": "fresh parsley",
+      "metric": "15 g",
+      "note": "chopped"
+    },
+    {
+      "qty": "1/2",
+      "unit": "tsp",
+      "item": "salt",
+      "metric": "3 g",
+      "note": ""
+    },
+    {
+      "qty": "1/4",
+      "unit": "tsp",
+      "item": "black pepper",
+      "metric": "1 g",
+      "note": ""
+    }
+  ],
+  "steps": [
+    "Pat the shrimp dry with paper towels and season evenly with half of the salt and all of the black pepper.",
+    "Heat 1 tablespoon of olive oil in a 12-inch skillet over medium-high heat for 2 minutes until shimmering.",
+    "Add the shrimp in a single layer and cook for 2 minutes without moving, then flip and cook for 1 more minute until pink and opaque; transfer the shrimp to a clean plate.",
+    "Reduce the heat to medium, add the remaining 1 tablespoon of olive oil to the same skillet, and stir in the minced garlic and red pepper flakes, cooking for 30 seconds until fragrant and lightly golden.",
+    "Pour in the chicken broth and lemon juice, scraping up any browned bits from the bottom of the pan with a wooden spoon, and simmer for 2 minutes until slightly reduced.",
+    "Add the drained cannellini beans, lemon zest, and remaining salt, stirring gently for 3 minutes until heated through.",
+    "Fold in the baby spinach and cook for 1 minute until just wilted.",
+    "Return the cooked shrimp and any accumulated juices back into the skillet, toss everything together for 1 minute until piping hot, remove from heat, and garnish with fresh parsley before serving."
+  ],
+  "tips": [
+    "Use frozen peeled shrimp by thawing them completely under cold running water and patting them thoroughly dry before cooking.",
+    "Swap cannellini beans for Great Northern beans or chickpeas if preferred.",
+    "Store leftovers in an airtight container in the refrigerator for up to 3 days."
+  ],
+  "storage": "Store in an airtight container in the refrigerator for up to 3 days. Reheat gently on the stovetop over medium-low heat.",
+  "tools": [
+    "12-inch skillet",
+    "wooden spoon",
+    "measuring cups and spoons",
+    "citrus juicer"
+  ],
+  "keywords": [
+    "high protein shrimp recipes",
+    "quick white bean skillet",
+    "lemon garlic shrimp dinner",
+    "30 minute high protein meals",
+    "healthy shrimp and beans",
+    "high protein seafood recipes",
+    "easy high protein dinner"
+  ],
+  "pin_variants": [
+    {
+      "hook_type": "number",
+      "title": "High Protein Lemon Garlic Shrimp And White Bean Skillet - 35g Protein",
+      "description": "Make this 35g protein lemon garlic shrimp and white bean skillet in just 25 minutes. Packed with lean seafood and creamy beans for a fast high-protein meal. Save it for your next meal prep.",
+      "overlay": "35g Protein Shrimp Skillet",
+      "subline": "Ready in 25 Minutes",
+      "alt_text": "A cast iron skillet filled with plump pink shrimp, white beans, and spinach tossed in a bright lemon garlic sauce."
+    },
+    {
+      "hook_type": "speed",
+      "title": "25-Minute High Protein Lemon Garlic Shrimp and White Bean Skillet",
+      "description": "Get dinner on the table fast with this 25-minute high protein lemon garlic shrimp and white bean skillet. Delivering 35g protein per serving using simple pantry ingredients. Save it for your next meal prep.",
+      "overlay": "25-Minute Shrimp & Bean Skillet",
+      "subline": "35g Protein Per Serving",
+      "alt_text": "Close-up of cooked shrimp and cannellini beans in a garlic lemon sauce garnished with fresh parsley."
+    },
+    {
+      "hook_type": "outcome",
+      "title": "High Protein Lemon Garlic Shrimp and White Bean Skillet for Dinner",
+      "description": "Achieve your fitness goals with this high protein lemon garlic shrimp and white bean skillet providing 35g protein in 25 minutes. A flavorful seafood dish that comes together in one pan. Save it for your next meal prep.",
+      "overlay": "Easy High-Protein Dinner",
+      "subline": "Done in 25 Minutes",
+      "alt_text": "Overhead view of a vibrant shrimp and white bean skillet with fresh lemon wedges and herbs."
+    },
+    {
+      "hook_type": "budget",
+      "title": "Pantry-Friendly High Protein Lemon Garlic Shrimp and White Bean Skillet",
+      "description": "Combine pantry staples and fresh seafood in this high protein lemon garlic shrimp and white bean skillet. Ready in 25 minutes with 35g protein per serving. Save it for your next meal prep.",
+      "overlay": "Pantry Shrimp & Bean Dinner",
+      "subline": "35g Protein Packed",
+      "alt_text": "A skillet of savory shrimp and white beans served with lemon slices on a rustic wooden table."
+    }
+  ],
+  "video_script": {
+    "hook": "Make this 35 gram protein lemon garlic shrimp skillet in 25 minutes.",
+    "steps_short": [
+      "Pat 680 grams of shrimp dry and season with salt and pepper.",
+      "Sear shrimp in olive oil for 3 minutes until pink, then set aside.",
+      "Sauté minced garlic and red pepper flakes in the same skillet.",
+      "Simmer chicken broth, lemon juice, and 820 grams of white beans.",
+      "Toss in spinach, return the shrimp, and garnish with fresh parsley."
+    ],
+    "outro": "Find the full recipe and nutrition breakdown on the website."
+  },
+  "photo_queries": [
+    "lemon garlic shrimp and white bean skillet",
+    "shrimp and white beans pan",
+    "garlic shrimp skillet dinner"
+  ],
+  "must_match": [
+    "shrimp",
+    "beans",
+    "skillet",
+    "lemon"
+  ],
+  "board": "30 Minute High Protein Meals",
+  "slug": "quick-lemon-garlic-shrimp-and-white-bean-skillet",
+  "protein_g": 35,
+  "photos": [
+    {
+      "id": "u-Ndr5he9Er3I",
+      "width": 4160,
+      "height": 6240,
+      "alt": "A mixture of white beans, green beans, corn, peas, and diced carrots in a pan Sautéed Mixed Vegetables with White Beans, Corn, Peas, and Carrots in Skillet",
+      "photographer": "Vitalii Abakumov",
+      "photographer_url": "https://unsplash.com/@scoutori?utm_source=easy_protein_kitchen&utm_medium=referral",
+      "page_url": "https://unsplash.com/photos/mixed-vegetable-and-bean-medley-Ndr5he9Er3I?utm_source=easy_protein_kitchen&utm_medium=referral",
+      "source": "Unsplash",
+      "source_url": "https://unsplash.com/?utm_source=easy_protein_kitchen&utm_medium=referral",
+      "src": "https://images.unsplash.com/photo-1792338933626-171e25d17b90?ixid=M3wxMTQzODc5fDB8MXxzZWFyY2h8MjB8fGxlbW9uJTIwZ2FybGljJTIwc2hyaW1wJTIwYW5kJTIwd2hpdGUlMjBiZWFuJTIwc2tpbGxldHxlbnwxfDF8fHwxNzk1ODE3MjU4fDA&ixlib=rb-4.1.0",
+      "web": "https://images.unsplash.com/photo-1792338933626-171e25d17b90?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTQzODc5fDB8MXxzZWFyY2h8MjB8fGxlbW9uJTIwZ2FybGljJTIwc2hyaW1wJTIwYW5kJTIwd2hpdGUlMjBiZWFuJTIwc2tpbGxldHxlbnwxfDF8fHwxNzk1ODE3MjU4fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "download_location": "https://api.unsplash.com/photos/Ndr5he9Er3I/download?ixid=M3wxMTQzODc5fDB8MXxzZWFyY2h8MjB8fGxlbW9uJTIwZ2FybGljJTIwc2hyaW1wJTIwYW5kJTIwd2hpdGUlMjBiZWFuJTIwc2tpbGxldHxlbnwxfDF8fHwxNzk1ODE3MjU4fDA",
+      "score": 13
+    },
+    {
+      "id": "u-XqrHRHMtHW0",
+      "width": 3648,
+      "height": 5472,
+      "alt": "a skillet with shrimp and tomatoes on a wooden table",
+      "photographer": "QUENTIN Mahe",
+      "photographer_url": "https://unsplash.com/@quentinmahe?utm_source=easy_protein_kitchen&utm_medium=referral",
+      "page_url": "https://unsplash.com/photos/a-skillet-with-shrimp-and-tomatoes-on-a-wooden-table-XqrHRHMtHW0?utm_source=easy_protein_kitchen&utm_medium=referral",
+      "source": "Unsplash",
+      "source_url": "https://unsplash.com/?utm_source=easy_protein_kitchen&utm_medium=referral",
+      "src": "https://images.unsplash.com/photo-1717158487253-ccafd4386eba?ixid=M3wxMTQzODc5fDB8MXxzZWFyY2h8MTF8fHNocmltcCUyMGFuZCUyMHdoaXRlJTIwYmVhbnMlMjBwYW58ZW58MXwxfHx8MTc5NTgxNzI1OXww&ixlib=rb-4.1.0",
+      "web": "https://images.unsplash.com/photo-1717158487253-ccafd4386eba?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTQzODc5fDB8MXxzZWFyY2h8MTF8fHNocmltcCUyMGFuZCUyMHdoaXRlJTIwYmVhbnMlMjBwYW58ZW58MXwxfHx8MTc5NTgxNzI1OXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "download_location": "https://api.unsplash.com/photos/XqrHRHMtHW0/download?ixid=M3wxMTQzODc5fDB8MXxzZWFyY2h8MTF8fHNocmltcCUyMGFuZCUyMHdoaXRlJTIwYmVhbnMlMjBwYW58ZW58MXwxfHx8MTc5NTgxNzI1OXww",
+      "score": 9
+    },
+    {
+      "id": "u-_Nsvg0hALps",
+      "width": 3456,
+      "height": 5184,
+      "alt": "a close up of food SHRIMP GARLIC AND OIL",
+      "photographer": "Kawê Rodrigues",
+      "photographer_url": "https://unsplash.com/@kawerodriguess?utm_source=easy_protein_kitchen&utm_medium=referral",
+      "page_url": "https://unsplash.com/photos/a-close-up-of-food-_Nsvg0hALps?utm_source=easy_protein_kitchen&utm_medium=referral",
+      "source": "Unsplash",
+      "source_url": "https://unsplash.com/?utm_source=easy_protein_kitchen&utm_medium=referral",
+      "src": "https://images.unsplash.com/photo-1669385184880-f88f3175f320?ixid=M3wxMTQzODc5fDB8MXxzZWFyY2h8OHx8bGVtb24lMjBnYXJsaWMlMjBzaHJpbXAlMjBhbmQlMjB3aGl0ZSUyMGJlYW4lMjBza2lsbGV0fGVufDF8MXx8fDE3OTU4MTcyNTh8MA&ixlib=rb-4.1.0",
+      "web": "https://images.unsplash.com/photo-1669385184880-f88f3175f320?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTQzODc5fDB8MXxzZWFyY2h8OHx8bGVtb24lMjBnYXJsaWMlMjBzaHJpbXAlMjBhbmQlMjB3aGl0ZSUyMGJlYW4lMjBza2lsbGV0fGVufDF8MXx8fDE3OTU4MTcyNTh8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "download_location": "https://api.unsplash.com/photos/_Nsvg0hALps/download?ixid=M3wxMTQzODc5fDB8MXxzZWFyY2h8OHx8bGVtb24lMjBnYXJsaWMlMjBzaHJpbXAlMjBhbmQlMjB3aGl0ZSUyMGJlYW4lMjBza2lsbGV0fGVufDF8MXx8fDE3OTU4MTcyNTh8MA",
+      "score": 8
+    },
+    {
+      "id": "u-_ZXGKYwhxWM",
+      "width": 3456,
+      "height": 5184,
+      "alt": "fried shrimp on white ceramic plate",
+      "photographer": "Natilyn Hicks Photography",
+      "photographer_url": "https://unsplash.com/@natilyn?utm_source=easy_protein_kitchen&utm_medium=referral",
+      "page_url": "https://unsplash.com/photos/fried-shrimp-on-white-ceramic-plate-_ZXGKYwhxWM?utm_source=easy_protein_kitchen&utm_medium=referral",
+      "source": "Unsplash",
+      "source_url": "https://unsplash.com/?utm_source=easy_protein_kitchen&utm_medium=referral",
+      "src": "https://images.unsplash.com/photo-1631233208988-edcbb30e8bd8?ixid=M3wxMTQzODc5fDB8MXxzZWFyY2h8MTl8fGxlbW9uJTIwZ2FybGljJTIwc2hyaW1wJTIwYW5kJTIwd2hpdGUlMjBiZWFuJTIwc2tpbGxldHxlbnwxfDF8fHwxNzk1ODE3MjU4fDA&ixlib=rb-4.1.0",
+      "web": "https://images.unsplash.com/photo-1631233208988-edcbb30e8bd8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTQzODc5fDB8MXxzZWFyY2h8MTl8fGxlbW9uJTIwZ2FybGljJTIwc2hyaW1wJTIwYW5kJTIwd2hpdGUlMjBiZWFuJTIwc2tpbGxldHxlbnwxfDF8fHwxNzk1ODE3MjU4fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "download_location": "https://api.unsplash.com/photos/_ZXGKYwhxWM/download?ixid=M3wxMTQzODc5fDB8MXxzZWFyY2h8MTl8fGxlbW9uJTIwZ2FybGljJTIwc2hyaW1wJTIwYW5kJTIwd2hpdGUlMjBiZWFuJTIwc2tpbGxldHxlbnwxfDF8fHwxNzk1ODE3MjU4fDA",
+      "score": 8
+    },
+    {
+      "id": "u-IcSyeAnOj6k",
+      "width": 3984,
+      "height": 5976,
+      "alt": "White beans in tomato sauce served in a white bowl",
+      "photographer": "tommao wang",
+      "photographer_url": "https://unsplash.com/@tommaomaoer?utm_source=easy_protein_kitchen&utm_medium=referral",
+      "page_url": "https://unsplash.com/photos/white-beans-in-tomato-sauce-served-in-a-white-bowl-IcSyeAnOj6k?utm_source=easy_protein_kitchen&utm_medium=referral",
+      "source": "Unsplash",
+      "source_url": "https://unsplash.com/?utm_source=easy_protein_kitchen&utm_medium=referral",
+      "src": "https://images.unsplash.com/photo-1779119867390-c64f66cd02b8?ixid=M3wxMTQzODc5fDB8MXxzZWFyY2h8OHx8c2hyaW1wJTIwYW5kJTIwd2hpdGUlMjBiZWFucyUyMHBhbnxlbnwxfDF8fHwxNzk1ODE3MjU5fDA&ixlib=rb-4.1.0",
+      "web": "https://images.unsplash.com/photo-1779119867390-c64f66cd02b8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTQzODc5fDB8MXxzZWFyY2h8OHx8c2hyaW1wJTIwYW5kJTIwd2hpdGUlMjBiZWFucyUyMHBhbnxlbnwxfDF8fHwxNzk1ODE3MjU5fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "download_location": "https://api.unsplash.com/photos/IcSyeAnOj6k/download?ixid=M3wxMTQzODc5fDB8MXxzZWFyY2h8OHx8c2hyaW1wJTIwYW5kJTIwd2hpdGUlMjBiZWFucyUyMHBhbnxlbnwxfDF8fHwxNzk1ODE3MjU5fDA",
+      "score": 8
+    },
+    {
+      "id": "u-rONjd4kQImA",
+      "width": 3024,
+      "height": 4032,
+      "alt": "Large basket of white beans at a vibrant market stall",
+      "photographer": "Giovanna Gomes",
+      "photographer_url": "https://unsplash.com/@giisilveira?utm_source=easy_protein_kitchen&utm_medium=referral",
+      "page_url": "https://unsplash.com/photos/large-basket-of-white-beans-at-a-vibrant-market-stall-rONjd4kQImA?utm_source=easy_protein_kitchen&utm_medium=referral",
+      "source": "Unsplash",
+      "source_url": "https://unsplash.com/?utm_source=easy_protein_kitchen&utm_medium=referral",
+      "src": "https://images.unsplash.com/photo-1785352213556-e0b3a6b871ad?ixid=M3wxMTQzODc5fDB8MXxzZWFyY2h8MTV8fHNocmltcCUyMGFuZCUyMHdoaXRlJTIwYmVhbnMlMjBwYW58ZW58MXwxfHx8MTc5NTgxNzI1OXww&ixlib=rb-4.1.0",
+      "web": "https://images.unsplash.com/photo-1785352213556-e0b3a6b871ad?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTQzODc5fDB8MXxzZWFyY2h8MTV8fHNocmltcCUyMGFuZCUyMHdoaXRlJTIwYmVhbnMlMjBwYW58ZW58MXwxfHx8MTc5NTgxNzI1OXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "download_location": "https://api.unsplash.com/photos/rONjd4kQImA/download?ixid=M3wxMTQzODc5fDB8MXxzZWFyY2h8MTV8fHNocmltcCUyMGFuZCUyMHdoaXRlJTIwYmVhbnMlMjBwYW58ZW58MXwxfHx8MTc5NTgxNzI1OXww",
+      "score": 8
+    }
+  ],
+  "verification": {
+    "checks": [
+      {
+        "verdict": "pass",
+        "issues": [],
+        "sources": [
+          {
+            "name": "Serious Eats - Garlic Butter Shrimp and White Bean Skillet",
+            "url": "https://www.seriouseats.com"
+          },
+          {
+            "name": "NYT Cooking - Shrimp and White Beans With Lemon and Herbs",
+            "url": "https://cooking.nytimes.com"
+          },
+          {
+            "name": "BBC Good Food - Garlic butter prawns with white beans",
+            "url": "https://www.bbcgoodfood.com"
+          }
+        ],
+        "grounded": false
+      }
+    ],
+    "rule_warnings": [],
+    "model": "gemini-3.5-flash-lite"
+  },
+  "created": "2026-11-27"
+}

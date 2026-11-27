@@ -1,0 +1,316 @@
+{
+  "title": "High-Protein Crispy Air Fryer Tofu Bowls with Peanut Sauce",
+  "description": "These high-protein crispy air fryer tofu bowls combine golden, protein-packed tofu and fresh edamame with a rich peanut sauce in just 25 minutes. Ideal for quick weeknight dinners or meal prep, this vegetarian dish delivers big flavor and satisfying macros. Save it for your next meal prep.",
+  "cuisine": "Asian-Inspired",
+  "category": "Dinner",
+  "servings": 4,
+  "protein_g_per_serving": 24,
+  "prep_minutes": 10,
+  "cook_minutes": 15,
+  "total_minutes": 25,
+  "ingredients": [
+    {
+      "qty": "16",
+      "unit": "oz",
+      "item": "extra-firm tofu",
+      "metric": "454 g",
+      "note": "pressed and cubed"
+    },
+    {
+      "qty": "1",
+      "unit": "cup",
+      "item": "shelled edamame",
+      "metric": "155 g",
+      "note": "thawed if frozen"
+    },
+    {
+      "qty": "2",
+      "unit": "tbsp",
+      "item": "soy sauce",
+      "metric": "30 ml",
+      "note": "divided"
+    },
+    {
+      "qty": "2",
+      "unit": "tbsp",
+      "item": "cornstarch",
+      "metric": "16 g",
+      "note": "for coating tofu"
+    },
+    {
+      "qty": "1",
+      "unit": "tbsp",
+      "item": "sesame oil",
+      "metric": "15 ml",
+      "note": "divided"
+    },
+    {
+      "qty": "1/4",
+      "unit": "cup",
+      "item": "creamy peanut butter",
+      "metric": "64 g",
+      "note": "natural style"
+    },
+    {
+      "qty": "1",
+      "unit": "tbsp",
+      "item": "rice vinegar",
+      "metric": "15 ml",
+      "note": "unseasoned"
+    },
+    {
+      "qty": "1",
+      "unit": "tsp",
+      "item": "maple syrup",
+      "metric": "5 ml",
+      "note": "or agave"
+    },
+    {
+      "qty": "1",
+      "unit": "tsp",
+      "item": "fresh ginger",
+      "metric": "5 g",
+      "note": "minced"
+    },
+    {
+      "qty": "3",
+      "unit": "cups",
+      "item": "cooked brown rice",
+      "metric": "585 g",
+      "note": "warm"
+    },
+    {
+      "qty": "2",
+      "unit": "cups",
+      "item": "shredded purple cabbage",
+      "metric": "140 g",
+      "note": "for serving"
+    }
+  ],
+  "steps": [
+    "Pat the pressed tofu dry with paper towels and cut into 3/4-inch cubes.",
+    "Place the tofu cubes in a medium bowl, toss with 1 tablespoon of soy sauce and 1/2 tablespoon of sesame oil, then sprinkle with cornstarch until evenly coated.",
+    "Preheat the air fryer to 400°F (200°C). Add the coated tofu to the air fryer basket in a single layer.",
+    "Air fry at 400°F (200°C) for 12 to 14 minutes, shaking the basket halfway through, until the tofu is golden brown and crispy on the edges.",
+    "While the tofu cooks, whisk together the peanut butter, remaining 1 tablespoon soy sauce, rice vinegar, maple syrup, minced ginger, remaining 1/2 tablespoon sesame oil, and 3 to 4 tablespoons of warm water in a small bowl until smooth and pourable.",
+    "Steam or microwave the shelled edamame on high for 2 minutes until hot and tender.",
+    "Divide the warm brown rice among 4 bowls, then top each with the crispy air fryer tofu, warm edamame, and shredded purple cabbage.",
+    "Drizzle the peanut sauce generously over each bowl before serving."
+  ],
+  "tips": [
+    "Press the tofu thoroughly with heavy objects or a tofu press for at least 15 minutes to remove excess moisture for crispier results.",
+    "Swap purple cabbage for shredded carrots or sliced cucumbers based on what you have in your fridge.",
+    "Store components separately if meal prepping to keep the cabbage crisp and prevent the tofu from getting soggy."
+  ],
+  "storage": "Store leftover components in airtight containers in the refrigerator for up to 4 days.",
+  "tools": [
+    "air fryer",
+    "medium mixing bowl",
+    "small whisk",
+    "measuring spoons",
+    "liquid measuring cup"
+  ],
+  "keywords": [
+    "high protein vegetarian meals",
+    "air fryer tofu bowl",
+    "crispy tofu peanut sauce",
+    "vegetarian meal prep high protein",
+    "healthy tofu grain bowl",
+    "easy high protein lunch recipe"
+  ],
+  "pin_variants": [
+    {
+      "hook_type": "number",
+      "title": "High-Protein Crispy Air Fryer Tofu Bowls - 24g Protein",
+      "description": "High-Protein Crispy Air Fryer Tofu Bowls with Peanut Sauce deliver 24g of protein and come together in just 25 minutes. Crispy tofu and tender edamame sit atop warm rice with a creamy peanut sauce for an easy meatless meal. Save it for your next meal prep.",
+      "overlay": "24g Protein Crispy Tofu Bowls",
+      "subline": "Ready in 25 Minutes",
+      "lt_text": "A colorful vegetarian grain bowl topped with crispy air fryer tofu, edamame, purple cabbage, and a peanut sauce drizzle."
+    },
+    {
+      "hook_type": "speed",
+      "title": "25-Minute High-Protein Air Fryer Tofu Bowls",
+      "description": "25-Minute High-Protein Air Fryer Tofu Bowls with Peanut Sauce pack 24g of protein using simple vegetarian ingredients. Toss together crispy air-fried tofu, edamame, and a homemade peanut dressing for a fast weeknight dinner. Save it for your next meal prep.",
+      "overlay": "25-Minute High-Protein Tofu Bowls",
+      "subline": "Quick Vegetarian Dinner",
+      "alt_text": "Close-up of crispy air fryer tofu cubes in a bowl with rice, cabbage, and a rich peanut sauce."
+    },
+    {
+      "hook_type": "outcome",
+      "title": "High-Protein Vegetarian Meal Prep: Air Fryer Tofu Bowls",
+      "description": "High-Protein Crispy Air Fryer Tofu Bowls with Peanut Sauce provide 24g of protein and 25-minute prep for stress-free weekly lunches. Enjoy golden cornstarch-crusted tofu, edamame, and fresh cabbage with a savory peanut sauce. Save it for your next meal prep.",
+      "overlay": "Prep High-Protein Tofu Bowls",
+      "subline": "Meal Prep Friendly",
+      "alt_text": "Meal prep containers filled with brown rice, crispy tofu, edamame, and fresh shredded purple cabbage."
+    },
+    {
+      "hook_type": "teacher",
+      "title": "The Trick to Crispy Air Fryer Tofu Bowls",
+      "description": "High-Protein Crispy Air Fryer Tofu Bowls with Peanut Sauce teach you how to get ultra-crispy tofu with 24g of protein in 25 minutes. Combine seasoned air-fried tofu and edamame with a vibrant peanut dressing over grains. Save it for your next meal prep.",
+      "overlay": "The Secret to Crispy Tofu",
+      "subline": "Better Than Takeout",
+      "alt_text": "Air fryer basket filled with golden brown, extra-crispy cubed tofu seasoned with soy sauce and cornstarch."
+    }
+  ],
+  "video_script": {
+    "hook": "Make these crispy air fryer tofu bowls with 24 grams of protein!",
+    "steps_short": [
+      "Press and cube your extra-firm tofu.",
+      "Toss the tofu in soy sauce, sesame oil, and cornstarch.",
+      "Air fry at 400 degrees Fahrenheit for 12 minutes until crispy.",
+      "Whisk together the creamy peanut sauce ingredients.",
+      "Assemble bowls with rice, tofu, edamame, cabbage, and peanut sauce."
+    ],
+    "outro": "Find the full recipe details and measurements on our website."
+  },
+  "photo_queries": [
+    "crispy air fryer tofu bowl with peanut sauce",
+    "vegetarian tofu grain bowl with edamame",
+    "high protein tofu meal prep bowl"
+  ],
+  "must_match": [
+    "tofu",
+    "bowl",
+    "peanut"
+  ],
+  "board": "High Protein Vegetarian",
+  "slug": "high-protein-crispy-air-fryer-tofu-bowls-with-peanut-sauce",
+  "protein_g": 24,
+  "photos": [
+    {
+      "id": "u-HGzn4Puc3Hc",
+      "width": 3448,
+      "height": 4592,
+      "alt": "Bowl of quinoa with tofu and avocado",
+      "photographer": "David Magalhães",
+      "photographer_url": "https://unsplash.com/@speeddragon35?utm_source=easy_protein_kitchen&utm_medium=referral",
+      "page_url": "https://unsplash.com/photos/bowl-of-quinoa-with-tofu-and-avocado-HGzn4Puc3Hc?utm_source=easy_protein_kitchen&utm_medium=referral",
+      "source": "Unsplash",
+      "source_url": "https://unsplash.com/?utm_source=easy_protein_kitchen&utm_medium=referral",
+      "src": "https://images.unsplash.com/photo-1763000215238-38350d3e41ac?ixid=M3wxMTQzODc5fDB8MXxzZWFyY2h8M3x8Y3Jpc3B5JTIwYWlyJTIwZnJ5ZXIlMjB0b2Z1JTIwYm93bCUyMHdpdGglMjBwZWFudXQlMjBzYXVjZXxlbnwxfDF8fHwxNzk1ODE3MDkwfDA&ixlib=rb-4.1.0",
+      "web": "https://images.unsplash.com/photo-1763000215238-38350d3e41ac?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTQzODc5fDB8MXxzZWFyY2h8M3x8Y3Jpc3B5JTIwYWlyJTIwZnJ5ZXIlMjB0b2Z1JTIwYm93bCUyMHdpdGglMjBwZWFudXQlMjBzYXVjZXxlbnwxfDF8fHwxNzk1ODE3MDkwfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "download_location": "https://api.unsplash.com/photos/HGzn4Puc3Hc/download?ixid=M3wxMTQzODc5fDB8MXxzZWFyY2h8M3x8Y3Jpc3B5JTIwYWlyJTIwZnJ5ZXIlMjB0b2Z1JTIwYm93bCUyMHdpdGglMjBwZWFudXQlMjBzYXVjZXxlbnwxfDF8fHwxNzk1ODE3MDkwfDA",
+      "score": 11
+    },
+    {
+      "id": "u-173apZumfh8",
+      "width": 3629,
+      "height": 5444,
+      "alt": "a plate of tofu with a dipping sauce",
+      "photographer": "With Mahdy",
+      "photographer_url": "https://unsplash.com/@withmahdy?utm_source=easy_protein_kitchen&utm_medium=referral",
+      "page_url": "https://unsplash.com/photos/a-plate-of-tofu-with-a-dipping-sauce-173apZumfh8?utm_source=easy_protein_kitchen&utm_medium=referral",
+      "source": "Unsplash",
+      "source_url": "https://unsplash.com/?utm_source=easy_protein_kitchen&utm_medium=referral",
+      "src": "https://images.unsplash.com/photo-1695026855751-3ba371e6f8f5?ixid=M3wxMTQzODc5fDB8MXxzZWFyY2h8MTJ8fGNyaXNweSUyMGFpciUyMGZyeWVyJTIwdG9mdSUyMGJvd2wlMjB3aXRoJTIwcGVhbnV0JTIwc2F1Y2V8ZW58MXwxfHx8MTc5NTgxNzA5MHww&ixlib=rb-4.1.0",
+      "web": "https://images.unsplash.com/photo-1695026855751-3ba371e6f8f5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTQzODc5fDB8MXxzZWFyY2h8MTJ8fGNyaXNweSUyMGFpciUyMGZyeWVyJTIwdG9mdSUyMGJvd2wlMjB3aXRoJTIwcGVhbnV0JTIwc2F1Y2V8ZW58MXwxfHx8MTc5NTgxNzA5MHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "download_location": "https://api.unsplash.com/photos/173apZumfh8/download?ixid=M3wxMTQzODc5fDB8MXxzZWFyY2h8MTJ8fGNyaXNweSUyMGFpciUyMGZyeWVyJTIwdG9mdSUyMGJvd2wlMjB3aXRoJTIwcGVhbnV0JTIwc2F1Y2V8ZW58MXwxfHx8MTc5NTgxNzA5MHww",
+      "score": 8
+    },
+    {
+      "id": "u-t7bZf3JH0Bo",
+      "width": 4000,
+      "height": 5000,
+      "alt": "a person is putting some food in a bowl",
+      "photographer": "Airam Dato-on",
+      "photographer_url": "https://unsplash.com/@airamdphoto?utm_source=easy_protein_kitchen&utm_medium=referral",
+      "page_url": "https://unsplash.com/photos/a-person-is-putting-some-food-in-a-bowl-t7bZf3JH0Bo?utm_source=easy_protein_kitchen&utm_medium=referral",
+      "source": "Unsplash",
+      "source_url": "https://unsplash.com/?utm_source=easy_protein_kitchen&utm_medium=referral",
+      "src": "https://images.unsplash.com/photo-1635452066377-6df9b3529b33?ixid=M3wxMTQzODc5fDB8MXxzZWFyY2h8MXx8Y3Jpc3B5JTIwYWlyJTIwZnJ5ZXIlMjB0b2Z1JTIwYm93bCUyMHdpdGglMjBwZWFudXQlMjBzYXVjZXxlbnwxfDF8fHwxNzk1ODE3MDkwfDA&ixlib=rb-4.1.0",
+      "web": "https://images.unsplash.com/photo-1635452066377-6df9b3529b33?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTQzODc5fDB8MXxzZWFyY2h8MXx8Y3Jpc3B5JTIwYWlyJTIwZnJ5ZXIlMjB0b2Z1JTIwYm93bCUyMHdpdGglMjBwZWFudXQlMjBzYXVjZXxlbnwxfDF8fHwxNzk1ODE3MDkwfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "download_location": "https://api.unsplash.com/photos/t7bZf3JH0Bo/download?ixid=M3wxMTQzODc5fDB8MXxzZWFyY2h8MXx8Y3Jpc3B5JTIwYWlyJTIwZnJ5ZXIlMjB0b2Z1JTIwYm93bCUyMHdpdGglMjBwZWFudXQlMjBzYXVjZXxlbnwxfDF8fHwxNzk1ODE3MDkwfDA",
+      "score": 6
+    },
+    {
+      "id": "u-wpuax7cX8ow",
+      "width": 3632,
+      "height": 5456,
+      "alt": "a bowl of food",
+      "photographer": "Hanna Balan",
+      "photographer_url": "https://unsplash.com/@fu_psi?utm_source=easy_protein_kitchen&utm_medium=referral",
+      "page_url": "https://unsplash.com/photos/a-bowl-of-food-wpuax7cX8ow?utm_source=easy_protein_kitchen&utm_medium=referral",
+      "source": "Unsplash",
+      "source_url": "https://unsplash.com/?utm_source=easy_protein_kitchen&utm_medium=referral",
+      "src": "https://images.unsplash.com/photo-1659022425105-78aa4cbfdb82?ixid=M3wxMTQzODc5fDB8MXxzZWFyY2h8Nnx8Y3Jpc3B5JTIwYWlyJTIwZnJ5ZXIlMjB0b2Z1JTIwYm93bCUyMHdpdGglMjBwZWFudXQlMjBzYXVjZXxlbnwxfDF8fHwxNzk1ODE3MDkwfDA&ixlib=rb-4.1.0",
+      "web": "https://images.unsplash.com/photo-1659022425105-78aa4cbfdb82?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTQzODc5fDB8MXxzZWFyY2h8Nnx8Y3Jpc3B5JTIwYWlyJTIwZnJ5ZXIlMjB0b2Z1JTIwYm93bCUyMHdpdGglMjBwZWFudXQlMjBzYXVjZXxlbnwxfDF8fHwxNzk1ODE3MDkwfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "download_location": "https://api.unsplash.com/photos/wpuax7cX8ow/download?ixid=M3wxMTQzODc5fDB8MXxzZWFyY2h8Nnx8Y3Jpc3B5JTIwYWlyJTIwZnJ5ZXIlMjB0b2Z1JTIwYm93bCUyMHdpdGglMjBwZWFudXQlMjBzYXVjZXxlbnwxfDF8fHwxNzk1ODE3MDkwfDA",
+      "score": 6
+    },
+    {
+      "id": "u-gBG9noYkz7g",
+      "width": 3000,
+      "height": 5332,
+      "alt": "a bowl of food and chopsticks on a table",
+      "photographer": "Cosmin Ursea",
+      "photographer_url": "https://unsplash.com/@cosminursea?utm_source=easy_protein_kitchen&utm_medium=referral",
+      "page_url": "https://unsplash.com/photos/a-bowl-of-food-and-chopsticks-on-a-table-gBG9noYkz7g?utm_source=easy_protein_kitchen&utm_medium=referral",
+      "source": "Unsplash",
+      "source_url": "https://unsplash.com/?utm_source=easy_protein_kitchen&utm_medium=referral",
+      "src": "https://images.unsplash.com/photo-1702882116870-583a596dabc7?ixid=M3wxMTQzODc5fDB8MXxzZWFyY2h8OHx8Y3Jpc3B5JTIwYWlyJTIwZnJ5ZXIlMjB0b2Z1JTIwYm93bCUyMHdpdGglMjBwZWFudXQlMjBzYXVjZXxlbnwxfDF8fHwxNzk1ODE3MDkwfDA&ixlib=rb-4.1.0",
+      "web": "https://images.unsplash.com/photo-1702882116870-583a596dabc7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTQzODc5fDB8MXxzZWFyY2h8OHx8Y3Jpc3B5JTIwYWlyJTIwZnJ5ZXIlMjB0b2Z1JTIwYm93bCUyMHdpdGglMjBwZWFudXQlMjBzYXVjZXxlbnwxfDF8fHwxNzk1ODE3MDkwfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "download_location": "https://api.unsplash.com/photos/gBG9noYkz7g/download?ixid=M3wxMTQzODc5fDB8MXxzZWFyY2h8OHx8Y3Jpc3B5JTIwYWlyJTIwZnJ5ZXIlMjB0b2Z1JTIwYm93bCUyMHdpdGglMjBwZWFudXQlMjBzYXVjZXxlbnwxfDF8fHwxNzk1ODE3MDkwfDA",
+      "score": 6
+    },
+    {
+      "id": "u-gAWCYaJMYk8",
+      "width": 3912,
+      "height": 5336,
+      "alt": "fried rice with sliced cucumber and sliced cucumber in white ceramic bowl Vegan dinner",
+      "photographer": "Karolina Kołodziejczak",
+      "photographer_url": "https://unsplash.com/@rabbit_in_blue?utm_source=easy_protein_kitchen&utm_medium=referral",
+      "page_url": "https://unsplash.com/photos/fried-rice-with-sliced-cucumber-and-sliced-cucumber-in-white-ceramic-bowl-gAWCYaJMYk8?utm_source=easy_protein_kitchen&utm_medium=referral",
+      "source": "Unsplash",
+      "source_url": "https://unsplash.com/?utm_source=easy_protein_kitchen&utm_medium=referral",
+      "src": "https://images.unsplash.com/photo-1610653596329-eacc50074ad2?ixid=M3wxMTQzODc5fDB8MXxzZWFyY2h8MTN8fGNyaXNweSUyMGFpciUyMGZyeWVyJTIwdG9mdSUyMGJvd2wlMjB3aXRoJTIwcGVhbnV0JTIwc2F1Y2V8ZW58MXwxfHx8MTc5NTgxNzA5MHww&ixlib=rb-4.1.0",
+      "web": "https://images.unsplash.com/photo-1610653596329-eacc50074ad2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTQzODc5fDB8MXxzZWFyY2h8MTN8fGNyaXNweSUyMGFpciUyMGZyeWVyJTIwdG9mdSUyMGJvd2wlMjB3aXRoJTIwcGVhbnV0JTIwc2F1Y2V8ZW58MXwxfHx8MTc5NTgxNzA5MHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "download_location": "https://api.unsplash.com/photos/gAWCYaJMYk8/download?ixid=M3wxMTQzODc5fDB8MXxzZWFyY2h8MTN8fGNyaXNweSUyMGFpciUyMGZyeWVyJTIwdG9mdSUyMGJvd2wlMjB3aXRoJTIwcGVhbnV0JTIwc2F1Y2V8ZW58MXwxfHx8MTc5NTgxNzA5MHww",
+      "score": 6
+    }
+  ],
+  "verification": {
+    "checks": [
+      {
+        "verdict": "fix",
+        "issues": [
+          "1 tablespoon of cornstarch is insufficient to properly coat 16 oz of cubed tofu for a genuinely crispy air fryer crust; standard ratio is 1.5 to 2 tablespoons.",
+          "Peanut sauce lacks liquid to thin it out properly for drizzling; 2 tablespoons of water is insufficient for 1/4 cup peanut butter plus other thick ingredients.",
+          "Brown rice amount (2 cups cooked for 4 servings) provides only 1/2 cup per serving, which is very light for a bowl meal; 3 to 4 cups is standard."
+        ],
+        "sources": [
+          {
+            "name": "Serious Eats - Crispy Air Fryer Tofu",
+            "url": "https://www.seriouseats.com/"
+          },
+          {
+            "name": "Minimalist Baker - Easy Peanut Tofu Bowls",
+            "url": "https://minimalistbaker.com/"
+          }
+        ],
+        "grounded": false
+      },
+      {
+        "verdict": "pass",
+        "issues": [],
+        "sources": [
+          {
+            "name": "Serious Eats - Extra-Crispy Air Fryer Tofu",
+            "url": "https://www.seriouseats.com"
+          },
+          {
+            "name": "Minimalist Baker - Crispy Peanut Tofu Bowls",
+            "url": "https://minimalistbaker.com"
+          },
+          {
+            "name": "Budget Bytes - Air Fryer Tofu Bowls with Peanut Sauce",
+            "url": "https://www.budgetbytes.com"
+          }
+        ],
+        "grounded": false
+      }
+    ],
+    "rule_warnings": [],
+    "model": "gemini-3.5-flash-lite"
+  },
+  "created": "2026-11-27"
+}

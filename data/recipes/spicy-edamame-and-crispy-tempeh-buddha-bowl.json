@@ -1,0 +1,285 @@
+{
+  "title": "Spicy Edamame and Crispy Tempeh Buddha Bowl",
+  "description": "This spicy edamame and crispy tempeh Buddha bowl delivers 24g of protein per serving and comes together in just 25 minutes. Packed with fresh vegetables, grains, and bold flavors, it makes an ideal lunch or post-workout meal. Save it for your next meal prep.",
+  "cuisine": "Fusion",
+  "category": "Lunch",
+  "servings": 4,
+  "protein_g_per_serving": 28,
+  "prep_minutes": 10,
+  "cook_minutes": 15,
+  "total_minutes": 25,
+  "ingredients": [
+    {
+      "qty": "8",
+      "unit": "oz",
+      "item": "tempeh",
+      "metric": "226 g",
+      "note": "cut into 1/2-inch cubes"
+    },
+    {
+      "qty": "2",
+      "unit": "cups",
+      "item": "shelled edamame",
+      "metric": "300 g",
+      "note": "thawed if frozen"
+    },
+    {
+      "qty": "2",
+      "unit": "cups",
+      "item": "cooked jasmine rice",
+      "metric": "320 g",
+      "note": "warm"
+    },
+    {
+      "qty": "1",
+      "unit": "cup",
+      "item": "shredded purple cabbage",
+      "metric": "70 g",
+      "note": "fresh"
+    },
+    {
+      "qty": "1",
+      "unit": "medium",
+      "item": "carrot",
+      "metric": "60 g",
+      "note": "julienned"
+    },
+    {
+      "qty": "2",
+      "unit": "tbsp",
+      "item": "soy sauce",
+      "metric": "30 ml",
+      "note": "divided"
+    },
+    {
+      "qty": "1",
+      "unit": "tbsp",
+      "item": "sesame oil",
+      "metric": "15 ml",
+      "note": "divided"
+    },
+    {
+      "qty": "1",
+      "unit": "tbsp",
+      "item": "sriracha",
+      "metric": "15 ml",
+      "note": "plus extra for serving"
+    },
+    {
+      "qty": "1",
+      "unit": "tsp",
+      "item": "rice vinegar",
+      "metric": "5 ml",
+      "note": "for dressing"
+    },
+    {
+      "qty": "1",
+      "unit": "tsp",
+      "item": "minced fresh ginger",
+      "metric": "4 g",
+      "note": "fresh"
+    }
+  ],
+  "steps": [
+    "Whisk 1 tablespoon soy sauce, 1/2 tablespoon sesame oil, and sriracha in a small bowl, then toss the tempeh cubes in the mixture until evenly coated.",
+    "Heat a 12-inch non-stick skillet over medium heat for 2 minutes. Add the coated tempeh and cook for 6 to 8 minutes, stirring occasionally, until browned on all sides and crispy.",
+    "In a separate small saucepan, combine the shelled edamame with 2 tablespoons of water, cover, and steam over medium-low heat for 3 minutes until tender and hot.",
+    "In a small bowl, whisk together the remaining 1 tablespoon soy sauce, 1/2 tablespoon sesame oil, rice vinegar, and minced ginger to create the bowl dressing.",
+    "Divide the warm cooked jasmine rice evenly among 4 bowls as the base.",
+    "Top each bowl of rice with the crispy tempeh, steamed edamame, shredded purple cabbage, and julienned carrots.",
+    "Drizzle the ginger-soy dressing over each bowl and serve immediately with an extra dash of sriracha if desired."
+  ],
+  "tips": [
+    "Substitute quinoa or brown rice for jasmine rice to boost fiber and protein further.",
+    "Store leftover components in airtight containers in the refrigerator for up to 4 days.",
+    "Reheat the tempeh and rice in a skillet or microwave before assembling fresh bowls."
+  ],
+  "storage": "Store in airtight containers in the refrigerator for up to 4 days. Keep dressing separate until ready to eat.",
+  "tools": [
+    "12-inch non-stick skillet",
+    "Small saucepan",
+    "Whisk",
+    "Measuring spoons"
+  ],
+  "keywords": [
+    "high protein vegetarian bowl",
+    "tempeh buddha bowl recipe",
+    "spicy edamame bowl",
+    "vegetarian high protein meal prep",
+    "crispy tempeh recipe",
+    "healthy lunch bowl high protein",
+    "plant based macro friendly meal"
+  ],
+  "pin_variants": [
+    {
+      "hook_type": "number",
+      "title": "High Protein Edamame & Tempeh Buddha Bowl (24g Protein)",
+      "description": "Get 24g of protein per serving with this vibrant spicy edamame and crispy tempeh Buddha bowl ready in just 25 minutes. Packed with fresh veggies and bold flavors for an easy plant-based meal. Save it for your next meal prep.",
+      "overlay": "24g Protein Tempeh Buddha Bowl",
+      "subline": "Ready in 25 Minutes",
+      "alt_text": "A colorful vegetarian Buddha bowl filled with crispy tempeh, green edamame, purple cabbage, and carrots over rice."
+    },
+    {
+      "hook_type": "speed",
+      "title": "25-Minute Spicy Edamame and Crispy Tempeh Buddha Bowl",
+      "description": "Make a 25-minute spicy edamame and crispy tempeh Buddha bowl packed with 24g of protein per serving. This macro-friendly meal combines savory plant proteins with fresh crisp vegetables. Save it for your next meal prep.",
+      "overlay": "25-Minute High Protein Buddha Bowl",
+      "subline": "24g Protein Per Serving",
+      "alt_text": "Overhead view of a meal prep bowl featuring crispy tempeh, edamame, shredded cabbage, and sliced carrots."
+    },
+    {
+      "hook_type": "outcome",
+      "title": "High Protein Vegetarian Meal Prep: Crispy Tempeh Bowl",
+      "description": "Master macro-friendly meal prep with this high protein vegetarian Buddha bowl featuring spicy edamame and crispy tempeh in 25 minutes. Delivers 24g of protein per serving using real plant foods. Save it for your next meal prep.",
+      "overlay": "Prep Once: High Protein Tempeh Bowl",
+      "subline": "Meal Prep Friendly",
+      "alt_text": "Close up of a vegetarian Buddha bowl with golden brown crispy tempeh cubes and bright green edamame."
+    },
+    {
+      "hook_type": "contrarian",
+      "title": "Skip the Shake: High Protein Tempeh & Edamame Bowl",
+      "description": "Skip the protein shake and get 24g of protein from real food in this spicy edamame and crispy tempeh Buddha bowl. Ready in just 25 minutes for a satisfying vegetarian meal. Save it for your next meal prep.",
+      "overlay": "Skip the Shake: 24g Protein Bowl",
+      "subline": "Real Food Protein",
+      "alt_text": "A vibrant macro-friendly bowl with tempeh, edamame, and crisp vegetables drizzled with a savory sauce."
+    }
+  ],
+  "video_script": {
+    "hook": "Make this spicy edamame and crispy tempeh bowl with 24 grams of protein.",
+    "steps_short": [
+      "Toss cubed tempeh in soy sauce, sesame oil, and sriracha.",
+      "Sear the tempeh in a skillet for 8 minutes until crispy.",
+      "Steam the edamame for 3 minutes until tender and hot.",
+      "Whisk together the soy, ginger, and rice vinegar dressing.",
+      "Assemble the bowls with rice, tempeh, edamame, and fresh vegetables."
+    ],
+    "outro": "Find the full recipe and measurements on the website."
+  },
+  "photo_queries": [
+    "tempeh buddha bowl with edamame and rice",
+    "vegetarian high protein bowl overhead shot",
+    "crispy tempeh grain bowl meal prep"
+  ],
+  "must_match": [
+    "tempeh",
+    "edamame",
+    "bowl"
+  ],
+  "board": "High Protein Vegetarian",
+  "slug": "spicy-edamame-and-crispy-tempeh-buddha-bowl",
+  "protein_g": 24,
+  "photos": [
+    {
+      "id": "u-CZrTF8g9xpQ",
+      "width": 3024,
+      "height": 4032,
+      "alt": "rice and rice on black ceramic bowl",
+      "photographer": "Yael Yañez",
+      "photographer_url": "https://unsplash.com/@yaelyanez?utm_source=easy_protein_kitchen&utm_medium=referral",
+      "page_url": "https://unsplash.com/photos/rice-and-rice-on-black-ceramic-bowl-CZrTF8g9xpQ?utm_source=easy_protein_kitchen&utm_medium=referral",
+      "source": "Unsplash",
+      "source_url": "https://unsplash.com/?utm_source=easy_protein_kitchen&utm_medium=referral",
+      "src": "https://images.unsplash.com/photo-1604122721204-63cffbf7fca4?ixid=M3wxMTQzODc5fDB8MXxzZWFyY2h8Mjl8fHRlbXBlaCUyMGJ1ZGRoYSUyMGJvd2wlMjB3aXRoJTIwZWRhbWFtZSUyMGFuZCUyMHJpY2V8ZW58MXwxfHx8MTc5NTgxNzEzMnww&ixlib=rb-4.1.0",
+      "web": "https://images.unsplash.com/photo-1604122721204-63cffbf7fca4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTQzODc5fDB8MXxzZWFyY2h8Mjl8fHRlbXBlaCUyMGJ1ZGRoYSUyMGJvd2wlMjB3aXRoJTIwZWRhbWFtZSUyMGFuZCUyMHJpY2V8ZW58MXwxfHx8MTc5NTgxNzEzMnww&ixlib=rb-4.1.0&q=80&w=1080",
+      "download_location": "https://api.unsplash.com/photos/CZrTF8g9xpQ/download?ixid=M3wxMTQzODc5fDB8MXxzZWFyY2h8Mjl8fHRlbXBlaCUyMGJ1ZGRoYSUyMGJvd2wlMjB3aXRoJTIwZWRhbWFtZSUyMGFuZCUyMHJpY2V8ZW58MXwxfHx8MTc5NTgxNzEzMnww",
+      "score": 8
+    },
+    {
+      "id": "u-4V-GGLkJP9Q",
+      "width": 4000,
+      "height": 6000,
+      "alt": "Delicious poke bowl with fresh vegetables, meat, and soy sauce",
+      "photographer": "Omar Ramadan",
+      "photographer_url": "https://unsplash.com/@omarvellous14?utm_source=easy_protein_kitchen&utm_medium=referral",
+      "page_url": "https://unsplash.com/photos/delicious-poke-bowl-with-fresh-vegetables-meat-and-soy-sauce-4V-GGLkJP9Q?utm_source=easy_protein_kitchen&utm_medium=referral",
+      "source": "Unsplash",
+      "source_url": "https://unsplash.com/?utm_source=easy_protein_kitchen&utm_medium=referral",
+      "src": "https://images.unsplash.com/photo-1780805663565-921898c8b32e?ixid=M3wxMTQzODc5fDB8MXxzZWFyY2h8OHx8dGVtcGVoJTIwYnVkZGhhJTIwYm93bCUyMHdpdGglMjBlZGFtYW1lJTIwYW5kJTIwcmljZXxlbnwxfDF8fHwxNzk1ODE3MTMyfDA&ixlib=rb-4.1.0",
+      "web": "https://images.unsplash.com/photo-1780805663565-921898c8b32e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTQzODc5fDB8MXxzZWFyY2h8OHx8dGVtcGVoJTIwYnVkZGhhJTIwYm93bCUyMHdpdGglMjBlZGFtYW1lJTIwYW5kJTIwcmljZXxlbnwxfDF8fHwxNzk1ODE3MTMyfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "download_location": "https://api.unsplash.com/photos/4V-GGLkJP9Q/download?ixid=M3wxMTQzODc5fDB8MXxzZWFyY2h8OHx8dGVtcGVoJTIwYnVkZGhhJTIwYm93bCUyMHdpdGglMjBlZGFtYW1lJTIwYW5kJTIwcmljZXxlbnwxfDF8fHwxNzk1ODE3MTMyfDA",
+      "score": 6
+    },
+    {
+      "id": "u-sa0GIr2P6r8",
+      "width": 3456,
+      "height": 4608,
+      "alt": "a wooden table topped with bowls of food",
+      "photographer": "Zyanya Citlalli",
+      "photographer_url": "https://unsplash.com/@zonalsublime?utm_source=easy_protein_kitchen&utm_medium=referral",
+      "page_url": "https://unsplash.com/photos/a-wooden-table-topped-with-bowls-of-food-sa0GIr2P6r8?utm_source=easy_protein_kitchen&utm_medium=referral",
+      "source": "Unsplash",
+      "source_url": "https://unsplash.com/?utm_source=easy_protein_kitchen&utm_medium=referral",
+      "src": "https://images.unsplash.com/photo-1694763638527-1585cf634b19?ixid=M3wxMTQzODc5fDB8MXxzZWFyY2h8MTF8fHRlbXBlaCUyMGJ1ZGRoYSUyMGJvd2wlMjB3aXRoJTIwZWRhbWFtZSUyMGFuZCUyMHJpY2V8ZW58MXwxfHx8MTc5NTgxNzEzMnww&ixlib=rb-4.1.0",
+      "web": "https://images.unsplash.com/photo-1694763638527-1585cf634b19?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTQzODc5fDB8MXxzZWFyY2h8MTF8fHRlbXBlaCUyMGJ1ZGRoYSUyMGJvd2wlMjB3aXRoJTIwZWRhbWFtZSUyMGFuZCUyMHJpY2V8ZW58MXwxfHx8MTc5NTgxNzEzMnww&ixlib=rb-4.1.0&q=80&w=1080",
+      "download_location": "https://api.unsplash.com/photos/sa0GIr2P6r8/download?ixid=M3wxMTQzODc5fDB8MXxzZWFyY2h8MTF8fHRlbXBlaCUyMGJ1ZGRoYSUyMGJvd2wlMjB3aXRoJTIwZWRhbWFtZSUyMGFuZCUyMHJpY2V8ZW58MXwxfHx8MTc5NTgxNzEzMnww",
+      "score": 6
+    },
+    {
+      "id": "u-SIbTSK9pG-g",
+      "width": 4159,
+      "height": 5881,
+      "alt": "green and yellow fruit on white ceramic bowl Chinese food",
+      "photographer": "Hanxiao Xu",
+      "photographer_url": "https://unsplash.com/@hanxiaoyaaaaa?utm_source=easy_protein_kitchen&utm_medium=referral",
+      "page_url": "https://unsplash.com/photos/green-and-yellow-fruit-on-white-ceramic-bowl-SIbTSK9pG-g?utm_source=easy_protein_kitchen&utm_medium=referral",
+      "source": "Unsplash",
+      "source_url": "https://unsplash.com/?utm_source=easy_protein_kitchen&utm_medium=referral",
+      "src": "https://images.unsplash.com/photo-1598148524201-ae00d9f71f8a?ixid=M3wxMTQzODc5fDB8MXxzZWFyY2h8MjR8fHRlbXBlaCUyMGJ1ZGRoYSUyMGJvd2wlMjB3aXRoJTIwZWRhbWFtZSUyMGFuZCUyMHJpY2V8ZW58MXwxfHx8MTc5NTgxNzEzMnww&ixlib=rb-4.1.0",
+      "web": "https://images.unsplash.com/photo-1598148524201-ae00d9f71f8a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTQzODc5fDB8MXxzZWFyY2h8MjR8fHRlbXBlaCUyMGJ1ZGRoYSUyMGJvd2wlMjB3aXRoJTIwZWRhbWFtZSUyMGFuZCUyMHJpY2V8ZW58MXwxfHx8MTc5NTgxNzEzMnww&ixlib=rb-4.1.0&q=80&w=1080",
+      "download_location": "https://api.unsplash.com/photos/SIbTSK9pG-g/download?ixid=M3wxMTQzODc5fDB8MXxzZWFyY2h8MjR8fHRlbXBlaCUyMGJ1ZGRoYSUyMGJvd2wlMjB3aXRoJTIwZWRhbWFtZSUyMGFuZCUyMHJpY2V8ZW58MXwxfHx8MTc5NTgxNzEzMnww",
+      "score": 6
+    },
+    {
+      "id": "u-ptgbJoYhFw0",
+      "width": 3024,
+      "height": 4032,
+      "alt": "white ceramic bowl on white ceramic plate Japanese food lunch",
+      "photographer": "Song Yu",
+      "photographer_url": "https://unsplash.com/@songseday?utm_source=easy_protein_kitchen&utm_medium=referral",
+      "page_url": "https://unsplash.com/photos/white-ceramic-bowl-on-white-ceramic-plate-ptgbJoYhFw0?utm_source=easy_protein_kitchen&utm_medium=referral",
+      "source": "Unsplash",
+      "source_url": "https://unsplash.com/?utm_source=easy_protein_kitchen&utm_medium=referral",
+      "src": "https://images.unsplash.com/photo-1587496579013-90f32e3ea9d5?ixid=M3wxMTQzODc5fDB8MXxzZWFyY2h8MjZ8fHRlbXBlaCUyMGJ1ZGRoYSUyMGJvd2wlMjB3aXRoJTIwZWRhbWFtZSUyMGFuZCUyMHJpY2V8ZW58MXwxfHx8MTc5NTgxNzEzMnww&ixlib=rb-4.1.0",
+      "web": "https://images.unsplash.com/photo-1587496579013-90f32e3ea9d5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTQzODc5fDB8MXxzZWFyY2h8MjZ8fHRlbXBlaCUyMGJ1ZGRoYSUyMGJvd2wlMjB3aXRoJTIwZWRhbWFtZSUyMGFuZCUyMHJpY2V8ZW58MXwxfHx8MTc5NTgxNzEzMnww&ixlib=rb-4.1.0&q=80&w=1080",
+      "download_location": "https://api.unsplash.com/photos/ptgbJoYhFw0/download?ixid=M3wxMTQzODc5fDB8MXxzZWFyY2h8MjZ8fHRlbXBlaCUyMGJ1ZGRoYSUyMGJvd2wlMjB3aXRoJTIwZWRhbWFtZSUyMGFuZCUyMHJpY2V8ZW58MXwxfHx8MTc5NTgxNzEzMnww",
+      "score": 6
+    },
+    {
+      "id": "u-97zWpbD_khM",
+      "width": 3816,
+      "height": 5776,
+      "alt": "bowl of food You will love jackfruit ! Here is one of my vegan recipe with jackfruit that you can find on my website and that perfectly mimics spareribs! Visit my website to discover more vegan recipes with jackfruit and discover my vegan recipe book with jackfruit in English or in French !\n",
+      "photographer": "Nadine Primeau",
+      "photographer_url": "https://unsplash.com/@nadineprimeau?utm_source=easy_protein_kitchen&utm_medium=referral",
+      "page_url": "https://unsplash.com/photos/bowl-of-food-97zWpbD_khM?utm_source=easy_protein_kitchen&utm_medium=referral",
+      "source": "Unsplash",
+      "source_url": "https://unsplash.com/?utm_source=easy_protein_kitchen&utm_medium=referral",
+      "src": "https://images.unsplash.com/photo-1569692150405-6fe2ef19d16e?ixid=M3wxMTQzODc5fDB8MXxzZWFyY2h8Mjd8fHRlbXBlaCUyMGJ1ZGRoYSUyMGJvd2wlMjB3aXRoJTIwZWRhbWFtZSUyMGFuZCUyMHJpY2V8ZW58MXwxfHx8MTc5NTgxNzEzMnww&ixlib=rb-4.1.0",
+      "web": "https://images.unsplash.com/photo-1569692150405-6fe2ef19d16e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTQzODc5fDB8MXxzZWFyY2h8Mjd8fHRlbXBlaCUyMGJ1ZGRoYSUyMGJvd2wlMjB3aXRoJTIwZWRhbWFtZSUyMGFuZCUyMHJpY2V8ZW58MXwxfHx8MTc5NTgxNzEzMnww&ixlib=rb-4.1.0&q=80&w=1080",
+      "download_location": "https://api.unsplash.com/photos/97zWpbD_khM/download?ixid=M3wxMTQzODc5fDB8MXxzZWFyY2h8Mjd8fHRlbXBlaCUyMGJ1ZGRoYSUyMGJvd2wlMjB3aXRoJTIwZWRhbWFtZSUyMGFuZCUyMHJpY2V8ZW58MXwxfHx8MTc5NTgxNzEzMnww",
+      "score": 6
+    }
+  ],
+  "verification": {
+    "checks": [
+      {
+        "verdict": "pass",
+        "issues": [],
+        "sources": [
+          {
+            "name": "Minimalist Baker - Crispy Tempeh Buddha Bowl with Spicy Peanut Sauce",
+            "url": "https://minimalistbaker.com/crispy-tempeh-buddha-bowl-spicy-peanut-sauce/"
+          },
+          {
+            "name": "Cookie and Kate - Roasted Tempeh and Edamame Grain Bowl",
+            "url": "https://cookieandkate.com/"
+          }
+        ],
+        "grounded": false
+      }
+    ],
+    "rule_warnings": [],
+    "model": "gemini-3.5-flash-lite"
+  },
+  "created": "2026-11-27"
+}
