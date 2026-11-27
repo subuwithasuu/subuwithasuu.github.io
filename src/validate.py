@@ -132,7 +132,11 @@ def validate(recipe: dict, max_total: int = 60) -> tuple[list[str], list[str]]:
 
     # food safety: poultry & ground meat need an internal temperature
     all_items = " ".join(str(i.get("item", "")).lower() for i in ings)
-    if re.search(r"\b(chicken|turkey|duck)\b", all_items) and not re.search(r"\b(cooked|rotisserie|leftover)\b", all_items):
+    raw_poultry = any(
+        re.search(r"\b(chicken|turkey|duck)\b", it)
+        and not re.search(r"\b(cooked|rotisserie|leftover|broth|stock|bouillon)\b", it)
+        for it in (str(i.get("item", "")).lower() for i in ings))
+    if raw_poultry:
         if "165" not in steps_text and "74" not in steps_text:
             errors.append("poultry recipe must state internal temp 165°F (74°C)")
     if re.search(r"\bground (beef|pork|lamb)\b|\bminced (beef|pork|lamb)\b", all_items):
