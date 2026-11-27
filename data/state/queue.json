@@ -256,7 +256,7 @@
     {
       "slot": "2026-11-27#03",
       "due": "2026-11-27T14:27:18+00:00",
-      "status": "planned",
+      "status": "posted",
       "item": {
         "slug": "sheet-pan-lemon-herb-chicken-breast-and-asparagus-easy-meal-prep",
         "board": "High Protein Chicken Recipes",
@@ -266,7 +266,10 @@
         "layout": "single",
         "palette": 3
       },
-      "attempts": 0
+      "attempts": 0,
+      "pin_id": "2026-11-27-03",
+      "posted_at": "2026-11-27T15:01:39.031837+00:00",
+      "via": "rss"
     },
     {
       "slot": "2026-11-27#04",

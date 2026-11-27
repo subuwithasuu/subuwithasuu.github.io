@@ -460,5 +460,27 @@
     "category": "Snack",
     "protein_g": 18,
     "total_minutes": 15
+  },
+  {
+    "pin_id": "2026-11-27-03",
+    "via": "rss",
+    "slot": "2026-11-27#03",
+    "slug": "sheet-pan-lemon-herb-chicken-breast-and-asparagus-easy-meal-prep",
+    "kind": "image",
+    "variant": 0,
+    "board": "High Protein Chicken Recipes",
+    "title": "25-Minute Sheet Pan Lemon Herb Chicken Breast and Asparagus",
+    "description": "Make this sheet pan lemon herb chicken breast and asparagus in just 25 minutes for a 37g protein meal. Clean ingredients come together on one pan for fast cleanup. Save it for your next meal prep.",
+    "alt_text": "Baked chicken breasts and asparagus on a sheet pan with lemon slices",
+    "link": "https://easyproteinkitchen.online/recipes/sheet-pan-lemon-herb-chicken-breast-and-asparagus-easy-meal-prep/?pin=2026-11-27-03",
+    "image": "pins/2026-11-27-03.jpg",
+    "posted_at": "2026-11-27T15:01:39.031837+00:00",
+    "hook_type": "speed",
+    "overlay": "25-Minute High Protein Dinner",
+    "layout": "single",
+    "palette": 3,
+    "category": "Dinner",
+    "protein_g": 37,
+    "total_minutes": 25
   }
 ]
