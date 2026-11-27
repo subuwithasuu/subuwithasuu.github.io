@@ -1,12 +1,15 @@
 name: Post due pins
-# Runs every hour; posts whatever the calendar says is due. Your Mac can be off.
+# Runs every hour; publishes whatever the calendar says is due. Your Mac can be off.
+# PUBLISH_MODE (repo variable): "rss" (default) = pins go into the per-board RSS feeds
+# that Pinterest auto-publishes; "api" = post through the Pinterest API (needs an
+# approved developer app).
 on:
   schedule:
     - cron: "17 * * * *"
   workflow_dispatch:
     inputs:
       dry_run:
-        description: "Render only, do not post"
+        description: "Render only, do not publish"
         type: boolean
         default: false
 
@@ -16,26 +19,46 @@ concurrency:
 
 permissions:
   contents: write
+  pages: write
+  id-token: write
 
 jobs:
   post:
     runs-on: ubuntu-latest
     timeout-minutes: 40
+    outputs:
+      published: ${{ steps.rss.outputs.published }}
+    env:
+      MODE: ${{ vars.PUBLISH_MODE || 'rss' }}
     steps:
       - uses: actions/checkout@v7
       - uses: actions/setup-python@v7
         with:
           python-version: "3.12"
           cache: pip
-      - run: sudo apt-get update -qq && sudo apt-get install -y -qq ffmpeg
       - run: pip install -r requirements.txt
+
+      # ---------- RSS route (default) ----------
+      - name: Publish due pins to RSS feeds
+        id: rss
+        if: env.MODE == 'rss'
+        env:
+          DRY_RUN: ${{ inputs.dry_run && '1' || vars.DRY_RUN || '0' }}
+        run: python src/rss_publish.py
+
+      # ---------- API route (only with an approved app) ----------
+      - if: env.MODE == 'api'
+        run: sudo apt-get update -qq && sudo apt-get install -y -qq ffmpeg
       - name: Cache Kokoro voice model
+        if: env.MODE == 'api'
         uses: actions/cache@v6
         with:
           path: models
           key: kokoro-v1.0
-      - run: ./scripts/fetch_assets.sh
-      - name: Post
+      - if: env.MODE == 'api'
+        run: ./scripts/fetch_assets.sh
+      - name: Post through the API
+        if: env.MODE == 'api'
         env:
           PINTEREST_APP_ID: ${{ secrets.PINTEREST_APP_ID }}
           PINTEREST_APP_SECRET: ${{ secrets.PINTEREST_APP_SECRET }}
@@ -46,7 +69,7 @@ jobs:
           NEW_REFRESH_TOKEN_FILE: ${{ runner.temp }}/new_refresh_token
         run: python src/post_due.py
       - name: Save rotated Pinterest refresh token
-        if: always()
+        if: always() && env.MODE == 'api'
         env:
           GH_TOKEN: ${{ secrets.SECRETS_PAT }}
         run: |
@@ -58,11 +81,20 @@ jobs:
             echo "::warning::Pinterest issued a new refresh token but SECRETS_PAT is not set, so it was not saved."
           fi
           rm -f "$RUNNER_TEMP/new_refresh_token"
-      - name: Commit state
+
+      - name: Commit state and pin images
         run: |
           git config user.name "pin-bot"
           git config user.email "pin-bot@users.noreply.github.com"
-          git add data/state
+          mkdir -p data/pins
+          git add data/state data/pins
           git diff --cached --quiet && exit 0
           git commit -q -m "posting state $(date -u +%FT%H:%MZ)"
           git pull -q --rebase && git push -q
+
+  # Rebuild the site so new pins appear in the RSS feeds Pinterest reads.
+  site:
+    needs: post
+    if: needs.post.outputs.published != '' && needs.post.outputs.published != '0'
+    uses: ./.github/workflows/pages.yml
+    secrets: inherit

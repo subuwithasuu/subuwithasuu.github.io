@@ -8,14 +8,63 @@ from __future__ import annotations
 
 import json
 import shutil
-from datetime import date
-from xml.sax.saxutils import escape
+from datetime import date, datetime
+from xml.sax.saxutils import escape as _escape
 
 import yaml
 from jinja2 import Environment, FileSystemLoader, select_autoescape
 
-from common import DATA, ROOT, SITE_OUT, board_slug, load_config, load_recipes, log, recipe_url
+from common import (DATA, POSTED_FILE, ROOT, SITE_OUT, board_slug, load_config, load_recipes, log,
+                    read_json, recipe_url)
 from nutrition import MEAT
+
+
+def escape(s: str) -> str:
+    return _escape(str(s), {'"': "&quot;"})
+
+
+FEED_ITEMS = 50          # newest pins kept in each board's feed
+
+
+def write_feeds(cfg: dict, boards: list[dict], write) -> None:
+    """Copy published pin images to /pins/ and write one RSS feed per board to
+    /feeds/<board-slug>.xml (plus /feeds/all.xml). Pinterest's auto-publish reads them."""
+    from email.utils import format_datetime
+    pins_src = DATA / "pins"
+    if pins_src.exists():
+        shutil.copytree(pins_src, SITE_OUT / "pins", dirs_exist_ok=True)
+    posted = [p for p in read_json(POSTED_FILE, []) if p.get("via") == "rss" and p.get("image")]
+    posted.sort(key=lambda p: p["posted_at"], reverse=True)
+    base = cfg["site"]["base_url"]
+    site = cfg["site"]
+
+    def item(p) -> str:
+        img = f"{base}/{p['image']}"
+        f = SITE_OUT / p["image"]
+        size = f.stat().st_size if f.exists() else 0
+        when = format_datetime(datetime.fromisoformat(p["posted_at"]))
+        return (f"<item><title>{escape(p['title'])}</title><link>{escape(p['link'])}</link>"
+                f"<guid isPermaLink=\"false\">epk-{escape(p['pin_id'])}</guid><pubDate>{when}</pubDate>"
+                f"<description><![CDATA[<img src=\"{img}\" alt=\"{escape(p.get('alt_text', ''))}\"/><p>"
+                f"{escape(p.get('description', ''))}</p>]]></description>"
+                f"<enclosure url=\"{img}\" type=\"image/jpeg\" length=\"{size}\"/>"
+                f"<media:content url=\"{img}\" medium=\"image\" type=\"image/jpeg\"/></item>")
+
+    def feed(path: str, title: str, link: str, desc: str, items: list[dict]) -> None:
+        body = "".join(item(p) for p in items[:FEED_ITEMS])
+        write(path, '<?xml version="1.0" encoding="UTF-8"?>\n'
+              '<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/" '
+              'xmlns:atom="http://www.w3.org/2005/Atom"><channel>'
+              f"<title>{escape(title)}</title><link>{escape(link)}</link>"
+              f"<description>{escape(desc)}</description><language>{site['language']}</language>"
+              f'<atom:link href="{base}/{path}" rel="self" type="application/rss+xml"/>'
+              f"{body}</channel></rss>\n")
+
+    for b in boards:
+        mine = [p for p in posted if p["board"] == b["name"]]
+        feed(f"feeds/{b['slug']}.xml", f"{site['name']}: {b['name']}", f"{base}/c/{b['slug']}/",
+             b["description"], mine)
+    feed("feeds/all.xml", site["name"], f"{base}/", site["tagline"], posted)
 
 
 def asset_version() -> str:
@@ -163,6 +212,7 @@ def main() -> None:
     sm.append("</urlset>")
     write("sitemap.xml", "\n".join(sm))
     write("robots.txt", f"User-agent: *\nAllow: /\nSitemap: {base}/sitemap.xml\n")
+    write_feeds(cfg, boards, write)
     write(".nojekyll", "")
     if site.get("custom_domain"):
         write("CNAME", site["custom_domain"].strip() + "\n")

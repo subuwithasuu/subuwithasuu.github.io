@@ -84,7 +84,7 @@ schedule:
   max_posts_per_run: 4                # cap per hourly run
 
 mix:
-  video_share: 0.25
+  video_share: 0.0                    # RSS auto-publish carries image pins only (0.25 with the API route)
   pins_per_recipe: 4
   same_recipe_gap_days: 5
 

@@ -15,6 +15,7 @@ Layouts (stable names, used by the analytics feedback loop):
 """
 from __future__ import annotations
 
+import re
 import sys
 import zlib
 from pathlib import Path
@@ -184,7 +185,8 @@ def _single(c, cfg, pal, v, protein, p1, _p2):
     c.alpha_composite(Image.merge("RGBA", (*[Image.new("L", (W, H), 0)] * 3, scrim.resize((W, H)))))
     d = ImageDraw.Draw(c)
     acc = hex2rgb(pal["accent"])
-    tf, lines, lh = wrap_fit(d, v["overlay"].upper(), "impact", W - 2 * M, 420, 132, MIN_TITLE + 8,
+    title = re.sub(r"(\d+)G\b", r"\1g", v["overlay"].upper())      # "30g PROTEIN", not "30G"
+    tf, lines, lh = wrap_fit(d, title, "impact", W - 2 * M, 420, 132, MIN_TITLE + 8,
                              max_lines=3, spacing=1.04)
     sf = font("body", 30)
     ef = font("caps", 32)
