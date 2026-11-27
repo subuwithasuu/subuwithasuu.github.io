@@ -4,15 +4,18 @@ Everything in this folder is built and tested offline. What's left needs **your*
 You create every account and type every password and key yourself; Claude never does.
 
 - **GitHub:** your existing account `subuwithasuu`, repo **`subuwithasuu.github.io`** (public)
-- **Website (free, test phase):** **https://subuwithasuu.github.io**
+- **Website:** **https://easyproteinkitchen.online** (Namecheap, bought 27 Nov 2026 for 1 year,
+  auto-renew OFF; DNS: 4 GitHub A records + `www` CNAME to `subuwithasuu.github.io`)
 
-Every pin links to `subuwithasuu.github.io/recipes/...`. That address lives in exactly one place
+Every pin links to `easyproteinkitchen.online/recipes/...`. That address lives in exactly one place
 (`site.base_url` in `config.yaml`). The posting job **refuses to post** unless
-`https://subuwithasuu.github.io/privacy/` loads over HTTPS with no redirect to another site.
+`https://easyproteinkitchen.online/privacy/` loads over HTTPS with no redirect to another site.
+Old `subuwithasuu.github.io/...` links (the first pins) redirect to the domain automatically.
+Never delete or rename this repo: it hosts the site and the redirect.
 
-**Moving to your own domain later is safe:** when you add a custom domain to this repo, GitHub
-301-redirects every old `subuwithasuu.github.io/...` link to it, so pins already posted keep
-working. See "Moving to your own domain" at the end. Never delete or rename this repo afterwards.
+**If the domain is dropped later:** set `base_url` back to `https://subuwithasuu.github.io` and
+`custom_domain: null` in `config.yaml`, remove the Pages custom domain, and change the 8 feed URLs
+and the claimed website in Pinterest back. Pins made while on the domain would stop linking.
 
 ## How it runs (your Mac can stay off)
 
@@ -20,7 +23,7 @@ working. See "Moving to your own domain" at the end. Never delete or rename this
 |---|---|---|
 | `content.yml` | daily | Builds the first 60-recipe library (~25/day), then writes 12 more whenever unposted content drops below 3 weeks. Each recipe: Gemini writes → Gemini + Google Search fact-checks against published recipes → hard rules → **protein recalculated from the ingredients** → real Unsplash photos. |
 | `post.yml` | hourly | Checks the live site, then posts whatever is due (image pins + narrated video pins) |
-| `pages.yml` | after new content | Builds and deploys subuwithasuu.github.io |
+| `pages.yml` | after new content | Builds and deploys easyproteinkitchen.online |
 | `report.yml` | Mondays 09:00 IST | Weekly summary as a GitHub Issue (GitHub emails it to you) |
 
 Calendar: days 1-24 = 10-12 pins/day (each of the 8 boards reaches ~32 pins), then 3-5/day,
@@ -66,15 +69,15 @@ and sends you sample pins and a recipe page to approve the look. The 60-recipe l
    while API access is pending (the bot reuses boards with matching names):
    High Protein Dinners · High Protein Breakfast · High Protein Meal Prep · High Protein Vegetarian ·
    High Protein Snacks · 30 Minute High Protein Meals · High Protein Chicken Recipes · Budget High Protein Meals
-3. Settings → Claimed accounts → Websites → claim **`subuwithasuu.github.io`** with the **HTML tag**
+3. Settings → Claimed accounts → Websites → claim **`easyproteinkitchen.online`** (done 27 Nov 2026; earlier `subuwithasuu.github.io`) with the **HTML tag**
    option. Send Claude the `content="..."` code (it is public, not a secret).
 
 **Then Claude:** puts the code in the `PINTEREST_VERIFY` variable and redeploys. You then click **Verify** on Pinterest.
 
 ### Step 5: Pinterest developer app (15 min)
 1. developers.pinterest.com → log in with the business account → My apps → Connect app.
-   - Website: `https://subuwithasuu.github.io`
-   - Privacy policy: `https://subuwithasuu.github.io/privacy/`
+   - Website: `https://easyproteinkitchen.online`
+   - Privacy policy: `https://easyproteinkitchen.online/privacy/`
    - Description: use the "What does your app do?" text below
 2. In the app settings, add the redirect URI **`http://localhost:8085/callback`**.
 3. Save the App ID and secret as secrets `PINTEREST_APP_ID` and `PINTEREST_APP_SECRET`
@@ -140,20 +143,10 @@ When the approval email arrives, tell Claude. **Claude** then removes `PINTEREST
 
 ---
 
-## Moving to your own domain (when the account is working)
-1. Buy the domain (e.g. easyproteinkitchen.com; .com renews cheapest - avoid .online, it renews at ~Rs3,300+/yr).
-2. Add these DNS records at the registrar (Cloudflare: "DNS only"):
-
-   | Type | Name | Value |
-   |---|---|---|
-   | A | @ | 185.199.108.153 / .109.153 / .110.153 / .111.153 (4 records) |
-   | AAAA | @ | 2606:50c0:8000::153 / 8001 / 8002 / 8003 (4 records) |
-   | CNAME | www | subuwithasuu.github.io |
-
-3. GitHub profile Settings -> Pages -> Add a domain -> verify with the TXT record GitHub shows.
-4. Claude then sets it as this repo's custom domain, enforces HTTPS, changes `site.base_url` +
-   `custom_domain` in `config.yaml`, and you re-claim the new domain on Pinterest.
-   GitHub redirects all old github.io links, so existing pins keep working.
+## Own domain: DONE (27 Nov 2026)
+easyproteinkitchen.online is the Pages custom domain with HTTPS enforced; config, RSS feeds in
+Pinterest, the claimed website, the Pinterest profile website, GoatCounter and the repo homepage
+all use it. Renewal of .online is ~Rs2,500-3,500/yr; moving to a .com later means old pins break.
 
 ## Honest limits
 - The fact-check and rules cut recipe errors a lot but can't promise zero. Skim recipes in week 1.

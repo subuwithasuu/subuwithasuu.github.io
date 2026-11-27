@@ -111,6 +111,24 @@ def upload(csv_path: Path) -> tuple[bool, str]:
     return False, f"no success message, see {shot}"
 
 
+def kick_workflows() -> None:
+    """Backup timer: GitHub sometimes skips scheduled runs for hours. While the Mac is on,
+    start the posting job if it hasn't run for 90 min, and the recipe job after 14 h."""
+    repo = "subuwithasuu/subuwithasuu.github.io"
+    for wf, max_age in (("post.yml", timedelta(minutes=90)), ("content.yml", timedelta(hours=14)),
+                        ("health.yml", timedelta(hours=8))):
+        try:
+            out = subprocess.run(["gh", "run", "list", "--repo", repo, "--workflow", wf, "-L", "1",
+                                  "--json", "createdAt"], capture_output=True, text=True, timeout=60)
+            runs = __import__("json").loads(out.stdout or "[]")
+            last = datetime.fromisoformat(runs[0]["createdAt"].replace("Z", "+00:00")) if runs else None
+            if last is None or datetime.now(timezone.utc) - last > max_age:
+                subprocess.run(["gh", "workflow", "run", wf, "--repo", repo], capture_output=True, timeout=60)
+                log(f"backup timer: started {wf}")
+        except Exception as e:                         # never let this block the video upload
+            log(f"backup timer {wf}: {e}")
+
+
 def report_status(login: str) -> None:
     """Tell the GitHub health check whether the helper is logged in to Pinterest.
     Only pushes when the state changes, so the repo isn't spammed."""
@@ -174,6 +192,8 @@ def main() -> int:
     if a.login:
         return 0 if login_flow() else 1
 
+    if not a.dry_run:
+        kick_workflows()
     cfg = load_config()
     vb = cfg["video_batch"]
     state = read_json(STATE, {})
