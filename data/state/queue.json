@@ -693,6 +693,186 @@
         "palette": 4
       },
       "attempts": 0
+    },
+    {
+      "slot": "2026-11-30#00",
+      "due": "2026-11-30T12:27:12+00:00",
+      "status": "planned",
+      "item": {
+        "slug": "high-protein-crispy-peanut-tofu-and-edamame-stir-fry",
+        "board": "High Protein Vegetarian",
+        "kind": "image",
+        "variant": 0,
+        "hook_type": "number",
+        "layout": "band",
+        "palette": 0
+      },
+      "attempts": 0
+    },
+    {
+      "slot": "2026-11-30#01",
+      "due": "2026-11-30T13:23:38+00:00",
+      "status": "planned",
+      "item": {
+        "slug": "one-pan-honey-mustard-salmon-and-asparagus-quick-dinner",
+        "board": "High Protein Dinners",
+        "kind": "image",
+        "variant": 0,
+        "hook_type": "number",
+        "layout": "split",
+        "palette": 1
+      },
+      "attempts": 0
+    },
+    {
+      "slot": "2026-11-30#02",
+      "due": "2026-11-30T13:45:26+00:00",
+      "status": "planned",
+      "item": {
+        "slug": "high-protein-peanut-butter-banana-overnight-oats-30g-protein",
+        "board": "High Protein Breakfast",
+        "kind": "image",
+        "variant": 0,
+        "hook_type": "number",
+        "layout": "band",
+        "palette": 0
+      },
+      "attempts": 0
+    },
+    {
+      "slot": "2026-11-30#03",
+      "due": "2026-11-30T16:31:24+00:00",
+      "status": "planned",
+      "item": {
+        "slug": "high-protein-peanut-butter-protein-balls",
+        "board": "High Protein Snacks",
+        "kind": "image",
+        "variant": 0,
+        "hook_type": "number",
+        "layout": "split",
+        "palette": 1
+      },
+      "attempts": 0
+    },
+    {
+      "slot": "2026-11-30#04",
+      "due": "2026-11-30T17:37:51+00:00",
+      "status": "planned",
+      "item": {
+        "slug": "high-protein-chicken-burrito-bowl-with-greek-yogurt-crema",
+        "board": "High Protein Chicken Recipes",
+        "kind": "image",
+        "variant": 0,
+        "hook_type": "number",
+        "layout": "band",
+        "palette": 1
+      },
+      "attempts": 0
+    },
+    {
+      "slot": "2026-11-30#05",
+      "due": "2026-11-30T18:11:17+00:00",
+      "status": "planned",
+      "item": {
+        "slug": "high-protein-chicken-teriyaki-stir-fry",
+        "board": "30 Minute High Protein Meals",
+        "kind": "image",
+        "variant": 3,
+        "hook_type": "teacher",
+        "layout": "single",
+        "palette": 4
+      },
+      "attempts": 0
+    },
+    {
+      "slot": "2026-11-30#06",
+      "due": "2026-11-30T22:14:23+00:00",
+      "status": "planned",
+      "item": {
+        "slug": "high-protein-turkey-and-black-bean-burrito-bowls",
+        "board": "High Protein Meal Prep",
+        "kind": "image",
+        "variant": 3,
+        "hook_type": "budget",
+        "layout": "band",
+        "palette": 3
+      },
+      "attempts": 0
+    },
+    {
+      "slot": "2026-11-30#07",
+      "due": "2026-11-30T23:17:59+00:00",
+      "status": "planned",
+      "item": {
+        "slug": "high-protein-crispy-peanut-tofu-and-edamame-stir-fry",
+        "board": "High Protein Vegetarian",
+        "kind": "image",
+        "variant": 1,
+        "hook_type": "speed",
+        "layout": "band",
+        "palette": 0
+      },
+      "attempts": 0
+    },
+    {
+      "slot": "2026-11-30#08",
+      "due": "2026-11-30T23:41:21+00:00",
+      "status": "planned",
+      "item": {
+        "slug": "one-pan-honey-mustard-salmon-and-asparagus-quick-dinner",
+        "board": "High Protein Dinners",
+        "kind": "image",
+        "variant": 1,
+        "hook_type": "speed",
+        "layout": "band",
+        "palette": 3
+      },
+      "attempts": 0
+    },
+    {
+      "slot": "2026-11-30#09",
+      "due": "2026-12-01T00:32:12+00:00",
+      "status": "planned",
+      "item": {
+        "slug": "high-protein-peanut-butter-banana-overnight-oats-30g-protein",
+        "board": "High Protein Breakfast",
+        "kind": "image",
+        "variant": 1,
+        "hook_type": "speed",
+        "layout": "split",
+        "palette": 0
+      },
+      "attempts": 0
+    },
+    {
+      "slot": "2026-11-30#10",
+      "due": "2026-12-01T01:19:31+00:00",
+      "status": "planned",
+      "item": {
+        "slug": "high-protein-peanut-butter-protein-balls",
+        "board": "High Protein Snacks",
+        "kind": "image",
+        "variant": 1,
+        "hook_type": "speed",
+        "layout": "single",
+        "palette": 4
+      },
+      "attempts": 0
+    },
+    {
+      "slot": "2026-11-30#11",
+      "due": "2026-12-01T01:51:06+00:00",
+      "status": "planned",
+      "item": {
+        "slug": "high-protein-chicken-burrito-bowl-with-greek-yogurt-crema",
+        "board": "High Protein Chicken Recipes",
+        "kind": "image",
+        "variant": 1,
+        "hook_type": "speed",
+        "layout": "single",
+        "palette": 0
+      },
+      "attempts": 0
     }
   ]
 }
