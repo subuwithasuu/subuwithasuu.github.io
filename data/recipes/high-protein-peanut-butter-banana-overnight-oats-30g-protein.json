@@ -1,0 +1,255 @@
+{
+  "title": "High-Protein Peanut Butter Banana Overnight Oats - 25g Protein",
+  "description": "Start your morning with high-protein peanut butter banana overnight oats packed with Greek yogurt and whey protein, ready in 10 minutes. This easy make-ahead breakfast fuels your day without any morning cooking. Save it for your next meal prep.",
+  "cuisine": "American",
+  "category": "Breakfast",
+  "servings": 4,
+  "protein_g_per_serving": 30,
+  "prep_minutes": 10,
+  "cook_minutes": 0,
+  "total_minutes": 10,
+  "ingredients": [
+    {
+      "qty": "2",
+      "unit": "cups",
+      "item": "rolled oats",
+      "metric": "160 g",
+      "note": "old-fashioned"
+    },
+    {
+      "qty": "1",
+      "unit": "cup",
+      "item": "plain Greek yogurt",
+      "metric": "240 g",
+      "note": "non-fat"
+    },
+    {
+      "qty": "2",
+      "unit": "scoops",
+      "item": "whey protein powder",
+      "metric": "60 g",
+      "note": "vanilla flavor"
+    },
+    {
+      "qty": "1 1/2",
+      "unit": "cups",
+      "item": "unsweetened almond milk",
+      "metric": "360 ml",
+      "note": "or milk of choice"
+    },
+    {
+      "qty": "4",
+      "unit": "tbsp",
+      "item": "natural peanut butter",
+      "metric": "64 g",
+      "note": "smooth or crunchy"
+    },
+    {
+      "qty": "2",
+      "unit": "medium",
+      "item": "bananas",
+      "metric": "240 g",
+      "note": "sliced"
+    }
+  ],
+  "steps": [
+    "In a large mixing bowl, combine 2 cups rolled oats (160 g), 1 cup non-fat plain Greek yogurt (240 g), 2 scoops vanilla whey protein powder (60 g), and 1 1/2 cups unsweetened almond milk (360 ml). Stir vigorously with a wire whisk for 60 seconds until the protein powder is completely dissolved and no dry clumps remain.",
+    "Fold in half of the sliced bananas (120 g) and divide the oat mixture evenly across 4 airtight meal prep jars or containers.",
+    "Top each jar with 1 tablespoon of natural peanut butter (16 g) and the remaining banana slices (120 g).",
+    "Seal the containers tightly with lids and place them in the refrigerator for at least 4 hours, or overnight, until the oats have softened and absorbed the liquid.",
+    "Remove from the refrigerator, stir gently if desired, and serve cold once the oats reach a thick, creamy consistency."
+  ],
+  "tips": [
+    "Use a shaker bottle to pre-mix the almond milk and protein powder before pouring over the oats to guarantee a completely smooth texture.",
+    "If the mixture thickens too much overnight, stir in an extra splash of almond milk before eating."
+  ],
+  "storage": "Keep sealed in the refrigerator for up to 4 days.",
+  "tools": [
+    "large mixing bowl",
+    "wire whisk",
+    "4 airtight meal prep jars"
+  ],
+  "keywords": [
+    "high protein overnight oats",
+    "peanut butter banana overnight oats",
+    "protein powder overnight oats",
+    "meal prep high protein breakfast",
+    "Greek yogurt overnight oats",
+    "easy high protein breakfast"
+  ],
+  "pin_variants": [
+    {
+      "hook_type": "number",
+      "title": "25g Protein Peanut Butter Banana Overnight Oats - Easy Breakfast",
+      "description": "Fuel your morning with high-protein peanut butter banana overnight oats packed with 25g of protein and ready in just 10 minutes. This simple make-ahead breakfast requires no morning cooking and keeps you full for hours. Save it for your next meal prep.",
+      "overlay": "25g Protein Peanut Butter Oats",
+      "subline": "Ready in 10 Minutes",
+      "alt_text": "Four jars of layered overnight oats topped with peanut butter and banana slices on a wooden table."
+    },
+    {
+      "hook_type": "speed",
+      "title": "10-Minute High-Protein Peanut Butter Banana Overnight Oats",
+      "description": "Make high-protein peanut butter banana overnight oats in 10 minutes with Greek yogurt and protein powder for a 25g protein breakfast. This fast meal prep recipe requires zero morning cooking. Save it for your next meal prep.",
+      "overlay": "10-Minute High Protein Breakfast",
+      "subline": "25g Protein Per Serving",
+      "alt_text": "A glass jar filled with overnight oats, sliced bananas, and a dollop of peanut butter."
+    },
+    {
+      "hook_type": "outcome",
+      "title": "Prep Once: High-Protein Peanut Butter Banana Overnight Oats",
+      "description": "Achieve your nutrition goals with high-protein peanut butter banana overnight oats delivering 25g protein in a 10-minute recipe. Enjoy a creamy, satisfying breakfast waiting in your fridge every morning. Save it for your next meal prep.",
+      "overlay": "Prep Once, Eat Protein All Week",
+      "subline": "Meal Prep Friendly",
+      "alt_text": "Multiple meal prep containers filled with oats, bananas, and peanut butter."
+    },
+    {
+      "hook_type": "contrarian",
+      "title": "Skip the Shake: High-Protein Peanut Butter Banana Oats",
+      "description": "Skip the boring protein shake and eat high-protein peanut butter banana overnight oats with 25g protein and 10-minute prep. Real food ingredients create a thick, satisfying breakfast. Save it for your next meal prep.",
+      "overlay": "Skip the Shake: 25g Protein Oats",
+      "subline": "Made With Real Food",
+      "alt_text": "A spoon scooping creamy overnight oats with peanut butter and banana from a glass jar."
+    }
+  ],
+  "video_script": {
+    "hook": "Make these peanut butter banana overnight oats with thirty grams of protein.",
+    "steps_short": [
+      "Combine rolled oats, Greek yogurt, protein powder, and almond milk in a bowl.",
+      "Whisk until completely smooth with no dry protein powder clumps.",
+      "Fold in half of the sliced bananas and divide into four jars.",
+      "Top each jar with natural peanut butter and remaining bananas.",
+      "Seal and refrigerate overnight until thick and creamy."
+    ],
+    "outro": "Find the full recipe details on the website."
+  },
+  "photo_queries": [
+    "peanut butter banana overnight oats in a jar",
+    "high protein overnight oats meal prep",
+    "oatmeal breakfast jar with banana and peanut butter"
+  ],
+  "must_match": [
+    "oats",
+    "banana",
+    "peanut",
+    "breakfast"
+  ],
+  "board": "High Protein Breakfast",
+  "slug": "high-protein-peanut-butter-banana-overnight-oats-30g-protein",
+  "protein_g": 25,
+  "photos": [
+    {
+      "id": "u-J64Ajy9U9ck",
+      "width": 2567,
+      "height": 3209,
+      "alt": "Peanut butter poured over stacked overnight oats jars",
+      "photographer": "Tyraan Lopes",
+      "photographer_url": "https://unsplash.com/@tyraan_eleat?utm_source=easy_protein_kitchen&utm_medium=referral",
+      "page_url": "https://unsplash.com/photos/peanut-butter-poured-over-stacked-overnight-oats-jars-J64Ajy9U9ck?utm_source=easy_protein_kitchen&utm_medium=referral",
+      "source": "Unsplash",
+      "source_url": "https://unsplash.com/?utm_source=easy_protein_kitchen&utm_medium=referral",
+      "src": "https://images.unsplash.com/photo-1756457551278-98c6bc525d54?ixid=M3wxMTQzODc5fDB8MXxzZWFyY2h8Mnx8cGVhbnV0JTIwYnV0dGVyJTIwYmFuYW5hJTIwb3Zlcm5pZ2h0JTIwb2F0cyUyMGluJTIwYSUyMGphcnxlbnwxfDF8fHwxNzk1NzY5NjI5fDA&ixlib=rb-4.1.0",
+      "web": "https://images.unsplash.com/photo-1756457551278-98c6bc525d54?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTQzODc5fDB8MXxzZWFyY2h8Mnx8cGVhbnV0JTIwYnV0dGVyJTIwYmFuYW5hJTIwb3Zlcm5pZ2h0JTIwb2F0cyUyMGluJTIwYSUyMGphcnxlbnwxfDF8fHwxNzk1NzY5NjI5fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "download_location": "https://api.unsplash.com/photos/J64Ajy9U9ck/download?ixid=M3wxMTQzODc5fDB8MXxzZWFyY2h8Mnx8cGVhbnV0JTIwYnV0dGVyJTIwYmFuYW5hJTIwb3Zlcm5pZ2h0JTIwb2F0cyUyMGluJTIwYSUyMGphcnxlbnwxfDF8fHwxNzk1NzY5NjI5fDA",
+      "score": 17
+    },
+    {
+      "id": "u-RMmJU0wCQwQ",
+      "width": 2330,
+      "height": 2912,
+      "alt": "Peanut butter drizzled over stacked jars of oatmeal with bananas",
+      "photographer": "Tyraan Lopes",
+      "photographer_url": "https://unsplash.com/@tyraan_eleat?utm_source=easy_protein_kitchen&utm_medium=referral",
+      "page_url": "https://unsplash.com/photos/peanut-butter-drizzled-over-stacked-jars-of-oatmeal-with-bananas-RMmJU0wCQwQ?utm_source=easy_protein_kitchen&utm_medium=referral",
+      "source": "Unsplash",
+      "source_url": "https://unsplash.com/?utm_source=easy_protein_kitchen&utm_medium=referral",
+      "src": "https://images.unsplash.com/photo-1756457144649-51b00c269554?ixid=M3wxMTQzODc5fDB8MXxzZWFyY2h8MXx8cGVhbnV0JTIwYnV0dGVyJTIwYmFuYW5hJTIwb3Zlcm5pZ2h0JTIwb2F0cyUyMGluJTIwYSUyMGphcnxlbnwxfDF8fHwxNzk1NzY5NjI5fDA&ixlib=rb-4.1.0",
+      "web": "https://images.unsplash.com/photo-1756457144649-51b00c269554?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTQzODc5fDB8MXxzZWFyY2h8MXx8cGVhbnV0JTIwYnV0dGVyJTIwYmFuYW5hJTIwb3Zlcm5pZ2h0JTIwb2F0cyUyMGluJTIwYSUyMGphcnxlbnwxfDF8fHwxNzk1NzY5NjI5fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "download_location": "https://api.unsplash.com/photos/RMmJU0wCQwQ/download?ixid=M3wxMTQzODc5fDB8MXxzZWFyY2h8MXx8cGVhbnV0JTIwYnV0dGVyJTIwYmFuYW5hJTIwb3Zlcm5pZ2h0JTIwb2F0cyUyMGluJTIwYSUyMGphcnxlbnwxfDF8fHwxNzk1NzY5NjI5fDA",
+      "score": 15
+    },
+    {
+      "id": "u-cBYVDGeihwc",
+      "width": 4480,
+      "height": 5973,
+      "alt": "a hand dropping peanuts into a jar of peanut butter",
+      "photographer": "Happy Jars",
+      "photographer_url": "https://unsplash.com/@happyjars?utm_source=easy_protein_kitchen&utm_medium=referral",
+      "page_url": "https://unsplash.com/photos/a-hand-dropping-peanuts-into-a-jar-of-peanut-butter-cBYVDGeihwc?utm_source=easy_protein_kitchen&utm_medium=referral",
+      "source": "Unsplash",
+      "source_url": "https://unsplash.com/?utm_source=easy_protein_kitchen&utm_medium=referral",
+      "src": "https://images.unsplash.com/photo-1654747780214-bbfbeb4fd64a?ixid=M3wxMTQzODc5fDB8MXxzZWFyY2h8MTh8fG9hdG1lYWwlMjBicmVha2Zhc3QlMjBqYXIlMjB3aXRoJTIwYmFuYW5hJTIwYW5kJTIwcGVhbnV0JTIwYnV0dGVyfGVufDF8MXx8fDE3OTU3Njk2MzF8MA&ixlib=rb-4.1.0",
+      "web": "https://images.unsplash.com/photo-1654747780214-bbfbeb4fd64a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTQzODc5fDB8MXxzZWFyY2h8MTh8fG9hdG1lYWwlMjBicmVha2Zhc3QlMjBqYXIlMjB3aXRoJTIwYmFuYW5hJTIwYW5kJTIwcGVhbnV0JTIwYnV0dGVyfGVufDF8MXx8fDE3OTU3Njk2MzF8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "download_location": "https://api.unsplash.com/photos/cBYVDGeihwc/download?ixid=M3wxMTQzODc5fDB8MXxzZWFyY2h8MTh8fG9hdG1lYWwlMjBicmVha2Zhc3QlMjBqYXIlMjB3aXRoJTIwYmFuYW5hJTIwYW5kJTIwcGVhbnV0JTIwYnV0dGVyfGVufDF8MXx8fDE3OTU3Njk2MzF8MA",
+      "score": 10
+    },
+    {
+      "id": "u-0BF_Kpcmyig",
+      "width": 2994,
+      "height": 4378,
+      "alt": "person putting sliced banana fruit on top of jar",
+      "photographer": "Louis Hansel",
+      "photographer_url": "https://unsplash.com/@louishansel?utm_source=easy_protein_kitchen&utm_medium=referral",
+      "page_url": "https://unsplash.com/photos/person-putting-sliced-banana-fruit-on-top-of-jar-0BF_Kpcmyig?utm_source=easy_protein_kitchen&utm_medium=referral",
+      "source": "Unsplash",
+      "source_url": "https://unsplash.com/?utm_source=easy_protein_kitchen&utm_medium=referral",
+      "src": "https://images.unsplash.com/photo-1542444592-0d5997f202eb?ixid=M3wxMTQzODc5fDB8MXxzZWFyY2h8MjV8fHBlYW51dCUyMGJ1dHRlciUyMGJhbmFuYSUyMG92ZXJuaWdodCUyMG9hdHMlMjBpbiUyMGElMjBqYXJ8ZW58MXwxfHx8MTc5NTc2OTYyOXww&ixlib=rb-4.1.0",
+      "web": "https://images.unsplash.com/photo-1542444592-0d5997f202eb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTQzODc5fDB8MXxzZWFyY2h8MjV8fHBlYW51dCUyMGJ1dHRlciUyMGJhbmFuYSUyMG92ZXJuaWdodCUyMG9hdHMlMjBpbiUyMGElMjBqYXJ8ZW58MXwxfHx8MTc5NTc2OTYyOXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "download_location": "https://api.unsplash.com/photos/0BF_Kpcmyig/download?ixid=M3wxMTQzODc5fDB8MXxzZWFyY2h8MjV8fHBlYW51dCUyMGJ1dHRlciUyMGJhbmFuYSUyMG92ZXJuaWdodCUyMG9hdHMlMjBpbiUyMGElMjBqYXJ8ZW58MXwxfHx8MTc5NTc2OTYyOXww",
+      "score": 8
+    },
+    {
+      "id": "u-LQqNU7Yai_c",
+      "width": 4000,
+      "height": 6000,
+      "alt": "brown peanuts in clear glass jar",
+      "photographer": "Daniela Chavez",
+      "photographer_url": "https://unsplash.com/@dani8808?utm_source=easy_protein_kitchen&utm_medium=referral",
+      "page_url": "https://unsplash.com/photos/brown-peanuts-in-clear-glass-jar-LQqNU7Yai_c?utm_source=easy_protein_kitchen&utm_medium=referral",
+      "source": "Unsplash",
+      "source_url": "https://unsplash.com/?utm_source=easy_protein_kitchen&utm_medium=referral",
+      "src": "https://images.unsplash.com/photo-1622737022383-476e2c48cc1f?ixid=M3wxMTQzODc5fDB8MXxzZWFyY2h8MjJ8fG9hdG1lYWwlMjBicmVha2Zhc3QlMjBqYXIlMjB3aXRoJTIwYmFuYW5hJTIwYW5kJTIwcGVhbnV0JTIwYnV0dGVyfGVufDF8MXx8fDE3OTU3Njk2MzF8MA&ixlib=rb-4.1.0",
+      "web": "https://images.unsplash.com/photo-1622737022383-476e2c48cc1f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTQzODc5fDB8MXxzZWFyY2h8MjJ8fG9hdG1lYWwlMjBicmVha2Zhc3QlMjBqYXIlMjB3aXRoJTIwYmFuYW5hJTIwYW5kJTIwcGVhbnV0JTIwYnV0dGVyfGVufDF8MXx8fDE3OTU3Njk2MzF8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "download_location": "https://api.unsplash.com/photos/LQqNU7Yai_c/download?ixid=M3wxMTQzODc5fDB8MXxzZWFyY2h8MjJ8fG9hdG1lYWwlMjBicmVha2Zhc3QlMjBqYXIlMjB3aXRoJTIwYmFuYW5hJTIwYW5kJTIwcGVhbnV0JTIwYnV0dGVyfGVufDF8MXx8fDE3OTU3Njk2MzF8MA",
+      "score": 8
+    },
+    {
+      "id": "u-_etIC7IAILk",
+      "width": 4000,
+      "height": 6016,
+      "alt": "A bowl of oatmeal with blueberries and bananas",
+      "photographer": "Dilara",
+      "photographer_url": "https://unsplash.com/@dilara_?utm_source=easy_protein_kitchen&utm_medium=referral",
+      "page_url": "https://unsplash.com/photos/a-bowl-of-oatmeal-with-blueberries-and-bananas-_etIC7IAILk?utm_source=easy_protein_kitchen&utm_medium=referral",
+      "source": "Unsplash",
+      "source_url": "https://unsplash.com/?utm_source=easy_protein_kitchen&utm_medium=referral",
+      "src": "https://images.unsplash.com/photo-1728078465803-ffe80c87b1e6?ixid=M3wxMTQzODc5fDB8MXxzZWFyY2h8MTd8fHBlYW51dCUyMGJ1dHRlciUyMGJhbmFuYSUyMG92ZXJuaWdodCUyMG9hdHMlMjBpbiUyMGElMjBqYXJ8ZW58MXwxfHx8MTc5NTc2OTYyOXww&ixlib=rb-4.1.0",
+      "web": "https://images.unsplash.com/photo-1728078465803-ffe80c87b1e6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTQzODc5fDB8MXxzZWFyY2h8MTd8fHBlYW51dCUyMGJ1dHRlciUyMGJhbmFuYSUyMG92ZXJuaWdodCUyMG9hdHMlMjBpbiUyMGElMjBqYXJ8ZW58MXwxfHx8MTc5NTc2OTYyOXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "download_location": "https://api.unsplash.com/photos/_etIC7IAILk/download?ixid=M3wxMTQzODc5fDB8MXxzZWFyY2h8MTd8fHBlYW51dCUyMGJ1dHRlciUyMGJhbmFuYSUyMG92ZXJuaWdodCUyMG9hdHMlMjBpbiUyMGElMjBqYXJ8ZW58MXwxfHx8MTc5NTc2OTYyOXww",
+      "score": 6
+    }
+  ],
+  "verification": {
+    "checks": [
+      {
+        "verdict": "pass",
+        "issues": [],
+        "sources": [
+          {
+            "name": "BBC Good Food - Peanut butter & banana overnight oats",
+            "url": "https://www.bbcgoodfood.com/recipes/peanut-butter-banana-overnight-oats"
+          },
+          {
+            "name": "Allrecipes - Peanut Butter Protein Overnight Oats",
+            "url": "https://www.allrecipes.com/recipe/284996/peanut-butter-protein-overnight-oats/"
+          }
+        ],
+        "grounded": false
+      }
+    ],
+    "rule_warnings": [
+      "unusual unit 'scoops' for 'whey protein powder'"
+    ],
+    "model": "gemini-3.6-flash"
+  },
+  "created": "2026-11-27"
+}

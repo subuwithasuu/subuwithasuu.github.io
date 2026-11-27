@@ -1,0 +1,278 @@
+{
+  "title": "One-Pan Honey Mustard Salmon and Asparagus - Quick Dinner",
+  "description": "This one-pan honey mustard salmon and asparagus delivers 34g of protein in just 25 minutes. Fresh salmon fillets and tender asparagus spears roast together on a single baking sheet with a tangy glaze. Save it for your next easy weeknight dinner.",
+  "cuisine": "American",
+  "category": "Dinner",
+  "servings": 4,
+  "protein_g_per_serving": 35,
+  "prep_minutes": 10,
+  "cook_minutes": 15,
+  "total_minutes": 25,
+  "ingredients": [
+    {
+      "qty": "4",
+      "unit": "fillets",
+      "item": "skin-on salmon fillets",
+      "metric": "680 g",
+      "note": "about 170g each"
+    },
+    {
+      "qty": "1",
+      "unit": "bunch",
+      "item": "fresh asparagus",
+      "metric": "454 g",
+      "note": "woody ends trimmed"
+    },
+    {
+      "qty": "3",
+      "unit": "tablespoons",
+      "item": "whole grain mustard",
+      "metric": "45 ml",
+      "note": ""
+    },
+    {
+      "qty": "2",
+      "unit": "tablespoons",
+      "item": "honey",
+      "metric": "40 g",
+      "note": ""
+    },
+    {
+      "qty": "1",
+      "unit": "tablespoon",
+      "item": "olive oil",
+      "metric": "15 ml",
+      "note": ""
+    },
+    {
+      "qty": "1",
+      "unit": "clove",
+      "item": "garlic",
+      "metric": "3 g",
+      "note": "minced"
+    },
+    {
+      "qty": "1/2",
+      "unit": "teaspoon",
+      "item": "kosher salt",
+      "metric": "3 g",
+      "note": ""
+    },
+    {
+      "qty": "1/4",
+      "unit": "teaspoon",
+      "item": "black pepper",
+      "metric": "1 g",
+      "note": ""
+    }
+  ],
+  "steps": [
+    "Preheat the oven to 400°F (200°C). Line a large rimmed baking sheet with parchment paper.",
+    "In a small mixing bowl, whisk together the whole grain mustard, honey, olive oil, minced garlic, kosher salt, and black pepper until smooth.",
+    "Arrange the salmon fillets down the center of the prepared baking sheet, leaving space on the sides.",
+    "Place the trimmed asparagus spears in a single layer on both sides of the salmon.",
+    "Brush the honey mustard glaze evenly over the top of each salmon fillet and drizzle the remaining glaze over the asparagus.",
+    "Roast in the preheated oven at 400°F (200°C) for 12 to 15 minutes, until the salmon flakes easily with a fork and the asparagus is tender-crisp."
+  ],
+  "tips": [
+    "Ensure salmon fillets are of similar thickness so they cook at the exact same rate.",
+    "Store leftover cooked salmon and asparagus in an airtight container in the refrigerator for up to 3 days."
+  ],
+  "storage": "Store in an airtight container in the refrigerator for up to 3 days.",
+  "tools": [
+    "large rimmed baking sheet",
+    "parchment paper",
+    "small mixing bowl",
+    "wire whisk",
+    "pastry brush"
+  ],
+  "keywords": [
+    "honey mustard salmon",
+    "baked salmon and asparagus",
+    "one pan salmon recipe",
+    "high protein salmon dinner",
+    "sheet pan salmon and asparagus",
+    "healthy salmon meal prep",
+    "easy baked salmon fillets"
+  ],
+  "pin_variants": [
+    {
+      "hook_type": "number",
+      "title": "34g Protein One-Pan Honey Mustard Salmon and Asparagus",
+      "description": "Get 34g of protein in 25 minutes with this easy one-pan honey mustard salmon and asparagus recipe. Roasted on a single sheet pan with a sweet and tangy glaze, it makes clean-up effortless. Save it for your next quick weeknight dinner.",
+      "overlay": "34g Protein Sheet Pan Salmon",
+      "subline": "Ready in 25 Minutes",
+      "alt_text": "Baked honey mustard salmon fillets and roasted asparagus on a parchment-lined baking sheet."
+    },
+    {
+      "hook_type": "speed",
+      "title": "25-Minute Honey Mustard Salmon and Asparagus Dinner",
+      "description": "Make a 25-minute honey mustard salmon and asparagus dinner packed with 34g of protein per serving. Everything roasts together on one pan for a fast and delicious meal. Save it for your next busy evening.",
+      "overlay": "25-Minute Salmon and Asparagus",
+      "subline": "One-Pan Dinner",
+      "alt_text": "Freshly roasted salmon and bright green asparagus spears arranged on a baking sheet."
+    },
+    {
+      "hook_type": "outcome",
+      "title": "Easy One-Pan Honey Mustard Salmon and Asparagus",
+      "description": "Enjoy a flavorful honey mustard salmon and asparagus dinner with 34g of protein ready in 25 minutes. This sheet pan meal requires minimal cleanup and delivers tender fish every time. Save it for your next meal prep rotation.",
+      "overlay": "Easy One-Pan Salmon Dinner",
+      "subline": "34g Protein",
+      "alt_text": "Close up of glazed salmon fillet next to roasted green asparagus."
+    },
+    {
+      "hook_type": "teacher",
+      "title": "Sheet Pan Honey Mustard Salmon and Asparagus Method",
+      "description": "Learn how to roast honey mustard salmon and asparagus on a single pan in just 25 minutes. With 34g of protein per serving, this foolproof technique guarantees juicy fish and tender vegetables. Save it to try tonight.",
+      "overlay": "Sheet Pan Salmon Technique",
+      "subline": "Quick Cleanup",
+      "alt_text": "Overhead view of seasoned salmon and asparagus on a baking sheet ready for the oven."
+    }
+  ],
+  "video_script": {
+    "hook": "Make this 25-minute honey mustard salmon with 34 grams of protein.",
+    "steps_short": [
+      "Arrange salmon and asparagus on a lined baking sheet.",
+      "Whisk honey, mustard, oil, garlic, salt, and pepper.",
+      "Brush the glaze generously over the salmon fillets.",
+      "Roast at 400 degrees Fahrenheit for 15 minutes until tender."
+    ],
+    "outro": "Find the complete recipe details and instructions on our website."
+  },
+  "photo_queries": [
+    "baked salmon and asparagus sheet pan",
+    "honey mustard salmon fillets",
+    "roasted salmon and vegetables"
+  ],
+  "must_match": [
+    "salmon",
+    "asparagus"
+  ],
+  "board": "High Protein Dinners",
+  "slug": "one-pan-honey-mustard-salmon-and-asparagus-quick-dinner",
+  "protein_g": 34,
+  "photos": [
+    {
+      "id": "u-M3hLFfucd1Y",
+      "width": 4000,
+      "height": 6000,
+      "alt": "a person holding a plate of food Lachsfilet\nsalmon fillet",
+      "photographer": "Janine Meuche",
+      "photographer_url": "https://unsplash.com/@janine152?utm_source=easy_protein_kitchen&utm_medium=referral",
+      "page_url": "https://unsplash.com/photos/a-person-holding-a-plate-of-food-M3hLFfucd1Y?utm_source=easy_protein_kitchen&utm_medium=referral",
+      "source": "Unsplash",
+      "source_url": "https://unsplash.com/?utm_source=easy_protein_kitchen&utm_medium=referral",
+      "src": "https://images.unsplash.com/photo-1651566352826-0a473c741077?ixid=M3wxMTQzODc5fDB8MXxzZWFyY2h8M3x8aG9uZXklMjBtdXN0YXJkJTIwc2FsbW9uJTIwZmlsbGV0c3xlbnwxfDF8fHwxNzk1NzY5NDI2fDA&ixlib=rb-4.1.0",
+      "web": "https://images.unsplash.com/photo-1651566352826-0a473c741077?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTQzODc5fDB8MXxzZWFyY2h8M3x8aG9uZXklMjBtdXN0YXJkJTIwc2FsbW9uJTIwZmlsbGV0c3xlbnwxfDF8fHwxNzk1NzY5NDI2fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "download_location": "https://api.unsplash.com/photos/M3hLFfucd1Y/download?ixid=M3wxMTQzODc5fDB8MXxzZWFyY2h8M3x8aG9uZXklMjBtdXN0YXJkJTIwc2FsbW9uJTIwZmlsbGV0c3xlbnwxfDF8fHwxNzk1NzY5NDI2fDA",
+      "score": 8
+    },
+    {
+      "id": "u-Qc0Od6_PM2I",
+      "width": 3143,
+      "height": 4715,
+      "alt": "Salmon fillets in green sauce in a white dish",
+      "photographer": "Rodrigo Rodrigues | WOLF Λ R T",
+      "photographer_url": "https://unsplash.com/@wolfart32?utm_source=easy_protein_kitchen&utm_medium=referral",
+      "page_url": "https://unsplash.com/photos/salmon-fillets-in-green-sauce-in-a-white-dish-Qc0Od6_PM2I?utm_source=easy_protein_kitchen&utm_medium=referral",
+      "source": "Unsplash",
+      "source_url": "https://unsplash.com/?utm_source=easy_protein_kitchen&utm_medium=referral",
+      "src": "https://images.unsplash.com/photo-1756066234411-252edeed6780?ixid=M3wxMTQzODc5fDB8MXxzZWFyY2h8MTZ8fGhvbmV5JTIwbXVzdGFyZCUyMHNhbG1vbiUyMGZpbGxldHN8ZW58MXwxfHx8MTc5NTc2OTQyNnww&ixlib=rb-4.1.0",
+      "web": "https://images.unsplash.com/photo-1756066234411-252edeed6780?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTQzODc5fDB8MXxzZWFyY2h8MTZ8fGhvbmV5JTIwbXVzdGFyZCUyMHNhbG1vbiUyMGZpbGxldHN8ZW58MXwxfHx8MTc5NTc2OTQyNnww&ixlib=rb-4.1.0&q=80&w=1080",
+      "download_location": "https://api.unsplash.com/photos/Qc0Od6_PM2I/download?ixid=M3wxMTQzODc5fDB8MXxzZWFyY2h8MTZ8fGhvbmV5JTIwbXVzdGFyZCUyMHNhbG1vbiUyMGZpbGxldHN8ZW58MXwxfHx8MTc5NTc2OTQyNnww",
+      "score": 8
+    },
+    {
+      "id": "u-ND3edEmzcdQ",
+      "width": 3648,
+      "height": 5472,
+      "alt": "Salmon fillets in a creamy orange sauce with lemon slices and fresh herbs",
+      "photographer": "khloe arledge",
+      "photographer_url": "https://unsplash.com/@khloephoto?utm_source=easy_protein_kitchen&utm_medium=referral",
+      "page_url": "https://unsplash.com/photos/salmon-in-creamy-sauce-dinner-ND3edEmzcdQ?utm_source=easy_protein_kitchen&utm_medium=referral",
+      "source": "Unsplash",
+      "source_url": "https://unsplash.com/?utm_source=easy_protein_kitchen&utm_medium=referral",
+      "src": "https://images.unsplash.com/photo-1574484284002-952d92456975?ixid=M3wxMTQzODc5fDB8MXxzZWFyY2h8MTd8fGhvbmV5JTIwbXVzdGFyZCUyMHNhbG1vbiUyMGZpbGxldHN8ZW58MXwxfHx8MTc5NTc2OTQyNnww&ixlib=rb-4.1.0",
+      "web": "https://images.unsplash.com/photo-1574484284002-952d92456975?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTQzODc5fDB8MXxzZWFyY2h8MTd8fGhvbmV5JTIwbXVzdGFyZCUyMHNhbG1vbiUyMGZpbGxldHN8ZW58MXwxfHx8MTc5NTc2OTQyNnww&ixlib=rb-4.1.0&q=80&w=1080",
+      "download_location": "https://api.unsplash.com/photos/ND3edEmzcdQ/download?ixid=M3wxMTQzODc5fDB8MXxzZWFyY2h8MTd8fGhvbmV5JTIwbXVzdGFyZCUyMHNhbG1vbiUyMGZpbGxldHN8ZW58MXwxfHx8MTc5NTc2OTQyNnww",
+      "score": 8
+    },
+    {
+      "id": "u-_1eNrp1JvA4",
+      "width": 3024,
+      "height": 4032,
+      "alt": "Fresh sliced salmon fillets in seafood market Fresh seafood market with sliced salmon fillets",
+      "photographer": "engin akyurt",
+      "photographer_url": "https://unsplash.com/@enginakyurt?utm_source=easy_protein_kitchen&utm_medium=referral",
+      "page_url": "https://unsplash.com/photos/fresh-sliced-salmon-fillets-in-seafood-market-_1eNrp1JvA4?utm_source=easy_protein_kitchen&utm_medium=referral",
+      "source": "Unsplash",
+      "source_url": "https://unsplash.com/?utm_source=easy_protein_kitchen&utm_medium=referral",
+      "src": "https://images.unsplash.com/photo-1784043436597-e4bcc08ec4cc?ixid=M3wxMTQzODc5fDB8MXxzZWFyY2h8MjR8fGhvbmV5JTIwbXVzdGFyZCUyMHNhbG1vbiUyMGZpbGxldHN8ZW58MXwxfHx8MTc5NTc2OTQyNnww&ixlib=rb-4.1.0",
+      "web": "https://images.unsplash.com/photo-1784043436597-e4bcc08ec4cc?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTQzODc5fDB8MXxzZWFyY2h8MjR8fGhvbmV5JTIwbXVzdGFyZCUyMHNhbG1vbiUyMGZpbGxldHN8ZW58MXwxfHx8MTc5NTc2OTQyNnww&ixlib=rb-4.1.0&q=80&w=1080",
+      "download_location": "https://api.unsplash.com/photos/_1eNrp1JvA4/download?ixid=M3wxMTQzODc5fDB8MXxzZWFyY2h8MjR8fGhvbmV5JTIwbXVzdGFyZCUyMHNhbG1vbiUyMGZpbGxldHN8ZW58MXwxfHx8MTc5NTc2OTQyNnww",
+      "score": 8
+    },
+    {
+      "id": "u-iPT5kQ_OjDE",
+      "width": 4000,
+      "height": 6000,
+      "alt": "Delicious salmon with colorful vegetables on a plate",
+      "photographer": "alexanderafan",
+      "photographer_url": "https://unsplash.com/@alexanderafan?utm_source=easy_protein_kitchen&utm_medium=referral",
+      "page_url": "https://unsplash.com/photos/delicious-salmon-with-colorful-vegetables-on-a-plate-iPT5kQ_OjDE?utm_source=easy_protein_kitchen&utm_medium=referral",
+      "source": "Unsplash",
+      "source_url": "https://unsplash.com/?utm_source=easy_protein_kitchen&utm_medium=referral",
+      "src": "https://images.unsplash.com/photo-1746728789487-ddf8f3d19447?ixid=M3wxMTQzODc5fDB8MXxzZWFyY2h8MTh8fHJvYXN0ZWQlMjBzYWxtb24lMjBhbmQlMjB2ZWdldGFibGVzfGVufDF8MXx8fDE3OTU3Njk0Mjd8MA&ixlib=rb-4.1.0",
+      "web": "https://images.unsplash.com/photo-1746728789487-ddf8f3d19447?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTQzODc5fDB8MXxzZWFyY2h8MTh8fHJvYXN0ZWQlMjBzYWxtb24lMjBhbmQlMjB2ZWdldGFibGVzfGVufDF8MXx8fDE3OTU3Njk0Mjd8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "download_location": "https://api.unsplash.com/photos/iPT5kQ_OjDE/download?ixid=M3wxMTQzODc5fDB8MXxzZWFyY2h8MTh8fHJvYXN0ZWQlMjBzYWxtb24lMjBhbmQlMjB2ZWdldGFibGVzfGVufDF8MXx8fDE3OTU3Njk0Mjd8MA",
+      "score": 8
+    },
+    {
+      "id": "u-HmL4NIiJgOo",
+      "width": 5152,
+      "height": 7728,
+      "alt": "Hand places pan of asparagus into oven",
+      "photographer": "Ahmet Koç",
+      "photographer_url": "https://unsplash.com/@ahmetkoc?utm_source=easy_protein_kitchen&utm_medium=referral",
+      "page_url": "https://unsplash.com/photos/hand-places-pan-of-asparagus-into-oven-HmL4NIiJgOo?utm_source=easy_protein_kitchen&utm_medium=referral",
+      "source": "Unsplash",
+      "source_url": "https://unsplash.com/?utm_source=easy_protein_kitchen&utm_medium=referral",
+      "src": "https://images.unsplash.com/photo-1758524152045-211da51dd337?ixid=M3wxMTQzODc5fDB8MXxzZWFyY2h8N3x8YmFrZWQlMjBzYWxtb24lMjBhbmQlMjBhc3BhcmFndXMlMjBzaGVldCUyMHBhbnxlbnwxfDF8fHwxNzk1NzY5NDI2fDA&ixlib=rb-4.1.0",
+      "web": "https://images.unsplash.com/photo-1758524152045-211da51dd337?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTQzODc5fDB8MXxzZWFyY2h8N3x8YmFrZWQlMjBzYWxtb24lMjBhbmQlMjBhc3BhcmFndXMlMjBzaGVldCUyMHBhbnxlbnwxfDF8fHwxNzk1NzY5NDI2fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "download_location": "https://api.unsplash.com/photos/HmL4NIiJgOo/download?ixid=M3wxMTQzODc5fDB8MXxzZWFyY2h8N3x8YmFrZWQlMjBzYWxtb24lMjBhbmQlMjBhc3BhcmFndXMlMjBzaGVldCUyMHBhbnxlbnwxfDF8fHwxNzk1NzY5NDI2fDA",
+      "score": 6
+    }
+  ],
+  "verification": {
+    "checks": [
+      {
+        "verdict": "pass",
+        "issues": [],
+        "sources": [
+          {
+            "name": "Damn Delicious - Honey Garlic Salmon and Asparagus",
+            "url": "https://damndelicious.net/2016/06/04/honey-garlic-salmon-asparagus-foil-packs-one-pan/"
+          },
+          {
+            "name": "Natashas Kitchen - Sheet Pan Honey Mustard Salmon",
+            "url": "https://natashaskitchen.com/sheet-pan-honey-mustard-salmon/"
+          },
+          {
+            "name": "BBC Good Food - Traybake honey mustard salmon",
+            "url": "https://www.bbcgoodfood.com/recipes/traybake-honey-mustard-salmon"
+          }
+        ],
+        "grounded": false
+      }
+    ],
+    "rule_warnings": [
+      "unusual unit 'tablespoons' for 'whole grain mustard'",
+      "unusual unit 'tablespoons' for 'honey'",
+      "unusual unit 'tablespoon' for 'olive oil'",
+      "unusual unit 'teaspoon' for 'kosher salt'",
+      "unusual unit 'teaspoon' for 'black pepper'"
+    ],
+    "model": "gemini-3.6-flash"
+  },
+  "created": "2026-11-27"
+}

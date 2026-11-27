@@ -1,0 +1,319 @@
+{
+  "title": "High-Protein Chicken Burrito Bowl with Greek Yogurt Crema",
+  "description": "These high-protein chicken burrito bowls combine seasoned lean chicken breast, black beans, and fluffy rice in 25 minutes. Each serving delivers 42g of protein to fuel your day. Save it for your next meal prep.",
+  "cuisine": "Mexican-American",
+  "category": "Lunch",
+  "servings": 4,
+  "protein_g_per_serving": 42,
+  "prep_minutes": 10,
+  "cook_minutes": 15,
+  "total_minutes": 25,
+  "ingredients": [
+    {
+      "qty": "1 1/2",
+      "unit": "lbs",
+      "item": "boneless skinless chicken breasts",
+      "metric": "680 g",
+      "note": "cut into bite-sized pieces"
+    },
+    {
+      "qty": "2",
+      "unit": "tbsp",
+      "item": "olive oil",
+      "metric": "30 ml",
+      "note": "divided"
+    },
+    {
+      "qty": "1",
+      "unit": "tbsp",
+      "item": "chili powder",
+      "metric": "8 g",
+      "note": ""
+    },
+    {
+      "qty": "1",
+      "unit": "tsp",
+      "item": "ground cumin",
+      "metric": "3 g",
+      "note": ""
+    },
+    {
+      "qty": "1",
+      "unit": "tsp",
+      "item": "garlic powder",
+      "metric": "3 g",
+      "note": ""
+    },
+    {
+      "qty": "1 1/2",
+      "unit": "tsp",
+      "item": "salt",
+      "metric": "9 g",
+      "note": "divided"
+    },
+    {
+      "qty": "1",
+      "unit": "cup",
+      "item": "long-grain white rice",
+      "metric": "185 g",
+      "note": "dry"
+    },
+    {
+      "qty": "2",
+      "unit": "cups",
+      "item": "low-sodium chicken broth",
+      "metric": "480 ml",
+      "note": "for cooking rice"
+    },
+    {
+      "qty": "1",
+      "unit": "can",
+      "item": "black beans",
+      "metric": "400 g",
+      "note": "rinsed and drained"
+    },
+    {
+      "qty": "1",
+      "unit": "cup",
+      "item": "frozen corn",
+      "metric": "150 g",
+      "note": "thawed"
+    },
+    {
+      "qty": "1/2",
+      "unit": "cup",
+      "item": "plain non-fat Greek yogurt",
+      "metric": "120 g",
+      "note": "for crema"
+    },
+    {
+      "qty": "1",
+      "unit": "tbsp",
+      "item": "lime juice",
+      "metric": "15 ml",
+      "note": "freshly squeezed"
+    }
+  ],
+  "steps": [
+    "In a medium saucepan, combine the dry long-grain white rice, chicken broth, and 1/4 tsp of the salt. Bring to a boil over medium-high heat, then cover, reduce heat to low, and simmer for 15 minutes until liquid is absorbed and rice is tender and fluffy.",
+    "In a small bowl, mix the chili powder, ground cumin, garlic powder, and 1 teaspoon of the salt together.",
+    "Toss the diced chicken breast pieces with 1 tablespoon of olive oil and the spice mix until evenly coated.",
+    "Heat the remaining 1 tablespoon of olive oil in a 12-inch skillet over medium-high heat. Add the seasoned chicken in a single layer and cook undisturbed for 4 to 5 minutes, then stir and cook for another 3 to 4 minutes until golden brown and the internal temperature reaches 165°F (74°C).",
+    "In a separate small bowl, whisk together the plain non-fat Greek yogurt, fresh lime juice, and the remaining 1/4 tsp of salt to create the crema.",
+    "Divide the cooked rice evenly among 4 bowls, top with the warm spiced chicken, black beans, corn, and a drizzle of the Greek yogurt crema."
+  ],
+  "tips": [
+    "Swap white rice for brown rice or quinoa for extra fiber.",
+    "Store components in airtight containers in the refrigerator for up to 4 days.",
+    "Add freshly chopped cilantro or diced jalapeños for extra flavor."
+  ],
+  "storage": "Store in airtight meal prep containers in the refrigerator for up to 4 days. Keep the Greek yogurt crema in a separate small container until ready to reheat and eat.",
+  "tools": [
+    "12-inch skillet",
+    "medium saucepan",
+    "measuring cups and spoons",
+    "mixing bowls"
+  ],
+  "keywords": [
+    "high protein chicken burrito bowl",
+    "chicken burrito bowl meal prep",
+    "healthy high protein lunch",
+    "chicken and rice bowl",
+    "macro friendly chicken recipe",
+    "high protein gym meals"
+  ],
+  "pin_variants": [
+    {
+      "hook_type": "number",
+      "title": "High-Protein Chicken Burrito Bowls | 42g Protein Meal Prep",
+      "description": "Make these high-protein chicken burrito bowls with 42g protein and 25-minute total time. Packed with seasoned chicken, black beans, and a creamy Greek yogurt sauce. Save it for your next meal prep.",
+      "overlay": "42g Protein Chicken Burrito Bowl",
+      "subline": "Ready in 25 Minutes",
+      "alt_text": "A bowl filled with seasoned chicken, rice, black beans, corn, and a drizzle of white crema."
+    },
+    {
+      "hook_type": "speed",
+      "title": "25-Minute High-Protein Chicken Burrito Bowl",
+      "description": "Whip up a high-protein chicken burrito bowl in just 25 minutes with 42g protein per serving. Features tender spiced chicken breast and wholesome beans over fluffy rice. Save it for your next meal prep.",
+      "overlay": "25-Minute Chicken Burrito Bowl",
+      "subline": "High Protein Meal Prep",
+      "alt_text": "Overhead shot of vibrant chicken burrito bowls with fresh toppings and lime wedges."
+    },
+    {
+      "hook_type": "outcome",
+      "title": "High-Protein Chicken Burrito Bowls for Easy Meal Prep",
+      "description": "Prep once and eat high-protein all week with these delicious chicken burrito bowls. Each serving packs 42g protein and comes together in 25 minutes. Save it for your next meal prep.",
+      "overlay": "Easy High-Protein Meal Prep Bowls",
+      "subline": "42g Protein Per Serving",
+      "alt_text": "Four meal prep containers filled with chicken burrito bowls ready for the week."
+    },
+    {
+      "hook_type": "teacher",
+      "title": "High-Protein Chicken Burrito Bowls with Greek Yogurt Crema",
+      "description": "Learn how to build high-protein chicken burrito bowls featuring a light Greek yogurt crema instead of heavy sour cream. Delivers 42g protein in 25 minutes. Save it for your next meal prep.",
+      "overlay": "Greek Yogurt Chicken Burrito Bowls",
+      "subline": "Healthier Creamy Crema",
+      "alt_text": "Close up of a chicken burrito bowl being drizzled with Greek yogurt crema."
+    }
+  ],
+  "video_script": {
+    "hook": "Make this high-protein chicken burrito bowl with 42 grams of protein.",
+    "steps_short": [
+      "Simmer the long-grain white rice in chicken broth until fluffy.",
+      "Coat the diced chicken breast in chili powder and cumin.",
+      "Cook the chicken in a skillet until it reaches 165°F.",
+      "Whisk plain Greek yogurt with fresh lime juice for the crema.",
+      "Assemble the bowls with rice, chicken, beans, corn, and crema."
+    ],
+    "outro": "Find the full recipe details and measurements on the website."
+  },
+  "photo_queries": [
+    "chicken burrito bowl with rice and beans",
+    "high protein chicken bowl overhead shot",
+    "meal prep chicken and rice bowls"
+  ],
+  "must_match": [
+    "chicken",
+    "bowl",
+    "rice"
+  ],
+  "board": "High Protein Chicken Recipes",
+  "slug": "high-protein-chicken-burrito-bowl-with-greek-yogurt-crema",
+  "protein_g": 42,
+  "photos": [
+    {
+      "id": "u--Uca3SGlOag",
+      "width": 3648,
+      "height": 5472,
+      "alt": "person holding rice bowl hands holding bowl of food with rice and chicken",
+      "photographer": "khloe arledge",
+      "photographer_url": "https://unsplash.com/@khloephoto?utm_source=easy_protein_kitchen&utm_medium=referral",
+      "page_url": "https://unsplash.com/photos/person-holding-rice-bowl--Uca3SGlOag?utm_source=easy_protein_kitchen&utm_medium=referral",
+      "source": "Unsplash",
+      "source_url": "https://unsplash.com/?utm_source=easy_protein_kitchen&utm_medium=referral",
+      "src": "https://images.unsplash.com/photo-1568093858174-0f391ea21c45?ixid=M3wxMTQzODc5fDB8MXxzZWFyY2h8MTd8fGNoaWNrZW4lMjBidXJyaXRvJTIwYm93bCUyMHdpdGglMjByaWNlJTIwYW5kJTIwYmVhbnN8ZW58MXwxfHx8MTc5NTc2OTc0N3ww&ixlib=rb-4.1.0",
+      "web": "https://images.unsplash.com/photo-1568093858174-0f391ea21c45?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTQzODc5fDB8MXxzZWFyY2h8MTd8fGNoaWNrZW4lMjBidXJyaXRvJTIwYm93bCUyMHdpdGglMjByaWNlJTIwYW5kJTIwYmVhbnN8ZW58MXwxfHx8MTc5NTc2OTc0N3ww&ixlib=rb-4.1.0&q=80&w=1080",
+      "download_location": "https://api.unsplash.com/photos/-Uca3SGlOag/download?ixid=M3wxMTQzODc5fDB8MXxzZWFyY2h8MTd8fGNoaWNrZW4lMjBidXJyaXRvJTIwYm93bCUyMHdpdGglMjByaWNlJTIwYW5kJTIwYmVhbnN8ZW58MXwxfHx8MTc5NTc2OTc0N3ww",
+      "score": 16
+    },
+    {
+      "id": "u-xe5y6vD8L-M",
+      "width": 4284,
+      "height": 5712,
+      "alt": "A colorful bowl of food with rice, chickpeas, and greens",
+      "photographer": "Sumit Bhatia",
+      "photographer_url": "https://unsplash.com/@iamsumitbhatia?utm_source=easy_protein_kitchen&utm_medium=referral",
+      "page_url": "https://unsplash.com/photos/a-colorful-bowl-of-food-with-rice-chickpeas-and-greens-xe5y6vD8L-M?utm_source=easy_protein_kitchen&utm_medium=referral",
+      "source": "Unsplash",
+      "source_url": "https://unsplash.com/?utm_source=easy_protein_kitchen&utm_medium=referral",
+      "src": "https://images.unsplash.com/photo-1771074168434-95cb12896146?ixid=M3wxMTQzODc5fDB8MXxzZWFyY2h8MjF8fGNoaWNrZW4lMjBidXJyaXRvJTIwYm93bCUyMHdpdGglMjByaWNlJTIwYW5kJTIwYmVhbnN8ZW58MXwxfHx8MTc5NTc2OTc0N3ww&ixlib=rb-4.1.0",
+      "web": "https://images.unsplash.com/photo-1771074168434-95cb12896146?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTQzODc5fDB8MXxzZWFyY2h8MjF8fGNoaWNrZW4lMjBidXJyaXRvJTIwYm93bCUyMHdpdGglMjByaWNlJTIwYW5kJTIwYmVhbnN8ZW58MXwxfHx8MTc5NTc2OTc0N3ww&ixlib=rb-4.1.0&q=80&w=1080",
+      "download_location": "https://api.unsplash.com/photos/xe5y6vD8L-M/download?ixid=M3wxMTQzODc5fDB8MXxzZWFyY2h8MjF8fGNoaWNrZW4lMjBidXJyaXRvJTIwYm93bCUyMHdpdGglMjByaWNlJTIwYW5kJTIwYmVhbnN8ZW58MXwxfHx8MTc5NTc2OTc0N3ww",
+      "score": 11
+    },
+    {
+      "id": "u-sr0kF2fENPo",
+      "width": 2391,
+      "height": 3589,
+      "alt": "brown chips on white ceramic bowl",
+      "photographer": "Jed Owen",
+      "photographer_url": "https://unsplash.com/@jediahowen?utm_source=easy_protein_kitchen&utm_medium=referral",
+      "page_url": "https://unsplash.com/photos/brown-chips-on-white-ceramic-bowl-sr0kF2fENPo?utm_source=easy_protein_kitchen&utm_medium=referral",
+      "source": "Unsplash",
+      "source_url": "https://unsplash.com/?utm_source=easy_protein_kitchen&utm_medium=referral",
+      "src": "https://images.unsplash.com/photo-1628394029816-1dc524670f60?ixid=M3wxMTQzODc5fDB8MXxzZWFyY2h8MXx8Y2hpY2tlbiUyMGJ1cnJpdG8lMjBib3dsJTIwd2l0aCUyMHJpY2UlMjBhbmQlMjBiZWFuc3xlbnwxfDF8fHwxNzk1NzY5NzQ3fDA&ixlib=rb-4.1.0",
+      "web": "https://images.unsplash.com/photo-1628394029816-1dc524670f60?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTQzODc5fDB8MXxzZWFyY2h8MXx8Y2hpY2tlbiUyMGJ1cnJpdG8lMjBib3dsJTIwd2l0aCUyMHJpY2UlMjBhbmQlMjBiZWFuc3xlbnwxfDF8fHwxNzk1NzY5NzQ3fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "download_location": "https://api.unsplash.com/photos/sr0kF2fENPo/download?ixid=M3wxMTQzODc5fDB8MXxzZWFyY2h8MXx8Y2hpY2tlbiUyMGJ1cnJpdG8lMjBib3dsJTIwd2l0aCUyMHJpY2UlMjBhbmQlMjBiZWFuc3xlbnwxfDF8fHwxNzk1NzY5NzQ3fDA",
+      "score": 6
+    },
+    {
+      "id": "u-XGfJOJrEBU0",
+      "width": 3405,
+      "height": 4256,
+      "alt": "cooked food on bowl",
+      "photographer": "Spencer Davis",
+      "photographer_url": "https://unsplash.com/@spencerdavis?utm_source=easy_protein_kitchen&utm_medium=referral",
+      "page_url": "https://unsplash.com/photos/cooked-food-on-bowl-XGfJOJrEBU0?utm_source=easy_protein_kitchen&utm_medium=referral",
+      "source": "Unsplash",
+      "source_url": "https://unsplash.com/?utm_source=easy_protein_kitchen&utm_medium=referral",
+      "src": "https://images.unsplash.com/photo-1576867915480-f0c60db33f62?ixid=M3wxMTQzODc5fDB8MXxzZWFyY2h8OHx8Y2hpY2tlbiUyMGJ1cnJpdG8lMjBib3dsJTIwd2l0aCUyMHJpY2UlMjBhbmQlMjBiZWFuc3xlbnwxfDF8fHwxNzk1NzY5NzQ3fDA&ixlib=rb-4.1.0",
+      "web": "https://images.unsplash.com/photo-1576867915480-f0c60db33f62?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTQzODc5fDB8MXxzZWFyY2h8OHx8Y2hpY2tlbiUyMGJ1cnJpdG8lMjBib3dsJTIwd2l0aCUyMHJpY2UlMjBhbmQlMjBiZWFuc3xlbnwxfDF8fHwxNzk1NzY5NzQ3fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "download_location": "https://api.unsplash.com/photos/XGfJOJrEBU0/download?ixid=M3wxMTQzODc5fDB8MXxzZWFyY2h8OHx8Y2hpY2tlbiUyMGJ1cnJpdG8lMjBib3dsJTIwd2l0aCUyMHJpY2UlMjBhbmQlMjBiZWFuc3xlbnwxfDF8fHwxNzk1NzY5NzQ3fDA",
+      "score": 6
+    },
+    {
+      "id": "u-e-3EPr05jS0",
+      "width": 4500,
+      "height": 6750,
+      "alt": "A bowl of food with a spoon in it",
+      "photographer": "Steven Cordes",
+      "photographer_url": "https://unsplash.com/@steven3466?utm_source=easy_protein_kitchen&utm_medium=referral",
+      "page_url": "https://unsplash.com/photos/a-bowl-of-food-with-a-spoon-in-it-e-3EPr05jS0?utm_source=easy_protein_kitchen&utm_medium=referral",
+      "source": "Unsplash",
+      "source_url": "https://unsplash.com/?utm_source=easy_protein_kitchen&utm_medium=referral",
+      "src": "https://images.unsplash.com/photo-1730481000523-d9a605db56ca?ixid=M3wxMTQzODc5fDB8MXxzZWFyY2h8MTB8fGNoaWNrZW4lMjBidXJyaXRvJTIwYm93bCUyMHdpdGglMjByaWNlJTIwYW5kJTIwYmVhbnN8ZW58MXwxfHx8MTc5NTc2OTc0N3ww&ixlib=rb-4.1.0",
+      "web": "https://images.unsplash.com/photo-1730481000523-d9a605db56ca?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTQzODc5fDB8MXxzZWFyY2h8MTB8fGNoaWNrZW4lMjBidXJyaXRvJTIwYm93bCUyMHdpdGglMjByaWNlJTIwYW5kJTIwYmVhbnN8ZW58MXwxfHx8MTc5NTc2OTc0N3ww&ixlib=rb-4.1.0&q=80&w=1080",
+      "download_location": "https://api.unsplash.com/photos/e-3EPr05jS0/download?ixid=M3wxMTQzODc5fDB8MXxzZWFyY2h8MTB8fGNoaWNrZW4lMjBidXJyaXRvJTIwYm93bCUyMHdpdGglMjByaWNlJTIwYW5kJTIwYmVhbnN8ZW58MXwxfHx8MTc5NTc2OTc0N3ww",
+      "score": 6
+    },
+    {
+      "id": "u-tJMkuBQJE2I",
+      "width": 4000,
+      "height": 6000,
+      "alt": "a bowl of macaroni and cheese on a table",
+      "photographer": "Ali Choubin",
+      "photographer_url": "https://unsplash.com/@alichoubin?utm_source=easy_protein_kitchen&utm_medium=referral",
+      "page_url": "https://unsplash.com/photos/a-bowl-of-macaroni-and-cheese-on-a-table-tJMkuBQJE2I?utm_source=easy_protein_kitchen&utm_medium=referral",
+      "source": "Unsplash",
+      "source_url": "https://unsplash.com/?utm_source=easy_protein_kitchen&utm_medium=referral",
+      "src": "https://images.unsplash.com/photo-1687555584911-1f79eeac89d0?ixid=M3wxMTQzODc5fDB8MXxzZWFyY2h8MTN8fGNoaWNrZW4lMjBidXJyaXRvJTIwYm93bCUyMHdpdGglMjByaWNlJTIwYW5kJTIwYmVhbnN8ZW58MXwxfHx8MTc5NTc2OTc0N3ww&ixlib=rb-4.1.0",
+      "web": "https://images.unsplash.com/photo-1687555584911-1f79eeac89d0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTQzODc5fDB8MXxzZWFyY2h8MTN8fGNoaWNrZW4lMjBidXJyaXRvJTIwYm93bCUyMHdpdGglMjByaWNlJTIwYW5kJTIwYmVhbnN8ZW58MXwxfHx8MTc5NTc2OTc0N3ww&ixlib=rb-4.1.0&q=80&w=1080",
+      "download_location": "https://api.unsplash.com/photos/tJMkuBQJE2I/download?ixid=M3wxMTQzODc5fDB8MXxzZWFyY2h8MTN8fGNoaWNrZW4lMjBidXJyaXRvJTIwYm93bCUyMHdpdGglMjByaWNlJTIwYW5kJTIwYmVhbnN8ZW58MXwxfHx8MTc5NTc2OTc0N3ww",
+      "score": 6
+    }
+  ],
+  "verification": {
+    "checks": [
+      {
+        "verdict": "fix",
+        "issues": [
+          "1 tbsp of oil is too little to properly coat and cook 1.5 lbs of diced chicken breasts without sticking, especially with dry spices added directly to the meat.",
+          "1/2 tsp total salt for 1.5 lbs of chicken, rice, beans, and corn is severely under-salted and will taste bland compared to standard established recipes."
+        ],
+        "sources": [
+          {
+            "name": "Serious Eats - Chicken Burrito Bowls",
+            "url": "https://www.seriouseats.com/"
+          },
+          {
+            "name": "Budget Bytes - Chicken Burrito Bowls",
+            "url": "https://www.budgetbytes.com/chicken-burrito-bowls/"
+          }
+        ],
+        "grounded": false
+      },
+      {
+        "verdict": "pass",
+        "issues": [],
+        "sources": [
+          {
+            "name": "Serious Eats - Easy Chicken Burrito Bowls",
+            "url": "https://www.seriouseats.com/"
+          },
+          {
+            "name": "NYT Cooking - Sheet-Pan Chicken Burrito Bowls",
+            "url": "https://cooking.nytimes.com/"
+          },
+          {
+            "name": "Budget Bytes - Easy Chicken Burrito Bowls",
+            "url": "https://www.budgetbytes.com/"
+          }
+        ],
+        "grounded": false
+      }
+    ],
+    "rule_warnings": [],
+    "model": "gemini-3.6-flash"
+  },
+  "created": "2026-11-27"
+}
