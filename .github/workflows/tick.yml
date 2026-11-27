@@ -1,0 +1,42 @@
+name: Tick
+# GitHub often skips scheduled runs for new repos, so an outside timer (cron-job.org)
+# starts this every hour through the API. It starts whichever jobs are due:
+# posting every hour, recipes ~twice a day, health every 6 h, videos on Sunday,
+# the report on Monday. It never runs a job that ran recently, so the normal
+# schedules and the Mac backup timer can't cause doubles.
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "5 */3 * * *"
+
+permissions:
+  actions: write
+  contents: read
+
+concurrency:
+  group: tick
+  cancel-in-progress: true
+
+jobs:
+  tick:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - name: Start due jobs
+        env:
+          GH_TOKEN: ${{ github.token }}
+          REPO: ${{ github.repository }}
+        run: |
+          now=$(date -u +%s); dow=$(date -u +%u)   # 1=Mon .. 7=Sun
+          age() {   # minutes since the workflow's last run started (huge if never)
+            t=$(gh run list -R "$REPO" -w "$1" -L 1 --json createdAt -q '.[0].createdAt' 2>/dev/null)
+            [ -z "$t" ] && { echo 999999; return; }
+            echo $(( (now - $(date -u -d "$t" +%s)) / 60 ))
+          }
+          start() { echo "start $1 (last run $2 min ago)"; gh workflow run "$1" -R "$REPO"; }
+          a=$(age post.yml);    [ "$a" -ge 45 ]    && start post.yml "$a"
+          a=$(age content.yml); [ "$a" -ge 660 ]   && start content.yml "$a"
+          a=$(age health.yml);  [ "$a" -ge 360 ]   && start health.yml "$a"
+          a=$(age video.yml);   [ "$dow" = 7 ] && [ "$a" -ge 8640 ] && start video.yml "$a"
+          a=$(age report.yml);  [ "$dow" = 1 ] && [ "$a" -ge 8640 ] && start report.yml "$a"
+          echo done
