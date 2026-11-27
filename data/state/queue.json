@@ -1,0 +1,677 @@
+{
+  "start_date": "2026-11-26",
+  "slots": [
+    {
+      "slot": "2026-11-26#00",
+      "due": "2026-11-26T12:11:34+00:00",
+      "status": "posted",
+      "item": {
+        "slug": "high-protein-chocolate-peanut-butter-mousse",
+        "board": "High Protein Snacks",
+        "kind": "image",
+        "variant": 0,
+        "hook_type": "number",
+        "layout": "band",
+        "palette": 3
+      },
+      "attempts": 0,
+      "pin_id": "2026-11-26-00",
+      "posted_at": "2026-11-27T03:53:33.558219+00:00",
+      "via": "rss"
+    },
+    {
+      "slot": "2026-11-26#01",
+      "due": "2026-11-26T13:28:42+00:00",
+      "status": "posted",
+      "item": {
+        "slug": "quick-korean-lean-ground-beef-rice-bowl",
+        "board": "High Protein Dinners",
+        "kind": "image",
+        "variant": 0,
+        "hook_type": "number",
+        "layout": "split",
+        "palette": 3
+      },
+      "attempts": 0,
+      "pin_id": "2026-11-26-01",
+      "posted_at": "2026-11-27T03:53:34.106120+00:00",
+      "via": "rss"
+    },
+    {
+      "slot": "2026-11-26#02",
+      "due": "2026-11-26T13:56:10+00:00",
+      "status": "posted",
+      "item": {
+        "slug": "air-fryer-crispy-chicken-breast-nuggets",
+        "board": "High Protein Chicken Recipes",
+        "kind": "image",
+        "variant": 0,
+        "hook_type": "number",
+        "layout": "single",
+        "palette": 2
+      },
+      "attempts": 0,
+      "pin_id": "2026-11-26-02",
+      "posted_at": "2026-11-27T03:53:34.623237+00:00",
+      "via": "rss"
+    },
+    {
+      "slot": "2026-11-26#03",
+      "due": "2026-11-26T16:52:07+00:00",
+      "status": "posted",
+      "item": {
+        "slug": "crispy-ground-turkey-taco-bowl-with-black-beans",
+        "board": "Budget High Protein Meals",
+        "kind": "image",
+        "variant": 0,
+        "hook_type": "number",
+        "layout": "split",
+        "palette": 2
+      },
+      "attempts": 0,
+      "pin_id": "2026-11-26-03",
+      "posted_at": "2026-11-27T03:53:35.182254+00:00",
+      "via": "rss"
+    },
+    {
+      "slot": "2026-11-26#04",
+      "due": "2026-11-26T17:32:32+00:00",
+      "status": "planned",
+      "item": {
+        "slug": "high-protein-chicken-teriyaki-stir-fry",
+        "board": "30 Minute High Protein Meals",
+        "kind": "image",
+        "variant": 0,
+        "hook_type": "number",
+        "layout": "single",
+        "palette": 4
+      },
+      "attempts": 0
+    },
+    {
+      "slot": "2026-11-26#05",
+      "due": "2026-11-26T18:21:00+00:00",
+      "status": "planned",
+      "item": {
+        "slug": "high-protein-turkey-and-black-bean-burrito-bowls",
+        "board": "High Protein Meal Prep",
+        "kind": "image",
+        "variant": 0,
+        "hook_type": "number",
+        "layout": "single",
+        "palette": 4
+      },
+      "attempts": 0
+    },
+    {
+      "slot": "2026-11-26#06",
+      "due": "2026-11-26T22:38:42+00:00",
+      "status": "planned",
+      "item": {
+        "slug": "mediterranean-chickpea-and-greek-yogurt-power-bowl",
+        "board": "High Protein Vegetarian",
+        "kind": "image",
+        "variant": 0,
+        "hook_type": "number",
+        "layout": "band",
+        "palette": 1
+      },
+      "attempts": 0
+    },
+    {
+      "slot": "2026-11-26#07",
+      "due": "2026-11-26T23:40:34+00:00",
+      "status": "planned",
+      "item": {
+        "slug": "savory-cottage-cheese-and-avocado-toast",
+        "board": "High Protein Breakfast",
+        "kind": "image",
+        "variant": 0,
+        "hook_type": "number",
+        "layout": "split",
+        "palette": 3
+      },
+      "attempts": 0
+    },
+    {
+      "slot": "2026-11-26#08",
+      "due": "2026-11-27T00:25:03+00:00",
+      "status": "planned",
+      "item": {
+        "slug": "high-protein-cottage-cheese-cookie-dough",
+        "board": "High Protein Snacks",
+        "kind": "image",
+        "variant": 0,
+        "hook_type": "number",
+        "layout": "single",
+        "palette": 3
+      },
+      "attempts": 0
+    },
+    {
+      "slot": "2026-11-26#09",
+      "due": "2026-11-27T01:26:32+00:00",
+      "status": "planned",
+      "item": {
+        "slug": "honey-garlic-glazed-chicken-thighs",
+        "board": "High Protein Chicken Recipes",
+        "kind": "image",
+        "variant": 0,
+        "hook_type": "number",
+        "layout": "single",
+        "palette": 4
+      },
+      "attempts": 0
+    },
+    {
+      "slot": "2026-11-26#10",
+      "due": "2026-11-27T02:16:57+00:00",
+      "status": "planned",
+      "item": {
+        "slug": "spicy-cajun-salmon-and-asparagus-sheet-pan-25-minute-dinner",
+        "board": "30 Minute High Protein Meals",
+        "kind": "image",
+        "variant": 0,
+        "hook_type": "speed",
+        "layout": "single",
+        "palette": 2
+      },
+      "attempts": 0
+    },
+    {
+      "slot": "2026-11-27#00",
+      "due": "2026-11-27T12:25:04+00:00",
+      "status": "planned",
+      "item": {
+        "slug": "lean-ground-beef-and-quinoa-power-bowls",
+        "board": "High Protein Meal Prep",
+        "kind": "image",
+        "variant": 0,
+        "hook_type": "number",
+        "layout": "single",
+        "palette": 1
+      },
+      "attempts": 0
+    },
+    {
+      "slot": "2026-11-27#01",
+      "due": "2026-11-27T12:55:21+00:00",
+      "status": "planned",
+      "item": {
+        "slug": "vanilla-berry-greek-yogurt-protein-bowl",
+        "board": "High Protein Breakfast",
+        "kind": "image",
+        "variant": 0,
+        "hook_type": "number",
+        "layout": "single",
+        "palette": 4
+      },
+      "attempts": 0
+    },
+    {
+      "slot": "2026-11-27#02",
+      "due": "2026-11-27T13:51:02+00:00",
+      "status": "planned",
+      "item": {
+        "slug": "no-bake-peanut-butter-oatmeal-protein-balls",
+        "board": "High Protein Snacks",
+        "kind": "image",
+        "variant": 0,
+        "hook_type": "number",
+        "layout": "split",
+        "palette": 1
+      },
+      "attempts": 0
+    },
+    {
+      "slot": "2026-11-27#03",
+      "due": "2026-11-27T14:27:18+00:00",
+      "status": "planned",
+      "item": {
+        "slug": "sheet-pan-lemon-herb-chicken-breast-and-asparagus-easy-meal-prep",
+        "board": "High Protein Chicken Recipes",
+        "kind": "image",
+        "variant": 0,
+        "hook_type": "speed",
+        "layout": "single",
+        "palette": 3
+      },
+      "attempts": 0
+    },
+    {
+      "slot": "2026-11-27#04",
+      "due": "2026-11-27T17:30:18+00:00",
+      "status": "planned",
+      "item": {
+        "slug": "quick-korean-lean-ground-beef-rice-bowl",
+        "board": "High Protein Dinners",
+        "kind": "image",
+        "variant": 1,
+        "hook_type": "speed",
+        "layout": "split",
+        "palette": 0
+      },
+      "attempts": 0
+    },
+    {
+      "slot": "2026-11-27#05",
+      "due": "2026-11-27T18:17:19+00:00",
+      "status": "planned",
+      "item": {
+        "slug": "crispy-ground-turkey-taco-bowl-with-black-beans",
+        "board": "Budget High Protein Meals",
+        "kind": "image",
+        "variant": 1,
+        "hook_type": "speed",
+        "layout": "single",
+        "palette": 0
+      },
+      "attempts": 0
+    },
+    {
+      "slot": "2026-11-27#06",
+      "due": "2026-11-27T22:35:44+00:00",
+      "status": "planned",
+      "item": {
+        "slug": "mediterranean-chickpea-and-greek-yogurt-power-bowl",
+        "board": "High Protein Vegetarian",
+        "kind": "image",
+        "variant": 1,
+        "hook_type": "speed",
+        "layout": "split",
+        "palette": 4
+      },
+      "attempts": 0
+    },
+    {
+      "slot": "2026-11-27#07",
+      "due": "2026-11-27T22:55:29+00:00",
+      "status": "planned",
+      "item": {
+        "slug": "high-protein-chicken-teriyaki-stir-fry",
+        "board": "30 Minute High Protein Meals",
+        "kind": "image",
+        "variant": 1,
+        "hook_type": "speed",
+        "layout": "single",
+        "palette": 0
+      },
+      "attempts": 0
+    },
+    {
+      "slot": "2026-11-27#08",
+      "due": "2026-11-28T00:01:26+00:00",
+      "status": "planned",
+      "item": {
+        "slug": "high-protein-turkey-and-black-bean-burrito-bowls",
+        "board": "High Protein Meal Prep",
+        "kind": "image",
+        "variant": 1,
+        "hook_type": "speed",
+        "layout": "single",
+        "palette": 3
+      },
+      "attempts": 0
+    },
+    {
+      "slot": "2026-11-27#09",
+      "due": "2026-11-28T00:22:48+00:00",
+      "status": "planned",
+      "item": {
+        "slug": "savory-cottage-cheese-and-avocado-toast",
+        "board": "High Protein Breakfast",
+        "kind": "image",
+        "variant": 1,
+        "hook_type": "speed",
+        "layout": "single",
+        "palette": 4
+      },
+      "attempts": 0
+    },
+    {
+      "slot": "2026-11-27#10",
+      "due": "2026-11-28T01:19:29+00:00",
+      "status": "planned",
+      "item": {
+        "slug": "high-protein-chocolate-peanut-butter-mousse",
+        "board": "High Protein Snacks",
+        "kind": "image",
+        "variant": 1,
+        "hook_type": "speed",
+        "layout": "band",
+        "palette": 1
+      },
+      "attempts": 0
+    },
+    {
+      "slot": "2026-11-27#11",
+      "due": "2026-11-28T01:54:17+00:00",
+      "status": "planned",
+      "item": {
+        "slug": "air-fryer-crispy-chicken-breast-nuggets",
+        "board": "High Protein Chicken Recipes",
+        "kind": "image",
+        "variant": 1,
+        "hook_type": "speed",
+        "layout": "split",
+        "palette": 0
+      },
+      "attempts": 0
+    },
+    {
+      "slot": "2026-11-28#00",
+      "due": "2026-11-28T12:16:22+00:00",
+      "status": "planned",
+      "item": {
+        "slug": "quick-korean-lean-ground-beef-rice-bowl",
+        "board": "High Protein Dinners",
+        "kind": "image",
+        "variant": 2,
+        "hook_type": "outcome",
+        "layout": "single",
+        "palette": 1
+      },
+      "attempts": 0
+    },
+    {
+      "slot": "2026-11-28#01",
+      "due": "2026-11-28T13:10:16+00:00",
+      "status": "planned",
+      "item": {
+        "slug": "crispy-ground-turkey-taco-bowl-with-black-beans",
+        "board": "Budget High Protein Meals",
+        "kind": "image",
+        "variant": 2,
+        "hook_type": "outcome",
+        "layout": "split",
+        "palette": 4
+      },
+      "attempts": 0
+    },
+    {
+      "slot": "2026-11-28#02",
+      "due": "2026-11-28T14:08:07+00:00",
+      "status": "planned",
+      "item": {
+        "slug": "mediterranean-chickpea-and-greek-yogurt-power-bowl",
+        "board": "High Protein Vegetarian",
+        "kind": "image",
+        "variant": 2,
+        "hook_type": "outcome",
+        "layout": "single",
+        "palette": 3
+      },
+      "attempts": 0
+    },
+    {
+      "slot": "2026-11-28#03",
+      "due": "2026-11-28T17:02:07+00:00",
+      "status": "planned",
+      "item": {
+        "slug": "spicy-cajun-salmon-and-asparagus-sheet-pan-25-minute-dinner",
+        "board": "30 Minute High Protein Meals",
+        "kind": "image",
+        "variant": 1,
+        "hook_type": "number",
+        "layout": "single",
+        "palette": 0
+      },
+      "attempts": 0
+    },
+    {
+      "slot": "2026-11-28#04",
+      "due": "2026-11-28T17:44:00+00:00",
+      "status": "planned",
+      "item": {
+        "slug": "lean-ground-beef-and-quinoa-power-bowls",
+        "board": "High Protein Meal Prep",
+        "kind": "image",
+        "variant": 1,
+        "hook_type": "speed",
+        "layout": "single",
+        "palette": 2
+      },
+      "attempts": 0
+    },
+    {
+      "slot": "2026-11-28#05",
+      "due": "2026-11-28T18:14:51+00:00",
+      "status": "planned",
+      "item": {
+        "slug": "vanilla-berry-greek-yogurt-protein-bowl",
+        "board": "High Protein Breakfast",
+        "kind": "image",
+        "variant": 1,
+        "hook_type": "speed",
+        "layout": "single",
+        "palette": 3
+      },
+      "attempts": 0
+    },
+    {
+      "slot": "2026-11-28#06",
+      "due": "2026-11-28T22:54:04+00:00",
+      "status": "planned",
+      "item": {
+        "slug": "high-protein-cottage-cheese-cookie-dough",
+        "board": "High Protein Snacks",
+        "kind": "image",
+        "variant": 1,
+        "hook_type": "speed",
+        "layout": "split",
+        "palette": 4
+      },
+      "attempts": 0
+    },
+    {
+      "slot": "2026-11-28#07",
+      "due": "2026-11-28T23:28:16+00:00",
+      "status": "planned",
+      "item": {
+        "slug": "honey-garlic-glazed-chicken-thighs",
+        "board": "High Protein Chicken Recipes",
+        "kind": "image",
+        "variant": 1,
+        "hook_type": "speed",
+        "layout": "split",
+        "palette": 0
+      },
+      "attempts": 0
+    },
+    {
+      "slot": "2026-11-28#08",
+      "due": "2026-11-29T00:16:11+00:00",
+      "status": "planned",
+      "item": {
+        "slug": "quick-korean-lean-ground-beef-rice-bowl",
+        "board": "High Protein Dinners",
+        "kind": "image",
+        "variant": 3,
+        "hook_type": "teacher",
+        "layout": "single",
+        "palette": 3
+      },
+      "attempts": 0
+    },
+    {
+      "slot": "2026-11-28#09",
+      "due": "2026-11-29T01:10:19+00:00",
+      "status": "planned",
+      "item": {
+        "slug": "crispy-ground-turkey-taco-bowl-with-black-beans",
+        "board": "Budget High Protein Meals",
+        "kind": "image",
+        "variant": 3,
+        "hook_type": "budget",
+        "layout": "band",
+        "palette": 3
+      },
+      "attempts": 0
+    },
+    {
+      "slot": "2026-11-28#10",
+      "due": "2026-11-29T01:55:35+00:00",
+      "status": "planned",
+      "item": {
+        "slug": "mediterranean-chickpea-and-greek-yogurt-power-bowl",
+        "board": "High Protein Vegetarian",
+        "kind": "image",
+        "variant": 3,
+        "hook_type": "teacher",
+        "layout": "split",
+        "palette": 0
+      },
+      "attempts": 0
+    },
+    {
+      "slot": "2026-11-29#00",
+      "due": "2026-11-29T12:18:35+00:00",
+      "status": "planned",
+      "item": {
+        "slug": "high-protein-chicken-teriyaki-stir-fry",
+        "board": "30 Minute High Protein Meals",
+        "kind": "image",
+        "variant": 2,
+        "hook_type": "outcome",
+        "layout": "band",
+        "palette": 0
+      },
+      "attempts": 0
+    },
+    {
+      "slot": "2026-11-29#01",
+      "due": "2026-11-29T13:34:00+00:00",
+      "status": "planned",
+      "item": {
+        "slug": "high-protein-turkey-and-black-bean-burrito-bowls",
+        "board": "High Protein Meal Prep",
+        "kind": "image",
+        "variant": 2,
+        "hook_type": "outcome",
+        "layout": "split",
+        "palette": 3
+      },
+      "attempts": 0
+    },
+    {
+      "slot": "2026-11-29#02",
+      "due": "2026-11-29T14:27:07+00:00",
+      "status": "planned",
+      "item": {
+        "slug": "savory-cottage-cheese-and-avocado-toast",
+        "board": "High Protein Breakfast",
+        "kind": "image",
+        "variant": 2,
+        "hook_type": "how_without",
+        "layout": "single",
+        "palette": 3
+      },
+      "attempts": 0
+    },
+    {
+      "slot": "2026-11-29#03",
+      "due": "2026-11-29T17:24:38+00:00",
+      "status": "planned",
+      "item": {
+        "slug": "no-bake-peanut-butter-oatmeal-protein-balls",
+        "board": "High Protein Snacks",
+        "kind": "image",
+        "variant": 1,
+        "hook_type": "speed",
+        "layout": "band",
+        "palette": 4
+      },
+      "attempts": 0
+    },
+    {
+      "slot": "2026-11-29#04",
+      "due": "2026-11-29T18:20:10+00:00",
+      "status": "planned",
+      "item": {
+        "slug": "sheet-pan-lemon-herb-chicken-breast-and-asparagus-easy-meal-prep",
+        "board": "High Protein Chicken Recipes",
+        "kind": "image",
+        "variant": 1,
+        "hook_type": "number",
+        "layout": "split",
+        "palette": 3
+      },
+      "attempts": 0
+    },
+    {
+      "slot": "2026-11-29#05",
+      "due": "2026-11-29T22:23:01+00:00",
+      "status": "planned",
+      "item": {
+        "slug": "spicy-cajun-salmon-and-asparagus-sheet-pan-25-minute-dinner",
+        "board": "30 Minute High Protein Meals",
+        "kind": "image",
+        "variant": 2,
+        "hook_type": "outcome",
+        "layout": "split",
+        "palette": 0
+      },
+      "attempts": 0
+    },
+    {
+      "slot": "2026-11-29#06",
+      "due": "2026-11-29T23:06:03+00:00",
+      "status": "planned",
+      "item": {
+        "slug": "lean-ground-beef-and-quinoa-power-bowls",
+        "board": "High Protein Meal Prep",
+        "kind": "image",
+        "variant": 2,
+        "hook_type": "outcome",
+        "layout": "band",
+        "palette": 0
+      },
+      "attempts": 0
+    },
+    {
+      "slot": "2026-11-29#07",
+      "due": "2026-11-30T00:07:13+00:00",
+      "status": "planned",
+      "item": {
+        "slug": "vanilla-berry-greek-yogurt-protein-bowl",
+        "board": "High Protein Breakfast",
+        "kind": "image",
+        "variant": 2,
+        "hook_type": "how_without",
+        "layout": "band",
+        "palette": 2
+      },
+      "attempts": 0
+    },
+    {
+      "slot": "2026-11-29#08",
+      "due": "2026-11-30T00:50:37+00:00",
+      "status": "planned",
+      "item": {
+        "slug": "high-protein-chocolate-peanut-butter-mousse",
+        "board": "High Protein Snacks",
+        "kind": "image",
+        "variant": 2,
+        "hook_type": "contrarian",
+        "layout": "split",
+        "palette": 2
+      },
+      "attempts": 0
+    },
+    {
+      "slot": "2026-11-29#09",
+      "due": "2026-11-30T02:13:02+00:00",
+      "status": "planned",
+      "item": {
+        "slug": "air-fryer-crispy-chicken-breast-nuggets",
+        "board": "High Protein Chicken Recipes",
+        "kind": "image",
+        "variant": 2,
+        "hook_type": "outcome",
+        "layout": "band",
+        "palette": 4
+      },
+      "attempts": 0
+    }
+  ]
+}
