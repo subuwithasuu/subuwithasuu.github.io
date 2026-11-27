@@ -240,5 +240,159 @@
     "category": "Dinner",
     "protein_g": 34,
     "total_minutes": 25
+  },
+  {
+    "pin_id": "v-air-fryer-crispy-chicken-breast-nuggets",
+    "via": "csv",
+    "kind": "video",
+    "slug": "air-fryer-crispy-chicken-breast-nuggets",
+    "board": "High Protein Chicken Recipes",
+    "title": "Air Fryer Crispy Chicken Breast Nuggets | 35g Protein",
+    "link": "https://subuwithasuu.github.io/recipes/air-fryer-crispy-chicken-breast-nuggets/?pin=v-air-fryer-crispy-chicken-breast-nuggets",
+    "variant": 0,
+    "posted_at": "2026-11-27T19:00:00+00:00"
+  },
+  {
+    "pin_id": "v-crispy-ground-turkey-taco-bowl-with-black-beans",
+    "via": "csv",
+    "kind": "video",
+    "slug": "crispy-ground-turkey-taco-bowl-with-black-beans",
+    "board": "Budget High Protein Meals",
+    "title": "Crispy Ground Turkey Taco Bowl | 35g Protein Dinner",
+    "link": "https://subuwithasuu.github.io/recipes/crispy-ground-turkey-taco-bowl-with-black-beans/?pin=v-crispy-ground-turkey-taco-bowl-with-black-beans",
+    "variant": 0,
+    "posted_at": "2026-11-28T01:00:00+00:00"
+  },
+  {
+    "pin_id": "v-high-protein-chicken-teriyaki-stir-fry",
+    "via": "csv",
+    "kind": "video",
+    "slug": "high-protein-chicken-teriyaki-stir-fry",
+    "board": "30 Minute High Protein Meals",
+    "title": "High-Protein Chicken Teriyaki Stir-Fry (38g Protein)",
+    "link": "https://subuwithasuu.github.io/recipes/high-protein-chicken-teriyaki-stir-fry/?pin=v-high-protein-chicken-teriyaki-stir-fry",
+    "variant": 0,
+    "posted_at": "2026-11-28T19:00:00+00:00"
+  },
+  {
+    "pin_id": "v-high-protein-turkey-and-black-bean-burrito-bowls",
+    "via": "csv",
+    "kind": "video",
+    "slug": "high-protein-turkey-and-black-bean-burrito-bowls",
+    "board": "High Protein Meal Prep",
+    "title": "High-Protein Turkey and Black Bean Burrito Bowls | 35g Protein",
+    "link": "https://subuwithasuu.github.io/recipes/high-protein-turkey-and-black-bean-burrito-bowls/?pin=v-high-protein-turkey-and-black-bean-burrito-bowls",
+    "variant": 0,
+    "posted_at": "2026-11-29T01:00:00+00:00"
+  },
+  {
+    "pin_id": "v-mediterranean-chickpea-and-greek-yogurt-power-bowl",
+    "via": "csv",
+    "kind": "video",
+    "slug": "mediterranean-chickpea-and-greek-yogurt-power-bowl",
+    "board": "High Protein Vegetarian",
+    "title": "Mediterranean Chickpea and Greek Yogurt Power Bowl",
+    "link": "https://subuwithasuu.github.io/recipes/mediterranean-chickpea-and-greek-yogurt-power-bowl/?pin=v-mediterranean-chickpea-and-greek-yogurt-power-bowl",
+    "variant": 0,
+    "posted_at": "2026-11-29T19:00:00+00:00"
+  },
+  {
+    "pin_id": "v-savory-cottage-cheese-and-avocado-toast",
+    "via": "csv",
+    "kind": "video",
+    "slug": "savory-cottage-cheese-and-avocado-toast",
+    "board": "High Protein Breakfast",
+    "title": "Savory Cottage Cheese and Avocado Toast for High Protein Breakfast",
+    "link": "https://subuwithasuu.github.io/recipes/savory-cottage-cheese-and-avocado-toast/?pin=v-savory-cottage-cheese-and-avocado-toast",
+    "variant": 0,
+    "posted_at": "2026-11-30T01:00:00+00:00"
+  },
+  {
+    "pin_id": "v-high-protein-chocolate-peanut-butter-mousse",
+    "via": "csv",
+    "kind": "video",
+    "slug": "high-protein-chocolate-peanut-butter-mousse",
+    "board": "High Protein Snacks",
+    "title": "30g Protein Chocolate Peanut Butter Mousse (10 Minutes)",
+    "link": "https://subuwithasuu.github.io/recipes/high-protein-chocolate-peanut-butter-mousse/?pin=v-high-protein-chocolate-peanut-butter-mousse",
+    "variant": 0,
+    "posted_at": "2026-11-30T19:00:00+00:00"
+  },
+  {
+    "pin_id": "v-quick-korean-lean-ground-beef-rice-bowl",
+    "via": "csv",
+    "kind": "video",
+    "slug": "quick-korean-lean-ground-beef-rice-bowl",
+    "board": "High Protein Dinners",
+    "title": "High Protein Korean Beef Bowls - 35g Protein",
+    "link": "https://subuwithasuu.github.io/recipes/quick-korean-lean-ground-beef-rice-bowl/?pin=v-quick-korean-lean-ground-beef-rice-bowl",
+    "variant": 0,
+    "posted_at": "2026-12-01T01:00:00+00:00"
+  },
+  {
+    "pin_id": "v-honey-garlic-glazed-chicken-thighs",
+    "via": "csv",
+    "kind": "video",
+    "slug": "honey-garlic-glazed-chicken-thighs",
+    "board": "High Protein Chicken Recipes",
+    "title": "25-Minute Honey Garlic Chicken - High Protein",
+    "link": "https://subuwithasuu.github.io/recipes/honey-garlic-glazed-chicken-thighs/?pin=v-honey-garlic-glazed-chicken-thighs",
+    "variant": 1,
+    "posted_at": "2026-12-01T19:00:00+00:00"
+  },
+  {
+    "pin_id": "v-lean-ground-beef-and-quinoa-power-bowls",
+    "via": "csv",
+    "kind": "video",
+    "slug": "lean-ground-beef-and-quinoa-power-bowls",
+    "board": "High Protein Meal Prep",
+    "title": "30-Minute Quinoa Power Bowls with Lean Beef",
+    "link": "https://subuwithasuu.github.io/recipes/lean-ground-beef-and-quinoa-power-bowls/?pin=v-lean-ground-beef-and-quinoa-power-bowls",
+    "variant": 1,
+    "posted_at": "2026-12-02T01:00:00+00:00"
+  },
+  {
+    "pin_id": "v-spicy-cajun-salmon-and-asparagus-sheet-pan-25-minute-dinner",
+    "via": "csv",
+    "kind": "video",
+    "slug": "spicy-cajun-salmon-and-asparagus-sheet-pan-25-minute-dinner",
+    "board": "30 Minute High Protein Meals",
+    "title": "34g Protein Cajun Salmon and Asparagus Sheet Pan",
+    "link": "https://subuwithasuu.github.io/recipes/spicy-cajun-salmon-and-asparagus-sheet-pan-25-minute-dinner/?pin=v-spicy-cajun-salmon-and-asparagus-sheet-pan-25-minute-dinner",
+    "variant": 1,
+    "posted_at": "2026-12-02T19:00:00+00:00"
+  },
+  {
+    "pin_id": "v-vanilla-berry-greek-yogurt-protein-bowl",
+    "via": "csv",
+    "kind": "video",
+    "slug": "vanilla-berry-greek-yogurt-protein-bowl",
+    "board": "High Protein Breakfast",
+    "title": "5-Minute High Protein Greek Yogurt Bowl",
+    "link": "https://subuwithasuu.github.io/recipes/vanilla-berry-greek-yogurt-protein-bowl/?pin=v-vanilla-berry-greek-yogurt-protein-bowl",
+    "variant": 1,
+    "posted_at": "2026-12-03T01:00:00+00:00"
+  },
+  {
+    "pin_id": "v-high-protein-cottage-cheese-cookie-dough",
+    "via": "csv",
+    "kind": "video",
+    "slug": "high-protein-cottage-cheese-cookie-dough",
+    "board": "High Protein Snacks",
+    "title": "10-Minute High-Protein Cottage Cheese Cookie Dough",
+    "link": "https://subuwithasuu.github.io/recipes/high-protein-cottage-cheese-cookie-dough/?pin=v-high-protein-cottage-cheese-cookie-dough",
+    "variant": 1,
+    "posted_at": "2026-12-03T19:00:00+00:00"
+  },
+  {
+    "pin_id": "v-sheet-pan-lemon-herb-chicken-breast-and-asparagus-easy-meal-",
+    "via": "csv",
+    "kind": "video",
+    "slug": "sheet-pan-lemon-herb-chicken-breast-and-asparagus-easy-meal-prep",
+    "board": "High Protein Chicken Recipes",
+    "title": "High Protein Sheet Pan Lemon Herb Chicken Breast and Asparagus",
+    "link": "https://subuwithasuu.github.io/recipes/sheet-pan-lemon-herb-chicken-breast-and-asparagus-easy-meal-prep/?pin=v-sheet-pan-lemon-herb-chicken-breast-and-asparagus-easy-meal-",
+    "variant": 2,
+    "posted_at": "2026-12-04T01:00:00+00:00"
   }
 ]
