@@ -20,7 +20,7 @@ site:
   author: "Easy Protein Kitchen"
   pin_label: "Easy Protein Kitchen"     # text printed on pins (brand, not the long github.io URL)
   pinterest_verify: null                # set via the PINTEREST_VERIFY repo variable
-  goatcounter: null                    # GoatCounter site code (free click counter), e.g. "easyproteinkitchen"
+  goatcounter: "easyproteinkitchen"                  # GoatCounter site code (free click counter), e.g. "easyproteinkitchen"
 
 github:
   user: "subuwithasuu"                  # existing account
