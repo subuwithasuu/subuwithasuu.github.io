@@ -120,5 +120,11 @@ video:
   speed: 1.05
   max_steps_shown: 6
 
+video_batch:                          # weekly video pins via Pinterest's bulk .csv upload
+  per_week: 14                        # 2 video pins a day
+  post_times_utc: ["01:00", "19:00"]  # evening + afternoon in the US
+  keep_days: 21                       # delete hosted files this long after upload
+  upload_every_days: 6                # Mac uploader waits at least this long between uploads
+
 report:
   weekday: "monday"

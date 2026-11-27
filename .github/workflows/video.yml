@@ -1,0 +1,66 @@
+name: Weekly video pins
+# Sundays: render this week's video pins (free voice + recipe photos), host them as
+# files of the GitHub release "videos" (served on the site under /videos/), and drop
+# old ones. The Mac uploader sends them to Pinterest as a bulk .csv.
+on:
+  schedule:
+    - cron: "0 3 * * 0"
+  workflow_dispatch:
+
+concurrency:
+  group: repo-write
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+jobs:
+  render:
+    runs-on: ubuntu-latest
+    timeout-minutes: 90
+    steps:
+      - uses: actions/checkout@v7
+      - uses: actions/setup-python@v7
+        with:
+          python-version: "3.12"
+          cache: pip
+      - run: pip install -r requirements.txt
+      - run: sudo apt-get update -qq && sudo apt-get install -y -qq ffmpeg
+      - name: Cache Kokoro voice model
+        uses: actions/cache@v6
+        with:
+          path: models
+          key: kokoro-v1.0
+      - run: ./scripts/fetch_assets.sh
+      - name: Render videos
+        env:
+          UNSPLASH_ACCESS_KEY: ${{ secrets.UNSPLASH_ACCESS_KEY }}
+          PEXELS_API_KEY: ${{ secrets.PEXELS_API_KEY }}
+        run: python src/video_batch.py
+      - name: Host videos on the "videos" release
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          gh release view videos >/dev/null 2>&1 || \
+            gh release create videos --title "Video pin files" --notes "Hosted video files for Pinterest bulk upload. Managed by the bot."
+          shopt -s nullglob
+          files=(build/videos_out/*.mp4)
+          [ ${#files[@]} -eq 0 ] || gh release upload videos "${files[@]}" --clobber
+          for f in $(python src/video_batch.py --prune); do
+            gh release delete-asset videos "$f" -y || true
+          done
+      - name: Commit video state
+        run: |
+          git config user.name "pin-bot"
+          git config user.email "pin-bot@users.noreply.github.com"
+          git add data/state/videos.json
+          git diff --cached --quiet && exit 0
+          git commit -q -m "video pins $(date -u +%F)"
+          git pull -q --rebase && git push -q
+
+  site:
+    needs: render
+    uses: ./.github/workflows/pages.yml
+    secrets: inherit

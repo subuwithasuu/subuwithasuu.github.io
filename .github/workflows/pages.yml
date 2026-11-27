@@ -30,6 +30,10 @@ jobs:
       - run: python src/build_site.py
         env:
           PINTEREST_VERIFY: ${{ vars.PINTEREST_VERIFY }}
+      - name: Add hosted video pin files
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: gh release download videos --dir site/videos --pattern '*.mp4' --repo "$GITHUB_REPOSITORY" || echo "no videos yet"
       - uses: actions/configure-pages@v6
       - uses: actions/upload-pages-artifact@v5
         with:
