@@ -238,7 +238,7 @@
     {
       "slot": "2026-11-27#02",
       "due": "2026-11-27T13:51:02+00:00",
-      "status": "planned",
+      "status": "posted",
       "item": {
         "slug": "no-bake-peanut-butter-oatmeal-protein-balls",
         "board": "High Protein Snacks",
@@ -248,7 +248,10 @@
         "layout": "split",
         "palette": 1
       },
-      "attempts": 0
+      "attempts": 0,
+      "pin_id": "2026-11-27-02",
+      "posted_at": "2026-11-27T13:52:01.653825+00:00",
+      "via": "rss"
     },
     {
       "slot": "2026-11-27#03",

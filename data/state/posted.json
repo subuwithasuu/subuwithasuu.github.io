@@ -438,5 +438,27 @@
     "category": "Breakfast",
     "protein_g": 35,
     "total_minutes": 5
+  },
+  {
+    "pin_id": "2026-11-27-02",
+    "via": "rss",
+    "slot": "2026-11-27#02",
+    "slug": "no-bake-peanut-butter-oatmeal-protein-balls",
+    "kind": "image",
+    "variant": 0,
+    "board": "High Protein Snacks",
+    "title": "No-Bake Peanut Butter Oatmeal Protein Balls - 18g Protein",
+    "description": "These no-bake peanut butter oatmeal protein balls deliver 18g protein per serving in just 15 minutes. Stir, roll, and store for quick snacks all week. Save it for your next meal prep.",
+    "alt_text": "Rolled peanut butter oatmeal protein balls arranged on a plate with mini chocolate chips visible.",
+    "link": "https://easyproteinkitchen.online/recipes/no-bake-peanut-butter-oatmeal-protein-balls/?pin=2026-11-27-02",
+    "image": "pins/2026-11-27-02.jpg",
+    "posted_at": "2026-11-27T13:52:01.653825+00:00",
+    "hook_type": "number",
+    "overlay": "18g Protein Peanut Butter Oat Balls",
+    "layout": "split",
+    "palette": 1,
+    "category": "Snack",
+    "protein_g": 18,
+    "total_minutes": 15
   }
 ]
