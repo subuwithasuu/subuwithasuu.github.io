@@ -1,0 +1,296 @@
+{
+  "title": "Greek Lemon Herb Chicken and Quinoa Meal Prep Bowls",
+  "description": "Greek lemon herb chicken and quinoa meal prep bowls deliver 35 grams of protein per serving in just 25 minutes. Fresh lemon, garlic, and oregano flavor tender chicken breast paired with protein-packed quinoa and crisp cucumbers.",
+  "cuisine": "Mediterranean",
+  "category": "Lunch",
+  "servings": 4,
+  "protein_g_per_serving": 35,
+  "prep_minutes": 10,
+  "cook_minutes": 15,
+  "total_minutes": 25,
+  "ingredients": [
+    {
+      "qty": "1 1/2",
+      "unit": "lbs",
+      "item": "boneless skinless chicken breasts",
+      "metric": "680 g",
+      "note": "cut into bite-sized pieces"
+    },
+    {
+      "qty": "1",
+      "unit": "cup",
+      "item": "dry quinoa",
+      "metric": "170 g",
+      "note": "rinsed well"
+    },
+    {
+      "qty": "2",
+      "unit": "cups",
+      "item": "low-sodium chicken broth",
+      "metric": "480 ml",
+      "note": "for cooking quinoa"
+    },
+    {
+      "qty": "3",
+      "unit": "tbsp",
+      "item": "olive oil",
+      "metric": "45 ml",
+      "note": "divided"
+    },
+    {
+      "qty": "2",
+      "unit": "tbsp",
+      "item": "lemon juice",
+      "metric": "30 ml",
+      "note": "freshly squeezed"
+    },
+    {
+      "qty": "2",
+      "unit": "cloves",
+      "item": "garlic",
+      "metric": "6 g",
+      "note": "minced"
+    },
+    {
+      "qty": "1",
+      "unit": "tsp",
+      "item": "dried oregano",
+      "metric": "2 g",
+      "note": "crushed"
+    },
+    {
+      "qty": "1",
+      "unit": "tsp",
+      "item": "salt",
+      "metric": "6 g",
+      "note": "divided"
+    },
+    {
+      "qty": "1/2",
+      "unit": "tsp",
+      "item": "black pepper",
+      "metric": "2 g",
+      "note": "divided"
+    },
+    {
+      "qty": "1",
+      "unit": "medium",
+      "item": "cucumber",
+      "metric": "200 g",
+      "note": "diced"
+    },
+    {
+      "qty": "1",
+      "unit": "cup",
+      "item": "cherry tomatoes",
+      "metric": "150 g",
+      "note": "halved"
+    },
+    {
+      "qty": "1/2",
+      "unit": "cup",
+      "item": "crumbled feta cheese",
+      "metric": "75 g",
+      "note": "for topping"
+    }
+  ],
+  "steps": [
+    "Combine the rinsed dry quinoa and low-sodium chicken broth in a medium saucepan over medium-high heat. Bring to a boil, then reduce heat to low, cover with a tight-fitting lid, and simmer for 15 minutes until the liquid is fully absorbed and the quinoa is fluffy.",
+    "Whisk together 2 tablespoons of olive oil, lemon juice, minced garlic, dried oregano, half of the salt, and half of the black pepper in a medium bowl. Add the diced chicken breasts and toss until thoroughly coated.",
+    "Heat the remaining 1 tablespoon of olive oil in a large skillet over medium-high heat. Add the marinated chicken pieces in a single layer and cook for 6 to 8 minutes, stirring occasionally, until golden brown and the internal temperature reaches 165°F (74°C).",
+    "Divide the cooked quinoa evenly among 4 meal prep containers. Top each with the cooked lemon herb chicken, diced cucumber, halved cherry tomatoes, and crumbled feta cheese. Seal and store."
+  ],
+  "tips": [
+    "Let the chicken and quinoa cool completely before sealing the containers to prevent condensation.",
+    "Add the cucumber and tomatoes to a separate small compartment if you prefer to keep them crisp when reheating.",
+    "Substitute brown rice for the quinoa if desired."
+  ],
+  "storage": "Store in airtight containers in the refrigerator for up to 4 days. Do not freeze.",
+  "tools": [
+    "medium saucepan",
+    "large skillet",
+    "mixing bowl",
+    "measuring cups and spoons",
+    "4 meal prep containers"
+  ],
+  "keywords": [
+    "high protein meal prep",
+    "chicken quinoa bowls",
+    "greek chicken meal prep",
+    "lemon herb chicken bowls",
+    "healthy lunch meal prep",
+    "protein meal prep ideas",
+    "easy chicken meal prep"
+  ],
+  "pin_variants": [
+    {
+      "hook_type": "speed",
+      "title": "Greek Lemon Herb Chicken and Quinoa Meal Prep Bowls | 25-Minute Lunch",
+      "description": "Make these Greek lemon herb chicken and quinoa meal prep bowls in just 25 minutes for an easy lunch that packs 35g of protein per serving. Tender garlic chicken and fresh vegetables make this a weekly favorite. Save it for your next meal prep.",
+      "overlay": "25-Minute High-Protein Chicken Bowls",
+      "subline": "Ready in 25 Minutes",
+      "alt_text": "Four meal prep containers filled with lemon herb chicken, quinoa, cucumbers, tomatoes, and feta cheese."
+    },
+    {
+      "hook_type": "number",
+      "title": "High Protein Greek Chicken Bowls | 35g Protein Meal Prep",
+      "description": "Hit your macro goals with these Greek lemon herb chicken and quinoa meal prep bowls featuring 35g of protein per serving. Ready in 25 minutes with simple ingredients like garlic, lemon, and feta. Save it for your next meal prep.",
+      "overlay": "35g Protein Greek Chicken Bowls",
+      "subline": "Macro Friendly Meal Prep",
+      "alt_text": "Close up of Greek lemon herb chicken breast and fluffy quinoa in a meal prep bowl."
+    },
+    {
+      "hook_type": "outcome",
+      "title": "Greek Chicken and Quinoa Bowls | Easy High Protein Meal Prep",
+      "description": "Prep once and eat well all week with these Greek lemon herb chicken and quinoa meal prep bowls packed with 35g of protein. Quick to assemble and ready in 25 minutes for busy weekdays. Save it for your next meal prep.",
+      "overlay": "Prep Once, Eat High-Protein All Week",
+      "subline": "Meal Prep Friendly",
+      "alt_text": "Overhead view of four meal prep bowls containing chicken, quinoa, and fresh Mediterranean vegetables."
+    },
+    {
+      "hook_type": "teacher",
+      "title": "High Protein Meal Prep Bowls | The Secret to Juicy Lemon Chicken",
+      "description": "Learn the trick to juicy lemon herb chicken paired with fluffy quinoa in these 25-minute meal prep bowls. Each serving delivers 35g of protein using fresh garlic, oregano, and feta cheese. Save it for your next meal prep.",
+      "overlay": "The Secret to Juicy Meal Prep Chicken",
+      "subline": "Tender and Flavorful",
+      "alt_text": "Sliced lemon herb chicken breast resting on top of cooked quinoa in a glass meal prep container."
+    }
+  ],
+  "video_script": {
+    "hook": "Make these Greek lemon herb chicken bowls with 35 grams of protein.",
+    "steps_short": [
+      "Simmer dry quinoa in chicken broth until fluffy.",
+      "Marinate diced chicken in lemon, garlic, and oregano.",
+      "Cook chicken in a skillet until it reaches 165°F.",
+      "Divide quinoa, chicken, cucumber, tomatoes, and feta into bowls."
+    ],
+    "outro": "The full recipe and instructions are on the website."
+  },
+  "photo_queries": [
+    "chicken quinoa meal prep bowl",
+    "greek lemon chicken bowl",
+    "high protein meal prep containers"
+  ],
+  "must_match": [
+    "chicken",
+    "quinoa",
+    "bowl"
+  ],
+  "board": "High Protein Meal Prep",
+  "slug": "greek-lemon-herb-chicken-and-quinoa-meal-prep-bowls",
+  "protein_g": 35,
+  "photos": [
+    {
+      "id": "u--46yZGDotm8",
+      "width": 2609,
+      "height": 3478,
+      "alt": "a couple of plates of food on a table Chicken hummus bowls with pita next to a striped linen napkin with vintage flatware.",
+      "photographer": "sheri silver",
+      "photographer_url": "https://unsplash.com/@sheri_silver?utm_source=easy_protein_kitchen&utm_medium=referral",
+      "page_url": "https://unsplash.com/photos/a-couple-of-plates-of-food-on-a-table--46yZGDotm8?utm_source=easy_protein_kitchen&utm_medium=referral",
+      "source": "Unsplash",
+      "source_url": "https://unsplash.com/?utm_source=easy_protein_kitchen&utm_medium=referral",
+      "src": "https://images.unsplash.com/photo-1690979405976-91db03982b31?ixid=M3wxMTQzODc5fDB8MXxzZWFyY2h8MTF8fGdyZWVrJTIwbGVtb24lMjBjaGlja2VuJTIwYm93bHxlbnwxfDF8fHwxNzk1Nzc2NzgyfDA&ixlib=rb-4.1.0",
+      "web": "https://images.unsplash.com/photo-1690979405976-91db03982b31?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTQzODc5fDB8MXxzZWFyY2h8MTF8fGdyZWVrJTIwbGVtb24lMjBjaGlja2VuJTIwYm93bHxlbnwxfDF8fHwxNzk1Nzc2NzgyfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "download_location": "https://api.unsplash.com/photos/-46yZGDotm8/download?ixid=M3wxMTQzODc5fDB8MXxzZWFyY2h8MTF8fGdyZWVrJTIwbGVtb24lMjBjaGlja2VuJTIwYm93bHxlbnwxfDF8fHwxNzk1Nzc2NzgyfDA",
+      "score": 11
+    },
+    {
+      "id": "u-ztmNL8VCyXU",
+      "width": 4265,
+      "height": 6400,
+      "alt": "Man enjoys a healthy bowl of delicious food A grilled chicken and rice bowl with colorful vegetables, held outdoors for a casual healthy meal moment.",
+      "photographer": "Gaia&Co",
+      "photographer_url": "https://unsplash.com/@gaiacoffee?utm_source=easy_protein_kitchen&utm_medium=referral",
+      "page_url": "https://unsplash.com/photos/man-enjoys-a-healthy-bowl-of-delicious-food-ztmNL8VCyXU?utm_source=easy_protein_kitchen&utm_medium=referral",
+      "source": "Unsplash",
+      "source_url": "https://unsplash.com/?utm_source=easy_protein_kitchen&utm_medium=referral",
+      "src": "https://images.unsplash.com/photo-1749280446532-60869b4b9863?ixid=M3wxMTQzODc5fDB8MXxzZWFyY2h8MjN8fGdyZWVrJTIwbGVtb24lMjBjaGlja2VuJTIwYm93bHxlbnwxfDF8fHwxNzk1Nzc2NzgyfDA&ixlib=rb-4.1.0",
+      "web": "https://images.unsplash.com/photo-1749280446532-60869b4b9863?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTQzODc5fDB8MXxzZWFyY2h8MjN8fGdyZWVrJTIwbGVtb24lMjBjaGlja2VuJTIwYm93bHxlbnwxfDF8fHwxNzk1Nzc2NzgyfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "download_location": "https://api.unsplash.com/photos/ztmNL8VCyXU/download?ixid=M3wxMTQzODc5fDB8MXxzZWFyY2h8MjN8fGdyZWVrJTIwbGVtb24lMjBjaGlja2VuJTIwYm93bHxlbnwxfDF8fHwxNzk1Nzc2NzgyfDA",
+      "score": 11
+    },
+    {
+      "id": "u-jrs4j6k6QKA",
+      "width": 3545,
+      "height": 4431,
+      "alt": "a bowl filled with different types of vegetables Chicken & Vegetable Cut in a Bowl",
+      "photographer": "Imad 786",
+      "photographer_url": "https://unsplash.com/@imad8321?utm_source=easy_protein_kitchen&utm_medium=referral",
+      "page_url": "https://unsplash.com/photos/a-bowl-filled-with-different-types-of-vegetables-jrs4j6k6QKA?utm_source=easy_protein_kitchen&utm_medium=referral",
+      "source": "Unsplash",
+      "source_url": "https://unsplash.com/?utm_source=easy_protein_kitchen&utm_medium=referral",
+      "src": "https://images.unsplash.com/photo-1688923130900-bc5d4ee364b4?ixid=M3wxMTQzODc5fDB8MXxzZWFyY2h8MjR8fGdyZWVrJTIwbGVtb24lMjBjaGlja2VuJTIwYm93bHxlbnwxfDF8fHwxNzk1Nzc2NzgyfDA&ixlib=rb-4.1.0",
+      "web": "https://images.unsplash.com/photo-1688923130900-bc5d4ee364b4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTQzODc5fDB8MXxzZWFyY2h8MjR8fGdyZWVrJTIwbGVtb24lMjBjaGlja2VuJTIwYm93bHxlbnwxfDF8fHwxNzk1Nzc2NzgyfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "download_location": "https://api.unsplash.com/photos/jrs4j6k6QKA/download?ixid=M3wxMTQzODc5fDB8MXxzZWFyY2h8MjR8fGdyZWVrJTIwbGVtb24lMjBjaGlja2VuJTIwYm93bHxlbnwxfDF8fHwxNzk1Nzc2NzgyfDA",
+      "score": 11
+    },
+    {
+      "id": "u-Ny8H5dn146Q",
+      "width": 3603,
+      "height": 5396,
+      "alt": "white ceramic bowl with food",
+      "photographer": "Eiliv Aceron",
+      "photographer_url": "https://unsplash.com/@shootdelicious?utm_source=easy_protein_kitchen&utm_medium=referral",
+      "page_url": "https://unsplash.com/photos/white-ceramic-bowl-with-food-Ny8H5dn146Q?utm_source=easy_protein_kitchen&utm_medium=referral",
+      "source": "Unsplash",
+      "source_url": "https://unsplash.com/?utm_source=easy_protein_kitchen&utm_medium=referral",
+      "src": "https://images.unsplash.com/photo-1604497198754-a2183225cdc4?ixid=M3wxMTQzODc5fDB8MXxzZWFyY2h8Mnx8Y2hpY2tlbiUyMHF1aW5vYSUyMG1lYWwlMjBwcmVwJTIwYm93bHxlbnwxfDF8fHwxNzk1Nzc2NzgyfDA&ixlib=rb-4.1.0",
+      "web": "https://images.unsplash.com/photo-1604497198754-a2183225cdc4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTQzODc5fDB8MXxzZWFyY2h8Mnx8Y2hpY2tlbiUyMHF1aW5vYSUyMG1lYWwlMjBwcmVwJTIwYm93bHxlbnwxfDF8fHwxNzk1Nzc2NzgyfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "download_location": "https://api.unsplash.com/photos/Ny8H5dn146Q/download?ixid=M3wxMTQzODc5fDB8MXxzZWFyY2h8Mnx8Y2hpY2tlbiUyMHF1aW5vYSUyMG1lYWwlMjBwcmVwJTIwYm93bHxlbnwxfDF8fHwxNzk1Nzc2NzgyfDA",
+      "score": 6
+    },
+    {
+      "id": "u-GdUgv95_v-k",
+      "width": 5267,
+      "height": 7896,
+      "alt": "a bowl of food New Lens new Bowl",
+      "photographer": "Filipp Romanovski",
+      "photographer_url": "https://unsplash.com/@filipp_roman_photography?utm_source=easy_protein_kitchen&utm_medium=referral",
+      "page_url": "https://unsplash.com/photos/a-bowl-of-food-GdUgv95_v-k?utm_source=easy_protein_kitchen&utm_medium=referral",
+      "source": "Unsplash",
+      "source_url": "https://unsplash.com/?utm_source=easy_protein_kitchen&utm_medium=referral",
+      "src": "https://images.unsplash.com/photo-1660744562389-57bf4544afe2?ixid=M3wxMTQzODc5fDB8MXxzZWFyY2h8NHx8Y2hpY2tlbiUyMHF1aW5vYSUyMG1lYWwlMjBwcmVwJTIwYm93bHxlbnwxfDF8fHwxNzk1Nzc2NzgyfDA&ixlib=rb-4.1.0",
+      "web": "https://images.unsplash.com/photo-1660744562389-57bf4544afe2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTQzODc5fDB8MXxzZWFyY2h8NHx8Y2hpY2tlbiUyMHF1aW5vYSUyMG1lYWwlMjBwcmVwJTIwYm93bHxlbnwxfDF8fHwxNzk1Nzc2NzgyfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "download_location": "https://api.unsplash.com/photos/GdUgv95_v-k/download?ixid=M3wxMTQzODc5fDB8MXxzZWFyY2h8NHx8Y2hpY2tlbiUyMHF1aW5vYSUyMG1lYWwlMjBwcmVwJTIwYm93bHxlbnwxfDF8fHwxNzk1Nzc2NzgyfDA",
+      "score": 6
+    },
+    {
+      "id": "u-znAQw0yFwyA",
+      "width": 2000,
+      "height": 3000,
+      "alt": "A white bowl filled with different types of vegetables",
+      "photographer": "Mohthasim Shaik",
+      "photographer_url": "https://unsplash.com/@mohthasim5?utm_source=easy_protein_kitchen&utm_medium=referral",
+      "page_url": "https://unsplash.com/photos/a-white-bowl-filled-with-different-types-of-vegetables-znAQw0yFwyA?utm_source=easy_protein_kitchen&utm_medium=referral",
+      "source": "Unsplash",
+      "source_url": "https://unsplash.com/?utm_source=easy_protein_kitchen&utm_medium=referral",
+      "src": "https://images.unsplash.com/photo-1729769218931-435e9a261149?ixid=M3wxMTQzODc5fDB8MXxzZWFyY2h8Nnx8Y2hpY2tlbiUyMHF1aW5vYSUyMG1lYWwlMjBwcmVwJTIwYm93bHxlbnwxfDF8fHwxNzk1Nzc2NzgyfDA&ixlib=rb-4.1.0",
+      "web": "https://images.unsplash.com/photo-1729769218931-435e9a261149?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTQzODc5fDB8MXxzZWFyY2h8Nnx8Y2hpY2tlbiUyMHF1aW5vYSUyMG1lYWwlMjBwcmVwJTIwYm93bHxlbnwxfDF8fHwxNzk1Nzc2NzgyfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "download_location": "https://api.unsplash.com/photos/znAQw0yFwyA/download?ixid=M3wxMTQzODc5fDB8MXxzZWFyY2h8Nnx8Y2hpY2tlbiUyMHF1aW5vYSUyMG1lYWwlMjBwcmVwJTIwYm93bHxlbnwxfDF8fHwxNzk1Nzc2NzgyfDA",
+      "score": 6
+    }
+  ],
+  "verification": {
+    "checks": [
+      {
+        "verdict": "pass",
+        "issues": [],
+        "sources": [
+          {
+            "name": "Budget Bytes - Greek Chicken Quinoa Bowls",
+            "url": "https://www.budgetbytes.com/greek-chicken-quinoa-meal-prep-bowls/"
+          },
+          {
+            "name": "Cookie and Kate - Greek Chicken Quinoa Bowls",
+            "url": "https://cookieandkate.com/greek-chicken-quinoa-bowls-recipe/"
+          }
+        ],
+        "grounded": false
+      }
+    ],
+    "rule_warnings": [],
+    "model": "gemini-3.6-flash"
+  },
+  "created": "2026-11-27"
+}

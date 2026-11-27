@@ -1,0 +1,288 @@
+{
+  "title": "High-Protein Turkey Meatball Marinara with Chickpea Pasta",
+  "description": "Tender lean turkey meatballs simmered in marinara sauce and served over high-protein chickpea pasta for a satisfying weeknight dinner. This macro-friendly meal delivers plenty of protein in under 30 minutes. Save it for your next meal prep.",
+  "cuisine": "Italian-American",
+  "category": "Dinner",
+  "servings": 4,
+  "protein_g_per_serving": 42,
+  "prep_minutes": 10,
+  "cook_minutes": 15,
+  "total_minutes": 25,
+  "ingredients": [
+    {
+      "qty": "1",
+      "unit": "lb",
+      "item": "lean ground turkey (93/7)",
+      "metric": "454 g",
+      "note": "for the meatballs"
+    },
+    {
+      "qty": "1/4",
+      "unit": "cup",
+      "item": "breadcrumbs",
+      "metric": "30 g",
+      "note": "plain or Italian style"
+    },
+    {
+      "qty": "1",
+      "unit": "large",
+      "item": "egg",
+      "metric": "50 g",
+      "note": "lightly beaten"
+    },
+    {
+      "qty": "2",
+      "unit": "tbsp",
+      "item": "grated parmesan cheese",
+      "metric": "10 g",
+      "note": "plus extra for serving"
+    },
+    {
+      "qty": "1/2",
+      "unit": "tsp",
+      "item": "garlic powder",
+      "metric": "1.5 g",
+      "note": ""
+    },
+    {
+      "qty": "1/2",
+      "unit": "tsp",
+      "item": "salt",
+      "metric": "3 g",
+      "note": ""
+    },
+    {
+      "qty": "1/4",
+      "unit": "tsp",
+      "item": "black pepper",
+      "metric": "1 g",
+      "note": ""
+    },
+    {
+      "qty": "1",
+      "unit": "tbsp",
+      "item": "olive oil",
+      "metric": "15 ml",
+      "note": "divided"
+    },
+    {
+      "qty": "3",
+      "unit": "cups",
+      "item": "marinara sauce",
+      "metric": "720 ml",
+      "note": "your favorite jarred variety"
+    },
+    {
+      "qty": "8",
+      "unit": "oz",
+      "item": "chickpea pasta",
+      "metric": "227 g",
+      "note": "such as penne or rotini"
+    }
+  ],
+  "steps": [
+    "Bring a large pot of salted water to a rolling boil over high heat. Add the chickpea pasta and cook uncovered for 7 to 9 minutes, stirring occasionally, until al dente. Drain thoroughly and set aside.",
+    "In a large bowl, combine the ground turkey, breadcrumbs, egg, parmesan cheese, garlic powder, salt, and black pepper. Mix gently with your hands just until incorporated, then shape the mixture into 16 equal-sized meatballs.",
+    "Heat 1 tablespoon of olive oil in a large skillet over medium-high heat for 2 minutes until shimmering. Add the turkey meatballs in a single layer and sear for 5 minutes, turning occasionally, until golden brown on all sides.",
+    "Pour the marinara sauce directly over the browned meatballs in the skillet. Reduce the heat to medium-low, cover with a lid, and simmer for 8 to 10 minutes until the meatballs reach an internal temperature of 165°F (74°C) and the sauce is bubbling.",
+    "Divide the cooked chickpea pasta among four bowls, top generously with the turkey meatballs and marinara sauce, and garnish with additional parmesan cheese before serving."
+  ],
+  "tips": [
+    "Do not overmix the turkey meatball mixture or the meatballs will turn out dense rather than tender.",
+    "Chickpea pasta cooks quickly and can foam up; stir it frequently during the boil.",
+    "Store leftovers in an airtight container in the refrigerator for up to 4 days."
+  ],
+  "storage": "Store in an airtight container in the refrigerator for up to 4 days. Reheat gently on the stovetop or in the microwave.",
+  "tools": [
+    "large pot",
+    "colander",
+    "large mixing bowl",
+    "12-inch skillet with lid",
+    "meat thermometer"
+  ],
+  "keywords": [
+    "high protein dinner",
+    "turkey meatball marinara",
+    "chickpea pasta recipe",
+    "macro friendly dinner",
+    "high protein meal prep",
+    "healthy turkey meatballs",
+    "fitness dinner recipes"
+  ],
+  "pin_variants": [
+    {
+      "hook_type": "number",
+      "title": "High Protein Turkey Meatball Marinara with Chickpea Pasta (35g Protein)",
+      "description": "Get 35g of protein in this high protein turkey meatball marinara served over chickpea pasta. Ready in just 25 minutes for a macro-friendly weeknight dinner. Save it for your next meal prep.",
+      "overlay": "35g Protein Turkey Meatball Dinner",
+      "subline": "Ready in 25 Minutes",
+      "alt_text": "A bowl of chickpea pasta topped with turkey meatballs and marinara sauce."
+    },
+    {
+      "hook_type": "speed",
+      "title": "25-Minute High-Protein Turkey Meatball Marinara",
+      "description": "Make a quick 25-minute high protein turkey meatball marinara paired with chickpea pasta for 35g of protein per serving. Perfect for busy gym-goers and macro tracking. Save it for your next meal prep.",
+      "overlay": "25-Minute Turkey Meatball Dinner",
+      "subline": "35g Protein Per Serving",
+      "alt_text": "Close-up of turkey meatballs in marinara sauce over chickpea pasta."
+    },
+    {
+      "hook_type": "outcome",
+      "title": "Macro-Friendly Turkey Meatball Marinara with Chickpea Pasta",
+      "description": "Satisfy your cravings with this macro-friendly turkey meatball marinara and chickpea pasta delivering 35g of protein in 25 minutes. A quick and wholesome meal option. Save it for your next meal prep.",
+      "overlay": "High-Protein Pasta Dinner Prep",
+      "subline": "35g Protein",
+      "alt_text": "Bowl of chickpea pasta and turkey meatballs garnished with parmesan."
+    },
+    {
+      "hook_type": "budget",
+      "title": "Pantry-Friendly High-Protein Turkey Meatball Marinara",
+      "description": "Combine pantry marinara and chickpea pasta with lean turkey for a 35g protein dinner ready in 25 minutes. A simple and flavorful home-cooked meal. Save it for your next meal prep.",
+      "overlay": "Pantry Turkey Meatball Pasta",
+      "subline": "35g Protein",
+      "alt_text": "Serving of chickpea pasta and turkey meatballs in red sauce."
+    }
+  ],
+  "video_script": {
+    "hook": "Make this 25-minute turkey meatball marinara with 35 grams of protein.",
+    "steps_short": [
+      "Boil the chickpea pasta until al dente and drain.",
+      "Mix ground turkey, egg, breadcrumbs, and spices into meatballs.",
+      "Sear the meatballs in a hot skillet until golden brown.",
+      "Simmer the meatballs in marinara sauce until fully cooked.",
+      "Combine pasta and meatballs, then serve hot."
+    ],
+    "outro": "Find the full recipe and measurements on our website."
+  },
+  "photo_queries": [
+    "turkey meatballs with marinara sauce and pasta",
+    "chickpea pasta with meat sauce in a bowl",
+    "healthy turkey meatball dinner overhead"
+  ],
+  "must_match": [
+    "pasta",
+    "meatballs",
+    "marinara"
+  ],
+  "board": "High Protein Dinners",
+  "slug": "high-protein-turkey-meatball-marinara-with-chickpea-pasta",
+  "protein_g": 35,
+  "photos": [
+    {
+      "id": "u-3a4gRjgdweQ",
+      "width": 3014,
+      "height": 3768,
+      "alt": "pasta dish in stainless steel bowl Meatballs in Tomato & Cilantro Sauce with Pasta Chitarra",
+      "photographer": "Max Griss",
+      "photographer_url": "https://unsplash.com/@grissphoto?utm_source=easy_protein_kitchen&utm_medium=referral",
+      "page_url": "https://unsplash.com/photos/pasta-dish-in-stainless-steel-bowl-3a4gRjgdweQ?utm_source=easy_protein_kitchen&utm_medium=referral",
+      "source": "Unsplash",
+      "source_url": "https://unsplash.com/?utm_source=easy_protein_kitchen&utm_medium=referral",
+      "src": "https://images.unsplash.com/photo-1610545676806-14c7ab3ce782?ixid=M3wxMTQzODc5fDB8MXxzZWFyY2h8MTF8fHR1cmtleSUyMG1lYXRiYWxscyUyMHdpdGglMjBtYXJpbmFyYSUyMHNhdWNlJTIwYW5kJTIwcGFzdGF8ZW58MXwxfHx8MTc5NTc3NjU4M3ww&ixlib=rb-4.1.0",
+      "web": "https://images.unsplash.com/photo-1610545676806-14c7ab3ce782?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTQzODc5fDB8MXxzZWFyY2h8MTF8fHR1cmtleSUyMG1lYXRiYWxscyUyMHdpdGglMjBtYXJpbmFyYSUyMHNhdWNlJTIwYW5kJTIwcGFzdGF8ZW58MXwxfHx8MTc5NTc3NjU4M3ww&ixlib=rb-4.1.0&q=80&w=1080",
+      "download_location": "https://api.unsplash.com/photos/3a4gRjgdweQ/download?ixid=M3wxMTQzODc5fDB8MXxzZWFyY2h8MTF8fHR1cmtleSUyMG1lYXRiYWxscyUyMHdpdGglMjBtYXJpbmFyYSUyMHNhdWNlJTIwYW5kJTIwcGFzdGF8ZW58MXwxfHx8MTc5NTc3NjU4M3ww",
+      "score": 13
+    },
+    {
+      "id": "u-6yEV4FeXoF4",
+      "width": 3870,
+      "height": 4724,
+      "alt": "Spaghetti with tomato sauce and meatballs on a black plate",
+      "photographer": "Nur demirbaş",
+      "photographer_url": "https://unsplash.com/@nurdeniss?utm_source=easy_protein_kitchen&utm_medium=referral",
+      "page_url": "https://unsplash.com/photos/spaghetti-with-tomato-sauce-and-meatballs-on-a-black-plate-6yEV4FeXoF4?utm_source=easy_protein_kitchen&utm_medium=referral",
+      "source": "Unsplash",
+      "source_url": "https://unsplash.com/?utm_source=easy_protein_kitchen&utm_medium=referral",
+      "src": "https://images.unsplash.com/photo-1774891462551-022c5c3a5f69?ixid=M3wxMTQzODc5fDB8MXxzZWFyY2h8MTV8fHR1cmtleSUyMG1lYXRiYWxscyUyMHdpdGglMjBtYXJpbmFyYSUyMHNhdWNlJTIwYW5kJTIwcGFzdGF8ZW58MXwxfHx8MTc5NTc3NjU4M3ww&ixlib=rb-4.1.0",
+      "web": "https://images.unsplash.com/photo-1774891462551-022c5c3a5f69?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTQzODc5fDB8MXxzZWFyY2h8MTV8fHR1cmtleSUyMG1lYXRiYWxscyUyMHdpdGglMjBtYXJpbmFyYSUyMHNhdWNlJTIwYW5kJTIwcGFzdGF8ZW58MXwxfHx8MTc5NTc3NjU4M3ww&ixlib=rb-4.1.0&q=80&w=1080",
+      "download_location": "https://api.unsplash.com/photos/6yEV4FeXoF4/download?ixid=M3wxMTQzODc5fDB8MXxzZWFyY2h8MTV8fHR1cmtleSUyMG1lYXRiYWxscyUyMHdpdGglMjBtYXJpbmFyYSUyMHNhdWNlJTIwYW5kJTIwcGFzdGF8ZW58MXwxfHx8MTc5NTc3NjU4M3ww",
+      "score": 8
+    },
+    {
+      "id": "u-2cv20ukAkdo",
+      "width": 4959,
+      "height": 6297,
+      "alt": "A white plate topped with meatballs covered in sauce",
+      "photographer": "Olivier Amyot",
+      "photographer_url": "https://unsplash.com/@user90807060?utm_source=easy_protein_kitchen&utm_medium=referral",
+      "page_url": "https://unsplash.com/photos/a-white-plate-topped-with-meatballs-covered-in-sauce-2cv20ukAkdo?utm_source=easy_protein_kitchen&utm_medium=referral",
+      "source": "Unsplash",
+      "source_url": "https://unsplash.com/?utm_source=easy_protein_kitchen&utm_medium=referral",
+      "src": "https://images.unsplash.com/photo-1729715433807-ee2938748daa?ixid=M3wxMTQzODc5fDB8MXxzZWFyY2h8MTl8fHR1cmtleSUyMG1lYXRiYWxscyUyMHdpdGglMjBtYXJpbmFyYSUyMHNhdWNlJTIwYW5kJTIwcGFzdGF8ZW58MXwxfHx8MTc5NTc3NjU4M3ww&ixlib=rb-4.1.0",
+      "web": "https://images.unsplash.com/photo-1729715433807-ee2938748daa?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTQzODc5fDB8MXxzZWFyY2h8MTl8fHR1cmtleSUyMG1lYXRiYWxscyUyMHdpdGglMjBtYXJpbmFyYSUyMHNhdWNlJTIwYW5kJTIwcGFzdGF8ZW58MXwxfHx8MTc5NTc3NjU4M3ww&ixlib=rb-4.1.0&q=80&w=1080",
+      "download_location": "https://api.unsplash.com/photos/2cv20ukAkdo/download?ixid=M3wxMTQzODc5fDB8MXxzZWFyY2h8MTl8fHR1cmtleSUyMG1lYXRiYWxscyUyMHdpdGglMjBtYXJpbmFyYSUyMHNhdWNlJTIwYW5kJTIwcGFzdGF8ZW58MXwxfHx8MTc5NTc3NjU4M3ww",
+      "score": 8
+    },
+    {
+      "id": "u-AAZqg_joKIo",
+      "width": 4160,
+      "height": 6240,
+      "alt": "a white plate topped with pasta covered in sauce",
+      "photographer": "Laura Nyhuis",
+      "photographer_url": "https://unsplash.com/@lauraintacoma?utm_source=easy_protein_kitchen&utm_medium=referral",
+      "page_url": "https://unsplash.com/photos/a-white-plate-topped-with-pasta-covered-in-sauce-AAZqg_joKIo?utm_source=easy_protein_kitchen&utm_medium=referral",
+      "source": "Unsplash",
+      "source_url": "https://unsplash.com/?utm_source=easy_protein_kitchen&utm_medium=referral",
+      "src": "https://images.unsplash.com/photo-1643845258159-5c4bc4f38182?ixid=M3wxMTQzODc5fDB8MXxzZWFyY2h8MjV8fHR1cmtleSUyMG1lYXRiYWxscyUyMHdpdGglMjBtYXJpbmFyYSUyMHNhdWNlJTIwYW5kJTIwcGFzdGF8ZW58MXwxfHx8MTc5NTc3NjU4M3ww&ixlib=rb-4.1.0",
+      "web": "https://images.unsplash.com/photo-1643845258159-5c4bc4f38182?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTQzODc5fDB8MXxzZWFyY2h8MjV8fHR1cmtleSUyMG1lYXRiYWxscyUyMHdpdGglMjBtYXJpbmFyYSUyMHNhdWNlJTIwYW5kJTIwcGFzdGF8ZW58MXwxfHx8MTc5NTc3NjU4M3ww&ixlib=rb-4.1.0&q=80&w=1080",
+      "download_location": "https://api.unsplash.com/photos/AAZqg_joKIo/download?ixid=M3wxMTQzODc5fDB8MXxzZWFyY2h8MjV8fHR1cmtleSUyMG1lYXRiYWxscyUyMHdpdGglMjBtYXJpbmFyYSUyMHNhdWNlJTIwYW5kJTIwcGFzdGF8ZW58MXwxfHx8MTc5NTc3NjU4M3ww",
+      "score": 8
+    },
+    {
+      "id": "u-bM3duMiJuF8",
+      "width": 1826,
+      "height": 2740,
+      "alt": "a white plate topped with spaghetti and sauce Pasta",
+      "photographer": "Dylan Van Niekerk",
+      "photographer_url": "https://unsplash.com/@dylanvn2?utm_source=easy_protein_kitchen&utm_medium=referral",
+      "page_url": "https://unsplash.com/photos/a-white-plate-topped-with-spaghetti-and-sauce-bM3duMiJuF8?utm_source=easy_protein_kitchen&utm_medium=referral",
+      "source": "Unsplash",
+      "source_url": "https://unsplash.com/?utm_source=easy_protein_kitchen&utm_medium=referral",
+      "src": "https://images.unsplash.com/photo-1698855981238-cd353769548e?ixid=M3wxMTQzODc5fDB8MXxzZWFyY2h8MzB8fHR1cmtleSUyMG1lYXRiYWxscyUyMHdpdGglMjBtYXJpbmFyYSUyMHNhdWNlJTIwYW5kJTIwcGFzdGF8ZW58MXwxfHx8MTc5NTc3NjU4M3ww&ixlib=rb-4.1.0",
+      "web": "https://images.unsplash.com/photo-1698855981238-cd353769548e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTQzODc5fDB8MXxzZWFyY2h8MzB8fHR1cmtleSUyMG1lYXRiYWxscyUyMHdpdGglMjBtYXJpbmFyYSUyMHNhdWNlJTIwYW5kJTIwcGFzdGF8ZW58MXwxfHx8MTc5NTc3NjU4M3ww&ixlib=rb-4.1.0&q=80&w=1080",
+      "download_location": "https://api.unsplash.com/photos/bM3duMiJuF8/download?ixid=M3wxMTQzODc5fDB8MXxzZWFyY2h8MzB8fHR1cmtleSUyMG1lYXRiYWxscyUyMHdpdGglMjBtYXJpbmFyYSUyMHNhdWNlJTIwYW5kJTIwcGFzdGF8ZW58MXwxfHx8MTc5NTc3NjU4M3ww",
+      "score": 8
+    },
+    {
+      "id": "u-OC3lZI9P6kU",
+      "width": 3999,
+      "height": 5000,
+      "alt": "a white plate topped with spaghetti and meatballs Mia Bar Restaurante",
+      "photographer": "Diego Ramírez",
+      "photographer_url": "https://unsplash.com/@natural_panoramic?utm_source=easy_protein_kitchen&utm_medium=referral",
+      "page_url": "https://unsplash.com/photos/a-white-plate-topped-with-spaghetti-and-meatballs-OC3lZI9P6kU?utm_source=easy_protein_kitchen&utm_medium=referral",
+      "source": "Unsplash",
+      "source_url": "https://unsplash.com/?utm_source=easy_protein_kitchen&utm_medium=referral",
+      "src": "https://images.unsplash.com/photo-1635264685671-739e75e73e0f?ixid=M3wxMTQzODc5fDB8MXxzZWFyY2h8Mnx8dHVya2V5JTIwbWVhdGJhbGxzJTIwd2l0aCUyMG1hcmluYXJhJTIwc2F1Y2UlMjBhbmQlMjBwYXN0YXxlbnwxfDF8fHwxNzk1Nzc2NTgzfDA&ixlib=rb-4.1.0",
+      "web": "https://images.unsplash.com/photo-1635264685671-739e75e73e0f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTQzODc5fDB8MXxzZWFyY2h8Mnx8dHVya2V5JTIwbWVhdGJhbGxzJTIwd2l0aCUyMG1hcmluYXJhJTIwc2F1Y2UlMjBhbmQlMjBwYXN0YXxlbnwxfDF8fHwxNzk1Nzc2NTgzfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "download_location": "https://api.unsplash.com/photos/OC3lZI9P6kU/download?ixid=M3wxMTQzODc5fDB8MXxzZWFyY2h8Mnx8dHVya2V5JTIwbWVhdGJhbGxzJTIwd2l0aCUyMG1hcmluYXJhJTIwc2F1Y2UlMjBhbmQlMjBwYXN0YXxlbnwxfDF8fHwxNzk1Nzc2NTgzfDA",
+      "score": 6
+    }
+  ],
+  "verification": {
+    "checks": [
+      {
+        "verdict": "pass",
+        "issues": [],
+        "sources": [
+          {
+            "name": "Serious Eats - Tender Turkey Meatballs",
+            "url": "https://www.seriouseats.com/tender-turkey-meatballs-recipe"
+          },
+          {
+            "name": "BBC Good Food - Healthy turkey meatballs",
+            "url": "https://www.bbcgoodfood.com/recipes/healthy-turkey-meatballs"
+          },
+          {
+            "name": "RecipeTin Eats - Spaghetti and Meatballs",
+            "url": "https://www.recipetineats.com/spaghetti-and-meatballs/"
+          }
+        ],
+        "grounded": false
+      }
+    ],
+    "rule_warnings": [],
+    "model": "gemini-3.6-flash"
+  },
+  "created": "2026-11-27"
+}

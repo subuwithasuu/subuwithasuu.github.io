@@ -1790,5 +1790,419 @@
       ]
     },
     "date": "2026-11-27"
+  },
+  {
+    "title": "Classic Canned Tuna and White Bean Salad",
+    "board": "Budget High Protein Meals",
+    "reason": {
+      "rules": [
+        "protein overclaimed: says 31g, ingredients give ~4g",
+        "only ~4g protein per serving (board needs 25g+)"
+      ]
+    },
+    "date": "2026-11-27"
+  },
+  {
+    "title": "Quick Ground Turkey Egg Roll in a Bowl",
+    "board": "Budget High Protein Meals",
+    "reason": {
+      "rules": [
+        "protein overclaimed: says 35g, ingredients give ~21g",
+        "only ~20g protein per serving (board needs 25g+)"
+      ]
+    },
+    "date": "2026-11-27"
+  },
+  {
+    "title": "Easy 30-Minute Red Lentil Dahl",
+    "board": "Budget High Protein Meals",
+    "reason": {
+      "rules": [
+        "protein overclaimed: says 26g, ingredients give ~7g",
+        "only ~7g protein per serving (board needs 25g+)",
+        "variant 0: claims 25-Minute but recipe takes 30 min",
+        "variant 0: claims 25-Minute but recipe takes 30 min",
+        "variant 0: claims 25 Minutes but recipe takes 30 min"
+      ]
+    },
+    "date": "2026-11-27"
+  },
+  {
+    "title": "Crispy Sheet Pan Chicken Thighs and Broccoli",
+    "board": "Budget High Protein Meals",
+    "reason": {
+      "rules": [
+        "variant 0: claims 35 Minutes but recipe takes 45 min",
+        "variant 1: claims 35-Minute but recipe takes 45 min",
+        "variant 1: claims 35-Minute but recipe takes 45 min"
+      ]
+    },
+    "date": "2026-11-27"
+  },
+  {
+    "title": "High-Protein Black Bean and Egg Breakfast Skillet",
+    "board": "Budget High Protein Meals",
+    "reason": {
+      "rules": [
+        "protein overclaimed: says 35g, ingredients give ~25g",
+        "only ~24g protein per serving (board needs 25g+)"
+      ]
+    },
+    "date": "2026-11-27"
+  },
+  {
+    "title": "High-Protein Turkey Bolognese with Chickpea Pasta",
+    "board": "30 Minute High Protein Meals",
+    "reason": {
+      "verify": "still not passing after fixes",
+      "checks": [
+        {
+          "verdict": "fix",
+          "issues": [
+            "Salt is significantly too low for 1 lb of turkey, 8 oz of chickpea pasta, and 24 oz of jarred sauce. 1/4 tsp of salt is roughly 1.5g, which is inadequate for seasoning this volume of food. Standard amounts for similar pasta sauces and meats require around 1 tsp to 1.5 tsp of total salt across the dish.",
+            "Chickpea pasta yields a heavy amount of starch when boiled and can easily become overly gummy or break apart if tossed directly into a skillet with thick sauce for 2 minutes over heat without reserving any pasta cooking water or thinning the sauce."
+          ],
+          "sources": [
+            {
+              "name": "Serious Eats - Quick Turkey Bolognese",
+              "url": "https://www.seriouseats.com/"
+            },
+            {
+              "name": "BBC Good Food - Healthy turkey bolognese",
+              "url": "https://www.bbcgoodfood.com/"
+            }
+          ],
+          "grounded": false
+        },
+        {
+          "verdict": "fix",
+          "issues": [
+            "Typo in step 3 ('breaking upერ' contains extraneous Unicode characters).",
+            "Cooking turkey and raw garlic simultaneously with onions can lead to uneven cooking and scorching; garlic is typically added in the last minute of onion/meat sautéing."
+          ],
+          "sources": [
+            {
+              "name": "Serious Eats - Quick and Easy Turkey Bolognese",
+              "url": "https://www.seriouseats.com/"
+            },
+            {
+              "name": "BBC Good Food - Turkey Bolognese",
+              "url": "https://www.bbcgoodfood.com/"
+            },
+            {
+              "name": "Banza - Basic Chickpea Pasta Cooking Instructions",
+              "url": "https://eatbanza.com/"
+            }
+          ],
+          "grounded": false
+        }
+      ]
+    },
+    "date": "2026-11-27"
+  },
+  {
+    "title": "Creamy Cajun Chicken and Broccoli Pasta",
+    "board": "30 Minute High Protein Meals",
+    "reason": {
+      "rules": [
+        "protein overclaimed: says 42g, ingredients give ~32g"
+      ]
+    },
+    "date": "2026-11-27"
+  },
+  {
+    "title": "Sesame Ginger Ground Turkey and Edamame Stir-Fry",
+    "board": "30 Minute High Protein Meals",
+    "reason": {
+      "rules": [
+        "poultry recipe must state internal temp 165°F (74°C)"
+      ]
+    },
+    "date": "2026-11-27"
+  },
+  {
+    "title": "Creamy High-Protein Cottage Cheese Alfredo Pasta",
+    "board": "High Protein Dinners",
+    "reason": {
+      "rules": [
+        "protein overclaimed: says 35g, ingredients give ~26g"
+      ]
+    },
+    "date": "2026-11-27"
+  },
+  {
+    "title": "Quick Lean Beef and Broccoli Stir-Fry",
+    "board": "High Protein Dinners",
+    "reason": {
+      "rules": [
+        "protein overclaimed: says 35g, ingredients give ~23g",
+        "only ~22g protein per serving (board needs 25g+)"
+      ]
+    },
+    "date": "2026-11-27"
+  },
+  {
+    "title": "High-Protein Creamy Cottage Cheese Alfredo Pasta",
+    "board": "High Protein Vegetarian",
+    "reason": {
+      "rules": [
+        "protein overclaimed: says 35g, ingredients give ~26g"
+      ]
+    },
+    "date": "2026-11-27"
+  },
+  {
+    "title": "Crispy Air Fryer Buffalo Tofu Bites with Greek Yogurt Ranch",
+    "board": "High Protein Vegetarian",
+    "reason": {
+      "rules": [
+        "protein overclaimed: says 25g, ingredients give ~18g",
+        "only ~17g protein per serving (board needs 20g+)"
+      ]
+    },
+    "date": "2026-11-27"
+  },
+  {
+    "title": "High-Protein Mediterranean Red Lentil and Chickpea Soup",
+    "board": "High Protein Vegetarian",
+    "reason": {
+      "rules": [
+        "protein overclaimed: says 20g, ingredients give ~13g",
+        "only ~13g protein per serving (board needs 20g+)",
+        "variant 0: claims 25 Minutes but recipe takes 35 min",
+        "variant 1: claims 25-Minute but recipe takes 35 min",
+        "variant 1: claims 25-Minute but recipe takes 35 min"
+      ]
+    },
+    "date": "2026-11-27"
+  },
+  {
+    "title": "Loaded Vegetarian Breakfast Burrito with Black Beans and Eggs",
+    "board": "High Protein Vegetarian",
+    "reason": {
+      "rules": [
+        "protein overclaimed: says 35g, ingredients give ~28g"
+      ]
+    },
+    "date": "2026-11-27"
+  },
+  {
+    "title": "High-Protein Meal Prep Cottage Cheese Egg Muffins",
+    "board": "High Protein Meal Prep",
+    "reason": {
+      "verify": "still not passing after fixes",
+      "checks": [
+        {
+          "verdict": "fix",
+          "issues": [],
+          "sources": [
+            {
+              "name": "Allrecipes - Cottage Cheese Egg Muffins",
+              "url": "https://www.allrecipes.com/"
+            },
+            {
+              "name": "Kitchn - High-Protein Cottage Cheese Egg Muffins",
+              "url": "https://www.thekitchn.com/"
+            }
+          ],
+          "grounded": false
+        },
+        {
+          "verdict": "fix",
+          "issues": [
+            "The recipe yields 4 servings, which means 2 muffins per serving. However, the ingredients and steps specify making only 8 muffins total in a 12-cup tin, leaving 4 cups empty without water or instructions, and the ingredient proportions are slightly misaligned for standard 12-muffin batches or clean 4-serving portions."
+          ],
+          "sources": [
+            {
+              "name": "Allrecipes - Cottage Cheese Egg Muffins",
+              "url": "https://www.allrecipes.com/"
+            },
+            {
+              "name": "BBC Good Food - Healthy Egg Muffins",
+              "url": "https://www.bbcgoodfood.com/"
+            }
+          ],
+          "grounded": false
+        }
+      ]
+    },
+    "date": "2026-11-27"
+  },
+  {
+    "title": "Sheet Pan Garlic Herb Chicken and Roasted Sweet Potatoes",
+    "board": "High Protein Meal Prep",
+    "reason": {
+      "rules": [
+        "variant 0: claims 30 Minutes but recipe takes 35 min",
+        "variant 1: claims 30-Minute but recipe takes 35 min",
+        "variant 1: claims 30-Minute but recipe takes 35 min",
+        "variant 1: number 30 in pin text is not a fact of this recipe",
+        "variant 1: number 30 in pin text is not a fact of this recipe"
+      ]
+    },
+    "date": "2026-11-27"
+  },
+  {
+    "title": "High-Protein Lean Ground Turkey and Vegetable Stir-Fry",
+    "board": "High Protein Meal Prep",
+    "reason": {
+      "verify": "still not passing after fixes",
+      "checks": [
+        {
+          "verdict": "fix",
+          "issues": [
+            "Lack of high-heat cooking oil: Toasted sesame oil has a low smoke point and is meant for finishing or light flavoring, not for stir-frying over medium-high heat. An additional neutral high-heat oil (like canola or vegetable oil) is needed.",
+            "Low salt and sauce volume: 2 tablespoons of low-sodium soy sauce for 16 oz of ground turkey and 5.5 cups of vegetables is severely under-salted and lacks umami/liquid for a proper stir-fry coating (standard recipes use at least 1/4 cup total soy sauce or add chicken broth and a thickening agent like cornstarch)."
+          ],
+          "sources": [
+            {
+              "name": "Serious Eats - Easy Ground Turkey Stir-Fry with Vegetables",
+              "url": "https://www.seriouseats.com/"
+            },
+            {
+              "name": "Budget Bytes - Ground Turkey Stir Fry",
+              "url": "https://www.budgetbytes.com/ground-turkey-stir-fry/"
+            },
+            {
+              "name": "RecipeTin Eats - Ground Turkey Stir-Fry",
+              "url": "https://www.recipetineats.com/"
+            }
+          ],
+          "grounded": false
+        },
+        {
+          "verdict": "fix",
+          "issues": [
+            "The recipe lacks a thickiser (like cornstarch) for the sauce, meaning the soy sauce and vinegar mixture will pool at the bottom of the pan rather than glazing the stir-fry, which is standard in reputable stir-fry recipes.",
+            "Ground turkey at 93% lean is quite lean and tends to release a lot of moisture when crowded with dense vegetables like broccoli in a single pan without prior removal, leading to steaming instead of stir-frying."
+          ],
+          "sources": [
+            {
+              "name": "Serious Eats - Ground Turkey and Broccoli Stir-Fry",
+              "url": "https://www.seriouseats.com"
+            },
+            {
+              "name": "BBC Good Food - Ground turkey stir-fry",
+              "url": "https://www.bbcgoodfood.com"
+            },
+            {
+              "name": "RecipeTin Eats - Easy Chicken Stir Fry",
+              "url": "https://www.recipetineats.com"
+            }
+          ],
+          "grounded": false
+        }
+      ]
+    },
+    "date": "2026-11-27"
+  },
+  {
+    "title": "High-Protein Fluffy Greek Yogurt Scrambled Eggs",
+    "board": "High Protein Breakfast",
+    "reason": {
+      "verify": "still not passing after fixes",
+      "checks": [
+        {
+          "verdict": "fix",
+          "issues": [
+            "Adding cold or room temperature yogurt directly to raw eggs and cooking over low heat without tempering can cause the yogurt to curdle, separate, and release watery whey, resulting in a grainy texture rather than a smooth, creamy scramble."
+          ],
+          "sources": [
+            {
+              "name": "Serious Eats - The Best Scrambled Eggs",
+              "url": "https://www.seriouseats.com/the-best-scrambled-eggs-recipe"
+            },
+            {
+              "name": "Bon Appétit - Creamy Scrambled Eggs with Yogurt",
+              "url": "https://www.bonappetit.com/"
+            }
+          ],
+          "grounded": false
+        },
+        {
+          "verdict": "fix",
+          "issues": [
+            "Adding cold or room temperature Greek yogurt directly at the very end of cooking causes it to separate, curdle, and release watery liquid when heated, ruining the texture of the eggs. Standard culinary practice for adding dairy like yogurt or sour cream to eggs is to whisk it directly into the raw eggs before cooking so the proteins cook together smoothly and create a stable, creamy emulsion."
+          ],
+          "sources": [
+            {
+              "name": "Serious Eats - The Best Soft Scrambled Eggs",
+              "url": "https://www.seriouseats.com/the-best-soft-scrambled-eggs-recipe"
+            },
+            {
+              "name": "BBC Good Food - Perfect scrambled eggs",
+              "url": "https://www.bbcgoodfood.com/recipes/perfect-scrambled-eggs"
+            },
+            {
+              "name": "Bon Appetit - Creamy Scrambled Eggs with Yogurt",
+              "url": "https://www.bonappetit.com"
+            }
+          ],
+          "grounded": false
+        }
+      ]
+    },
+    "date": "2026-11-27"
+  },
+  {
+    "title": "High-Protein Cinnamon Apple Protein Oats",
+    "board": "High Protein Breakfast",
+    "reason": {
+      "verify": "still not passing after fixes",
+      "checks": [
+        {
+          "verdict": "fix",
+          "issues": [
+            "The amount of ground cinnamon (1 tablespoon, or 8g) is excessive for 2 cups of oats and will make the dish overwhelmingly bitter and powdery. A standard ratio is 1 to 1.5 teaspoons total.",
+            "The initial liquid volume (2 cups almond milk + 1/2 cup egg whites = 2.5 cups total liquid for 2 cups of oats) is too low for a standard 2:1 or greater ratio required to properly soften rolled oats, and does not account for the absorption needed before adding yogurt."
+          ],
+          "sources": [
+            {
+              "name": "Serious Eats - Creamy Oatmeal",
+              "url": "https://www.seriouseats.com/"
+            },
+            {
+              "name": "Allrecipes - Apple Cinnamon Oatmeal",
+              "url": "https://www.allrecipes.com/"
+            },
+            {
+              "name": "BBC Good Food - Super-protein porridge",
+              "url": "https://www.bbcgood.com/recipes/super-protein-porridge"
+            }
+          ],
+          "grounded": false
+        },
+        {
+          "verdict": "fix",
+          "issues": [
+            "Liquid ratio is slightly low for cooking 2 cups of rolled oats with added apples; standard stovetop ratio for rolled oats is 2:1 liquid to oats. 2 cups oats + 3 cups almond milk + 1/2 cup egg whites = 3.5 cups liquid for 2 cups oats, which is adequate, but adding a pinch of salt is necessary to balance the flavor.",
+            "Adding egg whites directly to simmering oats without proper tempering or rapid whisking can cause curdling/scrambling, though the step does specify vigorous whisking. However, Greek yogurt should not be boiled or overheated significantly, which the current step properly avoids by adding it off the heat.",
+            "Missing salt: standard oatmeal recipes require at least 1/4 tsp salt to enhance the flavor of oats, apples, and cinnamon."
+          ],
+          "sources": [
+            {
+              "name": "Serious Eats - Creamy Stovetop Oatmeal",
+              "url": "https://www.seriouseats.com/creamy-stovetop-oatmeal-recipe"
+            },
+            {
+              "name": "BBC Good Food - Apple & cinnamon porridge",
+              "url": "https://www.bbcgoodfood.com/recipes/apple-cinnamon-porridge"
+            }
+          ],
+          "grounded": false
+        }
+      ]
+    },
+    "date": "2026-11-27"
+  },
+  {
+    "title": "High-Protein Meal Prep Breakfast Burrito with Turkey Sausage",
+    "board": "High Protein Breakfast",
+    "reason": {
+      "rules": [
+        "poultry recipe must state internal temp 165°F (74°C)"
+      ]
+    },
+    "date": "2026-11-27"
   }
 ]

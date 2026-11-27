@@ -1,0 +1,320 @@
+{
+  "title": "Blackened Salmon with Quinoa and Roasted Asparagus - High Protein Dinner",
+  "description": "Enjoy a flavorful and filling dinner with this 25-minute recipe featuring spiced fish and wholesome grains. Each serving delivers 35 grams of protein to support your post-workout recovery. Save it for your next meal prep.",
+  "cuisine": "American",
+  "category": "Dinner",
+  "servings": 4,
+  "protein_g_per_serving": 35,
+  "prep_minutes": 10,
+  "cook_minutes": 15,
+  "total_minutes": 25,
+  "ingredients": [
+    {
+      "qty": "4",
+      "unit": "fillets",
+      "item": "salmon fillets",
+      "metric": "680 g",
+      "note": "skin-on, about 170 g each"
+    },
+    {
+      "qty": "1",
+      "unit": "cup",
+      "item": "dry quinoa",
+      "metric": "170 g",
+      "note": "rinsed well"
+    },
+    {
+      "qty": "2",
+      "unit": "cups",
+      "item": "low-sodium chicken broth",
+      "metric": "480 ml",
+      "note": "for cooking quinoa"
+    },
+    {
+      "qty": "1",
+      "unit": "bunch",
+      "item": "asparagus",
+      "metric": "454 g",
+      "note": "woody ends trimmed"
+    },
+    {
+      "qty": "1",
+      "unit": "tbsp",
+      "item": "olive oil",
+      "metric": "15 ml",
+      "note": "for tossing asparagus"
+    },
+    {
+      "qty": "1",
+      "unit": "tbsp",
+      "item": "high-heat oil",
+      "metric": "15 ml",
+      "note": "avocado or canola oil, for the skillet"
+    },
+    {
+      "qty": "1",
+      "unit": "tsp",
+      "item": "smoked paprika",
+      "metric": "3 g",
+      "note": "for blackening spice"
+    },
+    {
+      "qty": "1/2",
+      "unit": "tsp",
+      "item": "garlic powder",
+      "metric": "2 g",
+      "note": "for blackening spice"
+    },
+    {
+      "qty": "1/2",
+      "unit": "tsp",
+      "item": "onion powder",
+      "metric": "2 g",
+      "note": "for blackening spice"
+    },
+    {
+      "qty": "1/2",
+      "unit": "tsp",
+      "item": "dried thyme",
+      "metric": "1 g",
+      "note": "for blackening spice"
+    },
+    {
+      "qty": "1/2",
+      "unit": "tsp",
+      "item": "salt",
+      "metric": "3 g",
+      "note": "divided"
+    },
+    {
+      "qty": "1/4",
+      "unit": "tsp",
+      "item": "black pepper",
+      "metric": "1 g",
+      "note": "divided"
+    },
+    {
+      "qty": "1/4",
+      "unit": "tsp",
+      "item": "cayenne pepper",
+      "metric": "1 g",
+      "note": "adjust for heat"
+    }
+  ],
+  "steps": [
+    "Preheat the oven to 400°F (200°C).",
+    "In a medium saucepan, combine the rinsed quinoa and chicken broth. Bring to a boil over medium-high heat, then reduce heat to low, cover, and simmer for 15 minutes until the liquid is absorbed and the quinoa is fluffy.",
+    "Place the trimmed asparagus on a baking sheet, toss with 1 tablespoon of olive oil, a pinch of salt, and black pepper. Roast in the preheated oven at 400°F (200°C) for 12 minutes until tender-crisp and slightly charred.",
+    "In a small bowl, mix the smoked paprika, garlic powder, onion powder, dried thyme, remaining salt, black pepper, and cayenne pepper to create the blackening spice blend.",
+    "Pat the salmon fillets dry with paper towels and coat the flesh side evenly with the spice blend.",
+    "Heat 1 tablespoon of high-heat oil (like avocado or canola oil) in a large cast-iron skillet over medium-high heat until shimmering. Place the salmon fillets spice-side down in the skillet and cook for 4 minutes without moving until a dark crust forms.",
+    "Flip the salmon fillets and cook for an additional 3 to 4 minutes until the fish flakes easily with a fork and reaches an internal temperature of 145°F (63°C).",
+    "Divide the cooked quinoa, roasted asparagus, and blackened salmon among four plates and serve warm."
+  ],
+  "tips": [
+    "Pat the salmon completely dry before adding the spices to ensure a proper dark crust forms in the skillet.",
+    "Store leftover cooked quinoa and salmon in airtight containers in the refrigerator for up to 3 days.",
+    "You can substitute brown rice or cauliflower rice for the quinoa if desired."
+  ],
+  "storage": "Store in airtight containers in the refrigerator for up to 3 days. Reheat gently in a skillet or microwave.",
+  "tools": [
+    "medium saucepan",
+    "baking sheet",
+    "small mixing bowl",
+    "large cast-iron skillet",
+    "paper towels",
+    "measuring cups and spoons"
+  ],
+  "keywords": [
+    "high protein salmon dinner",
+    "blackened salmon recipe",
+    "salmon quinoa and asparagus",
+    "post workout salmon meal",
+    "healthy high protein dinner",
+    "quick gym meal prep",
+    "protein rich seafood recipes"
+  ],
+  "pin_variants": [
+    {
+      "hook_type": "number",
+      "title": "High Protein Blackened Salmon with Quinoa - 35g Protein Dinner",
+      "description": "Get 35g of protein in this 25-minute blackened salmon dinner served with fluffy quinoa and roasted asparagus. This flavorful meal fits perfectly into your macro tracking routine. Save it for your next meal prep.",
+      "overlay": "35g Protein Blackened Salmon Dinner",
+      "subline": "Ready in 25 Minutes",
+      "alt_text": "A plate of blackened salmon with quinoa and roasted asparagus."
+    },
+    {
+      "hook_type": "speed",
+      "title": "25-Minute Blackened Salmon Dinner - High Protein Meal",
+      "description": "Make this 25-minute blackened salmon dinner packed with 35g of protein per serving using simple whole food ingredients. It pairs spiced fish with wholesome quinoa and tender asparagus. Save it for your next meal prep.",
+      "overlay": "25-Minute Blackened Salmon Meal",
+      "subline": "35g Protein Per Serving",
+      "alt_text": "Close-up of spiced salmon fillet next to quinoa."
+    },
+    {
+      "hook_type": "outcome",
+      "title": "High Protein Salmon Meal Prep - Quinoa and Asparagus Bowl",
+      "description": "Build a macro-friendly dinner with this blackened salmon, quinoa, and roasted asparagus combination delivering 35g of protein in just 25 minutes. Enjoy a satisfying meal that supports your fitness goals. Save it for your next meal prep.",
+      "overlay": "High Protein Salmon Meal Prep",
+      "subline": "Macro Friendly Dinner",
+      "alt_text": "Overhead view of salmon dinner plates with asparagus."
+    },
+    {
+      "hook_type": "teacher",
+      "title": "How to Make Blackened Salmon - High Protein Quinoa Dinner",
+      "description": "Learn the technique for searing spiced fish to get a flavorful crust in this 25-minute recipe with 35g of protein. Served alongside quinoa and asparagus, it makes a great high-protein dinner. Save it for your next meal prep.",
+      "overlay": "The Secret to Blackened Salmon",
+      "subline": "35g Protein Recipe",
+      "alt_text": "Pan-seared salmon fillet in a cast iron skillet."
+    }
+  ],
+  "video_script": {
+    "hook": "Make this blackened salmon dinner with 35 grams of protein.",
+    "steps_short": [
+      "Simmer the quinoa in chicken broth until fluffy.",
+      "Toss asparagus with oil and roast in the oven.",
+      "Coat salmon fillets evenly with the spice blend.",
+      "Sear the salmon in a hot skillet until crusted.",
+      "Serve the fish over warm quinoa with asparagus."
+    ],
+    "outro": "The full recipe and measurements are on the website."
+  },
+  "photo_queries": [
+    "blackened salmon with quinoa and asparagus",
+    "seared salmon fillet plate with grains",
+    "healthy salmon meal prep bowl"
+  ],
+  "must_match": [
+    "salmon",
+    "quinoa",
+    "asparagus"
+  ],
+  "board": "High Protein Dinners",
+  "slug": "blackened-salmon-with-quinoa-and-roasted-asparagus-high-protein-dinner",
+  "protein_g": 35,
+  "photos": [
+    {
+      "id": "u-1115tTZofMs",
+      "width": 3024,
+      "height": 4032,
+      "alt": "a white plate topped with rice and a piece of salmon Salmón saludable ",
+      "photographer": "Daniela Crucez",
+      "photographer_url": "https://unsplash.com/@danielacrucez?utm_source=easy_protein_kitchen&utm_medium=referral",
+      "page_url": "https://unsplash.com/photos/a-white-plate-topped-with-rice-and-a-piece-of-salmon-1115tTZofMs?utm_source=easy_protein_kitchen&utm_medium=referral",
+      "source": "Unsplash",
+      "source_url": "https://unsplash.com/?utm_source=easy_protein_kitchen&utm_medium=referral",
+      "src": "https://images.unsplash.com/photo-1633632811707-41a5e0aa5934?ixid=M3wxMTQzODc5fDB8MXxzZWFyY2h8MTN8fHNlYXJlZCUyMHNhbG1vbiUyMGZpbGxldCUyMHBsYXRlJTIwd2l0aCUyMGdyYWluc3xlbnwxfDF8fHwxNzk1Nzc2NTQ1fDA&ixlib=rb-4.1.0",
+      "web": "https://images.unsplash.com/photo-1633632811707-41a5e0aa5934?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTQzODc5fDB8MXxzZWFyY2h8MTN8fHNlYXJlZCUyMHNhbG1vbiUyMGZpbGxldCUyMHBsYXRlJTIwd2l0aCUyMGdyYWluc3xlbnwxfDF8fHwxNzk1Nzc2NTQ1fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "download_location": "https://api.unsplash.com/photos/1115tTZofMs/download?ixid=M3wxMTQzODc5fDB8MXxzZWFyY2h8MTN8fHNlYXJlZCUyMHNhbG1vbiUyMGZpbGxldCUyMHBsYXRlJTIwd2l0aCUyMGdyYWluc3xlbnwxfDF8fHwxNzk1Nzc2NTQ1fDA",
+      "score": 8
+    },
+    {
+      "id": "u-Ee5FZp9MJlI",
+      "width": 5304,
+      "height": 7952,
+      "alt": "Salmon with potatoes and lentils on a plate",
+      "photographer": "Phil Hearing",
+      "photographer_url": "https://unsplash.com/@philhearing?utm_source=easy_protein_kitchen&utm_medium=referral",
+      "page_url": "https://unsplash.com/photos/salmon-with-potatoes-and-lentils-on-a-plate-Ee5FZp9MJlI?utm_source=easy_protein_kitchen&utm_medium=referral",
+      "source": "Unsplash",
+      "source_url": "https://unsplash.com/?utm_source=easy_protein_kitchen&utm_medium=referral",
+      "src": "https://images.unsplash.com/photo-1746633570365-ee0ff8a2543f?ixid=M3wxMTQzODc5fDB8MXxzZWFyY2h8MjZ8fHNlYXJlZCUyMHNhbG1vbiUyMGZpbGxldCUyMHBsYXRlJTIwd2l0aCUyMGdyYWluc3xlbnwxfDF8fHwxNzk1Nzc2NTQ1fDA&ixlib=rb-4.1.0",
+      "web": "https://images.unsplash.com/photo-1746633570365-ee0ff8a2543f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTQzODc5fDB8MXxzZWFyY2h8MjZ8fHNlYXJlZCUyMHNhbG1vbiUyMGZpbGxldCUyMHBsYXRlJTIwd2l0aCUyMGdyYWluc3xlbnwxfDF8fHwxNzk1Nzc2NTQ1fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "download_location": "https://api.unsplash.com/photos/Ee5FZp9MJlI/download?ixid=M3wxMTQzODc5fDB8MXxzZWFyY2h8MjZ8fHNlYXJlZCUyMHNhbG1vbiUyMGZpbGxldCUyMHBsYXRlJTIwd2l0aCUyMGdyYWluc3xlbnwxfDF8fHwxNzk1Nzc2NTQ1fDA",
+      "score": 8
+    },
+    {
+      "id": "u-uLQEP0a5DOg",
+      "width": 2250,
+      "height": 3000,
+      "alt": "a black bowl filled with meat and broccoli Teriyaki Salmon",
+      "photographer": "Michael Kahn",
+      "photographer_url": "https://unsplash.com/@mklibrary?utm_source=easy_protein_kitchen&utm_medium=referral",
+      "page_url": "https://unsplash.com/photos/a-black-bowl-filled-with-meat-and-broccoli-uLQEP0a5DOg?utm_source=easy_protein_kitchen&utm_medium=referral",
+      "source": "Unsplash",
+      "source_url": "https://unsplash.com/?utm_source=easy_protein_kitchen&utm_medium=referral",
+      "src": "https://images.unsplash.com/photo-1684815595429-cf46bff6294f?ixid=M3wxMTQzODc5fDB8MXxzZWFyY2h8N3x8aGVhbHRoeSUyMHNhbG1vbiUyMG1lYWwlMjBwcmVwJTIwYm93bHxlbnwxfDF8fHwxNzk1Nzc2NTQ1fDA&ixlib=rb-4.1.0",
+      "web": "https://images.unsplash.com/photo-1684815595429-cf46bff6294f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTQzODc5fDB8MXxzZWFyY2h8N3x8aGVhbHRoeSUyMHNhbG1vbiUyMG1lYWwlMjBwcmVwJTIwYm93bHxlbnwxfDF8fHwxNzk1Nzc2NTQ1fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "download_location": "https://api.unsplash.com/photos/uLQEP0a5DOg/download?ixid=M3wxMTQzODc5fDB8MXxzZWFyY2h8N3x8aGVhbHRoeSUyMHNhbG1vbiUyMG1lYWwlMjBwcmVwJTIwYm93bHxlbnwxfDF8fHwxNzk1Nzc2NTQ1fDA",
+      "score": 8
+    },
+    {
+      "id": "u-_VXGq0VLyYk",
+      "width": 1937,
+      "height": 2583,
+      "alt": "two bowls of food on a white table Salmon with chickpeas and arugula in white ceramic bowls with vintage flatware",
+      "photographer": "sheri silver",
+      "photographer_url": "https://unsplash.com/@sheri_silver?utm_source=easy_protein_kitchen&utm_medium=referral",
+      "page_url": "https://unsplash.com/photos/two-bowls-of-food-on-a-white-table-_VXGq0VLyYk?utm_source=easy_protein_kitchen&utm_medium=referral",
+      "source": "Unsplash",
+      "source_url": "https://unsplash.com/?utm_source=easy_protein_kitchen&utm_medium=referral",
+      "src": "https://images.unsplash.com/photo-1691200513469-ba51b64907dd?ixid=M3wxMTQzODc5fDB8MXxzZWFyY2h8MTB8fGhlYWx0aHklMjBzYWxtb24lMjBtZWFsJTIwcHJlcCUyMGJvd2x8ZW58MXwxfHx8MTc5NTc3NjU0NXww&ixlib=rb-4.1.0",
+      "web": "https://images.unsplash.com/photo-1691200513469-ba51b64907dd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTQzODc5fDB8MXxzZWFyY2h8MTB8fGhlYWx0aHklMjBzYWxtb24lMjBtZWFsJTIwcHJlcCUyMGJvd2x8ZW58MXwxfHx8MTc5NTc3NjU0NXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "download_location": "https://api.unsplash.com/photos/_VXGq0VLyYk/download?ixid=M3wxMTQzODc5fDB8MXxzZWFyY2h8MTB8fGhlYWx0aHklMjBzYWxtb24lMjBtZWFsJTIwcHJlcCUyMGJvd2x8ZW58MXwxfHx8MTc5NTc3NjU0NXww",
+      "score": 8
+    },
+    {
+      "id": "u-4WPcz_5RVMk",
+      "width": 4000,
+      "height": 6000,
+      "alt": "grilled meat with green vegetable on black ceramic plate Healthy salmon power bowl on a black background",
+      "photographer": "Davey Gravy",
+      "photographer_url": "https://unsplash.com/@davey_gravy?utm_source=easy_protein_kitchen&utm_medium=referral",
+      "page_url": "https://unsplash.com/photos/grilled-meat-with-green-vegetable-on-black-ceramic-plate-4WPcz_5RVMk?utm_source=easy_protein_kitchen&utm_medium=referral",
+      "source": "Unsplash",
+      "source_url": "https://unsplash.com/?utm_source=easy_protein_kitchen&utm_medium=referral",
+      "src": "https://images.unsplash.com/photo-1611599537845-1c7aca0091c0?ixid=M3wxMTQzODc5fDB8MXxzZWFyY2h8MTh8fGJsYWNrZW5lZCUyMHNhbG1vbiUyMHdpdGglMjBxdWlub2ElMjBhbmQlMjBhc3BhcmFndXN8ZW58MXwxfHx8MTc5NTc3NjU0NHww&ixlib=rb-4.1.0",
+      "web": "https://images.unsplash.com/photo-1611599537845-1c7aca0091c0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTQzODc5fDB8MXxzZWFyY2h8MTh8fGJsYWNrZW5lZCUyMHNhbG1vbiUyMHdpdGglMjBxdWlub2ElMjBhbmQlMjBhc3BhcmFndXN8ZW58MXwxfHx8MTc5NTc3NjU0NHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "download_location": "https://api.unsplash.com/photos/4WPcz_5RVMk/download?ixid=M3wxMTQzODc5fDB8MXxzZWFyY2h8MTh8fGJsYWNrZW5lZCUyMHNhbG1vbiUyMHdpdGglMjBxdWlub2ElMjBhbmQlMjBhc3BhcmFndXN8ZW58MXwxfHx8MTc5NTc3NjU0NHww",
+      "score": 6
+    }
+  ],
+  "verification": {
+    "checks": [
+      {
+        "verdict": "fix",
+        "issues": [
+          "Olive oil has a smoke point that is too low for traditional blackening; high-heat cooking oil (such as avocado or canola oil) should be used in the skillet.",
+          "The recipe calls for 1 tbsp of olive oil total with '1 teaspoon of olive oil' used for asparagus and 'remaining 2 teaspoons' used for the skillet, which mathematically sums to 1 tbsp, but the fat ratio for cooking 4 salmon fillets in a cast-iron skillet (2 tsp) is insufficient and will cause sticking and lack of proper searing crust."
+        ],
+        "sources": [
+          {
+            "name": "Serious Eats - Easy Pan-Seared Salmon",
+            "url": "https://www.seriouseats.com"
+          },
+          {
+            "name": "NYT Cooking - Quinoa Salad with Roasted Asparagus and Salmon",
+            "url": "https://cooking.nytimes.com"
+          },
+          {
+            "name": "Allrecipes - Blackened Salmon",
+            "url": "https://www.allrecipes.com"
+          }
+        ],
+        "grounded": false
+      },
+      {
+        "verdict": "pass",
+        "issues": [],
+        "sources": [
+          {
+            "name": "Serious Eats - Easy Pan-Seared Salmon",
+            "url": "https://www.seriouseats.com"
+          },
+          {
+            "name": "BBC Good Food - Blackened Salmon with Quinoa",
+            "url": "https://www.bbcgoodfood.com"
+          },
+          {
+            "name": "Allrecipes - Quick Roasted Asparagus",
+            "url": "https://www.allrecipes.com"
+          }
+        ],
+        "grounded": false
+      }
+    ],
+    "rule_warnings": [],
+    "model": "gemini-3.6-flash"
+  },
+  "created": "2026-11-27"
+}

@@ -1,0 +1,294 @@
+{
+  "title": "Garlic Butter Shrimp and Zucchini Noodles",
+  "description": "Tender shrimp tossed with garlicky zucchini noodles in a rich butter sauce, ready in 25 minutes. Each serving delivers 35 grams of protein for a light yet satisfying meal.",
+  "cuisine": "American",
+  "category": "Dinner",
+  "servings": 4,
+  "protein_g_per_serving": 35,
+  "prep_minutes": 10,
+  "cook_minutes": 15,
+  "total_minutes": 25,
+  "ingredients": [
+    {
+      "qty": "680",
+      "unit": "g",
+      "item": "large shrimp, peeled and deveined",
+      "metric": "680 g",
+      "note": "tails on or off"
+    },
+    {
+      "qty": "4",
+      "unit": "medium",
+      "item": "zucchini, spiralized into noodles",
+      "metric": "600 g",
+      "note": "trimmed"
+    },
+    {
+      "qty": "3",
+      "unit": "tbsp",
+      "item": "unsalted butter",
+      "metric": "42 g",
+      "note": "divided"
+    },
+    {
+      "qty": "1",
+      "unit": "tbsp",
+      "item": "extra virgin olive oil",
+      "metric": "15 ml",
+      "note": "for searing"
+    },
+    {
+      "qty": "4",
+      "unit": "cloves",
+      "item": "garlic, minced",
+      "metric": "12 g",
+      "note": "fresh"
+    },
+    {
+      "qty": "1/4",
+      "unit": "tsp",
+      "item": "red pepper flakes",
+      "metric": "1 g",
+      "note": "optional heat"
+    },
+    {
+      "qty": "1/4",
+      "unit": "cup",
+      "item": "low-sodium chicken broth",
+      "metric": "60 ml",
+      "note": "or dry white wine"
+    },
+    {
+      "qty": "1",
+      "unit": "tbsp",
+      "item": "fresh lemon juice",
+      "metric": "15 ml",
+      "note": "brightens the sauce"
+    },
+    {
+      "qty": "1/4",
+      "unit": "cup",
+      "item": "fresh parsley, chopped",
+      "metric": "10 g",
+      "note": "for garnish"
+    },
+    {
+      "qty": "1/2",
+      "unit": "tsp",
+      "item": "kosher salt",
+      "metric": "3 g",
+      "note": "divided"
+    },
+    {
+      "qty": "1/4",
+      "unit": "tsp",
+      "item": "black pepper",
+      "metric": "1 g",
+      "note": "ground"
+    }
+  ],
+  "steps": [
+    "Pat the shrimp completely dry with paper towels, then season evenly with half of the kosher salt and all of the black pepper.",
+    "Heat a 12-inch skillet over medium-high heat with olive oil and 1 tablespoon of butter for 2 minutes until the butter is melted and sizzling.",
+    "Add the shrimp in a single layer and cook for 2 minutes without moving them, then flip and cook for 1 to 2 minutes more until opaque and pink throughout; transfer the shrimp to a clean plate.",
+    "Reduce the heat to medium, add the remaining butter, minced garlic, and red pepper flakes to the same skillet, and sauté for 30 to 45 seconds until fragrant, taking care not to burn the garlic.",
+    "Pour in the chicken broth and lemon juice, scraping up any browned bits from the bottom of the pan, and simmer for 1 minute.",
+    "Add the spiralized zucchini noodles and the remaining salt to the skillet, tossing constantly over medium heat for 2 minutes until just tender-crisp and coated in sauce.",
+    "Return the cooked shrimp and any accumulated juices back to the skillet, toss everything together for 30 seconds until heated through, garnish with fresh parsley, and remove from heat."
+  ],
+  "tips": [
+    "Do not overcook the zucchini noodles or they will release too much water; keep the cooking time under 2 minutes.",
+    "Patting the shrimp thoroughly dry is essential to get a proper sear instead of steaming them.",
+    "Serve immediately as zucchini noodles continue to release moisture as they sit."
+  ],
+  "storage": "Best enjoyed immediately. Leftovers can be stored in an airtight container in the refrigerator for up to 1 day, though the zucchini will soften upon reheating.",
+  "tools": [
+    "12-inch skillet",
+    "spiralizer",
+    "paper towels",
+    "measuring cups and spoons",
+    "tongs"
+  ],
+  "keywords": [
+    "Garlic Butter Shrimp and Zucchini Noodles",
+    "High Protein Shrimp Recipe",
+    "Zucchini Noodles with Shrimp",
+    "25 Minute High Protein Dinner",
+    "Keto Friendly Shrimp and Zoodles",
+    "Garlic Butter Shrimp Zoodles",
+    "High Protein Seafood Dinner"
+  ],
+  "pin_variants": [
+    {
+      "hook_type": "speed",
+      "title": "25-Minute Garlic Butter Shrimp and Zucchini Noodles | High Protein",
+      "description": "Make Garlic Butter Shrimp and Zucchini Noodles in just 25 minutes for an easy weeknight meal loaded with 35g of protein per serving. Tender shrimp and crisp zoodles are tossed in a rich garlic butter sauce. Save it for your next meal prep.",
+      "overlay": "25-Minute Garlic Butter Shrimp",
+      "subline": "35g Protein Per Serving",
+      "alt_text": "Garlic butter shrimp tossed with green zucchini noodles in a skillet."
+    },
+    {
+      "hook_type": "number",
+      "title": "35g Protein Garlic Butter Shrimp and Zucchini Noodles",
+      "description": "Reach your macro goals with this 35g protein Garlic Butter Shrimp and Zucchini Noodles recipe that cooks in only 25 minutes. Featuring succulent shrimp and tender zoodles in a vibrant lemon garlic sauce. Save it for your next meal prep.",
+      "overlay": "35g Protein Garlic Butter Shrimp",
+      "subline": "Ready in 25 Minutes",
+      "alt_text": "Close up of cooked shrimp and zucchini noodles garnished with parsley."
+    },
+    {
+      "hook_type": "outcome",
+      "title": "High Protein Garlic Butter Shrimp and Zucchini Noodles",
+      "description": "Enjoy a satisfying, macro-friendly dinner featuring Garlic Butter Shrimp and Zucchini Noodles packed with 35g of protein and ready in 25 minutes. A quick skillet meal that delivers big flavor without the carbs. Save it for your next meal prep.",
+      "overlay": "High Protein Shrimp Zoodles",
+      "subline": "Done in 25 Minutes",
+      "alt_text": "Pan filled with garlic butter shrimp and zucchini noodles."
+    },
+    {
+      "hook_type": "teacher",
+      "title": "The Trick to Tender Garlic Butter Shrimp and Zucchini Noodles",
+      "description": "Learn how to make Garlic Butter Shrimp and Zucchini Noodles without soggy zoodles, delivering 35g of protein in just 25 minutes. A foolproof skillet method for the ultimate weeknight dinner. Save it for your next meal prep.",
+      "overlay": "Crisp Zucchini Noodles Every Time",
+      "subline": "35g Protein Dinner",
+      "alt_text": "Sizzling skillet with shrimp, garlic, and fresh zucchini noodles."
+    }
+  ],
+  "video_script": {
+    "hook": "Make these Garlic Butter Shrimp and Zucchini Noodles with 35 grams of protein.",
+    "steps_short": [
+      "Pat 680 grams of large shrimp dry and season with salt and pepper.",
+      "Sear the shrimp in a hot skillet for 2 minutes per side until pink.",
+      "Melt butter and sauté garlic and red pepper flakes in the same pan.",
+      "Deglaze with broth and lemon juice, then toss in the zucchini noodles.",
+      "Return the shrimp to the skillet and toss everything together until hot."
+    ],
+    "outro": "Find the full recipe details on the website."
+  },
+  "photo_queries": [
+    "garlic butter shrimp and zucchini noodles in skillet",
+    "shrimp and zoodles with lemon and parsley",
+    "high protein shrimp dinner"
+  ],
+  "must_match": [
+    "shrimp",
+    "zucchini",
+    "noodles",
+    "garlic"
+  ],
+  "board": "30 Minute High Protein Meals",
+  "slug": "garlic-butter-shrimp-and-zucchini-noodles",
+  "protein_g": 35,
+  "photos": [
+    {
+      "id": "u-4LoGKVmUJsI",
+      "width": 3264,
+      "height": 4912,
+      "alt": "cooked shrimps on blue ceramic plate shrimp with garlic and cilantro",
+      "photographer": "Maggie Hung",
+      "photographer_url": "https://unsplash.com/@maggie__1105?utm_source=easy_protein_kitchen&utm_medium=referral",
+      "page_url": "https://unsplash.com/photos/cooked-shrimps-on-blue-ceramic-plate-4LoGKVmUJsI?utm_source=easy_protein_kitchen&utm_medium=referral",
+      "source": "Unsplash",
+      "source_url": "https://unsplash.com/?utm_source=easy_protein_kitchen&utm_medium=referral",
+      "src": "https://images.unsplash.com/photo-1599655345131-6eb73b81d8d6?ixid=M3wxMTQzODc5fDB8MXxzZWFyY2h8MTN8fHNocmltcCUyMGFuZCUyMHpvb2RsZXMlMjB3aXRoJTIwbGVtb24lMjBhbmQlMjBwYXJzbGV5fGVufDF8MXx8fDE3OTU3NzYzODl8MA&ixlib=rb-4.1.0",
+      "web": "https://images.unsplash.com/photo-1599655345131-6eb73b81d8d6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTQzODc5fDB8MXxzZWFyY2h8MTN8fHNocmltcCUyMGFuZCUyMHpvb2RsZXMlMjB3aXRoJTIwbGVtb24lMjBhbmQlMjBwYXJzbGV5fGVufDF8MXx8fDE3OTU3NzYzODl8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "download_location": "https://api.unsplash.com/photos/4LoGKVmUJsI/download?ixid=M3wxMTQzODc5fDB8MXxzZWFyY2h8MTN8fHNocmltcCUyMGFuZCUyMHpvb2RsZXMlMjB3aXRoJTIwbGVtb24lMjBhbmQlMjBwYXJzbGV5fGVufDF8MXx8fDE3OTU3NzYzODl8MA",
+      "score": 9
+    },
+    {
+      "id": "u-tGkeilOOfBg",
+      "width": 3984,
+      "height": 5976,
+      "alt": "Shrimp scampi served in a black skillet with garlic",
+      "photographer": "tommao wang",
+      "photographer_url": "https://unsplash.com/@tommaomaoer?utm_source=easy_protein_kitchen&utm_medium=referral",
+      "page_url": "https://unsplash.com/photos/shrimp-scampi-served-in-a-black-skillet-with-garlic-tGkeilOOfBg?utm_source=easy_protein_kitchen&utm_medium=referral",
+      "source": "Unsplash",
+      "source_url": "https://unsplash.com/?utm_source=easy_protein_kitchen&utm_medium=referral",
+      "src": "https://images.unsplash.com/photo-1779119379964-c252d2748477?ixid=M3wxMTQzODc5fDB8MXxzZWFyY2h8MTd8fGhpZ2glMjBwcm90ZWluJTIwc2hyaW1wJTIwZGlubmVyfGVufDF8MXx8fDE3OTU3NzYzOTB8MA&ixlib=rb-4.1.0",
+      "web": "https://images.unsplash.com/photo-1779119379964-c252d2748477?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTQzODc5fDB8MXxzZWFyY2h8MTd8fGhpZ2glMjBwcm90ZWluJTIwc2hyaW1wJTIwZGlubmVyfGVufDF8MXx8fDE3OTU3NzYzOTB8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "download_location": "https://api.unsplash.com/photos/tGkeilOOfBg/download?ixid=M3wxMTQzODc5fDB8MXxzZWFyY2h8MTd8fGhpZ2glMjBwcm90ZWluJTIwc2hyaW1wJTIwZGlubmVyfGVufDF8MXx8fDE3OTU3NzYzOTB8MA",
+      "score": 9
+    },
+    {
+      "id": "u-LoYByGoLOoE",
+      "width": 3456,
+      "height": 5184,
+      "alt": "a plate of food SHRIMP GARLIC AND OIL",
+      "photographer": "Kawê Rodrigues",
+      "photographer_url": "https://unsplash.com/@kawerodriguess?utm_source=easy_protein_kitchen&utm_medium=referral",
+      "page_url": "https://unsplash.com/photos/a-plate-of-food-LoYByGoLOoE?utm_source=easy_protein_kitchen&utm_medium=referral",
+      "source": "Unsplash",
+      "source_url": "https://unsplash.com/?utm_source=easy_protein_kitchen&utm_medium=referral",
+      "src": "https://images.unsplash.com/photo-1669385184435-233842a157f3?ixid=M3wxMTQzODc5fDB8MXxzZWFyY2h8MjJ8fGhpZ2glMjBwcm90ZWluJTIwc2hyaW1wJTIwZGlubmVyfGVufDF8MXx8fDE3OTU3NzYzOTB8MA&ixlib=rb-4.1.0",
+      "web": "https://images.unsplash.com/photo-1669385184435-233842a157f3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTQzODc5fDB8MXxzZWFyY2h8MjJ8fGhpZ2glMjBwcm90ZWluJTIwc2hyaW1wJTIwZGlubmVyfGVufDF8MXx8fDE3OTU3NzYzOTB8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "download_location": "https://api.unsplash.com/photos/LoYByGoLOoE/download?ixid=M3wxMTQzODc5fDB8MXxzZWFyY2h8MjJ8fGhpZ2glMjBwcm90ZWluJTIwc2hyaW1wJTIwZGlubmVyfGVufDF8MXx8fDE3OTU3NzYzOTB8MA",
+      "score": 9
+    },
+    {
+      "id": "u-GfX-VoGImCk",
+      "width": 1936,
+      "height": 2583,
+      "alt": "a plate of shrimp and lemons with a dipping sauce Shrimp cocktail",
+      "photographer": "sheri silver",
+      "photographer_url": "https://unsplash.com/@sheri_silver?utm_source=easy_protein_kitchen&utm_medium=referral",
+      "page_url": "https://unsplash.com/photos/a-plate-of-shrimp-and-lemons-with-a-dipping-sauce-GfX-VoGImCk?utm_source=easy_protein_kitchen&utm_medium=referral",
+      "source": "Unsplash",
+      "source_url": "https://unsplash.com/?utm_source=easy_protein_kitchen&utm_medium=referral",
+      "src": "https://images.unsplash.com/photo-1691201659377-978b28daa417?ixid=M3wxMTQzODc5fDB8MXxzZWFyY2h8MXx8c2hyaW1wJTIwYW5kJTIwem9vZGxlcyUyMHdpdGglMjBsZW1vbiUyMGFuZCUyMHBhcnNsZXl8ZW58MXwxfHx8MTc5NTc3NjM4OXww&ixlib=rb-4.1.0",
+      "web": "https://images.unsplash.com/photo-1691201659377-978b28daa417?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTQzODc5fDB8MXxzZWFyY2h8MXx8c2hyaW1wJTIwYW5kJTIwem9vZGxlcyUyMHdpdGglMjBsZW1vbiUyMGFuZCUyMHBhcnNsZXl8ZW58MXwxfHx8MTc5NTc3NjM4OXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "download_location": "https://api.unsplash.com/photos/GfX-VoGImCk/download?ixid=M3wxMTQzODc5fDB8MXxzZWFyY2h8MXx8c2hyaW1wJTIwYW5kJTIwem9vZGxlcyUyMHdpdGglMjBsZW1vbiUyMGFuZCUyMHBhcnNsZXl8ZW58MXwxfHx8MTc5NTc3NjM4OXww",
+      "score": 8
+    },
+    {
+      "id": "u-uoKAIdObUlk",
+      "width": 4000,
+      "height": 6000,
+      "alt": "Cooked shrimp with vegetables and tomatoes",
+      "photographer": "joe boshra",
+      "photographer_url": "https://unsplash.com/@joestudios?utm_source=easy_protein_kitchen&utm_medium=referral",
+      "page_url": "https://unsplash.com/photos/cooked-shrimp-with-vegetables-and-tomatoes-uoKAIdObUlk?utm_source=easy_protein_kitchen&utm_medium=referral",
+      "source": "Unsplash",
+      "source_url": "https://unsplash.com/?utm_source=easy_protein_kitchen&utm_medium=referral",
+      "src": "https://images.unsplash.com/photo-1762631934367-aba7cfbf9f59?ixid=M3wxMTQzODc5fDB8MXxzZWFyY2h8OHx8c2hyaW1wJTIwYW5kJTIwem9vZGxlcyUyMHdpdGglMjBsZW1vbiUyMGFuZCUyMHBhcnNsZXl8ZW58MXwxfHx8MTc5NTc3NjM4OXww&ixlib=rb-4.1.0",
+      "web": "https://images.unsplash.com/photo-1762631934367-aba7cfbf9f59?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTQzODc5fDB8MXxzZWFyY2h8OHx8c2hyaW1wJTIwYW5kJTIwem9vZGxlcyUyMHdpdGglMjBsZW1vbiUyMGFuZCUyMHBhcnNsZXl8ZW58MXwxfHx8MTc5NTc3NjM4OXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "download_location": "https://api.unsplash.com/photos/uoKAIdObUlk/download?ixid=M3wxMTQzODc5fDB8MXxzZWFyY2h8OHx8c2hyaW1wJTIwYW5kJTIwem9vZGxlcyUyMHdpdGglMjBsZW1vbiUyMGFuZCUyMHBhcnNsZXl8ZW58MXwxfHx8MTc5NTc3NjM4OXww",
+      "score": 6
+    },
+    {
+      "id": "u-f71PV-TXlYw",
+      "width": 3744,
+      "height": 5616,
+      "alt": "bowl of cooked shrimp",
+      "photographer": "Victoria Shes",
+      "photographer_url": "https://unsplash.com/@victoriakosmo?utm_source=easy_protein_kitchen&utm_medium=referral",
+      "page_url": "https://unsplash.com/photos/bowl-of-cooked-shrimp-f71PV-TXlYw?utm_source=easy_protein_kitchen&utm_medium=referral",
+      "source": "Unsplash",
+      "source_url": "https://unsplash.com/?utm_source=easy_protein_kitchen&utm_medium=referral",
+      "src": "https://images.unsplash.com/photo-1539265735901-f4cf0dda5757?ixid=M3wxMTQzODc5fDB8MXxzZWFyY2h8OXx8c2hyaW1wJTIwYW5kJTIwem9vZGxlcyUyMHdpdGglMjBsZW1vbiUyMGFuZCUyMHBhcnNsZXl8ZW58MXwxfHx8MTc5NTc3NjM4OXww&ixlib=rb-4.1.0",
+      "web": "https://images.unsplash.com/photo-1539265735901-f4cf0dda5757?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTQzODc5fDB8MXxzZWFyY2h8OXx8c2hyaW1wJTIwYW5kJTIwem9vZGxlcyUyMHdpdGglMjBsZW1vbiUyMGFuZCUyMHBhcnNsZXl8ZW58MXwxfHx8MTc5NTc3NjM4OXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "download_location": "https://api.unsplash.com/photos/f71PV-TXlYw/download?ixid=M3wxMTQzODc5fDB8MXxzZWFyY2h8OXx8c2hyaW1wJTIwYW5kJTIwem9vZGxlcyUyMHdpdGglMjBsZW1vbiUyMGFuZCUyMHBhcnNsZXl8ZW58MXwxfHx8MTc5NTc3NjM4OXww",
+      "score": 6
+    }
+  ],
+  "verification": {
+    "checks": [
+      {
+        "verdict": "pass",
+        "issues": [],
+        "sources": [
+          {
+            "name": "Serious Eats - Garlic Butter Shrimp with Zucchini Noodles",
+            "url": "https://www.seriouseats.com/"
+          },
+          {
+            "name": "Well Plated by Erin - Garlic Butter Shrimp Zucchini Noodles",
+            "url": "https://www.wellplated.com/garlic-butter-shrimp-zucchini-noodles/"
+          }
+        ],
+        "grounded": false
+      }
+    ],
+    "rule_warnings": [],
+    "model": "gemini-3.6-flash"
+  },
+  "created": "2026-11-27"
+}
