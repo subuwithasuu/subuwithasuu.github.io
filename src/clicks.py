@@ -48,3 +48,8 @@ def pin_clicks(cfg: dict, since: datetime, until: datetime | None = None) -> dic
         time.sleep(0.3)                              # API allows 4 requests a second
     log(f"goatcounter: clicks for {len(out)} pins")
     return out
+
+
+if __name__ == "__main__":                           # quick check: python src/clicks.py
+    from common import load_config
+    print(pin_clicks(load_config(), datetime.now(timezone.utc) - timedelta(days=7)))

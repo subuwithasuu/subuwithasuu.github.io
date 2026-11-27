@@ -5,6 +5,11 @@ on:
   schedule:
     - cron: "30 3 * * 1"       # Mondays 03:30 UTC (09:00 IST)
   workflow_dispatch:
+    inputs:
+      check_clicks:
+        description: "Only test reading GoatCounter clicks (no report, no issue)"
+        type: boolean
+        default: false
 
 permissions:
   contents: write        # saves metrics.json + learnings.json for the feedback loop
@@ -24,7 +29,13 @@ jobs:
           python-version: "3.12"
           cache: pip
       - run: pip install -r requirements.txt
+      - name: Check GoatCounter access
+        if: inputs.check_clicks
+        env:
+          GOATCOUNTER_TOKEN: ${{ secrets.GOATCOUNTER_TOKEN }}
+        run: python src/clicks.py
       - name: Build report
+        if: ${{ !inputs.check_clicks }}
         env:
           PINTEREST_APP_ID: ${{ secrets.PINTEREST_APP_ID }}
           PINTEREST_APP_SECRET: ${{ secrets.PINTEREST_APP_SECRET }}
@@ -38,10 +49,12 @@ jobs:
           REPORT_TO: ${{ secrets.REPORT_TO }}
         run: python src/weekly_report.py
       - name: Open issue
+        if: ${{ !inputs.check_clicks }}
         env:
           GH_TOKEN: ${{ github.token }}
         run: gh issue create --repo "$GITHUB_REPOSITORY" --title "Weekly Pinterest report $(date -u +%F)" --body-file report.md
       - name: Save learnings
+        if: ${{ !inputs.check_clicks }}
         run: |
           git config user.name "pin-bot"
           git config user.email "pin-bot@users.noreply.github.com"
