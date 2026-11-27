@@ -130,9 +130,25 @@ def main() -> int:
             ctx = open_browser(p)
             page = ctx.pages[0] if ctx.pages else ctx.new_page()
             page.goto("https://www.pinterest.com/login/")
-            log("Log in to Pinterest in the window that opened, then close the window.")
-            page.wait_for_event("close", timeout=0)
-            ctx.close()
+            log("Log in to Pinterest in the window that opened; it closes by itself when done.")
+            page.bring_to_front()
+            for _ in range(900):                       # up to 30 minutes
+                time.sleep(2)
+                try:
+                    cookies = ctx.cookies()
+                except Exception:                      # whole window was closed
+                    log("window closed before login finished")
+                    return 1
+                if any(c["name"] == "_auth" and c["value"] == "1" for c in cookies):
+                    log("logged in")
+                    time.sleep(3)
+                    break
+            else:
+                log("login timed out")
+            try:
+                ctx.close()
+            except Exception:
+                pass
         return 0
 
     cfg = load_config()
