@@ -482,5 +482,27 @@
     "category": "Dinner",
     "protein_g": 37,
     "total_minutes": 25
+  },
+  {
+    "pin_id": "2026-11-27-04",
+    "via": "rss",
+    "slot": "2026-11-27#04",
+    "slug": "quick-korean-lean-ground-beef-rice-bowl",
+    "kind": "image",
+    "variant": 1,
+    "board": "High Protein Dinners",
+    "title": "25-Minute Korean Ground Beef Rice Bowl Recipe",
+    "description": "Make this fast Korean lean ground beef rice bowl in under 25 minutes. Packed with 35g of protein, sweet garlic flavors, and simple pantry staples, it is perfect for busy weeknights. Save it for your next meal prep.",
+    "alt_text": "Skillet of glazed Korean ground beef next to bowls of jasmine rice.",
+    "link": "https://easyproteinkitchen.online/recipes/quick-korean-lean-ground-beef-rice-bowl/?pin=2026-11-27-04",
+    "image": "pins/2026-11-27-04.jpg",
+    "posted_at": "2026-11-27T18:01:37.206015+00:00",
+    "hook_type": "speed",
+    "overlay": "25-Minute Korean Beef Bowls",
+    "layout": "split",
+    "palette": 0,
+    "category": "Dinner",
+    "protein_g": 35,
+    "total_minutes": 25
   }
 ]

@@ -274,7 +274,7 @@
     {
       "slot": "2026-11-27#04",
       "due": "2026-11-27T17:30:18+00:00",
-      "status": "planned",
+      "status": "posted",
       "item": {
         "slug": "quick-korean-lean-ground-beef-rice-bowl",
         "board": "High Protein Dinners",
@@ -284,7 +284,10 @@
         "layout": "split",
         "palette": 0
       },
-      "attempts": 0
+      "attempts": 0,
+      "pin_id": "2026-11-27-04",
+      "posted_at": "2026-11-27T18:01:37.206015+00:00",
+      "via": "rss"
     },
     {
       "slot": "2026-11-27#05",
