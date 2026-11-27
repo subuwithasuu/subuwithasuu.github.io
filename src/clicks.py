@@ -52,4 +52,14 @@ def pin_clicks(cfg: dict, since: datetime, until: datetime | None = None) -> dic
 
 if __name__ == "__main__":                           # quick check: python src/clicks.py
     from common import load_config
-    print(pin_clicks(load_config(), datetime.now(timezone.utc) - timedelta(days=7)))
+    cfg = load_config()
+    base = f"https://{cfg['site']['goatcounter']}.goatcounter.com/api/v0"
+    head = {"Authorization": f"Bearer {os.environ['GOATCOUNTER_TOKEN']}", "Content-Type": "application/json"}
+    now = datetime.now(timezone.utc)
+    for path, params in [("/me", {}), ("/sites", {}), ("/paths", {}), ("/stats/total", {}),
+                         ("/stats/hits", {}), ("/stats/hits", {"start": (now - timedelta(days=7)).strftime("%Y-%m-%d")}),
+                         ("/stats/hits", {"start": (now - timedelta(days=7)).strftime("%Y-%m-%dT%H:00:00Z")})]:
+        r = requests.get(base + path, headers=head, params=params, timeout=30)
+        body = r.text if "json" in r.headers.get("content-type", "") else r.text[:80]
+        print(path, params, r.status_code, body[:400].replace(os.environ["GOATCOUNTER_TOKEN"], "***"))
+    print(pin_clicks(cfg, now - timedelta(days=7)))
