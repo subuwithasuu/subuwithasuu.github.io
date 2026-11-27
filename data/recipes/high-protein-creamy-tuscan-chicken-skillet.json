@@ -1,0 +1,294 @@
+{
+  "title": "High-Protein Creamy Tuscan Chicken Skillet",
+  "description": "This high-protein creamy Tuscan chicken skillet features tender chicken breasts in a rich garlic, sun-dried tomato, and spinach sauce. Ready in just 25 minutes, it delivers 35 grams of protein per serving. Save it for your next meal prep.",
+  "cuisine": "Italian-American",
+  "category": "Dinner",
+  "servings": 4,
+  "protein_g_per_serving": 35,
+  "prep_minutes": 10,
+  "cook_minutes": 15,
+  "total_minutes": 25,
+  "ingredients": [
+    {
+      "qty": "1 1/2",
+      "unit": "lbs",
+      "item": "boneless skinless chicken breasts",
+      "metric": "680 g",
+      "note": "cut into even cutlets"
+    },
+    {
+      "qty": "1",
+      "unit": "tsp",
+      "item": "salt",
+      "metric": "6 g",
+      "note": "divided"
+    },
+    {
+      "qty": "1/2",
+      "unit": "tsp",
+      "item": "black pepper",
+      "metric": "2 g",
+      "note": "divided"
+    },
+    {
+      "qty": "1",
+      "unit": "tbsp",
+      "item": "olive oil",
+      "metric": "14 g",
+      "note": "for searing"
+    },
+    {
+      "qty": "2",
+      "unit": "tbsp",
+      "item": "unsalted butter",
+      "metric": "28 g",
+      "note": "divided"
+    },
+    {
+      "qty": "3",
+      "unit": "cloves",
+      "item": "garlic",
+      "metric": "9 g",
+      "note": "minced"
+    },
+    {
+      "qty": "1/2",
+      "unit": "cup",
+      "item": "sun-dried tomatoes",
+      "metric": "80 g",
+      "note": "drained and chopped"
+    },
+    {
+      "qty": "3/4",
+      "unit": "cup",
+      "item": "low-sodium chicken broth",
+      "metric": "180 ml",
+      "note": "warm"
+    },
+    {
+      "qty": "1/2",
+      "unit": "cup",
+      "item": "heavy cream",
+      "metric": "120 ml",
+      "note": "substitute for yogurt to prevent curdling, or use full-fat Greek yogurt"
+    },
+    {
+      "qty": "1/4",
+      "unit": "cup",
+      "item": "grated parmesan cheese",
+      "metric": "25 g",
+      "note": "freshly grated"
+    },
+    {
+      "qty": "2",
+      "unit": "cups",
+      "item": "baby spinach",
+      "metric": "60 g",
+      "note": "fresh"
+    }
+  ],
+  "steps": [
+    "Season the chicken breasts evenly with 3/4 teaspoon of the salt and all of the black pepper.",
+    "Heat olive oil and 1 tablespoon of butter in a 12-inch skillet over medium-high heat until shimmering. Add the chicken and sear for 5 to 6 minutes per side until golden brown and the internal temperature reaches 165°F (74°C). Remove chicken to a clean plate and set aside.",
+    "Reduce the heat to medium. Add the remaining 1 tablespoon of butter to the same skillet. Add the minced garlic and chopped sun-dried tomatoes, cooking for 1 minute until fragrant, stirring constantly so the garlic does not burn.",
+    "Pour in the chicken broth to deglaze the pan, scraping up any browned bits from the bottom, and let it simmer for 2 minutes until slightly reduced.",
+    "Reduce the heat to low. Stir in the heavy cream and grated parmesan cheese, along with the remaining 1/4 teaspoon of salt, stirring until the cheese melts and the sauce is smooth and creamy.",
+    "Stir in the baby spinach and cook for 1 to 2 minutes until wilted and bright green.",
+    "Return the cooked chicken and any resting juices back into the skillet, spooning the creamy sauce over the top, and heat through for 1 minute before serving."
+  ],
+  "tips": [
+    "Let the Greek yogurt come to room temperature before whisking it into the warm broth to prevent curdling.",
+    "Store leftovers in an airtight container in the refrigerator for up to 3 days."
+  ],
+  "storage": "Keeps well in an airtight container in the refrigerator for up to 3 days. Reheat gently on the stovetop or in the microwave.",
+  "tools": [
+    "12-inch skillet",
+    "Measuring cups and spoons",
+    "Whisk",
+    "Meat thermometer"
+  ],
+  "keywords": [
+    "high protein chicken skillet",
+    "creamy tuscan chicken recipe",
+    "healthy high protein dinner",
+    "easy tuscan chicken",
+    "protein rich chicken breast",
+    "30 minute high protein meal"
+  ],
+  "pin_variants": [
+    {
+      "hook_type": "number",
+      "title": "High-Protein Creamy Tuscan Chicken Skillet | 35g Protein Dinner",
+      "description": "Make this high-protein creamy Tuscan chicken skillet in just 25 minutes for an easy weeknight meal packed with 35g protein per serving. Tender chicken breasts are coated in a rich garlic, sun-dried tomato, and spinach sauce. Save it for your next meal prep.",
+      "overlay": "35g Protein Tuscan Chicken Skillet",
+      "subline": "Ready in 25 Minutes",
+      "alt_text": "Close-up of a skillet filled with seared chicken breasts in a creamy Tuscan sun-dried tomato and spinach sauce."
+    },
+    {
+      "hook_type": "speed",
+      "title": "25-Minute High-Protein Creamy Tuscan Chicken Skillet",
+      "description": "Whip up a 25-minute high-protein creamy Tuscan chicken skillet delivering 35g protein per serving. Simple ingredients come together in one pan for a flavorful weeknight dinner. Save it for your next meal prep.",
+      "overlay": "25-Minute Tuscan Chicken Skillet",
+      "subline": "35g Protein Per Serving",
+      "alt_text": "Overhead view of a one-pan Tuscan chicken dinner garnished with fresh spinach and sun-dried tomatoes."
+    },
+    {
+      "hook_type": "outcome",
+      "title": "High-Protein Creamy Tuscan Chicken Skillet | Easy One-Pan Meal",
+      "description": "Achieve your fitness goals with this high-protein creamy Tuscan chicken skillet offering 35g protein in a fast 25-minute recipe. Tender chicken in a garlic spinach sauce makes an ideal dinner. Save it for your next meal prep.",
+      "overlay": "Creamy Tuscan Chicken Meal Prep",
+      "subline": "Packed With 35g Protein",
+      "alt_text": "A cast iron skillet containing creamy Tuscan chicken breast cutlets surrounded by a rich sauce."
+    },
+    {
+      "hook_type": "teacher",
+      "title": "How to Make High-Protein Creamy Tuscan Chicken Skillet",
+      "description": "Learn the secret to a velvety yogurt-based sauce in this high-protein creamy Tuscan chicken skillet with 35g protein and 25 minutes total time. Juicy seared chicken meets vibrant Italian flavors. Save it for your next meal prep.",
+      "overlay": "The Secret to Creamy Tuscan Chicken",
+      "subline": "Healthy 25-Minute Dinner",
+      "alt_text": "Sliced high-protein Tuscan chicken breast in a skillet with a creamy parmesan and sun-dried tomato sauce."
+    }
+  ],
+  "video_script": {
+    "hook": "Craving flavor? This creamy Tuscan chicken skillet has 35 grams of protein!",
+    "steps_short": [
+      "Season the chicken breasts with salt and pepper.",
+      "Sear the chicken in a hot skillet until fully cooked.",
+      "Sauté garlic and sun-dried tomatoes in the same pan.",
+      "Whisk in broth, Greek yogurt, and parmesan for the sauce.",
+      "Stir in spinach until wilted, then add the chicken back."
+    ],
+    "outro": "Get the full high protein recipe on the website."
+  },
+  "photo_queries": [
+    "creamy tuscan chicken skillet in pan",
+    "healthy high protein chicken dinner",
+    "seared chicken breast with sun-dried tomatoes"
+  ],
+  "must_match": [
+    "chicken",
+    "skillet",
+    "spinach",
+    "sauce"
+  ],
+  "board": "30 Minute High Protein Meals",
+  "slug": "high-protein-creamy-tuscan-chicken-skillet",
+  "protein_g": 35,
+  "photos": [
+    {
+      "id": "u-Wd00iFID5aI",
+      "width": 3468,
+      "height": 5202,
+      "alt": "Chicken with tomatoes and basil",
+      "photographer": "Rodrigo Rodrigues | WOLF Λ R T",
+      "photographer_url": "https://unsplash.com/@wolfart32?utm_source=easy_protein_kitchen&utm_medium=referral",
+      "page_url": "https://unsplash.com/photos/chicken-with-tomatoes-and-basil-Wd00iFID5aI?utm_source=easy_protein_kitchen&utm_medium=referral",
+      "source": "Unsplash",
+      "source_url": "https://unsplash.com/?utm_source=easy_protein_kitchen&utm_medium=referral",
+      "src": "https://images.unsplash.com/photo-1748864221145-269b4a23a67e?ixid=M3wxMTQzODc5fDB8MXxzZWFyY2h8MXx8c2VhcmVkJTIwY2hpY2tlbiUyMGJyZWFzdCUyMHdpdGglMjBzdW4tZHJpZWQlMjB0b21hdG9lc3xlbnwxfDF8fHwxNzk1ODE5MTU3fDA&ixlib=rb-4.1.0",
+      "web": "https://images.unsplash.com/photo-1748864221145-269b4a23a67e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTQzODc5fDB8MXxzZWFyY2h8MXx8c2VhcmVkJTIwY2hpY2tlbiUyMGJyZWFzdCUyMHdpdGglMjBzdW4tZHJpZWQlMjB0b21hdG9lc3xlbnwxfDF8fHwxNzk1ODE5MTU3fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "download_location": "https://api.unsplash.com/photos/Wd00iFID5aI/download?ixid=M3wxMTQzODc5fDB8MXxzZWFyY2h8MXx8c2VhcmVkJTIwY2hpY2tlbiUyMGJyZWFzdCUyMHdpdGglMjBzdW4tZHJpZWQlMjB0b21hdG9lc3xlbnwxfDF8fHwxNzk1ODE5MTU3fDA",
+      "score": 8
+    },
+    {
+      "id": "u-FWfxbacB_tw",
+      "width": 4672,
+      "height": 7008,
+      "alt": "Two plates of grilled chicken, corn, carrots, and eggplant on a white table A plate of healthy food including chicken breast, corn, carrots, and eggplant next to a laptop streaming Netflix.",
+      "photographer": "Max Bvp",
+      "photographer_url": "https://unsplash.com/@maxbvp?utm_source=easy_protein_kitchen&utm_medium=referral",
+      "page_url": "https://unsplash.com/photos/dinner-plates-with-chicken-and-vegetables-FWfxbacB_tw?utm_source=easy_protein_kitchen&utm_medium=referral",
+      "source": "Unsplash",
+      "source_url": "https://unsplash.com/?utm_source=easy_protein_kitchen&utm_medium=referral",
+      "src": "https://images.unsplash.com/photo-1788580210985-051fea8ca7fa?ixid=M3wxMTQzODc5fDB8MXxzZWFyY2h8MjB8fGhlYWx0aHklMjBoaWdoJTIwcHJvdGVpbiUyMGNoaWNrZW4lMjBkaW5uZXJ8ZW58MXwxfHx8MTc5NTgxOTE1Nnww&ixlib=rb-4.1.0",
+      "web": "https://images.unsplash.com/photo-1788580210985-051fea8ca7fa?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTQzODc5fDB8MXxzZWFyY2h8MjB8fGhlYWx0aHklMjBoaWdoJTIwcHJvdGVpbiUyMGNoaWNrZW4lMjBkaW5uZXJ8ZW58MXwxfHx8MTc5NTgxOTE1Nnww&ixlib=rb-4.1.0&q=80&w=1080",
+      "download_location": "https://api.unsplash.com/photos/FWfxbacB_tw/download?ixid=M3wxMTQzODc5fDB8MXxzZWFyY2h8MjB8fGhlYWx0aHklMjBoaWdoJTIwcHJvdGVpbiUyMGNoaWNrZW4lMjBkaW5uZXJ8ZW58MXwxfHx8MTc5NTgxOTE1Nnww",
+      "score": 6
+    },
+    {
+      "id": "u-YDou_h-DlrU",
+      "width": 3492,
+      "height": 4656,
+      "alt": "plate of food on grass Thai chicken meat",
+      "photographer": "sunorwind",
+      "photographer_url": "https://unsplash.com/@sunorwind?utm_source=easy_protein_kitchen&utm_medium=referral",
+      "page_url": "https://unsplash.com/photos/plate-of-food-on-grass-YDou_h-DlrU?utm_source=easy_protein_kitchen&utm_medium=referral",
+      "source": "Unsplash",
+      "source_url": "https://unsplash.com/?utm_source=easy_protein_kitchen&utm_medium=referral",
+      "src": "https://images.unsplash.com/photo-1574894746889-c639eeb63601?ixid=M3wxMTQzODc5fDB8MXxzZWFyY2h8MTB8fHNlYXJlZCUyMGNoaWNrZW4lMjBicmVhc3QlMjB3aXRoJTIwc3VuLWRyaWVkJTIwdG9tYXRvZXN8ZW58MXwxfHx8MTc5NTgxOTE1N3ww&ixlib=rb-4.1.0",
+      "web": "https://images.unsplash.com/photo-1574894746889-c639eeb63601?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTQzODc5fDB8MXxzZWFyY2h8MTB8fHNlYXJlZCUyMGNoaWNrZW4lMjBicmVhc3QlMjB3aXRoJTIwc3VuLWRyaWVkJTIwdG9tYXRvZXN8ZW58MXwxfHx8MTc5NTgxOTE1N3ww&ixlib=rb-4.1.0&q=80&w=1080",
+      "download_location": "https://api.unsplash.com/photos/YDou_h-DlrU/download?ixid=M3wxMTQzODc5fDB8MXxzZWFyY2h8MTB8fHNlYXJlZCUyMGNoaWNrZW4lMjBicmVhc3QlMjB3aXRoJTIwc3VuLWRyaWVkJTIwdG9tYXRvZXN8ZW58MXwxfHx8MTc5NTgxOTE1N3ww",
+      "score": 6
+    },
+    {
+      "id": "u-jcp53yxjqT8",
+      "width": 3744,
+      "height": 5616,
+      "alt": "Grilled chicken with french fries and sautéed vegetables on a wooden board beside a layered iced tea Hidden Gem Batubulan",
+      "photographer": "Abiwin Krisna",
+      "photographer_url": "https://unsplash.com/@abiwin?utm_source=easy_protein_kitchen&utm_medium=referral",
+      "page_url": "https://unsplash.com/photos/grilled-chicken-with-fries-and-tea-jcp53yxjqT8?utm_source=easy_protein_kitchen&utm_medium=referral",
+      "source": "Unsplash",
+      "source_url": "https://unsplash.com/?utm_source=easy_protein_kitchen&utm_medium=referral",
+      "src": "https://images.unsplash.com/photo-1792974553104-83c9ff7991a2?ixid=M3wxMTQzODc5fDB8MXxzZWFyY2h8Mjl8fHNlYXJlZCUyMGNoaWNrZW4lMjBicmVhc3QlMjB3aXRoJTIwc3VuLWRyaWVkJTIwdG9tYXRvZXN8ZW58MXwxfHx8MTc5NTgxOTE1N3ww&ixlib=rb-4.1.0",
+      "web": "https://images.unsplash.com/photo-1792974553104-83c9ff7991a2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTQzODc5fDB8MXxzZWFyY2h8Mjl8fHNlYXJlZCUyMGNoaWNrZW4lMjBicmVhc3QlMjB3aXRoJTIwc3VuLWRyaWVkJTIwdG9tYXRvZXN8ZW58MXwxfHx8MTc5NTgxOTE1N3ww&ixlib=rb-4.1.0&q=80&w=1080",
+      "download_location": "https://api.unsplash.com/photos/jcp53yxjqT8/download?ixid=M3wxMTQzODc5fDB8MXxzZWFyY2h8Mjl8fHNlYXJlZCUyMGNoaWNrZW4lMjBicmVhc3QlMjB3aXRoJTIwc3VuLWRyaWVkJTIwdG9tYXRvZXN8ZW58MXwxfHx8MTc5NTgxOTE1N3ww",
+      "score": 6
+    },
+    {
+      "id": "u-lW-7K1VXjmI",
+      "width": 5504,
+      "height": 8256,
+      "alt": "Seafood with cream sauce presented on a plate",
+      "photographer": "Geoffrey Moffett",
+      "photographer_url": "https://unsplash.com/@geoffreymoffett?utm_source=easy_protein_kitchen&utm_medium=referral",
+      "page_url": "https://unsplash.com/photos/seafood-with-cream-sauce-presented-on-a-plate-lW-7K1VXjmI?utm_source=easy_protein_kitchen&utm_medium=referral",
+      "source": "Unsplash",
+      "source_url": "https://unsplash.com/?utm_source=easy_protein_kitchen&utm_medium=referral",
+      "src": "https://images.unsplash.com/photo-1750874694574-cc0068192c85?ixid=M3wxMTQzODc5fDB8MXxzZWFyY2h8MjJ8fHNlYXJlZCUyMGNoaWNrZW4lMjBicmVhc3QlMjB3aXRoJTIwc3VuLWRyaWVkJTIwdG9tYXRvZXN8ZW58MXwxfHx8MTc5NTgxOTE1N3ww&ixlib=rb-4.1.0",
+      "web": "https://images.unsplash.com/photo-1750874694574-cc0068192c85?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTQzODc5fDB8MXxzZWFyY2h8MjJ8fHNlYXJlZCUyMGNoaWNrZW4lMjBicmVhc3QlMjB3aXRoJTIwc3VuLWRyaWVkJTIwdG9tYXRvZXN8ZW58MXwxfHx8MTc5NTgxOTE1N3ww&ixlib=rb-4.1.0&q=80&w=1080",
+      "download_location": "https://api.unsplash.com/photos/lW-7K1VXjmI/download?ixid=M3wxMTQzODc5fDB8MXxzZWFyY2h8MjJ8fHNlYXJlZCUyMGNoaWNrZW4lMjBicmVhc3QlMjB3aXRoJTIwc3VuLWRyaWVkJTIwdG9tYXRvZXN8ZW58MXwxfHx8MTc5NTgxOTE1N3ww",
+      "score": 4
+    }
+  ],
+  "verification": {
+    "checks": [
+      {
+        "verdict": "fix",
+        "issues": [
+          "The salt quantity (1/2 tsp total for 1.5 lbs chicken and the sauce) is far too low and will result in bland chicken and sauce; standard test kitchen recipes use around 1 to 1.5 teaspoons of salt total.",
+          "Using plain 0% Greek yogurt directly in a hot pan with chicken broth risks curdling due to the lack of fat and low pH, even if tempered. Standard creamy Tuscan chicken recipes use heavy cream or whole milk/cream cheese, but if using Greek yogurt, it needs proper tempering or a stabilizing starch to prevent separation."
+        ],
+        "sources": [
+          {
+            "name": "Delish - Creamy Tuscan Chicken",
+            "url": "https://www.delish.com/cooking/recipe-ideas/a26806085/creamy-tuscan-chicken-recipe/"
+          },
+          {
+            "name": "RecipeTin Eats - Creamy Tuscan Chicken",
+            "url": "https://recipetineats.com/creamy-tuscan-chicken/"
+          }
+        ],
+        "grounded": false
+      },
+      {
+        "verdict": "pass",
+        "issues": [],
+        "sources": [
+          {
+            "name": "Delish - Creamy Tuscan Chicken",
+            "url": "https://www.delish.com/cooking/recipe-ideas/a26848243/creamy-tuscan-chicken-recipe/"
+          },
+          {
+            "name": "RecipeTin Eats - Tuscan Chicken",
+            "url": "https://www.recipetineats.com/tuscan-chicken/"
+          }
+        ],
+        "grounded": false
+      }
+    ],
+    "rule_warnings": [],
+    "model": "gemini-3.6-flash"
+  },
+  "created": "2026-11-27"
+}

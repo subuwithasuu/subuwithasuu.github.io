@@ -1,0 +1,285 @@
+{
+  "title": "High-Protein Chicken and Broccoli Stir-Fry with Brown Rice",
+  "description": "Tender chicken breast and crisp broccoli tossed in a savory ginger-garlic sauce, served over wholesome brown rice. This easy skillet dinner packs 35 grams of protein per serving and comes together quickly.",
+  "cuisine": "Chinese-American",
+  "category": "Dinner",
+  "servings": 4,
+  "protein_g_per_serving": 35,
+  "prep_minutes": 15,
+  "cook_minutes": 20,
+  "total_minutes": 35,
+  "ingredients": [
+    {
+      "qty": "1",
+      "unit": "cup",
+      "item": "uncooked brown rice",
+      "metric": "190 g",
+      "note": "rinsed"
+    },
+    {
+      "qty": "1 1/2",
+      "unit": "lbs",
+      "item": "boneless skinless chicken breasts",
+      "metric": "680 g",
+      "note": "cut into bite-sized pieces"
+    },
+    {
+      "qty": "4",
+      "unit": "cups",
+      "item": "broccoli florets",
+      "metric": "360 g",
+      "note": "fresh"
+    },
+    {
+      "qty": "2",
+      "unit": "tbsp",
+      "item": "olive oil",
+      "metric": "30 ml",
+      "note": "divided"
+    },
+    {
+      "qty": "1/3",
+      "unit": "cup",
+      "item": "low-sodium soy sauce",
+      "metric": "80 ml",
+      "note": ""
+    },
+    {
+      "qty": "2",
+      "unit": "tbsp",
+      "item": "honey",
+      "metric": "40 g",
+      "note": ""
+    },
+    {
+      "qty": "1",
+      "unit": "tbsp",
+      "item": "fresh ginger",
+      "metric": "15 g",
+      "note": "minced"
+    },
+    {
+      "qty": "3",
+      "unit": "cloves",
+      "item": "garlic",
+      "metric": "9 g",
+      "note": "minced"
+    },
+    {
+      "qty": "1",
+      "unit": "tbsp",
+      "item": "cornstarch",
+      "metric": "8 g",
+      "note": ""
+    },
+    {
+      "qty": "2",
+      "unit": "tbsp",
+      "item": "water",
+      "metric": "30 ml",
+      "note": "cold"
+    }
+  ],
+  "steps": [
+    "Cook the brown rice in a medium saucepan according to package instructions until tender and fluffy; set aside.",
+    "In a small bowl, whisk together the low-sodium soy sauce, honey, minced ginger, minced garlic, cornstarch, and cold water until smooth.",
+    "Heat 1 tablespoon of olive oil in a large skillet or wok over medium-high heat for 2 minutes until shimmering.",
+    "Add the diced chicken breast to the skillet and cook for 6 to 8 minutes, stirring occasionally, until golden brown and an instant-read thermometer inserted into the center registers 165°F (74°C); transfer the chicken to a clean plate.",
+    "Add the remaining 1 tablespoon of olive oil to the same skillet over medium-high heat, add the broccoli florets, and stir-fry for 4 to 5 minutes until crisp-tender and bright green.",
+    "Return the cooked chicken to the skillet with the broccoli, pour the soy sauce mixture over top, and cook over medium heat for 2 to 3 minutes, stirring constantly, until the sauce bubbles and thickens into a glossy glaze coating the chicken and vegetables."
+  ],
+  "tips": [
+    "Make sure your chicken pieces are cut to a uniform size so they cook evenly.",
+    "For faster weeknight prep, cook the brown rice ahead of time or use frozen microwaveable brown rice pouches.",
+    "Store leftovers in an airtight container in the refrigerator for up to 4 days."
+  ],
+  "storage": "Store in an airtight container in the refrigerator for up to 4 days. Reheat in a skillet or microwave until steaming hot.",
+  "tools": [
+    "medium saucepan",
+    "small mixing bowl",
+    "whisk",
+    "large skillet or wok",
+    "instant-read thermometer",
+    "spatula"
+  ],
+  "keywords": [
+    "High Protein Chicken and Broccoli Stir-Fry",
+    "Chicken and Broccoli Meal Prep",
+    "Healthy Chicken Stir Fry Recipe",
+    "High Protein Dinner Ideas",
+    "Easy Chicken Breast Recipes",
+    "Stir Fry with Brown Rice"
+  ],
+  "pin_variants": [
+    {
+      "hook_type": "number",
+      "title": "High-Protein Chicken and Broccoli Stir-Fry | 35g Protein Dinner",
+      "description": "Make this High-Protein Chicken and Broccoli Stir-Fry with Brown Rice for an easy dinner that delivers 35g of protein in 35 minutes. Tender chicken and fresh broccoli are tossed in a savory homemade glaze over whole grain rice. Save it for your next meal prep.",
+      "overlay": "35g Protein Chicken Stir-Fry",
+      "subline": "Ready in 35 Minutes",
+      "alt_text": "A bowl of chicken and broccoli stir-fry over brown rice garnished with sesame seeds."
+    },
+    {
+      "hook_type": "speed",
+      "title": "35-Minute Chicken and Broccoli Stir-Fry | High Protein Dinner",
+      "description": "Whip up a high-protein chicken and broccoli stir-fry served over brown rice in just 35 minutes. Packed with 35 grams of protein per serving, this skillet meal uses simple ingredients for maximum flavor. Save it for your next meal prep.",
+      "overlay": "35-Minute Chicken Stir-Fry",
+      "subline": "35g Protein Per Serving",
+      "alt_text": "Close-up of glazed chicken breast pieces and crisp green broccoli florets in a skillet."
+    },
+    {
+      "hook_type": "outcome",
+      "title": "High-Protein Meal Prep Chicken and Broccoli Stir-Fry",
+      "description": "Achieve your macro goals with this high-protein chicken and broccoli stir-fry with brown rice, offering 35g of protein per serving. It is a quick 35-minute dinner that reheats wonderfully for busy weekdays. Save it for your next meal prep.",
+      "overlay": "Easy High Protein Dinner",
+      "subline": "Meal Prep Friendly",
+      "alt_text": "Meal prep containers filled with brown rice, chicken breast, and broccoli stir-fry."
+    },
+    {
+      "hook_type": "teacher",
+      "title": "How to Make High-Protein Chicken and Broccoli Stir-Fry",
+      "description": "Learn how to make a high-protein chicken and broccoli stir-fry over brown rice that hits 35g of protein in 35 minutes. Simple cooking techniques keep the chicken juicy and the broccoli crisp. Save it for your next meal prep.",
+      "overlay": "Juicy Chicken Stir-Fry Trick",
+      "subline": "35g Protein Dinner",
+      "alt_text": "A wooden spoon scooping up chicken breast and broccoli from a skillet."
+    }
+  ],
+  "video_script": {
+    "hook": "Make this 35-gram protein chicken and broccoli stir-fry in just 35 minutes.",
+    "steps_short": [
+      "Cook the brown rice until fluffy and tender.",
+      "Whisk together the soy sauce, honey, ginger, garlic, and cornstarch.",
+      "Cook the diced chicken breast in olive oil until it reaches 165 degrees.",
+      "Stir-fry the fresh broccoli florets until crisp-tender.",
+      "Toss the chicken and broccoli with the sauce until glossy."
+    ],
+    "outro": "Get the full recipe details on the website."
+  },
+  "photo_queries": [
+    "chicken and broccoli stir fry with brown rice",
+    "chicken stir fry skillet meal prep",
+    "healthy chicken and broccoli bowl"
+  ],
+  "must_match": [
+    "chicken",
+    "broccoli",
+    "rice"
+  ],
+  "board": "High Protein Chicken Recipes",
+  "slug": "high-protein-chicken-and-broccoli-stir-fry-with-brown-rice",
+  "protein_g": 35,
+  "photos": [
+    {
+      "id": "u-Ky-k7gMWLNI",
+      "width": 3347,
+      "height": 4463,
+      "alt": "cooked rice with broccoli on black plate In my search for how to eat less meat and dairy, I created this recipe with lots of umami flavours. This way you don't even miss cheese or meat. It's a simple and rich rice that you can add your favourite vegetables to. The soy sauce and mushrooms create awesome umami flavours while the coconut milk creates silky smooth rice. One of the recipes of the Fork Ranger book.",
+      "photographer": "Frank Holleman",
+      "photographer_url": "https://unsplash.com/@fraenkly?utm_source=easy_protein_kitchen&utm_medium=referral",
+      "page_url": "https://unsplash.com/photos/cooked-rice-with-broccoli-on-black-plate-Ky-k7gMWLNI?utm_source=easy_protein_kitchen&utm_medium=referral",
+      "source": "Unsplash",
+      "source_url": "https://unsplash.com/?utm_source=easy_protein_kitchen&utm_medium=referral",
+      "src": "https://images.unsplash.com/photo-1627906295804-46770ad5bed7?ixid=M3wxMTQzODc5fDB8MXxzZWFyY2h8NHx8Y2hpY2tlbiUyMGFuZCUyMGJyb2Njb2xpJTIwc3RpciUyMGZyeSUyMHdpdGglMjBicm93biUyMHJpY2V8ZW58MXwxfHx8MTc5NTgxOTEyM3ww&ixlib=rb-4.1.0",
+      "web": "https://images.unsplash.com/photo-1627906295804-46770ad5bed7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTQzODc5fDB8MXxzZWFyY2h8NHx8Y2hpY2tlbiUyMGFuZCUyMGJyb2Njb2xpJTIwc3RpciUyMGZyeSUyMHdpdGglMjBicm93biUyMHJpY2V8ZW58MXwxfHx8MTc5NTgxOTEyM3ww&ixlib=rb-4.1.0&q=80&w=1080",
+      "download_location": "https://api.unsplash.com/photos/Ky-k7gMWLNI/download?ixid=M3wxMTQzODc5fDB8MXxzZWFyY2h8NHx8Y2hpY2tlbiUyMGFuZCUyMGJyb2Njb2xpJTIwc3RpciUyMGZyeSUyMHdpdGglMjBicm93biUyMHJpY2V8ZW58MXwxfHx8MTc5NTgxOTEyM3ww",
+      "score": 11
+    },
+    {
+      "id": "u-0lqd3dXuSqQ",
+      "width": 4160,
+      "height": 5200,
+      "alt": "cooked rice with broccoli and carrots on black plate www.herbedandhungry.com\n@herbedandhungry",
+      "photographer": "Sonny Mauricio",
+      "photographer_url": "https://unsplash.com/@northernstatemedia?utm_source=easy_protein_kitchen&utm_medium=referral",
+      "page_url": "https://unsplash.com/photos/cooked-rice-with-broccoli-and-carrots-on-black-plate-0lqd3dXuSqQ?utm_source=easy_protein_kitchen&utm_medium=referral",
+      "source": "Unsplash",
+      "source_url": "https://unsplash.com/?utm_source=easy_protein_kitchen&utm_medium=referral",
+      "src": "https://images.unsplash.com/photo-1623800849466-435f89f567ce?ixid=M3wxMTQzODc5fDB8MXxzZWFyY2h8N3x8Y2hpY2tlbiUyMGFuZCUyMGJyb2Njb2xpJTIwc3RpciUyMGZyeSUyMHdpdGglMjBicm93biUyMHJpY2V8ZW58MXwxfHx8MTc5NTgxOTEyM3ww&ixlib=rb-4.1.0",
+      "web": "https://images.unsplash.com/photo-1623800849466-435f89f567ce?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTQzODc5fDB8MXxzZWFyY2h8N3x8Y2hpY2tlbiUyMGFuZCUyMGJyb2Njb2xpJTIwc3RpciUyMGZyeSUyMHdpdGglMjBicm93biUyMHJpY2V8ZW58MXwxfHx8MTc5NTgxOTEyM3ww&ixlib=rb-4.1.0&q=80&w=1080",
+      "download_location": "https://api.unsplash.com/photos/0lqd3dXuSqQ/download?ixid=M3wxMTQzODc5fDB8MXxzZWFyY2h8N3x8Y2hpY2tlbiUyMGFuZCUyMGJyb2Njb2xpJTIwc3RpciUyMGZyeSUyMHdpdGglMjBicm93biUyMHJpY2V8ZW58MXwxfHx8MTc5NTgxOTEyM3ww",
+      "score": 11
+    },
+    {
+      "id": "u-hQALPGPRS8w",
+      "width": 5464,
+      "height": 8192,
+      "alt": "cooked rice with green and orange vegetables",
+      "photographer": "Nathan Dumlao",
+      "photographer_url": "https://unsplash.com/@nate_dumlao?utm_source=easy_protein_kitchen&utm_medium=referral",
+      "page_url": "https://unsplash.com/photos/cooked-rice-with-green-and-orange-vegetables-hQALPGPRS8w?utm_source=easy_protein_kitchen&utm_medium=referral",
+      "source": "Unsplash",
+      "source_url": "https://unsplash.com/?utm_source=easy_protein_kitchen&utm_medium=referral",
+      "src": "https://images.unsplash.com/photo-1612658735891-15d427bca30d?ixid=M3wxMTQzODc5fDB8MXxzZWFyY2h8NXx8Y2hpY2tlbiUyMGFuZCUyMGJyb2Njb2xpJTIwc3RpciUyMGZyeSUyMHdpdGglMjBicm93biUyMHJpY2V8ZW58MXwxfHx8MTc5NTgxOTEyM3ww&ixlib=rb-4.1.0",
+      "web": "https://images.unsplash.com/photo-1612658735891-15d427bca30d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTQzODc5fDB8MXxzZWFyY2h8NXx8Y2hpY2tlbiUyMGFuZCUyMGJyb2Njb2xpJTIwc3RpciUyMGZyeSUyMHdpdGglMjBicm93biUyMHJpY2V8ZW58MXwxfHx8MTc5NTgxOTEyM3ww&ixlib=rb-4.1.0&q=80&w=1080",
+      "download_location": "https://api.unsplash.com/photos/hQALPGPRS8w/download?ixid=M3wxMTQzODc5fDB8MXxzZWFyY2h8NXx8Y2hpY2tlbiUyMGFuZCUyMGJyb2Njb2xpJTIwc3RpciUyMGZyeSUyMHdpdGglMjBicm93biUyMHJpY2V8ZW58MXwxfHx8MTc5NTgxOTEyM3ww",
+      "score": 6
+    },
+    {
+      "id": "u-4_PbgT0Rr2g",
+      "width": 3024,
+      "height": 4032,
+      "alt": "a white plate topped with rice and veggies",
+      "photographer": "Roberto Salas",
+      "photographer_url": "https://unsplash.com/@robertaky?utm_source=easy_protein_kitchen&utm_medium=referral",
+      "page_url": "https://unsplash.com/photos/a-white-plate-topped-with-rice-and-veggies-4_PbgT0Rr2g?utm_source=easy_protein_kitchen&utm_medium=referral",
+      "source": "Unsplash",
+      "source_url": "https://unsplash.com/?utm_source=easy_protein_kitchen&utm_medium=referral",
+      "src": "https://images.unsplash.com/photo-1674865689368-8b1be7a25210?ixid=M3wxMTQzODc5fDB8MXxzZWFyY2h8Nnx8Y2hpY2tlbiUyMGFuZCUyMGJyb2Njb2xpJTIwc3RpciUyMGZyeSUyMHdpdGglMjBicm93biUyMHJpY2V8ZW58MXwxfHx8MTc5NTgxOTEyM3ww&ixlib=rb-4.1.0",
+      "web": "https://images.unsplash.com/photo-1674865689368-8b1be7a25210?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTQzODc5fDB8MXxzZWFyY2h8Nnx8Y2hpY2tlbiUyMGFuZCUyMGJyb2Njb2xpJTIwc3RpciUyMGZyeSUyMHdpdGglMjBicm93biUyMHJpY2V8ZW58MXwxfHx8MTc5NTgxOTEyM3ww&ixlib=rb-4.1.0&q=80&w=1080",
+      "download_location": "https://api.unsplash.com/photos/4_PbgT0Rr2g/download?ixid=M3wxMTQzODc5fDB8MXxzZWFyY2h8Nnx8Y2hpY2tlbiUyMGFuZCUyMGJyb2Njb2xpJTIwc3RpciUyMGZyeSUyMHdpdGglMjBicm93biUyMHJpY2V8ZW58MXwxfHx8MTc5NTgxOTEyM3ww",
+      "score": 6
+    },
+    {
+      "id": "u-2HiD40EGVZU",
+      "width": 3894,
+      "height": 5841,
+      "alt": "a skillet filled with meat and broccoli on top of a table",
+      "photographer": "Mariah Hewines",
+      "photographer_url": "https://unsplash.com/@mariahhewines?utm_source=easy_protein_kitchen&utm_medium=referral",
+      "page_url": "https://unsplash.com/photos/a-skillet-filled-with-meat-and-broccoli-on-top-of-a-table-2HiD40EGVZU?utm_source=easy_protein_kitchen&utm_medium=referral",
+      "source": "Unsplash",
+      "source_url": "https://unsplash.com/?utm_source=easy_protein_kitchen&utm_medium=referral",
+      "src": "https://images.unsplash.com/photo-1641239735567-34a3662f0002?ixid=M3wxMTQzODc5fDB8MXxzZWFyY2h8OXx8Y2hpY2tlbiUyMGFuZCUyMGJyb2Njb2xpJTIwc3RpciUyMGZyeSUyMHdpdGglMjBicm93biUyMHJpY2V8ZW58MXwxfHx8MTc5NTgxOTEyM3ww&ixlib=rb-4.1.0",
+      "web": "https://images.unsplash.com/photo-1641239735567-34a3662f0002?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTQzODc5fDB8MXxzZWFyY2h8OXx8Y2hpY2tlbiUyMGFuZCUyMGJyb2Njb2xpJTIwc3RpciUyMGZyeSUyMHdpdGglMjBicm93biUyMHJpY2V8ZW58MXwxfHx8MTc5NTgxOTEyM3ww&ixlib=rb-4.1.0&q=80&w=1080",
+      "download_location": "https://api.unsplash.com/photos/2HiD40EGVZU/download?ixid=M3wxMTQzODc5fDB8MXxzZWFyY2h8OXx8Y2hpY2tlbiUyMGFuZCUyMGJyb2Njb2xpJTIwc3RpciUyMGZyeSUyMHdpdGglMjBicm93biUyMHJpY2V8ZW58MXwxfHx8MTc5NTgxOTEyM3ww",
+      "score": 6
+    },
+    {
+      "id": "u-CWyIct_Shds",
+      "width": 3888,
+      "height": 5184,
+      "alt": "a person is cooking broccoli and other food on a campfire Kochen auf Lagerfeuer",
+      "photographer": "Paulina Herpel",
+      "photographer_url": "https://unsplash.com/@paulinaherpel?utm_source=easy_protein_kitchen&utm_medium=referral",
+      "page_url": "https://unsplash.com/photos/a-person-is-cooking-broccoli-and-other-food-on-a-campfire-CWyIct_Shds?utm_source=easy_protein_kitchen&utm_medium=referral",
+      "source": "Unsplash",
+      "source_url": "https://unsplash.com/?utm_source=easy_protein_kitchen&utm_medium=referral",
+      "src": "https://images.unsplash.com/photo-1712171984631-0dbcec5279ba?ixid=M3wxMTQzODc5fDB8MXxzZWFyY2h8MTJ8fGNoaWNrZW4lMjBhbmQlMjBicm9jY29saSUyMHN0aXIlMjBmcnklMjB3aXRoJTIwYnJvd24lMjByaWNlfGVufDF8MXx8fDE3OTU4MTkxMjN8MA&ixlib=rb-4.1.0",
+      "web": "https://images.unsplash.com/photo-1712171984631-0dbcec5279ba?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTQzODc5fDB8MXxzZWFyY2h8MTJ8fGNoaWNrZW4lMjBhbmQlMjBicm9jY29saSUyMHN0aXIlMjBmcnklMjB3aXRoJTIwYnJvd24lMjByaWNlfGVufDF8MXx8fDE3OTU4MTkxMjN8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "download_location": "https://api.unsplash.com/photos/CWyIct_Shds/download?ixid=M3wxMTQzODc5fDB8MXxzZWFyY2h8MTJ8fGNoaWNrZW4lMjBhbmQlMjBicm9jY29saSUyMHN0aXIlMjBmcnklMjB3aXRoJTIwYnJvd24lMjByaWNlfGVufDF8MXx8fDE3OTU4MTkxMjN8MA",
+      "score": 6
+    }
+  ],
+  "verification": {
+    "checks": [
+      {
+        "verdict": "pass",
+        "issues": [],
+        "sources": [
+          {
+            "name": "Serious Eats - Easy Stir-Fried Chicken and Broccoli With Ginger and Garlic",
+            "url": "https://www.seriouseats.com/easy-stir-fried-chicken-and-broccoli-recipes"
+          },
+          {
+            "name": "RecipeTin Eats - Chicken and Broccoli Stir Fry",
+            "url": "https://www.recipetineats.com/chicken-and-broccoli-stir-fry/"
+          }
+        ],
+        "grounded": false
+      }
+    ],
+    "rule_warnings": [],
+    "model": "gemini-3.6-flash"
+  },
+  "created": "2026-11-27"
+}

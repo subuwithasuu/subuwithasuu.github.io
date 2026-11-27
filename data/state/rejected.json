@@ -2713,5 +2713,671 @@
     "board": "High Protein Snacks",
     "reason": "only 1 matching real photos",
     "date": "2026-11-27"
+  },
+  {
+    "title": "High-Protein Mediterranean Tuna and White Bean Salad",
+    "board": "Budget High Protein Meals",
+    "reason": {
+      "rules": [
+        "protein overclaimed: says 36g, ingredients give ~11g",
+        "only ~11g protein per serving (board needs 25g+)"
+      ]
+    },
+    "date": "2026-11-27"
+  },
+  {
+    "title": "Quick High-Protein Red Lentil Dahl",
+    "board": "Budget High Protein Meals",
+    "reason": {
+      "rules": [
+        "protein overclaimed: says 35g, ingredients give ~5g",
+        "only ~4g protein per serving (board needs 25g+)"
+      ]
+    },
+    "date": "2026-11-27"
+  },
+  {
+    "title": "High-Protein Turkey Egg Roll in a Bowl",
+    "board": "Budget High Protein Meals",
+    "reason": {
+      "rules": [
+        "poultry recipe must state internal temp 165°F (74°C)",
+        "protein overclaimed: says 35g, ingredients give ~21g",
+        "only ~20g protein per serving (board needs 25g+)"
+      ]
+    },
+    "date": "2026-11-27"
+  },
+  {
+    "title": "High-Protein Shakshuka with Poached Eggs and Chickpeas",
+    "board": "Budget High Protein Meals",
+    "reason": {
+      "verify": "still not passing after fixes",
+      "checks": [
+        {
+          "verdict": "fix",
+          "issues": [
+            "Salt is completely missing from the recipe. Standard ratio for 800g canned tomatoes plus chickpeas and eggs requires about 1 to 1.5 teaspoons of salt for proper flavor balance.",
+            "Black pepper is typically included in standard shakshuka recipes to balance the spices."
+          ],
+          "sources": [
+            {
+              "name": "Serious Eats - The Best Shakshuka Recipe",
+              "url": "https://www.seriouseats.com/the-best-shakshuka-recipe"
+            },
+            {
+              "name": "NYT Cooking - Shakshuka With Feta Recipe",
+              "url": "https://cooking.nytimes.com/recipes/1014721-shakshuka-with-feta"
+            }
+          ],
+          "grounded": false
+        },
+        {
+          "verdict": "fix",
+          "issues": [
+            "4 eggs for 4 servings in a dish featuring chickpeas as a high-protein booster is mismatched for a standard shakshuka where each serving normally gets at least 1-2 eggs. Increasing to 6 eggs ensures 1.5 eggs per serving or allows for 4 substantial portions with extra protein, matching standard recipes which use 6 large eggs for a 4-person skillet (like NYT Cooking and Serious Eats).",
+            "Cooking time for 800g of canned crushed tomatoes plus chickpeas needs to be slightly longer (12-15 minutes instead of 10) to adequately reduce and thicken the sauce before adding eggs."
+          ],
+          "sources": [
+            {
+              "name": "Serious Eats - The Best Shakshuka Recipe",
+              "url": "https://www.seriouseats.com/the-best-shakshuka-recipe"
+            },
+            {
+              "name": "NYT Cooking - Shakshuka With Feta",
+              "url": "https://cooking.nytimes.com/recipes/1014721-shakshuka-with-feta"
+            }
+          ],
+          "grounded": false
+        }
+      ]
+    },
+    "date": "2026-11-27"
+  },
+  {
+    "title": "Sheet Pan Garlic Herb Chicken Thighs and Sweet Potatoes",
+    "board": "Budget High Protein Meals",
+    "reason": {
+      "rules": [
+        "variant 0: claims 35 Minutes but recipe takes 40 min",
+        "variant 1: claims 35-Minute but recipe takes 40 min",
+        "variant 1: claims 35-Minute but recipe takes 40 min",
+        "variant 1: number 35 in pin text is not a fact of this recipe",
+        "variant 1: number 35 in pin text is not a fact of this recipe"
+      ]
+    },
+    "date": "2026-11-27"
+  },
+  {
+    "title": "Quick High-Protein Turkey and Bean Chili",
+    "board": "Budget High Protein Meals",
+    "reason": {
+      "verify": "still not passing after fixes",
+      "checks": [
+        {
+          "verdict": "fix",
+          "issues": [
+            "Salt is entirely missing from the recipe, which will result in a bland and poorly seasoned chili.",
+            "Ground turkey is added *after* the spices in Step 3, whereas standard technique requires browning the meat first, draining excess moisture/fat if needed, and blooming the spices in the rendered fat or with the aromatics."
+          ],
+          "sources": [
+            {
+              "name": "Serious Eats - Quick and Easy Turkey Chili",
+              "url": "https://www.seriouseats.com/quick-and-easy-turkey-chili-recipe"
+            },
+            {
+              "name": "Allrecipes - Quick Turkey Chili",
+              "url": "https://www.allrecipes.com/recipe/81035/quick-turkey-chili/"
+            }
+          ],
+          "grounded": false
+        },
+        {
+          "verdict": "fix",
+          "issues": [
+            "The recipe instructs cooking the turkey first for 6 minutes, then adding the onions. Standard technique requires cooking the onions first or alongside the meat to sweat and develop flavor properly; cooking lean turkey alone for 6 minutes first can overcook and dry it out before aromatics are even introduced.",
+            "Simmering for only 5 minutes at the end is too short to meld the flavors of the canned tomatoes, beans, and spices. Established quick chili recipes typically simmer for 15 to 20 minutes."
+          ],
+          "sources": [
+            {
+              "name": "Serious Eats - Quick and Easy Turkey Chili Recipe",
+              "url": "https://www.seriouseats.com/quick-and-easy-turkey-chili-recipe"
+            },
+            {
+              "name": "Skinnytaste - Fast and Easy Turkey Chili",
+              "url": "https://www.skinnytaste.com/quick-turkey-chili/"
+            },
+            {
+              "name": "Allrecipes - Quick Turkey Chili",
+              "url": "https://www.allrecipes.com/recipe/219163/chili-for-turkey-lovers/iss"
+            }
+          ],
+          "grounded": false
+        }
+      ]
+    },
+    "date": "2026-11-27"
+  },
+  {
+    "title": "High-Protein Fluffy Egg White and Spinach Scramble",
+    "board": "High Protein Breakfast",
+    "reason": {
+      "rules": [
+        "protein overclaimed: says 22g, ingredients give ~16g",
+        "only ~16g protein per serving (board needs 20g+)"
+      ]
+    },
+    "date": "2026-11-27"
+  },
+  {
+    "title": "High-Protein Blueberry Cinnamon Pro-Oats",
+    "board": "High Protein Breakfast",
+    "reason": {
+      "verify": "still not passing after fixes",
+      "checks": [
+        {
+          "verdict": "fix",
+          "issues": [
+            "Liquid ratio is too low for 2 cups of rolled oats. Standard ratio is 2:1 liquid to oats, meaning 2 cups of oats requires at least 4 cups of liquid, whereas the recipe only provides 2 cups of milk (cottage cheese adds moisture, but the initial cooking phase needs more liquid to hydrate 2 cups of oats properly)."
+          ],
+          "sources": [
+            {
+              "name": "Serious Eats - Creamy Stovetop Oatmeal",
+              "url": "https://www.seriouseats.com/"
+            },
+            {
+              "name": "BBC Good Food - Super-berry healthy porridge",
+              "url": "https://www.bbcgoodfood.com/recipes/super-berry-healthy-porridge"
+            }
+          ],
+          "grounded": false
+        },
+        {
+          "verdict": "fix",
+          "issues": [
+            "The liquid ratio (4 cups milk to 2 cups rolled oats) is too high for stovetop rolled oats, resulting in a thin, soupy porridge rather than a creamy consistency (standard ratio is 2:1 liquid to rolled oats).",
+            "1 tablespoon of ground cinnamon is an excessive amount (roughly 3 times the standard culinary amount for 4 servings), which will result in a bitter, tongue-numbing flavor."
+          ],
+          "sources": [
+            {
+              "name": "Serious Eats - Creamy Oatmeal",
+              "url": "https://www.seriouseats.com/"
+            },
+            {
+              "name": "BBC Good Food - Super-nutritious porridge",
+              "url": "https://www.bbcgoodfood.com/"
+            }
+          ],
+          "grounded": false
+        }
+      ]
+    },
+    "date": "2026-11-27"
+  },
+  {
+    "title": "Greek Yogurt Berry Parfait with Granola and Hemp Seeds",
+    "board": "High Protein Breakfast",
+    "reason": {
+      "rules": [
+        "protein overclaimed: says 23g, ingredients give ~14g",
+        "only ~13g protein per serving (board needs 20g+)"
+      ]
+    },
+    "date": "2026-11-27"
+  },
+  {
+    "title": "Freezer-Friendly High-Protein Turkey Sausage Breakfast Burrito",
+    "board": "High Protein Breakfast",
+    "reason": {
+      "verify": "still not passing after fixes",
+      "checks": [
+        {
+          "verdict": "fix",
+          "issues": [
+            "Lack of added salt or spices means the filling will taste very bland (turkey sausage needs seasoning or salt compared to pork sausage).",
+            "Freezer instructions omit the reheating step, which is critical for food safety and usability."
+          ],
+          "sources": [
+            {
+              "name": "Budget Bytes - Freezer Breakfast Burritos",
+              "url": "https://www.budgetbytes.com/freezer-breakfast-burritos/"
+            },
+            {
+              "name": "Allrecipes - Freezer Breakfast Burritos",
+              "url": "https://www.allrecipes.com/recipe/244803/freezer-breakfast-burritos/"
+            }
+          ],
+          "grounded": false
+        },
+        {
+          "verdict": "fix",
+          "issues": [
+            "Parchment paper cannot be safely microwaved in direct contact with the burrito when reheating from frozen, as it can burn or stick; a dry paper towel or plastic wrap suitable for freezing should be used for wrapping before bagging.",
+            "Cheese amount (1/4 cup total for 4 burritos, or 7g per burrito) is practically negligible and insufficient for flavor or binding; standard recipes use at least 1/2 to 1 cup of cheese."
+          ],
+          "sources": [
+            {
+              "name": "Serious Eats - Make-Ahead Freezer Breakfast Burritos",
+              "url": "https://www.seriouseats.com/make-ahead-freezer-breakfast-burritos-recipe"
+            },
+            {
+              "name": "Allrecipes - Freezer Breakfast Burritos",
+              "url": "https://www.allrecipes.com/recipe/242289/freezer-breakfast-burritos/"
+            }
+          ],
+          "grounded": false
+        }
+      ]
+    },
+    "date": "2026-11-27"
+  },
+  {
+    "title": "High-Protein Creamy Cottage Cheese Alfredo Pasta",
+    "board": "High Protein Vegetarian",
+    "reason": {
+      "verify": "still not passing after fixes",
+      "checks": [
+        {
+          "verdict": "fix",
+          "issues": [
+            "Cottage cheese has a high moisture and whey content, and blending 2 cups raw with only 1/2 cup parmesan and 2 tbsp butter without any cooking of the garlic or tempering can lead to a watery or grainy sauce that splits easily when heated directly in a skillet.",
+            "The step to transfer the blended sauce to a skillet over medium-low heat without additional liquid or starch stabilization can cause the cottage cheese proteins to clump and curdle."
+          ],
+          "sources": [
+            {
+              "name": "Serious Eats - Blended Cottage Cheese Alfredo",
+              "url": "https://www.seriouseats.com/"
+            },
+            {
+              "name": "NYT Cooking - Cottage Cheese Pasta Sauces",
+              "url": "https://cooking.nytimes.com/"
+            }
+          ],
+          "grounded": false
+        },
+        {
+          "verdict": "fix",
+          "issues": [
+            "Raw minced garlic blended directly into a cold/warm sauce without being sautéed will taste overwhelmingly pungent and sharp, unlike traditional Alfredo which gently cooks the garlic in butter.",
+            "Melted butter is called for in the blender, but standard practice for cottage cheese Alfredo is to cook the garlic in the butter in the skillet first, then add the butter-garlic mixture to the blender or directly to the sauce for better flavor and emulsification."
+          ],
+          "sources": [
+            {
+              "name": "Serious Eats - Cottage Cheese Alfredo",
+              "url": "https://www.seriouseats.com/"
+            },
+            {
+              "name": "NYT Cooking - Cottage Cheese Pasta Sauces",
+              "url": "https://cooking.nytimes.com/"
+            }
+          ],
+          "grounded": false
+        }
+      ]
+    },
+    "date": "2026-11-27"
+  },
+  {
+    "title": "Crispy Air Fryer Tempeh and Edamame Grain Bowl",
+    "board": "High Protein Vegetarian",
+    "reason": {
+      "verify": "still not passing after fixes",
+      "checks": [
+        {
+          "verdict": "fix",
+          "issues": [
+            "Edamame needs an oil coating and proper seasoning to crisp up alongside tempeh in the air fryer without burning or drying out completely.",
+            "Peanut butter dressing is too thick with only 2 tablespoons of water; standard ratios require about 3 to 4 tablespoons of warm water to achieve a pourable consistency."
+          ],
+          "sources": [
+            {
+              "name": "Serious Eats - Crispy Air Fryer Tempeh",
+              "url": "https://www.seriouseats.com/"
+            },
+            {
+              "name": "BBC Good Food - Edamame & Peanut Quinoa Bowls",
+              "url": "https://www.bbcgoodfood.com/"
+            }
+          ],
+          "grounded": false
+        },
+        {
+          "verdict": "fix",
+          "issues": [
+            "Edamame can pop, dry out excessively, or burn when air-fried alongside tempeh at 380°F for 12 minutes. Standard practice is to air fry the tempeh first and add the already thawed edamame toward the end, or toss them together with slightly more oil/sauce protection.",
+            "The seasoning for the tempeh and edamame lacks a bit of depth and salt/umami balance (only 1 tbsp low sodium soy sauce for 8 oz tempeh and 1.5 cups edamame). Adding a touch of garlic powder or increasing soy sauce/salt improves flavor compliance with standard test kitchen profiles."
+          ],
+          "sources": [
+            {
+              "name": "Minimalist Baker - Crispy Peanut Tofu Grain Bowls",
+              "url": "https://minimalistbaker.com/crispy-peanut-tofu-grain-bowls/"
+            },
+            {
+              "name": "Cookie and Kate - Peanut Tofu & Edamame Grain Bowl",
+              "url": "https://cookieandkate.com/"
+            }
+          ],
+          "grounded": false
+        }
+      ]
+    },
+    "date": "2026-11-27"
+  },
+  {
+    "title": "High-Protein Red Lentil and Chickpea Coconut Curry",
+    "board": "High Protein Vegetarian",
+    "reason": {
+      "verify": "still not passing after fixes",
+      "checks": [
+        {
+          "verdict": "fix",
+          "issues": [
+            "1 cup (200g) of dry red lentils cooked in only 2 cups of broth + 400ml coconut milk will absorb almost all the liquid and result in an extremely thick, pasty stew rather than a standard curry, or the lentils will remain undercooked if liquid evaporates too quickly. Standard recipes call for at least 3.5 to 4 cups of total liquid for 1 cup of dry red lentils.",
+            "A 12-minute simmer time is typically too short for 1 cup of dry red lentils to become completely tender in a thick coconut and chickpea mixture, especially when partially covered and simmering on medium-low."
+          ],
+          "sources": [
+            {
+              "name": "Serious Eats - Coconut Red Lentil Soup with Spinach",
+              "url": "https://www.seriouseats.com/coconut-red-lentil-soup-with-spinach-recipe"
+            },
+            {
+              "name": "BBC Good Food - Easy vegan lentil & chickpea curry",
+              "url": "https://www.bbcgoodfood.com/recipes/easy-vegan-lentil-chickpea-curry"
+            }
+          ],
+          "grounded": false
+        },
+        {
+          "verdict": "fix",
+          "issues": [
+            "The liquid-to-lentil ratio is slightly too low for 20 minutes of simmering with red lentils and chickpeas, which absorb a massive amount of liquid. Standard test kitchen recipes for 1 cup of dry red lentils plus a can of chickpeas use closer to 4 cups of total liquid (broth plus coconut milk) to prevent the curry from turning into a dry paste or scorching at the bottom.",
+            "Missing salt entirely. Standard test kitchen recipes require about 1 to 1.5 teaspoons of salt to properly season 4 servings of lentil and chickpea curry containing this volume of broth and coconut milk."
+          ],
+          "sources": [
+            {
+              "name": "Serious Eats - Creamy Coconut Red Lentil Curry with Spinach",
+              "url": "https://www.seriouseats.com/creamy-vegan-red-lentil-spinach-coconut-curry"
+            },
+            {
+              "name": "BBC Good Food - Easy lentil & chickpea curry",
+              "url": "https://www.bbcgoodfood.com/recipes/easy-lentil-chickpea-curry"
+            },
+            {
+              "name": "RecipeTin Eats - Dal (Indian Lentil Curry)",
+              "url": "https://www.recipetineats.com/dal-lentil-curry/"
+            }
+          ],
+          "grounded": false
+        }
+      ]
+    },
+    "date": "2026-11-27"
+  },
+  {
+    "title": "Air Fryer Buffalo Chicken Breast Tenders with Ranch Greek Yogurt Dip",
+    "board": "High Protein Chicken Recipes",
+    "reason": {
+      "verify": "still not passing after fixes",
+      "checks": [
+        {
+          "verdict": "fix",
+          "issues": [
+            "The original recipe instructs to brush the chicken with olive oil and then immediately dredge in dry panko/cornstarch without an egg or binder wash; the dry coating will fall off in the air fryer.",
+            "1/3 cup of panko and 2 tbsp of cornstarch is severely insufficient in volume to coat 1.5 lbs (680g) of chicken tenders; it needs to be increased proportionally.",
+            "Cooking 1.5 lbs of chicken tenders at 400°F for 12-15 minutes in a standard air fryer basket will cause severe overcrowding, preventing proper crisping and likely requiring multiple batches."
+          ],
+          "sources": [
+            {
+              "name": "Serious Eats - Air Fryer Buffalo Chicken Wings",
+              "url": "https://www.seriouseats.com/"
+            },
+            {
+              "name": "RecipeTin Eats - Air Fryer Chicken Tenders",
+              "url": "https://recipetineats.com/"
+            },
+            {
+              "name": "Skinnytaste - Air Fryer Buffalo Chicken Tenders",
+              "url": "https://www.skinnytaste.com/"
+            }
+          ],
+          "grounded": false
+        },
+        {
+          "verdict": "fix",
+          "issues": [
+            "Cook time of 10-12 minutes per batch at 400°F (200°C) for bite-sized tenders is too long and will dry out 1.5 lbs of chicken cut into tenders. Standard air frying time for tenders at 400°F is 8-10 minutes.",
+            "Total cook minutes should be adjusted to reflect 2 batches of about 9 minutes each, totaling around 18 minutes of active cooking time plus preheating."
+          ],
+          "sources": [
+            {
+              "name": "Serious Eats - Air Fryer Buffalo Wings and Tenders Standards",
+              "url": "https://www.seriouseats.com"
+            },
+            {
+              "name": "Allrecipes - Air Fryer Buffalo Chicken Tenders",
+              "url": "https://www.allrecipes.com"
+            },
+            {
+              "name": "RecipeTin Eats - Crispy Air Fryer Chicken Tenders",
+              "url": "https://www.recipetineats.com"
+            }
+          ],
+          "grounded": false
+        }
+      ]
+    },
+    "date": "2026-11-27"
+  },
+  {
+    "title": "Sheet Pan Garlic Herb Chicken Thighs and Brussels Sprouts",
+    "board": "High Protein Chicken Recipes",
+    "reason": {
+      "verify": "still not passing after fixes",
+      "checks": [
+        {
+          "verdict": "fix",
+          "issues": [
+            "Baking time of 15 minutes is insufficient to cook bite-sized raw chicken thighs and roast Brussels sprouts to tenderness at 425°F; standard time is 25-30 minutes.",
+            "Total minutes must be updated to reflect the realistic cooking time (prep 10 + cook 25 = 35 total minutes)."
+          ],
+          "sources": [
+            {
+              "name": "Serious Eats - Sheet-Pan Chicken Thighs With Brussels Sprouts and Mustard-Caper Sauce",
+              "url": "https://www.seriouseats.com/"
+            },
+            {
+              "name": "Damn Delicious - Sheet Pan Garlic Herb Chicken and Brussels Sprouts",
+              "url": "https://damndelicious.net/"
+            }
+          ],
+          "grounded": false
+        },
+        {
+          "verdict": "fix",
+          "issues": [
+            "Insufficient fat: 2 tablespoons of olive oil is not enough to coat 1.5 lbs of chicken and 1 lb of Brussels sprouts for high-heat roasting, which will lead to dry meat and burnt/dry sprouts. Standard is 3 to 4 tablespoons.",
+            "Insufficient salt: 3/4 teaspoon of salt for 2.5 pounds of total food is under-salted (roughly 0.3% salinity instead of the ideal 0.8% to 1%). Standard is 1.25 to 1.5 teaspoons.",
+            "Baking on parchment paper at 425°F prevents proper browning and caramelization of Brussels sprouts compared to a direct-contact oiled sheet pan."
+          ],
+          "sources": [
+            {
+              "name": "Allrecipes - One-Pan Garlic Herb Chicken and Brussels Sprouts",
+              "url": "https://www.allrecipes.com/"
+            },
+            {
+              "name": "Delish - Sheet Pan Garlic Herb Chicken & Brussels Sprouts",
+              "url": "https://www.delish.com/"
+            }
+          ],
+          "grounded": false
+        }
+      ]
+    },
+    "date": "2026-11-27"
+  },
+  {
+    "title": "High-Protein Turkey Sausage and Egg Breakfast Muffins",
+    "board": "High Protein Meal Prep",
+    "reason": {
+      "verify": "still not passing after fixes",
+      "checks": [
+        {
+          "verdict": "fix",
+          "issues": [
+            "Yield discrepancy: The recipe yields 4 servings (presumably 2 muffins per serving based on 8 oz sausage and 8 eggs divided into 8 cups), but Step 1 instructs to coat a 12-cup muffin tin, which leads to empty greased cups or incorrect portioning.",
+            "Ingredient distribution: Steps 4 and 5 mention filling 8 cups, but standard baking for this ratio should utilize 8 specific cups of a 12-cup tin (leaving 4 empty with a little water to prevent warping) or adjust to make a full 12 muffins for 6 servings."
+          ],
+          "sources": [
+            {
+              "name": "Allrecipes - Baked Egg and Sausage Muffins",
+              "url": "https://www.allrecipes.com"
+            },
+            {
+              "name": "Kitchn - Healthy Sausage and Egg Breakfast Muffins",
+              "url": "https://www.thekitchn.com"
+            },
+            {
+              "name": "Well Plated by Erin - Healthy Breakfast Egg Muffins",
+              "url": "https://www.wellplated.com"
+            }
+          ],
+          "grounded": false
+        },
+        {
+          "verdict": "fix",
+          "issues": [
+            "Salt is too low for 8 eggs and 8 oz of meat (standard ratio is about 1/2 tsp salt for this volume of eggs and meat to avoid tasting bland).",
+            "Baking temperature of 375°F for 15-18 minutes can easily overcook or dry out egg muffins containing cottage cheese; standard temperature is 350°F (175°C)."
+          ],
+          "sources": [
+            {
+              "name": "Well Plated by Erin - Cottage Cheese Egg Muffins",
+              "url": "https://www.wellplated.com/cottage-cheese-egg-muffins/"
+            },
+            {
+              "name": "Ambitious Kitchen - Healthy Turkey Sausage Egg Muffins",
+              "url": "https://www.ambitiouskitchen.com/healthy-turkey-sausage-egg-muffins/"
+            }
+          ],
+          "grounded": false
+        }
+      ]
+    },
+    "date": "2026-11-27"
+  },
+  {
+    "title": "High-Protein Honey Garlic Chicken Breast Meal Prep Bowls",
+    "board": "High Protein Meal Prep",
+    "reason": "only 0 matching real photos",
+    "date": "2026-11-27"
+  },
+  {
+    "title": "High-Protein Lean Ground Turkey and Sweet Potato Meal Prep Skillet",
+    "board": "High Protein Meal Prep",
+    "reason": {
+      "rules": [
+        "protein overclaimed: says 35g, ingredients give ~21g",
+        "only ~20g protein per serving (board needs 25g+)",
+        "variant 0: claims 25 Minutes but recipe takes 30 min",
+        "variant 1: claims 25-Minute but recipe takes 30 min",
+        "variant 1: claims 25-Minute but recipe takes 30 min",
+        "variant 1: number 25 in pin text is not a fact of this recipe",
+        "variant 1: number 25 in pin text is not a fact of this recipe"
+      ]
+    },
+    "date": "2026-11-27"
+  },
+  {
+    "title": "High-Protein Cinnamon Roll Cottage Cheese Bowl",
+    "board": "High Protein Snacks",
+    "reason": {
+      "rules": [
+        "protein overclaimed: says 35g, ingredients give ~12g"
+      ]
+    },
+    "date": "2026-11-27"
+  },
+  {
+    "title": "High-Protein Honey Roasted Peanut Butter Protein Balls",
+    "board": "High Protein Snacks",
+    "reason": "only 0 matching real photos",
+    "date": "2026-11-27"
+  },
+  {
+    "title": "High-Protein Berry Cheesecake Greek Yogurt Bowl",
+    "board": "High Protein Snacks",
+    "reason": {
+      "rules": [
+        "protein overclaimed: says 24g, ingredients give ~11g"
+      ]
+    },
+    "date": "2026-11-27"
+  },
+  {
+    "title": "High-Protein Creamy Garlic Cottage Cheese Pasta",
+    "board": "High Protein Dinners",
+    "reason": {
+      "rules": [
+        "protein overclaimed: says 35g, ingredients give ~26g"
+      ]
+    },
+    "date": "2026-11-27"
+  },
+  {
+    "title": "Sheet Pan Lemon Herb Steak and Broccoli",
+    "board": "High Protein Dinners",
+    "reason": {
+      "verify": "still not passing after fixes",
+      "checks": [
+        {
+          "verdict": "fix",
+          "issues": [
+            "Flank steak is a lean, thin cut that cooks extremely fast at 425°F on a preheated sheet pan; 12-15 minutes will overcook it well past well-done.",
+            "Putting all the marinade/glaze ingredients (including fresh lemon juice and minced garlic) on before roasting will cause the lemon juice to sour the meat and the garlic to burn and turn bitter at high heat."
+          ],
+          "sources": [
+            {
+              "name": "Serious Eats - Sheet-Pan Flank Steak and Broccoli",
+              "url": "https://www.seriouseats.com"
+            },
+            {
+              "name": "Allrecipes - Sheet Pan Garlic Lemon Steak and Broccoli",
+              "url": "https://www.allrecipes.com"
+            },
+            {
+              "name": "Delish - Sheet Pan Steak And Broccoli",
+              "url": "https://www.delish.com"
+            }
+          ],
+          "grounded": false
+        },
+        {
+          "verdict": "fix",
+          "issues": [
+            "Flank steak is a lean, thin cut that requires very high heat (broiling) or longer roasting when cut thick, but at 425°F for 8 minutes on a preheated pan, a whole 1.5 lb flank steak will likely be raw in the middle unless sliced before cooking or broiled. Alternatively, broiling for 8-10 minutes is standard for sheet pan steak.",
+            "The recipe calls for 3 tbsp of olive oil divided, but the steps only use 1 tbsp for the steak and do not account for the rest properly in the marinade/oil split, leading to dry broccoli.",
+            "Pouring citrus juice over a hot pan right as it comes out can cause harsh steaming and splatter; adding acid after resting or mixing it properly with oil is safer."
+          ],
+          "sources": [
+            {
+              "name": "Serious Eats - Sheet-Pan Steak and Broccoli",
+              "url": "https://www.seriouseats.com/"
+            },
+            {
+              "name": "Damn Delicious - Sheet Pan Garlic Butter Steak and Broccoli",
+              "url": "https://damndelicious.net/"
+            }
+          ],
+          "grounded": false
+        }
+      ]
+    },
+    "date": "2026-11-27"
+  },
+  {
+    "title": "High-Protein Sweet Chili Glazed Salmon and Edamame Bowl",
+    "board": "High Protein Dinners",
+    "reason": "only 0 matching real photos",
+    "date": "2026-11-27"
   }
 ]
