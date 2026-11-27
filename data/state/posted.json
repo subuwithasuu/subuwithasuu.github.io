@@ -504,5 +504,27 @@
     "category": "Dinner",
     "protein_g": 35,
     "total_minutes": 25
+  },
+  {
+    "pin_id": "2026-11-27-05",
+    "via": "rss",
+    "slot": "2026-11-27#05",
+    "slug": "crispy-ground-turkey-taco-bowl-with-black-beans",
+    "kind": "image",
+    "variant": 1,
+    "board": "Budget High Protein Meals",
+    "title": "25-Minute Turkey Taco Bowl with Black Beans",
+    "description": "Whip up a 25-minute turkey taco bowl featuring 35g protein and savory black beans. A fast and flavorful dinner option that fits your macro goals effortlessly. Save it for your next meal prep.",
+    "alt_text": "Top-down view of a colorful taco bowl with ground turkey, black beans, and salsa.",
+    "link": "https://easyproteinkitchen.online/recipes/crispy-ground-turkey-taco-bowl-with-black-beans/?pin=2026-11-27-05",
+    "image": "pins/2026-11-27-05.jpg",
+    "posted_at": "2026-11-27T19:01:30.529133+00:00",
+    "hook_type": "speed",
+    "overlay": "Ready in 25 Minutes",
+    "layout": "single",
+    "palette": 0,
+    "category": "Dinner",
+    "protein_g": 35,
+    "total_minutes": 25
   }
 ]

@@ -292,7 +292,7 @@
     {
       "slot": "2026-11-27#05",
       "due": "2026-11-27T18:17:19+00:00",
-      "status": "planned",
+      "status": "posted",
       "item": {
         "slug": "crispy-ground-turkey-taco-bowl-with-black-beans",
         "board": "Budget High Protein Meals",
@@ -302,7 +302,10 @@
         "layout": "single",
         "palette": 0
       },
-      "attempts": 0
+      "attempts": 0,
+      "pin_id": "2026-11-27-05",
+      "posted_at": "2026-11-27T19:01:30.529133+00:00",
+      "via": "rss"
     },
     {
       "slot": "2026-11-27#06",
