@@ -16,11 +16,36 @@ from datetime import datetime, timedelta
 from common import STATE_DIR, log, now_utc, read_json, write_json
 
 TRENDS_FILE = STATE_DIR / "trends.json"
+NEWS_QUERIES = ["high protein recipe trend", "high protein food trend", "viral recipe tiktok",
+                "pinterest food trends", "protein snack trend", "cottage cheese recipe viral"]
 MAX_AGE = timedelta(days=7)
 
 
 def current() -> list[dict]:
     return read_json(TRENDS_FILE, {}).get("trends", [])
+
+
+def headlines(days: int = 30) -> list[str]:
+    """Recent food-trend headlines from Google News search RSS (free, works from GitHub)."""
+    import re as _re
+    import requests
+    from urllib.parse import quote
+    out: list[str] = []
+    for q in NEWS_QUERIES:
+        url = (f"https://news.google.com/rss/search?q={quote(q)}+when:{days}d"
+               "&hl=en-US&gl=US&ceid=US:en")
+        try:
+            r = requests.get(url, headers={"User-Agent": "Mozilla/5.0"}, timeout=20)
+            titles = _re.findall(r"<item>.*?<title>(.*?)</title>", r.text, _re.S)[:15]
+            out += [_re.sub(r"<!\[CDATA\[|\]\]>", "", t).strip() for t in titles]
+        except Exception as e:
+            log(f"trends: news fetch failed for '{q}': {e}")
+    seen, uniq = set(), []
+    for t in out:
+        if t.lower() not in seen:
+            seen.add(t.lower())
+            uniq.append(t)
+    return uniq[:80]
 
 
 def refresh(gem, cfg: dict, force: bool = False) -> list[dict]:
@@ -43,15 +68,31 @@ Reply with ONLY a JSON array inside a ```json code block, 5-8 items:
    "dish_ideas": ["2-3 concrete, real, cookable dishes riding this trend"],
    "boards": ["which of these boards it fits: {', '.join(boards)}"],
    "source": "one URL"}}]"""
+    def clean(res):
+        return [t for t in (res or []) if isinstance(t, dict) and t.get("trend") and t.get("dish_ideas")][:8]
+
+    trends, source = [], "web search"
     try:
-        res = gem.generate_json(prompt, grounded=True, json_mode=False, temperature=0.3)
-        trends = [t for t in res if isinstance(t, dict) and t.get("trend") and t.get("dish_ideas")][:8]
-        if not trends:
-            raise ValueError("empty trend list")
-    except Exception as e:                       # grounding quota, bad JSON: keep last week's
-        log(f"trend scan failed ({e}); keeping previous trends")
+        trends = clean(gem.generate_json(prompt, grounded=True, json_mode=False, temperature=0.3))
+    except Exception as e:
+        log(f"trend scan: web search unavailable ({str(e)[:120]}); using news headlines")
+    if not trends:
+        # Free-tier search grounding is often used up: read this month's real headlines
+        # instead and let Gemini pick out only the trends those headlines show.
+        news = headlines()
+        if news:
+            source = "news headlines"
+            news_prompt = prompt.replace(
+                "Search the web for", "Using ONLY these real headlines from the last 30 days, identify") + \
+                "\n\nHEADLINES:\n" + "\n".join(f"- {h}" for h in news) + \
+                "\nOnly report trends these headlines actually support; put the matching headline in \"source\"."
+            try:
+                trends = clean(gem.generate_json(news_prompt, temperature=0.3))
+            except Exception as e:
+                log(f"trend scan failed ({str(e)[:120]}); keeping previous trends")
+    if not trends:
         return old.get("trends", [])
-    write_json(TRENDS_FILE, {"updated": now_utc().isoformat(), "trends": trends})
+    write_json(TRENDS_FILE, {"updated": now_utc().isoformat(), "source": source, "trends": trends})
     log("trends: " + "; ".join(t["trend"] for t in trends))
     return trends
 

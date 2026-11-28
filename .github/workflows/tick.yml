@@ -38,5 +38,6 @@ jobs:
           a=$(age content.yml); [ "$a" -ge 660 ]   && start content.yml "$a"
           a=$(age health.yml);  [ "$a" -ge 360 ]   && start health.yml "$a"
           a=$(age video.yml);   [ "$dow" = 7 ] && [ "$a" -ge 8640 ] && start video.yml "$a"
+          a=$(age trends.yml);  [ "$dow" = 1 ] && [ "$(date -u +%H)" -ge 9 ] && [ "$a" -ge 8640 ] && start trends.yml "$a"
           a=$(age report.yml);  [ "$dow" = 1 ] && [ "$a" -ge 8640 ] && start report.yml "$a"
           echo done
