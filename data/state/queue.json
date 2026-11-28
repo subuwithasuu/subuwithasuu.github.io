@@ -382,7 +382,7 @@
     {
       "slot": "2026-11-27#10",
       "due": "2026-11-28T01:19:29+00:00",
-      "status": "planned",
+      "status": "posted",
       "item": {
         "slug": "high-protein-chocolate-peanut-butter-mousse",
         "board": "High Protein Snacks",
@@ -392,12 +392,15 @@
         "layout": "band",
         "palette": 1
       },
-      "attempts": 0
+      "attempts": 0,
+      "pin_id": "2026-11-27-10",
+      "posted_at": "2026-11-28T02:01:25.296008+00:00",
+      "via": "rss"
     },
     {
       "slot": "2026-11-27#11",
       "due": "2026-11-28T01:54:17+00:00",
-      "status": "planned",
+      "status": "posted",
       "item": {
         "slug": "air-fryer-crispy-chicken-breast-nuggets",
         "board": "High Protein Chicken Recipes",
@@ -407,7 +410,10 @@
         "layout": "split",
         "palette": 0
       },
-      "attempts": 0
+      "attempts": 0,
+      "pin_id": "2026-11-27-11",
+      "posted_at": "2026-11-28T02:01:26.022226+00:00",
+      "via": "rss"
     },
     {
       "slot": "2026-11-28#00",
