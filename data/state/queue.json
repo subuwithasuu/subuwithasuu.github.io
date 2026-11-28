@@ -364,7 +364,7 @@
     {
       "slot": "2026-11-27#09",
       "due": "2026-11-28T00:22:48+00:00",
-      "status": "planned",
+      "status": "posted",
       "item": {
         "slug": "savory-cottage-cheese-and-avocado-toast",
         "board": "High Protein Breakfast",
@@ -374,7 +374,10 @@
         "layout": "single",
         "palette": 4
       },
-      "attempts": 0
+      "attempts": 0,
+      "pin_id": "2026-11-27-09",
+      "posted_at": "2026-11-28T01:01:30.808495+00:00",
+      "via": "rss"
     },
     {
       "slot": "2026-11-27#10",

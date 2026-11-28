@@ -592,5 +592,27 @@
     "category": "Meal Prep",
     "protein_g": 35,
     "total_minutes": 25
+  },
+  {
+    "pin_id": "2026-11-27-09",
+    "via": "rss",
+    "slot": "2026-11-27#09",
+    "slug": "savory-cottage-cheese-and-avocado-toast",
+    "kind": "image",
+    "variant": 1,
+    "board": "High Protein Breakfast",
+    "title": "10-Minute Savory Cottage Cheese and Avocado Toast",
+    "description": "Enjoy a 10-minute Savory Cottage Cheese and Avocado Toast that delivers 22g of protein. This balanced meal is quick to assemble and keeps you full throughout the morning. Save it for your next meal prep.",
+    "alt_text": "Close up of creamy cottage cheese and sliced avocado on toasted bread.",
+    "link": "https://easyproteinkitchen.online/recipes/savory-cottage-cheese-and-avocado-toast/?pin=2026-11-27-09",
+    "image": "pins/2026-11-27-09.jpg",
+    "posted_at": "2026-11-28T01:01:30.808495+00:00",
+    "hook_type": "speed",
+    "overlay": "10-Minute High Protein Toast",
+    "layout": "single",
+    "palette": 4,
+    "category": "Breakfast",
+    "protein_g": 22,
+    "total_minutes": 10
   }
 ]
