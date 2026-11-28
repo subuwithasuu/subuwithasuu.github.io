@@ -1,0 +1,319 @@
+{
+  "title": "High-Protein Shakshuka with Eggs and White Beans",
+  "description": "This high-protein shakshuka combines poached eggs, tender white beans, and tangy feta in a rich spiced tomato sauce. Packed with 30g of protein per serving, it comes together in just 30 minutes for an easy macro-friendly meal.",
+  "cuisine": "Middle Eastern",
+  "category": "Breakfast",
+  "servings": 4,
+  "protein_g_per_serving": 32,
+  "prep_minutes": 10,
+  "cook_minutes": 20,
+  "total_minutes": 30,
+  "ingredients": [
+    {
+      "qty": "1",
+      "unit": "tbsp",
+      "item": "olive oil",
+      "metric": "15 ml"
+    },
+    {
+      "qty": "1",
+      "unit": "medium",
+      "item": "yellow onion",
+      "metric": "150 g",
+      "note": "finely diced"
+    },
+    {
+      "qty": "1",
+      "unit": "medium",
+      "item": "red bell pepper",
+      "metric": "150 g",
+      "note": "diced"
+    },
+    {
+      "qty": "3",
+      "unit": "cloves",
+      "item": "garlic",
+      "metric": "15 g",
+      "note": "minced"
+    },
+    {
+      "qty": "1",
+      "unit": "tsp",
+      "item": "ground cumin",
+      "metric": "3 g"
+    },
+    {
+      "qty": "1",
+      "unit": "tsp",
+      "item": "smoked paprika",
+      "metric": "3 g"
+    },
+    {
+      "qty": "1/2",
+      "unit": "tsp",
+      "item": "red pepper flakes",
+      "metric": "1 g"
+    },
+    {
+      "qty": "1/2",
+      "unit": "tsp",
+      "item": "salt",
+      "metric": "3 g"
+    },
+    {
+      "qty": "1/4",
+      "unit": "tsp",
+      "item": "black pepper",
+      "metric": "1 g"
+    },
+    {
+      "qty": "1",
+      "unit": "can (28 oz)",
+      "item": "crushed tomatoes",
+      "metric": "800 g"
+    },
+    {
+      "qty": "2",
+      "unit": "cans (15 oz each)",
+      "item": "cannellini white beans",
+      "metric": "500 g",
+      "note": "drained and rinsed"
+    },
+    {
+      "qty": "8",
+      "unit": "large",
+      "item": "eggs",
+      "metric": "400 g"
+    },
+    {
+      "qty": "1",
+      "unit": "cup",
+      "item": "crumbled feta cheese",
+      "metric": "150 g"
+    },
+    {
+      "qty": "3/4",
+      "unit": "cup",
+      "item": "2% plain Greek yogurt",
+      "metric": "170 g"
+    },
+    {
+      "qty": "2",
+      "unit": "tbsp",
+      "item": "fresh parsley",
+      "metric": "10 g",
+      "note": "chopped"
+    }
+  ],
+  "steps": [
+    "Heat olive oil in a 12-inch skillet over medium heat for 1 minute until shimmering. Add the yellow onion and red bell pepper; cook for 5 to 6 minutes, stirring occasionally, until vegetables soft and onions become translucent.",
+    "Stir in the minced garlic, ground cumin, smoked paprika, red pepper flakes, salt, and black pepper. Cook for 1 minute over medium heat, stirring constantly, until highly fragrant.",
+    "Pour in crushed tomatoes and rinsed white cannellini beans. Bring sauce to a simmer over medium-high heat, then reduce heat to medium-low and simmer uncovered for 8 to 10 minutes, stirring occasionally, until sauce thickens slightly.",
+    "Use a large spoon to make 8 small wells in the tomato-bean mixture. Carefully crack 1 egg into each well. Scatter crumbled feta cheese evenly across the top of sauce between the eggs.",
+    "Cover skillet tightly with a lid and cook on medium-low heat for 5 to 7 minutes, until egg whites are fully set and opaque while yolks remain runny.",
+    "Remove skillet from heat. Dollop plain Greek yogurt over the top, sprinkle with chopped fresh parsley, and serve immediately."
+  ],
+  "tips": [
+    "To meal prep, prepare the tomato and white bean base ahead of time; store in the fridge for up to 4 days and reheat before poaching fresh eggs.",
+    "Swap cannellini beans for chickpeas or dark red kidney beans if desired for a slightly different texture.",
+    "Keep the skillet covered during the final cooking step so steam sets the egg whites evenly without overcooking the yolks."
+  ],
+  "storage": "Store leftover tomato-bean sauce in an airtight container in the fridge for up to 4 days. Poach eggs fresh when serving.",
+  "tools": [
+    "12-inch skillet with lid",
+    "wooden spoon",
+    "measuring spoons",
+    "can opener"
+  ],
+  "keywords": [
+    "high protein shakshuka",
+    "white bean shakshuka",
+    "high protein breakfast ideas",
+    "egg and white bean skillet",
+    "macro friendly breakfast",
+    "budget high protein meals",
+    "healthy meal prep breakfast",
+    "30 minute high protein dinner"
+  ],
+  "pin_variants": [
+    {
+      "hook_type": "number",
+      "title": "30g Protein High-Protein Shakshuka with White Beans",
+      "description": "Boost your morning protein with this easy high-protein white bean shakshuka. Made with poached eggs, rich tomato sauce, and Greek yogurt for 30g protein. Save it for your next meal prep.",
+      "overlay": "30g Protein White Bean Shakshuka",
+      "subline": "High Protein Breakfast Skillet",
+      "alt_text": "Cast iron skillet filled with red tomato white bean shakshuka topped with eggs, feta, and green parsley."
+    },
+    {
+      "hook_type": "speed",
+      "title": "30-Minute High-Protein Shakshuka Breakfast Skillet",
+      "description": "Whip up this savory high-protein white bean shakshuka in just 30 minutes. Loaded with eggs, beans, and feta for a fast, macro-friendly meal. Save it for your next easy dinner.",
+      "overlay": "30-Minute High Protein Shakshuka",
+      "subline": "Ready in 30 Minutes",
+      "alt_text": "Overhead view of a 30-minute white bean shakshuka garnished with fresh herbs and crumbled feta cheese."
+    },
+    {
+      "hook_type": "contrarian",
+      "title": "Skip the Shake: 30g Protein White Bean Shakshuka",
+      "description": "Swap your morning protein powder for savory poached eggs and white beans in a spiced tomato sauce. Packs 32g of real food protein per serving. Save it for your weekend brunch prep.",
+      "overlay": "Skip the Shake: 30g Protein Shakshuka",
+      "subline": "Real Food High Protein",
+      "alt_text": "Close-up of baked eggs poached in tomato sauce and white beans topped with a dollop of Greek yogurt."
+    },
+    {
+      "hook_type": "budget",
+      "title": "Budget High-Protein White Bean Shakshuka Skillet",
+      "description": "Stretch your budget with canned white beans and eggs in this delicious high-protein shakshuka. Delivers 30g of protein per portion using simple pantry staples. Save it to your budget meal board.",
+      "overlay": "Budget High-Protein Bean Shakshuka",
+      "subline": "Pantry Friendly Meal",
+      "alt_text": "Shakshuka with eggs, cannellini beans, tomato sauce, and feta cheese cooked in a black skillet."
+    }
+  ],
+  "video_script": {
+    "hook": "Make this high-protein white bean shakshuka with 30 grams of protein per serving.",
+    "steps_short": [
+      "Sauté diced onions and red bell pepper until soft.",
+      "Add garlic, warm spices, crushed tomatoes, and white beans.",
+      "Simmer tomato sauce until thickened and deeply flavorful.",
+      "Make eight wells, crack in eggs, and top with feta.",
+      "Cover and simmer until egg whites are fully set.",
+      "Finish with plain Greek yogurt and fresh chopped parsley."
+    ],
+    "outro": "Find the complete high-protein recipe details on our website!"
+  },
+  "photo_queries": [
+    "shakshuka with white beans and feta in cast iron skillet",
+    "baked eggs in tomato sauce with beans and Greek yogurt",
+    "high protein egg skillet breakfast with parsley"
+  ],
+  "must_match": [
+    "shakshuka",
+    "eggs",
+    "beans",
+    "skillet"
+  ],
+  "board": "Budget High Protein Meals",
+  "slug": "high-protein-shakshuka-with-eggs-and-white-beans",
+  "protein_g": 30,
+  "photos": [
+    {
+      "id": "u-rzPVSqQjjqs",
+      "width": 3024,
+      "height": 4032,
+      "alt": "cooked meat with eggs in skillet Cooking Shakshuka with red peppers and tomatoes from Jerusalem: A Cookbook for a cookbook review on the blog.  Delicious brunch, made even better with homemade harissa and labneh.",
+      "photographer": "Jenn Kosar",
+      "photographer_url": "https://unsplash.com/@foodwithaview?utm_source=easy_protein_kitchen&utm_medium=referral",
+      "page_url": "https://unsplash.com/photos/cooked-meat-with-eggs-in-skillet-rzPVSqQjjqs?utm_source=easy_protein_kitchen&utm_medium=referral",
+      "source": "Unsplash",
+      "source_url": "https://unsplash.com/?utm_source=easy_protein_kitchen&utm_medium=referral",
+      "src": "https://images.unsplash.com/photo-1520218576172-c1a2df3fa5fc?ixid=M3wxMTQzODc5fDB8MXxzZWFyY2h8N3x8YmFrZWQlMjBlZ2dzJTIwaW4lMjB0b21hdG8lMjBzYXVjZSUyMHdpdGglMjBiZWFucyUyMGFuZCUyMEdyZWVrJTIweW9ndXJ0fGVufDF8MXx8fDE3OTU4NjA0ODN8MA&ixlib=rb-4.1.0",
+      "web": "https://images.unsplash.com/photo-1520218576172-c1a2df3fa5fc?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTQzODc5fDB8MXxzZWFyY2h8N3x8YmFrZWQlMjBlZ2dzJTIwaW4lMjB0b21hdG8lMjBzYXVjZSUyMHdpdGglMjBiZWFucyUyMGFuZCUyMEdyZWVrJTIweW9ndXJ0fGVufDF8MXx8fDE3OTU4NjA0ODN8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "download_location": "https://api.unsplash.com/photos/rzPVSqQjjqs/download?ixid=M3wxMTQzODc5fDB8MXxzZWFyY2h8N3x8YmFrZWQlMjBlZ2dzJTIwaW4lMjB0b21hdG8lMjBzYXVjZSUyMHdpdGglMjBiZWFucyUyMGFuZCUyMEdyZWVrJTIweW9ndXJ0fGVufDF8MXx8fDE3OTU4NjA0ODN8MA",
+      "score": 12
+    },
+    {
+      "id": "u-fHrdQ0X8ee8",
+      "width": 1984,
+      "height": 2976,
+      "alt": "beans and fried egg on plate Breakfast for Champions_1",
+      "photographer": "Eiliv Aceron",
+      "photographer_url": "https://unsplash.com/@shootdelicious?utm_source=easy_protein_kitchen&utm_medium=referral",
+      "page_url": "https://unsplash.com/photos/beans-and-fried-egg-on-plate-fHrdQ0X8ee8?utm_source=easy_protein_kitchen&utm_medium=referral",
+      "source": "Unsplash",
+      "source_url": "https://unsplash.com/?utm_source=easy_protein_kitchen&utm_medium=referral",
+      "src": "https://images.unsplash.com/photo-1543550494-debcbdb812ac?ixid=M3wxMTQzODc5fDB8MXxzZWFyY2h8MjZ8fGJha2VkJTIwZWdncyUyMGluJTIwdG9tYXRvJTIwc2F1Y2UlMjB3aXRoJTIwYmVhbnMlMjBhbmQlMjBHcmVlayUyMHlvZ3VydHxlbnwxfDF8fHwxNzk1ODYwNDgzfDA&ixlib=rb-4.1.0",
+      "web": "https://images.unsplash.com/photo-1543550494-debcbdb812ac?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTQzODc5fDB8MXxzZWFyY2h8MjZ8fGJha2VkJTIwZWdncyUyMGluJTIwdG9tYXRvJTIwc2F1Y2UlMjB3aXRoJTIwYmVhbnMlMjBhbmQlMjBHcmVlayUyMHlvZ3VydHxlbnwxfDF8fHwxNzk1ODYwNDgzfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "download_location": "https://api.unsplash.com/photos/fHrdQ0X8ee8/download?ixid=M3wxMTQzODc5fDB8MXxzZWFyY2h8MjZ8fGJha2VkJTIwZWdncyUyMGluJTIwdG9tYXRvJTIwc2F1Y2UlMjB3aXRoJTIwYmVhbnMlMjBhbmQlMjBHcmVlayUyMHlvZ3VydHxlbnwxfDF8fHwxNzk1ODYwNDgzfDA",
+      "score": 11
+    },
+    {
+      "id": "u-QiKxaHpD0-w",
+      "width": 3775,
+      "height": 5663,
+      "alt": "Fried eggs with chorizo and green peppers in a skillet",
+      "photographer": "tommao wang",
+      "photographer_url": "https://unsplash.com/@tommaomaoer?utm_source=easy_protein_kitchen&utm_medium=referral",
+      "page_url": "https://unsplash.com/photos/fried-eggs-with-chorizo-and-green-peppers-in-a-skillet-QiKxaHpD0-w?utm_source=easy_protein_kitchen&utm_medium=referral",
+      "source": "Unsplash",
+      "source_url": "https://unsplash.com/?utm_source=easy_protein_kitchen&utm_medium=referral",
+      "src": "https://images.unsplash.com/photo-1783685736962-336abefabfae?ixid=M3wxMTQzODc5fDB8MXxzZWFyY2h8MTR8fGhpZ2glMjBwcm90ZWluJTIwZWdnJTIwc2tpbGxldCUyMGJyZWFrZmFzdCUyMHdpdGglMjBwYXJzbGV5fGVufDF8MXx8fDE3OTU4NjA0ODN8MA&ixlib=rb-4.1.0",
+      "web": "https://images.unsplash.com/photo-1783685736962-336abefabfae?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTQzODc5fDB8MXxzZWFyY2h8MTR8fGhpZ2glMjBwcm90ZWluJTIwZWdnJTIwc2tpbGxldCUyMGJyZWFrZmFzdCUyMHdpdGglMjBwYXJzbGV5fGVufDF8MXx8fDE3OTU4NjA0ODN8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "download_location": "https://api.unsplash.com/photos/QiKxaHpD0-w/download?ixid=M3wxMTQzODc5fDB8MXxzZWFyY2h8MTR8fGhpZ2glMjBwcm90ZWluJTIwZWdnJTIwc2tpbGxldCUyMGJyZWFrZmFzdCUyMHdpdGglMjBwYXJzbGV5fGVufDF8MXx8fDE3OTU4NjA0ODN8MA",
+      "score": 11
+    },
+    {
+      "id": "u-fVuE2fZbAEs",
+      "width": 4000,
+      "height": 6000,
+      "alt": "a skillet filled with eggs on top of a stove Cooking sakshuka over a campfire.",
+      "photographer": "Andrew Spencer",
+      "photographer_url": "https://unsplash.com/@iam_aspencer?utm_source=easy_protein_kitchen&utm_medium=referral",
+      "page_url": "https://unsplash.com/photos/a-skillet-filled-with-eggs-on-top-of-a-stove-fVuE2fZbAEs?utm_source=easy_protein_kitchen&utm_medium=referral",
+      "source": "Unsplash",
+      "source_url": "https://unsplash.com/?utm_source=easy_protein_kitchen&utm_medium=referral",
+      "src": "https://images.unsplash.com/photo-1648326311535-21895c185fbb?ixid=M3wxMTQzODc5fDB8MXxzZWFyY2h8MTh8fGhpZ2glMjBwcm90ZWluJTIwZWdnJTIwc2tpbGxldCUyMGJyZWFrZmFzdCUyMHdpdGglMjBwYXJzbGV5fGVufDF8MXx8fDE3OTU4NjA0ODN8MA&ixlib=rb-4.1.0",
+      "web": "https://images.unsplash.com/photo-1648326311535-21895c185fbb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTQzODc5fDB8MXxzZWFyY2h8MTh8fGhpZ2glMjBwcm90ZWluJTIwZWdnJTIwc2tpbGxldCUyMGJyZWFrZmFzdCUyMHdpdGglMjBwYXJzbGV5fGVufDF8MXx8fDE3OTU4NjA0ODN8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "download_location": "https://api.unsplash.com/photos/fVuE2fZbAEs/download?ixid=M3wxMTQzODc5fDB8MXxzZWFyY2h8MTh8fGhpZ2glMjBwcm90ZWluJTIwZWdnJTIwc2tpbGxldCUyMGJyZWFrZmFzdCUyMHdpdGglMjBwYXJzbGV5fGVufDF8MXx8fDE3OTU4NjA0ODN8MA",
+      "score": 11
+    },
+    {
+      "id": "u-XX8KSTz1NNs",
+      "width": 2821,
+      "height": 4160,
+      "alt": "Poached eggs in tomato sauce with herbs and cream",
+      "photographer": "Falcon media production",
+      "photographer_url": "https://unsplash.com/@falconmediaproduction?utm_source=easy_protein_kitchen&utm_medium=referral",
+      "page_url": "https://unsplash.com/photos/poached-eggs-in-tomato-sauce-with-herbs-and-cream-XX8KSTz1NNs?utm_source=easy_protein_kitchen&utm_medium=referral",
+      "source": "Unsplash",
+      "source_url": "https://unsplash.com/?utm_source=easy_protein_kitchen&utm_medium=referral",
+      "src": "https://images.unsplash.com/photo-1759493785939-0bd3e3d60682?ixid=M3wxMTQzODc5fDB8MXxzZWFyY2h8NHx8YmFrZWQlMjBlZ2dzJTIwaW4lMjB0b21hdG8lMjBzYXVjZSUyMHdpdGglMjBiZWFucyUyMGFuZCUyMEdyZWVrJTIweW9ndXJ0fGVufDF8MXx8fDE3OTU4NjA0ODN8MA&ixlib=rb-4.1.0",
+      "web": "https://images.unsplash.com/photo-1759493785939-0bd3e3d60682?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTQzODc5fDB8MXxzZWFyY2h8NHx8YmFrZWQlMjBlZ2dzJTIwaW4lMjB0b21hdG8lMjBzYXVjZSUyMHdpdGglMjBiZWFucyUyMGFuZCUyMEdyZWVrJTIweW9ndXJ0fGVufDF8MXx8fDE3OTU4NjA0ODN8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "download_location": "https://api.unsplash.com/photos/XX8KSTz1NNs/download?ixid=M3wxMTQzODc5fDB8MXxzZWFyY2h8NHx8YmFrZWQlMjBlZ2dzJTIwaW4lMjB0b21hdG8lMjBzYXVjZSUyMHdpdGglMjBiZWFucyUyMGFuZCUyMEdyZWVrJTIweW9ndXJ0fGVufDF8MXx8fDE3OTU4NjA0ODN8MA",
+      "score": 10
+    },
+    {
+      "id": "u-_yAuXzeu5Q4",
+      "width": 3024,
+      "height": 4032,
+      "alt": "food in bowl Shakshuka, Israel, Breakfast, Soul Food, Food, Table, Pan, Eggs, Lunch, Dinner, plate",
+      "photographer": "Jennifer Latuperisa-Andresen",
+      "photographer_url": "https://unsplash.com/@fraumuksch?utm_source=easy_protein_kitchen&utm_medium=referral",
+      "page_url": "https://unsplash.com/photos/food-in-bowl-_yAuXzeu5Q4?utm_source=easy_protein_kitchen&utm_medium=referral",
+      "source": "Unsplash",
+      "source_url": "https://unsplash.com/?utm_source=easy_protein_kitchen&utm_medium=referral",
+      "src": "https://images.unsplash.com/photo-1570010357185-031e883754eb?ixid=M3wxMTQzODc5fDB8MXxzZWFyY2h8Nnx8YmFrZWQlMjBlZ2dzJTIwaW4lMjB0b21hdG8lMjBzYXVjZSUyMHdpdGglMjBiZWFucyUyMGFuZCUyMEdyZWVrJTIweW9ndXJ0fGVufDF8MXx8fDE3OTU4NjA0ODN8MA&ixlib=rb-4.1.0",
+      "web": "https://images.unsplash.com/photo-1570010357185-031e883754eb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTQzODc5fDB8MXxzZWFyY2h8Nnx8YmFrZWQlMjBlZ2dzJTIwaW4lMjB0b21hdG8lMjBzYXVjZSUyMHdpdGglMjBiZWFucyUyMGFuZCUyMEdyZWVrJTIweW9ndXJ0fGVufDF8MXx8fDE3OTU4NjA0ODN8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "download_location": "https://api.unsplash.com/photos/_yAuXzeu5Q4/download?ixid=M3wxMTQzODc5fDB8MXxzZWFyY2h8Nnx8YmFrZWQlMjBlZ2dzJTIwaW4lMjB0b21hdG8lMjBzYXVjZSUyMHdpdGglMjBiZWFucyUyMGFuZCUyMEdyZWVrJTIweW9ndXJ0fGVufDF8MXx8fDE3OTU4NjA0ODN8MA",
+      "score": 9
+    }
+  ],
+  "verification": {
+    "checks": [
+      {
+        "verdict": "pass",
+        "issues": [],
+        "sources": [
+          {
+            "name": "NYT Cooking - Shakshuka With Feta",
+            "url": "https://cooking.nytimes.com/recipes/1014721-shakshuka-with-feta"
+          },
+          {
+            "name": "Serious Eats - Traditional Shakshuka Recipe",
+            "url": "https://www.seriouseats.com/shakshuka-north-african-shirred-eggs-tomato-pepper-recipe"
+          },
+          {
+            "name": "Cookie and Kate - Classic Shakshuka",
+            "url": "https://cookieandkate.com/foolproof-shakshuka-recipe/"
+          }
+        ],
+        "grounded": false
+      }
+    ],
+    "rule_warnings": [
+      "unusual unit 'can (28 oz)' for 'crushed tomatoes'",
+      "unusual unit 'cans (15 oz each)' for 'cannellini white beans'"
+    ],
+    "model": "gemini-3.6-flash"
+  },
+  "created": "2026-11-28"
+}

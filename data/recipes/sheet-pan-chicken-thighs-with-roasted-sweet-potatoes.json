@@ -1,0 +1,285 @@
+{
+  "title": "Sheet Pan Chicken Thighs with Roasted Sweet Potatoes",
+  "description": "Sheet pan chicken thighs with roasted sweet potatoes are an easy, high-protein meal prep dish packed with 32g of protein per serving. Tender chicken thighs and sweet potatoes are seasoned with smoked paprika and garlic then roasted to perfection on a single baking sheet.",
+  "cuisine": "American",
+  "category": "Dinner",
+  "servings": 4,
+  "protein_g_per_serving": 34,
+  "prep_minutes": 15,
+  "cook_minutes": 30,
+  "total_minutes": 45,
+  "ingredients": [
+    {
+      "qty": "1 1/2",
+      "unit": "lbs",
+      "item": "boneless, skinless chicken thighs",
+      "metric": "680 g",
+      "note": "trimmed of excess fat"
+    },
+    {
+      "qty": "2",
+      "unit": "medium",
+      "item": "sweet potatoes",
+      "metric": "680 g",
+      "note": "peeled and cut into 3/4-inch cubes"
+    },
+    {
+      "qty": "2",
+      "unit": "tbsp",
+      "item": "olive oil",
+      "metric": "30 ml",
+      "note": "divided"
+    },
+    {
+      "qty": "1",
+      "unit": "tsp",
+      "item": "garlic powder",
+      "metric": "3 g",
+      "note": ""
+    },
+    {
+      "qty": "1",
+      "unit": "tsp",
+      "item": "smoked paprika",
+      "metric": "3 g",
+      "note": ""
+    },
+    {
+      "qty": "1/2",
+      "unit": "tsp",
+      "item": "onion powder",
+      "metric": "1.5 g",
+      "note": ""
+    },
+    {
+      "qty": "1/2",
+      "unit": "tsp",
+      "item": "dried oregano",
+      "metric": "1 g",
+      "note": ""
+    },
+    {
+      "qty": "1",
+      "unit": "tsp",
+      "item": "kosher salt",
+      "metric": "6 g",
+      "note": ""
+    },
+    {
+      "qty": "1/2",
+      "unit": "tsp",
+      "item": "black pepper",
+      "metric": "1.5 g",
+      "note": ""
+    },
+    {
+      "qty": "1",
+      "unit": "tbsp",
+      "item": "fresh lemon juice",
+      "metric": "15 ml",
+      "note": ""
+    }
+  ],
+  "steps": [
+    "Preheat the oven to 400°F [200°C] and line a large rimmed baking sheet with parchment paper.",
+    "In a small bowl, combine the garlic powder, smoked paprika, onion powder, dried oregano, kosher salt, and black pepper.",
+    "Place the cubed sweet potatoes on one side of the baking sheet, drizzle with 1 tbsp (15 ml) of olive oil, and toss with half of the spice blend until thoroughly coated.",
+    "Pat the chicken thighs dry with paper towels, place them on the other side of the baking sheet, drizzle with the remaining 1 tbsp (15 ml) of olive oil, and rub evenly with the remaining spice blend.",
+    "Roast at 400°F [200°C] for 25 to 30 minutes, stirring the sweet potatoes halfway through, until the sweet potatoes are fork-tender and browned, and the chicken reaches an internal temperature of 165°F (74°C) on an instant-read thermometer.",
+    "Remove from the oven, drizzle the fresh lemon juice over the cooked chicken and sweet potatoes, and serve."
+  ],
+  "tips": [
+    "Cut sweet potatoes into uniform 3/4-inch cubes so they roast completely in the same time frame as the chicken thighs.",
+    "For extra crispy chicken edges, switch the oven to broil for the final 2 to 3 minutes of cooking."
+  ],
+  "storage": "Store in airtight containers in the refrigerator for up to 4 days.",
+  "tools": [
+    "18x13-inch rimmed baking sheet",
+    "Parchment paper",
+    "Chef's knife",
+    "Digital instant-read thermometer"
+  ],
+  "keywords": [
+    "sheet pan chicken thighs",
+    "roasted sweet potatoes and chicken",
+    "high protein meal prep",
+    "budget high protein dinner",
+    "healthy chicken thigh recipes",
+    "one pan chicken and sweet potatoes",
+    "400 degree baked chicken thighs",
+    "gym meal prep ideas"
+  ],
+  "pin_variants": [
+    {
+      "hook_type": "number",
+      "title": "Sheet Pan Chicken Thighs and Sweet Potatoes - 32g Protein",
+      "description": "Sheet pan chicken thighs with roasted sweet potatoes deliver 32g of protein per serving in an easy high-protein dinner. Juicy chicken thighs bake alongside spiced sweet potatoes on a single sheet pan. Save it for your next meal prep.",
+      "overlay": "32g Protein Sheet Pan Dinner",
+      "subline": "Ready in 45 Minutes",
+      "alt_text": "Baked chicken thighs and sweet potato cubes roasted on a lined sheet pan"
+    },
+    {
+      "hook_type": "budget",
+      "title": "Budget Sheet Pan Chicken Thighs with Sweet Potatoes",
+      "description": "Sheet pan chicken thighs with roasted sweet potatoes make high-protein cooking affordable and straightforward. Roast chicken thighs and sweet potatoes together for 32g of protein per portion with fast cleanup. Save it for your next meal prep.",
+      "overlay": "Cheap High-Protein Sheet Pan",
+      "subline": "Easy Meal Prep Idea",
+      "alt_text": "Single sheet pan meal featuring seasoned chicken thighs and roasted sweet potato cubes"
+    },
+    {
+      "hook_type": "speed",
+      "title": "45-Minute Sheet Pan Chicken Thighs and Sweet Potatoes",
+      "description": "Sheet pan chicken thighs with roasted sweet potatoes cook in 45 minutes for a hassle-free high-protein dinner. Combine chicken thighs, sweet potatoes, and simple herbs on one pan. Save it for your next meal prep.",
+      "overlay": "45-Minute High Protein Meal",
+      "subline": "32g Protein Per Serving",
+      "alt_text": "Cooked chicken thighs and roasted sweet potatoes arranged on a parchment-lined baking tray"
+    },
+    {
+      "hook_type": "teacher",
+      "title": "Easy Sheet Pan Chicken Thighs with Sweet Potatoes",
+      "description": "Sheet pan chicken thighs with roasted sweet potatoes combine smoky seasonings and juicy chicken for macro-friendly dinners. Dicing sweet potatoes into uniform 3/4-inch cubes guarantees they tenderize at the exact same rate as the chicken. Save it for your next meal prep.",
+      "overlay": "The Sheet Pan Timing Trick",
+      "subline": "Perfect Chicken and Potatoes",
+      "alt_text": "Golden chicken thighs next to tender roasted sweet potatoes on a baking sheet"
+    }
+  ],
+  "video_script": {
+    "hook": "This sheet pan chicken and sweet potato meal delivers 32 grams of protein.",
+    "steps_short": [
+      "Preheat oven to 400°F [200°C] and line a baking sheet.",
+      "Mix garlic powder, smoked paprika, oregano, salt, and pepper.",
+      "Toss cubed sweet potatoes with oil and half the spice blend.",
+      "Season chicken thighs with remaining oil and spices on the pan.",
+      "Roast 25 to 30 minutes until chicken reaches 165°F (74°C).",
+      "Drizzle with fresh lemon juice before serving."
+    ],
+    "outro": "Find the full high-protein recipe on our website now."
+  },
+  "photo_queries": [
+    "sheet pan chicken thighs with roasted sweet potatoes",
+    "baked chicken thighs and sweet potatoes on baking sheet",
+    "roasted chicken thigh meal prep with sweet potato"
+  ],
+  "must_match": [
+    "chicken",
+    "thighs",
+    "sweet"
+  ],
+  "board": "Budget High Protein Meals",
+  "slug": "sheet-pan-chicken-thighs-with-roasted-sweet-potatoes",
+  "protein_g": 32,
+  "photos": [
+    {
+      "id": "u-9aajnmX70Eo",
+      "width": 3024,
+      "height": 4032,
+      "alt": "roasted chicken on white ceramic plate A plate of BBQ food with a glazed chicken, smoky baked beans, sweet potato casserole and brisket from a restaurant in Livermore, California.",
+      "photographer": "Kitera Dent",
+      "photographer_url": "https://unsplash.com/@kitera?utm_source=easy_protein_kitchen&utm_medium=referral",
+      "page_url": "https://unsplash.com/photos/roasted-chicken-on-white-ceramic-plate-9aajnmX70Eo?utm_source=easy_protein_kitchen&utm_medium=referral",
+      "source": "Unsplash",
+      "source_url": "https://unsplash.com/?utm_source=easy_protein_kitchen&utm_medium=referral",
+      "src": "https://images.unsplash.com/photo-1597377779407-51e50715cc7d?ixid=M3wxMTQzODc5fDB8MXxzZWFyY2h8MXx8cm9hc3RlZCUyMGNoaWNrZW4lMjB0aGlnaCUyMG1lYWwlMjBwcmVwJTIwd2l0aCUyMHN3ZWV0JTIwcG90YXRvfGVufDF8MXx8fDE3OTU4NjA1Mzl8MA&ixlib=rb-4.1.0",
+      "web": "https://images.unsplash.com/photo-1597377779407-51e50715cc7d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTQzODc5fDB8MXxzZWFyY2h8MXx8cm9hc3RlZCUyMGNoaWNrZW4lMjB0aGlnaCUyMG1lYWwlMjBwcmVwJTIwd2l0aCUyMHN3ZWV0JTIwcG90YXRvfGVufDF8MXx8fDE3OTU4NjA1Mzl8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "download_location": "https://api.unsplash.com/photos/9aajnmX70Eo/download?ixid=M3wxMTQzODc5fDB8MXxzZWFyY2h8MXx8cm9hc3RlZCUyMGNoaWNrZW4lMjB0aGlnaCUyMG1lYWwlMjBwcmVwJTIwd2l0aCUyMHN3ZWV0JTIwcG90YXRvfGVufDF8MXx8fDE3OTU4NjA1Mzl8MA",
+      "score": 15
+    },
+    {
+      "id": "u-zsC0U5qqMAU",
+      "width": 3024,
+      "height": 4032,
+      "alt": "a plate of food sitting on a window sill Baked potatoes with carrots and chicken on a plate with a nature background",
+      "photographer": "Lazar Gugleta",
+      "photographer_url": "https://unsplash.com/@lazargugleta?utm_source=easy_protein_kitchen&utm_medium=referral",
+      "page_url": "https://unsplash.com/photos/a-plate-of-food-sitting-on-a-window-sill-zsC0U5qqMAU?utm_source=easy_protein_kitchen&utm_medium=referral",
+      "source": "Unsplash",
+      "source_url": "https://unsplash.com/?utm_source=easy_protein_kitchen&utm_medium=referral",
+      "src": "https://images.unsplash.com/photo-1632420758798-7cc9981f19c2?ixid=M3wxMTQzODc5fDB8MXxzZWFyY2h8M3x8c2hlZXQlMjBwYW4lMjBjaGlja2VuJTIwdGhpZ2hzJTIwd2l0aCUyMHJvYXN0ZWQlMjBzd2VldCUyMHBvdGF0b2VzfGVufDF8MXx8fDE3OTU4NjA1Mzl8MA&ixlib=rb-4.1.0",
+      "web": "https://images.unsplash.com/photo-1632420758798-7cc9981f19c2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTQzODc5fDB8MXxzZWFyY2h8M3x8c2hlZXQlMjBwYW4lMjBjaGlja2VuJTIwdGhpZ2hzJTIwd2l0aCUyMHJvYXN0ZWQlMjBzd2VldCUyMHBvdGF0b2VzfGVufDF8MXx8fDE3OTU4NjA1Mzl8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "download_location": "https://api.unsplash.com/photos/zsC0U5qqMAU/download?ixid=M3wxMTQzODc5fDB8MXxzZWFyY2h8M3x8c2hlZXQlMjBwYW4lMjBjaGlja2VuJTIwdGhpZ2hzJTIwd2l0aCUyMHJvYXN0ZWQlMjBzd2VldCUyMHBvdGF0b2VzfGVufDF8MXx8fDE3OTU4NjA1Mzl8MA",
+      "score": 8
+    },
+    {
+      "id": "u-HS6fmVJjWX0",
+      "width": 2404,
+      "height": 3204,
+      "alt": "Diced sweet potatoes and onions with rosemary on baking sheet Cubed butternut squash and sliced onion on a baking sheet with sprigs of fresh rosemary.",
+      "photographer": "sheri silver",
+      "photographer_url": "https://unsplash.com/@sheri_silver?utm_source=easy_protein_kitchen&utm_medium=referral",
+      "page_url": "https://unsplash.com/photos/diced-sweet-potatoes-and-onions-with-rosemary-on-baking-sheet-HS6fmVJjWX0?utm_source=easy_protein_kitchen&utm_medium=referral",
+      "source": "Unsplash",
+      "source_url": "https://unsplash.com/?utm_source=easy_protein_kitchen&utm_medium=referral",
+      "src": "https://images.unsplash.com/photo-1757451628319-60463e4fede3?ixid=M3wxMTQzODc5fDB8MXxzZWFyY2h8OHx8c2hlZXQlMjBwYW4lMjBjaGlja2VuJTIwdGhpZ2hzJTIwd2l0aCUyMHJvYXN0ZWQlMjBzd2VldCUyMHBvdGF0b2VzfGVufDF8MXx8fDE3OTU4NjA1Mzl8MA&ixlib=rb-4.1.0",
+      "web": "https://images.unsplash.com/photo-1757451628319-60463e4fede3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTQzODc5fDB8MXxzZWFyY2h8OHx8c2hlZXQlMjBwYW4lMjBjaGlja2VuJTIwdGhpZ2hzJTIwd2l0aCUyMHJvYXN0ZWQlMjBzd2VldCUyMHBvdGF0b2VzfGVufDF8MXx8fDE3OTU4NjA1Mzl8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "download_location": "https://api.unsplash.com/photos/HS6fmVJjWX0/download?ixid=M3wxMTQzODc5fDB8MXxzZWFyY2h8OHx8c2hlZXQlMjBwYW4lMjBjaGlja2VuJTIwdGhpZ2hzJTIwd2l0aCUyMHJvYXN0ZWQlMjBzd2VldCUyMHBvdGF0b2VzfGVufDF8MXx8fDE3OTU4NjA1Mzl8MA",
+      "score": 8
+    },
+    {
+      "id": "u-5V_PoG__5EU",
+      "width": 2639,
+      "height": 3519,
+      "alt": "a pan filled with chicken and vegetables covered in sauce Gerösteter Blumenkohl in Chili Butter",
+      "photographer": "Filipp Romanovski",
+      "photographer_url": "https://unsplash.com/@filipp_roman_photography?utm_source=easy_protein_kitchen&utm_medium=referral",
+      "page_url": "https://unsplash.com/photos/a-pan-filled-with-chicken-and-vegetables-covered-in-sauce-5V_PoG__5EU?utm_source=easy_protein_kitchen&utm_medium=referral",
+      "source": "Unsplash",
+      "source_url": "https://unsplash.com/?utm_source=easy_protein_kitchen&utm_medium=referral",
+      "src": "https://images.unsplash.com/photo-1638905100776-d8cdf6307f16?ixid=M3wxMTQzODc5fDB8MXxzZWFyY2h8NXx8c2hlZXQlMjBwYW4lMjBjaGlja2VuJTIwdGhpZ2hzJTIwd2l0aCUyMHJvYXN0ZWQlMjBzd2VldCUyMHBvdGF0b2VzfGVufDF8MXx8fDE3OTU4NjA1Mzl8MA&ixlib=rb-4.1.0",
+      "web": "https://images.unsplash.com/photo-1638905100776-d8cdf6307f16?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTQzODc5fDB8MXxzZWFyY2h8NXx8c2hlZXQlMjBwYW4lMjBjaGlja2VuJTIwdGhpZ2hzJTIwd2l0aCUyMHJvYXN0ZWQlMjBzd2VldCUyMHBvdGF0b2VzfGVufDF8MXx8fDE3OTU4NjA1Mzl8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "download_location": "https://api.unsplash.com/photos/5V_PoG__5EU/download?ixid=M3wxMTQzODc5fDB8MXxzZWFyY2h8NXx8c2hlZXQlMjBwYW4lMjBjaGlja2VuJTIwdGhpZ2hzJTIwd2l0aCUyMHJvYXN0ZWQlMjBzd2VldCUyMHBvdGF0b2VzfGVufDF8MXx8fDE3OTU4NjA1Mzl8MA",
+      "score": 6
+    },
+    {
+      "id": "u-qopKcEWAGYY",
+      "width": 4000,
+      "height": 6000,
+      "alt": "fried chicken on brown paper bag My special spicy chincken wings",
+      "photographer": "Tomi Vadász",
+      "photographer_url": "https://unsplash.com/@hunterrtomi?utm_source=easy_protein_kitchen&utm_medium=referral",
+      "page_url": "https://unsplash.com/photos/fried-chicken-on-brown-paper-bag-qopKcEWAGYY?utm_source=easy_protein_kitchen&utm_medium=referral",
+      "source": "Unsplash",
+      "source_url": "https://unsplash.com/?utm_source=easy_protein_kitchen&utm_medium=referral",
+      "src": "https://images.unsplash.com/photo-1590058301829-d16716ed706c?ixid=M3wxMTQzODc5fDB8MXxzZWFyY2h8MTB8fHNoZWV0JTIwcGFuJTIwY2hpY2tlbiUyMHRoaWdocyUyMHdpdGglMjByb2FzdGVkJTIwc3dlZXQlMjBwb3RhdG9lc3xlbnwxfDF8fHwxNzk1ODYwNTM5fDA&ixlib=rb-4.1.0",
+      "web": "https://images.unsplash.com/photo-1590058301829-d16716ed706c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTQzODc5fDB8MXxzZWFyY2h8MTB8fHNoZWV0JTIwcGFuJTIwY2hpY2tlbiUyMHRoaWdocyUyMHdpdGglMjByb2FzdGVkJTIwc3dlZXQlMjBwb3RhdG9lc3xlbnwxfDF8fHwxNzk1ODYwNTM5fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "download_location": "https://api.unsplash.com/photos/qopKcEWAGYY/download?ixid=M3wxMTQzODc5fDB8MXxzZWFyY2h8MTB8fHNoZWV0JTIwcGFuJTIwY2hpY2tlbiUyMHRoaWdocyUyMHdpdGglMjByb2FzdGVkJTIwc3dlZXQlMjBwb3RhdG9lc3xlbnwxfDF8fHwxNzk1ODYwNTM5fDA",
+      "score": 6
+    },
+    {
+      "id": "u--zTfAx0b15M",
+      "width": 3024,
+      "height": 4032,
+      "alt": "fried chicken on white paper",
+      "photographer": "Alina Chernysheva",
+      "photographer_url": "https://unsplash.com/@achera?utm_source=easy_protein_kitchen&utm_medium=referral",
+      "page_url": "https://unsplash.com/photos/fried-chicken-on-white-paper--zTfAx0b15M?utm_source=easy_protein_kitchen&utm_medium=referral",
+      "source": "Unsplash",
+      "source_url": "https://unsplash.com/?utm_source=easy_protein_kitchen&utm_medium=referral",
+      "src": "https://images.unsplash.com/photo-1580014115514-c11349dc10d9?ixid=M3wxMTQzODc5fDB8MXxzZWFyY2h8MTR8fHNoZWV0JTIwcGFuJTIwY2hpY2tlbiUyMHRoaWdocyUyMHdpdGglMjByb2FzdGVkJTIwc3dlZXQlMjBwb3RhdG9lc3xlbnwxfDF8fHwxNzk1ODYwNTM5fDA&ixlib=rb-4.1.0",
+      "web": "https://images.unsplash.com/photo-1580014115514-c11349dc10d9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTQzODc5fDB8MXxzZWFyY2h8MTR8fHNoZWV0JTIwcGFuJTIwY2hpY2tlbiUyMHRoaWdocyUyMHdpdGglMjByb2FzdGVkJTIwc3dlZXQlMjBwb3RhdG9lc3xlbnwxfDF8fHwxNzk1ODYwNTM5fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "download_location": "https://api.unsplash.com/photos/-zTfAx0b15M/download?ixid=M3wxMTQzODc5fDB8MXxzZWFyY2h8MTR8fHNoZWV0JTIwcGFuJTIwY2hpY2tlbiUyMHRoaWdocyUyMHdpdGglMjByb2FzdGVkJTIwc3dlZXQlMjBwb3RhdG9lc3xlbnwxfDF8fHwxNzk1ODYwNTM5fDA",
+      "score": 6
+    }
+  ],
+  "verification": {
+    "checks": [
+      {
+        "verdict": "pass",
+        "issues": [],
+        "sources": [
+          {
+            "name": "Well Plated - Sheet Pan Chicken Thighs with Sweet Potatoes",
+            "url": "https://www.wellplated.com/sheet-pan-chicken-rainbow-vegetables/"
+          },
+          {
+            "name": "RecipeTin Eats - Sheet Pan Garlic Herb Chicken Thighs and Sweet Potatoes",
+            "url": "https://www.recipetineats.com/sheet-pan-chicken-thighs-sweet-potato/"
+          }
+        ],
+        "grounded": false
+      }
+    ],
+    "rule_warnings": [],
+    "model": "gemini-3.6-flash"
+  },
+  "created": "2026-11-28"
+}

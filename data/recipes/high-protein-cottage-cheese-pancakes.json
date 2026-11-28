@@ -1,0 +1,286 @@
+{
+  "title": "High-Protein Cottage Cheese Pancakes",
+  "description": "These easy blender cottage cheese pancakes pack 29 grams of natural protein into a light, fluffy breakfast stack. Prepared with oats and whole eggs in just 20 minutes.",
+  "cuisine": "American",
+  "category": "Breakfast",
+  "servings": 2,
+  "protein_g_per_serving": 29,
+  "prep_minutes": 10,
+  "cook_minutes": 10,
+  "total_minutes": 20,
+  "ingredients": [
+    {
+      "qty": "1",
+      "unit": "cup",
+      "item": "2% low-fat cottage cheese",
+      "metric": "226 g",
+      "note": "small or large curd"
+    },
+    {
+      "qty": "1",
+      "unit": "cup",
+      "item": "rolled oats",
+      "metric": "90 g",
+      "note": "old-fashioned"
+    },
+    {
+      "qty": "3",
+      "unit": "large",
+      "item": "eggs",
+      "metric": "150 g",
+      "note": "at room temperature"
+    },
+    {
+      "qty": "1",
+      "unit": "tsp",
+      "item": "baking powder",
+      "metric": "5 g",
+      "note": ""
+    },
+    {
+      "qty": "1/2",
+      "unit": "tsp",
+      "item": "pure vanilla extract",
+      "metric": "2.5 ml",
+      "note": ""
+    },
+    {
+      "qty": "1/4",
+      "unit": "tsp",
+      "item": "ground cinnamon",
+      "metric": "0.5 g",
+      "note": ""
+    },
+    {
+      "qty": "1/8",
+      "unit": "tsp",
+      "item": "fine sea salt",
+      "metric": "0.75 g",
+      "note": ""
+    },
+    {
+      "qty": "1",
+      "unit": "tsp",
+      "item": "unsalted butter",
+      "metric": "5 g",
+      "note": "for pan greasing"
+    }
+  ],
+  "steps": [
+    "Place 1 cup (90 g) rolled oats into a high-speed blender and pulse on high for 10 to 15 seconds until finely ground into flour consistency.",
+    "Add 1 cup (226 g) cottage cheese, 3 large eggs, 1 tsp baking powder, 1/2 tsp vanilla extract, 1/4 tsp ground cinnamon, and 1/8 tsp salt to the blender. Blend on medium-high speed for 20 to 30 seconds until completely smooth and batter thickens.",
+    "Melt 1 tsp butter in a large nonstick skillet or griddle set over medium heat for 2 minutes until hot and shimmering.",
+    "Pour batter into skillet to form 4-inch pancakes (roughly 1/4 cup per pancake). Cook over medium heat for 2 to 3 minutes until tiny bubbles pop on the surface and edges look golden brown and set.",
+    "Flip carefully with a spatula and cook the second side for 1 to 2 minutes until light brown and springy to the touch in the center. Repeat with any remaining batter."
+  ],
+  "tips": [
+    "Blend the oats first into flour before adding liquid ingredients to ensure a completely smooth pancake texture.",
+    "Keep heat at medium or medium-low so the cottage cheese melts evenly without burning the pancake exterior.",
+    "Freeze cooked, cooled pancakes in a single layer, then transfer to a freezer bag; reheat directly in a toaster."
+  ],
+  "storage": "Store leftover pancakes in an airtight container in the refrigerator for up to 4 days, or freeze for up to 1 month.",
+  "tools": [
+    "high-speed blender",
+    "12-inch nonstick skillet",
+    "silicone spatula",
+    "measuring cups and spoons"
+  ],
+  "keywords": [
+    "high protein cottage cheese pancakes",
+    "cottage cheese pancakes blender",
+    "protein pancakes without protein powder",
+    "high protein breakfast ideas",
+    "healthy oat pancakes",
+    "easy meal prep breakfast"
+  ],
+  "pin_variants": [
+    {
+      "hook_type": "number",
+      "title": "High Protein Cottage Cheese Pancakes (27g Protein)",
+      "description": "These cottage cheese pancakes deliver 27 grams of protein per serving into a fluffy, tender stack. Quick to blend and cook in just 20 minutes for a fast morning meal. Save it for your next meal prep.",
+      "overlay": "27g Protein Cottage Cheese Pancakes",
+      "subline": "Ready in 20 Minutes",
+      "alt_text": "Stack of golden brown cottage cheese pancakes topped with fresh berries on a white plate"
+    },
+    {
+      "hook_type": "speed",
+      "title": "20-Minute Cottage Cheese Pancakes for Breakfast",
+      "description": "Blend oats, cottage cheese, and eggs for fluffy 20-minute cottage cheese pancakes loaded with protein. A simple real-food breakfast to start your morning right. Save it for your next meal prep.",
+      "overlay": "20-Minute High Protein Pancakes",
+      "subline": "29g Real Food Protein",
+      "alt_text": "High protein blender pancakes stacked high with maple syrup drizzle"
+    },
+    {
+      "hook_type": "contrarian",
+      "title": "High Protein Pancakes Made Without Protein Powder",
+      "description": "Skip the dry powder and make high-protein cottage cheese pancakes using whole food ingredients. Rich in protein, ready in 20 minutes, and naturally delicious. Save it for your next meal prep.",
+      "overlay": "High Protein Pancakes No Protein Powder",
+      "subline": "27g Protein Per Serving",
+      "alt_text": "Close up of fluffy oat and cottage cheese pancakes cooked to golden perfection"
+    },
+    {
+      "hook_type": "outcome",
+      "title": "Fluffy Cottage Cheese Pancakes for Easy Meal Prep",
+      "description": "Cook a batch of fluffy cottage cheese pancakes to keep breakfast quick and high-protein all week long. Easy blender recipe ready in 20 minutes. Save it for your next meal prep.",
+      "overlay": "Fluffy High Protein Pancakes Stack",
+      "subline": "Easy 20-Minute Meal Prep",
+      "alt_text": "Plate of golden cottage cheese pancakes served with fresh blueberries"
+    }
+  ],
+  "video_script": {
+    "hook": "These blender cottage cheese pancakes have 29 grams of real food protein.",
+    "steps_short": [
+      "Blend rolled oats into a fine flour texture first.",
+      "Add cottage cheese, eggs, baking powder, and vanilla.",
+      "Blend until smooth, thick, and fully combined.",
+      "Cook on a medium heat skillet for two minutes per side.",
+      "Flip when bubbles form and edges look golden."
+    ],
+    "outro": "Get the complete high-protein recipe on our website now."
+  },
+  "photo_queries": [
+    "fluffy high protein cottage cheese pancakes stack on white plate",
+    "oat cottage cheese pancakes topped with fresh berries maple syrup",
+    "golden brown blender pancakes stacked high breakfast"
+  ],
+  "must_match": [
+    "pancakes",
+    "pancake",
+    "breakfast",
+    "stack"
+  ],
+  "board": "High Protein Breakfast",
+  "slug": "high-protein-cottage-cheese-pancakes",
+  "protein_g": 27,
+  "photos": [
+    {
+      "id": "u-3mdRMlTRkTc",
+      "width": 4160,
+      "height": 6240,
+      "alt": "a stack of pancakes sitting on top of a white plate Enjoying Creamy Pancakes on Café Balcony Space with Sunset Sea View.",
+      "photographer": "wei",
+      "photographer_url": "https://unsplash.com/@chanwei_snap?utm_source=easy_protein_kitchen&utm_medium=referral",
+      "page_url": "https://unsplash.com/photos/a-stack-of-pancakes-sitting-on-top-of-a-white-plate-3mdRMlTRkTc?utm_source=easy_protein_kitchen&utm_medium=referral",
+      "source": "Unsplash",
+      "source_url": "https://unsplash.com/?utm_source=easy_protein_kitchen&utm_medium=referral",
+      "src": "https://images.unsplash.com/photo-1690187732786-9abea5aec49e?ixid=M3wxMTQzODc5fDB8MXxzZWFyY2h8OHx8Zmx1ZmZ5JTIwaGlnaCUyMHByb3RlaW4lMjBjb3R0YWdlJTIwY2hlZXNlJTIwcGFuY2FrZXMlMjBzdGFjayUyMG9uJTIwd2hpdGUlMjBwbGF0ZXxlbnwxfDF8fHwxNzk1ODYwNzM5fDA&ixlib=rb-4.1.0",
+      "web": "https://images.unsplash.com/photo-1690187732786-9abea5aec49e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTQzODc5fDB8MXxzZWFyY2h8OHx8Zmx1ZmZ5JTIwaGlnaCUyMHByb3RlaW4lMjBjb3R0YWdlJTIwY2hlZXNlJTIwcGFuY2FrZXMlMjBzdGFjayUyMG9uJTIwd2hpdGUlMjBwbGF0ZXxlbnwxfDF8fHwxNzk1ODYwNzM5fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "download_location": "https://api.unsplash.com/photos/3mdRMlTRkTc/download?ixid=M3wxMTQzODc5fDB8MXxzZWFyY2h8OHx8Zmx1ZmZ5JTIwaGlnaCUyMHByb3RlaW4lMjBjb3R0YWdlJTIwY2hlZXNlJTIwcGFuY2FrZXMlMjBzdGFjayUyMG9uJTIwd2hpdGUlMjBwbGF0ZXxlbnwxfDF8fHwxNzk1ODYwNzM5fDA",
+      "score": 15
+    },
+    {
+      "id": "u-iOWuxer1s7k",
+      "width": 4000,
+      "height": 6000,
+      "alt": "a stack of pancakes topped with berries and syrup blueberry and cherry tomatoes pancake",
+      "photographer": "Elaine Kong",
+      "photographer_url": "https://unsplash.com/@elainekyn?utm_source=easy_protein_kitchen&utm_medium=referral",
+      "page_url": "https://unsplash.com/photos/a-stack-of-pancakes-topped-with-berries-and-syrup-iOWuxer1s7k?utm_source=easy_protein_kitchen&utm_medium=referral",
+      "source": "Unsplash",
+      "source_url": "https://unsplash.com/?utm_source=easy_protein_kitchen&utm_medium=referral",
+      "src": "https://images.unsplash.com/photo-1705138906801-60c4df597afa?ixid=M3wxMTQzODc5fDB8MXxzZWFyY2h8MTJ8fG9hdCUyMGNvdHRhZ2UlMjBjaGVlc2UlMjBwYW5jYWtlcyUyMHRvcHBlZCUyMHdpdGglMjBmcmVzaCUyMGJlcnJpZXMlMjBtYXBsZSUyMHN5cnVwfGVufDF8MXx8fDE3OTU4NjA3Mzl8MA&ixlib=rb-4.1.0",
+      "web": "https://images.unsplash.com/photo-1705138906801-60c4df597afa?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTQzODc5fDB8MXxzZWFyY2h8MTJ8fG9hdCUyMGNvdHRhZ2UlMjBjaGVlc2UlMjBwYW5jYWtlcyUyMHRvcHBlZCUyMHdpdGglMjBmcmVzaCUyMGJlcnJpZXMlMjBtYXBsZSUyMHN5cnVwfGVufDF8MXx8fDE3OTU4NjA3Mzl8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "download_location": "https://api.unsplash.com/photos/iOWuxer1s7k/download?ixid=M3wxMTQzODc5fDB8MXxzZWFyY2h8MTJ8fG9hdCUyMGNvdHRhZ2UlMjBjaGVlc2UlMjBwYW5jYWtlcyUyMHRvcHBlZCUyMHdpdGglMjBmcmVzaCUyMGJlcnJpZXMlMjBtYXBsZSUyMHN5cnVwfGVufDF8MXx8fDE3OTU4NjA3Mzl8MA",
+      "score": 15
+    },
+    {
+      "id": "u-vfl6y292kSI",
+      "width": 3024,
+      "height": 4032,
+      "alt": "A tall stack of golden brown pancakes on a plate A stack of handmade pancakes",
+      "photographer": "Sebastian Schuster",
+      "photographer_url": "https://unsplash.com/@sschusterphotoart?utm_source=easy_protein_kitchen&utm_medium=referral",
+      "page_url": "https://unsplash.com/photos/a-tall-stack-of-golden-brown-pancakes-on-a-plate-vfl6y292kSI?utm_source=easy_protein_kitchen&utm_medium=referral",
+      "source": "Unsplash",
+      "source_url": "https://unsplash.com/?utm_source=easy_protein_kitchen&utm_medium=referral",
+      "src": "https://images.unsplash.com/photo-1757635964104-67218db55bca?ixid=M3wxMTQzODc5fDB8MXxzZWFyY2h8M3x8Zmx1ZmZ5JTIwaGlnaCUyMHByb3RlaW4lMjBjb3R0YWdlJTIwY2hlZXNlJTIwcGFuY2FrZXMlMjBzdGFjayUyMG9uJTIwd2hpdGUlMjBwbGF0ZXxlbnwxfDF8fHwxNzk1ODYwNzM5fDA&ixlib=rb-4.1.0",
+      "web": "https://images.unsplash.com/photo-1757635964104-67218db55bca?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTQzODc5fDB8MXxzZWFyY2h8M3x8Zmx1ZmZ5JTIwaGlnaCUyMHByb3RlaW4lMjBjb3R0YWdlJTIwY2hlZXNlJTIwcGFuY2FrZXMlMjBzdGFjayUyMG9uJTIwd2hpdGUlMjBwbGF0ZXxlbnwxfDF8fHwxNzk1ODYwNzM5fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "download_location": "https://api.unsplash.com/photos/vfl6y292kSI/download?ixid=M3wxMTQzODc5fDB8MXxzZWFyY2h8M3x8Zmx1ZmZ5JTIwaGlnaCUyMHByb3RlaW4lMjBjb3R0YWdlJTIwY2hlZXNlJTIwcGFuY2FrZXMlMjBzdGFjayUyMG9uJTIwd2hpdGUlMjBwbGF0ZXxlbnwxfDF8fHwxNzk1ODYwNzM5fDA",
+      "score": 13
+    },
+    {
+      "id": "u-71exsgFy6CI",
+      "width": 3572,
+      "height": 4465,
+      "alt": "pancake with strawberry and blue berry Cheese pancakes! Tasty useful Pancake with cottage cheese. With honey, with strawberry and blueberry. Perfect breakfast!)",
+      "photographer": "Anna Tukhfatullina Food Photographer/Stylist",
+      "photographer_url": "https://unsplash.com/@anna_tukhfatullina?utm_source=easy_protein_kitchen&utm_medium=referral",
+      "page_url": "https://unsplash.com/photos/pancake-with-strawberry-and-blue-berry-71exsgFy6CI?utm_source=easy_protein_kitchen&utm_medium=referral",
+      "source": "Unsplash",
+      "source_url": "https://unsplash.com/?utm_source=easy_protein_kitchen&utm_medium=referral",
+      "src": "https://images.unsplash.com/photo-1565592826255-e4a6946f5706?ixid=M3wxMTQzODc5fDB8MXxzZWFyY2h8OXx8b2F0JTIwY290dGFnZSUyMGNoZWVzZSUyMHBhbmNha2VzJTIwdG9wcGVkJTIwd2l0aCUyMGZyZXNoJTIwYmVycmllcyUyMG1hcGxlJTIwc3lydXB8ZW58MXwxfHx8MTc5NTg2MDczOXww&ixlib=rb-4.1.0",
+      "web": "https://images.unsplash.com/photo-1565592826255-e4a6946f5706?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTQzODc5fDB8MXxzZWFyY2h8OXx8b2F0JTIwY290dGFnZSUyMGNoZWVzZSUyMHBhbmNha2VzJTIwdG9wcGVkJTIwd2l0aCUyMGZyZXNoJTIwYmVycmllcyUyMG1hcGxlJTIwc3lydXB8ZW58MXwxfHx8MTc5NTg2MDczOXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "download_location": "https://api.unsplash.com/photos/71exsgFy6CI/download?ixid=M3wxMTQzODc5fDB8MXxzZWFyY2h8OXx8b2F0JTIwY290dGFnZSUyMGNoZWVzZSUyMHBhbmNha2VzJTIwdG9wcGVkJTIwd2l0aCUyMGZyZXNoJTIwYmVycmllcyUyMG1hcGxlJTIwc3lydXB8ZW58MXwxfHx8MTc5NTg2MDczOXww",
+      "score": 13
+    },
+    {
+      "id": "u-UBvMCte4IIo",
+      "width": 4000,
+      "height": 6000,
+      "alt": "a stack of pancakes with syrup and berries on a plate pancakes",
+      "photographer": "Stavros Papadimitriou",
+      "photographer_url": "https://unsplash.com/@stevep93?utm_source=easy_protein_kitchen&utm_medium=referral",
+      "page_url": "https://unsplash.com/photos/a-stack-of-pancakes-with-syrup-and-berries-on-a-plate-UBvMCte4IIo?utm_source=easy_protein_kitchen&utm_medium=referral",
+      "source": "Unsplash",
+      "source_url": "https://unsplash.com/?utm_source=easy_protein_kitchen&utm_medium=referral",
+      "src": "https://images.unsplash.com/photo-1694458557352-4b8ca744dea7?ixid=M3wxMTQzODc5fDB8MXxzZWFyY2h8MTl8fG9hdCUyMGNvdHRhZ2UlMjBjaGVlc2UlMjBwYW5jYWtlcyUyMHRvcHBlZCUyMHdpdGglMjBmcmVzaCUyMGJlcnJpZXMlMjBtYXBsZSUyMHN5cnVwfGVufDF8MXx8fDE3OTU4NjA3Mzl8MA&ixlib=rb-4.1.0",
+      "web": "https://images.unsplash.com/photo-1694458557352-4b8ca744dea7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTQzODc5fDB8MXxzZWFyY2h8MTl8fG9hdCUyMGNvdHRhZ2UlMjBjaGVlc2UlMjBwYW5jYWtlcyUyMHRvcHBlZCUyMHdpdGglMjBmcmVzaCUyMGJlcnJpZXMlMjBtYXBsZSUyMHN5cnVwfGVufDF8MXx8fDE3OTU4NjA3Mzl8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "download_location": "https://api.unsplash.com/photos/UBvMCte4IIo/download?ixid=M3wxMTQzODc5fDB8MXxzZWFyY2h8MTl8fG9hdCUyMGNvdHRhZ2UlMjBjaGVlc2UlMjBwYW5jYWtlcyUyMHRvcHBlZCUyMHdpdGglMjBmcmVzaCUyMGJlcnJpZXMlMjBtYXBsZSUyMHN5cnVwfGVufDF8MXx8fDE3OTU4NjA3Mzl8MA",
+      "score": 13
+    },
+    {
+      "id": "u-Aa4p91tib58",
+      "width": 2667,
+      "height": 4000,
+      "alt": "pancakes with strawberry on white ceramic plate fluffy pancakes with cream, honey and sweet fragrant strawberry. this is what Saturday morning should look like.",
+      "photographer": "Yulia Khlebnikova",
+      "photographer_url": "https://unsplash.com/@khlebnikovayulia?utm_source=easy_protein_kitchen&utm_medium=referral",
+      "page_url": "https://unsplash.com/photos/pancakes-with-strawberry-on-white-ceramic-plate-Aa4p91tib58?utm_source=easy_protein_kitchen&utm_medium=referral",
+      "source": "Unsplash",
+      "source_url": "https://unsplash.com/?utm_source=easy_protein_kitchen&utm_medium=referral",
+      "src": "https://images.unsplash.com/photo-1589627461407-6257b1acf0fd?ixid=M3wxMTQzODc5fDB8MXxzZWFyY2h8MXx8Zmx1ZmZ5JTIwaGlnaCUyMHByb3RlaW4lMjBjb3R0YWdlJTIwY2hlZXNlJTIwcGFuY2FrZXMlMjBzdGFjayUyMG9uJTIwd2hpdGUlMjBwbGF0ZXxlbnwxfDF8fHwxNzk1ODYwNzM5fDA&ixlib=rb-4.1.0",
+      "web": "https://images.unsplash.com/photo-1589627461407-6257b1acf0fd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTQzODc5fDB8MXxzZWFyY2h8MXx8Zmx1ZmZ5JTIwaGlnaCUyMHByb3RlaW4lMjBjb3R0YWdlJTIwY2hlZXNlJTIwcGFuY2FrZXMlMjBzdGFjayUyMG9uJTIwd2hpdGUlMjBwbGF0ZXxlbnwxfDF8fHwxNzk1ODYwNzM5fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "download_location": "https://api.unsplash.com/photos/Aa4p91tib58/download?ixid=M3wxMTQzODc5fDB8MXxzZWFyY2h8MXx8Zmx1ZmZ5JTIwaGlnaCUyMHByb3RlaW4lMjBjb3R0YWdlJTIwY2hlZXNlJTIwcGFuY2FrZXMlMjBzdGFjayUyMG9uJTIwd2hpdGUlMjBwbGF0ZXxlbnwxfDF8fHwxNzk1ODYwNzM5fDA",
+      "score": 12
+    }
+  ],
+  "verification": {
+    "checks": [
+      {
+        "verdict": "fix",
+        "issues": [
+          "Typo in ingredient name: 'un salted butter' should be 'unsalted butter'."
+        ],
+        "sources": [
+          {
+            "name": "Ambitious Kitchen - Easy Blender Cottage Cheese Pancakes",
+            "url": "https://www.ambitiouskitchen.com/cottage-cheese-pancakes/"
+          },
+          {
+            "name": "EatingWell - Cottage Cheese Pancakes",
+            "url": "https://www.eatingwell.com/recipe/279267/cottage-cheese-pancakes/"
+          }
+        ],
+        "grounded": false
+      },
+      {
+        "verdict": "pass",
+        "issues": [],
+        "sources": [
+          {
+            "name": "EatingWell - 3-Ingredient Cottage Cheese Pancakes",
+            "url": "https://www.eatingwell.com/cottage-cheese-pancakes-recipe-8424260"
+          },
+          {
+            "name": "The Kitchn - Blender Cottage Cheese Pancakes",
+            "url": "https://www.thekitchn.com/cottage-cheese-pancakes-recipe-23577771"
+          }
+        ],
+        "grounded": false
+      }
+    ],
+    "rule_warnings": [],
+    "model": "gemini-3.6-flash"
+  },
+  "created": "2026-11-28"
+}

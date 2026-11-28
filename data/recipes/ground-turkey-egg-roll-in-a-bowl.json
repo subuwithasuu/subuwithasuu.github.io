@@ -1,0 +1,304 @@
+{
+  "title": "Ground Turkey Egg Roll in a Bowl",
+  "description": "This quick ground turkey egg roll in a bowl delivers 31g of protein in just 22 minutes. Shredded cabbage and seasoned ground turkey toss in a savory soy-ginger glaze for a simple one-skillet dinner. Save it for your next meal prep.",
+  "cuisine": "Asian-Inspired",
+  "category": "Dinner",
+  "servings": 4,
+  "protein_g_per_serving": 32,
+  "prep_minutes": 10,
+  "cook_minutes": 12,
+  "total_minutes": 22,
+  "ingredients": [
+    {
+      "qty": "1 1/2",
+      "unit": "lbs",
+      "item": "93% lean ground turkey",
+      "metric": "680 g",
+      "note": " raw"
+    },
+    {
+      "qty": "1",
+      "unit": "tbsp",
+      "item": "avocado oil",
+      "metric": "15 ml",
+      "note": "or canola oil"
+    },
+    {
+      "qty": "3",
+      "unit": "cloves",
+      "item": "garlic",
+      "metric": "15 g",
+      "note": "minced"
+    },
+    {
+      "qty": "1",
+      "unit": "tbsp",
+      "item": "fresh ginger",
+      "metric": "15 g",
+      "note": "minced"
+    },
+    {
+      "qty": "1",
+      "unit": "bag (14 oz)",
+      "item": "coleslaw mix",
+      "metric": "400 g",
+      "note": "shredded green cabbage and carrots"
+    },
+    {
+      "qty": "3",
+      "unit": "tbsp",
+      "item": "low-sodium soy sauce",
+      "metric": "45 ml",
+      "note": "or coconut aminos"
+    },
+    {
+      "qty": "1",
+      "unit": "tbsp",
+      "item": "toasted sesame oil",
+      "metric": "15 ml",
+      "note": "for finishing flavor"
+    },
+    {
+      "qty": "1",
+      "unit": "tbsp",
+      "item": "rice vinegar",
+      "metric": "15 ml",
+      "note": "unseasoned"
+    },
+    {
+      "qty": "3",
+      "unit": "medium",
+      "item": "green onions",
+      "metric": "30 g",
+      "note": "thinly sliced"
+    },
+    {
+      "qty": "1",
+      "unit": "tbsp",
+      "item": "sesame seeds",
+      "metric": "9 g",
+      "note": "toasted, for garnish"
+    }
+  ],
+  "steps": [
+    "Heat the avocado oil in a 12-inch nonstick skillet over medium-high heat for 1 to 2 minutes until hot and glistening.",
+    "Add the ground turkey, minced garlic, and minced ginger to the skillet; cook over medium-high heat for 6 to 8 minutes, breaking up the turkey with a wooden spoon, until no pink remains and the meat reaches an internal temperature of 165°F (74°C).",
+    "Pour in the low-sodium soy sauce, toasted sesame oil, and rice vinegar, stirring constantly over medium heat for 1 minute until evenly combined.",
+    "Add the coleslaw mix to the skillet and cook over medium heat for 3 to 4 minutes, tossing continuously, until the cabbage is softened and tender-crisp.",
+    "Remove the skillet from heat, stir in the sliced green onions, and sprinkle with toasted sesame seeds before serving."
+  ],
+  "tips": [
+    "To add heat, drizzle with sriracha or add 1/2 teaspoon of red pepper flakes with the garlic and ginger.",
+    "For meal prep, divide equally into 4 airtight containers once fully cooled."
+  ],
+  "storage": "Store in airtight containers in the refrigerator for up to 4 days. Reheat gently in the microwave or skillet.",
+  "tools": [
+    "12-inch nonstick skillet",
+    "wooden spoon",
+    "instant-read digital meat thermometer"
+  ],
+  "keywords": [
+    "Ground Turkey Egg Roll in a Bowl",
+    "High Protein Egg Roll in a Bowl",
+    "Budget Ground Turkey Recipe",
+    "High Protein Meal Prep",
+    "Healthy Turkey Skillet Dinner",
+    "Low Carb Turkey Bowl",
+    "Easy High Protein Dinner"
+  ],
+  "pin_variants": [
+    {
+      "hook_type": "budget",
+      "title": "Budget Ground Turkey Egg Roll in a Bowl - High Protein",
+      "description": "Make this budget ground turkey egg roll in a bowl for a easy high-protein dinner. Packed with 31g of protein and ready in 22 minutes using simple ingredients. Save it for your next meal prep.",
+      "overlay": "Budget Ground Turkey Egg Roll Bowl",
+      "subline": "31g Protein Per Serving",
+      "alt_text": "Ground turkey egg roll in a bowl garnished with green onions and sesame seeds in a black skillet."
+    },
+    {
+      "hook_type": "number",
+      "title": "31g Protein Ground Turkey Egg Roll in a Bowl",
+      "description": "This ground turkey egg roll in a bowl contains 31g of protein per serving and cooks in just 22 minutes. A quick high-protein skillet meal for busy weeknights. Save it for your next meal prep.",
+      "overlay": "31g Protein Turkey Skillet Bowl",
+      "subline": "Ready in 22 Minutes",
+      "alt_text": "High protein turkey egg roll in a bowl topped with toasted sesame seeds."
+    },
+    {
+      "hook_type": "speed",
+      "title": "22-Minute Ground Turkey Egg Roll in a Bowl",
+      "description": "Whip up this 22-minute ground turkey egg roll in a bowl for 31g of protein with minimal cleanup. Uses basic seasonings and pre-shredded cabbage for speed. Save it for your next meal prep.",
+      "overlay": "22-Minute High-Protein Turkey Bowl",
+      "subline": "One Skillet Meal",
+      "alt_text": "Close-up view of cooked ground turkey and shredded cabbage in a meal prep bowl."
+    },
+    {
+      "hook_type": "outcome",
+      "title": "Ground Turkey Egg Roll in a Bowl for Weekly Prep",
+      "description": "Prepare 4 servings of ground turkey egg roll in a bowl to hit your daily protein goals effortlessly. Delivers 31g of protein per container in under 25 minutes total time. Save it for your next meal prep.",
+      "overlay": "Prep 4 High-Protein Turkey Bowls",
+      "subline": "31g Protein per Serving",
+      "alt_text": "Four glass containers packed with ground turkey egg roll in a bowl for weekly meal prep."
+    }
+  ],
+  "video_script": {
+    "hook": "This ground turkey egg roll in a bowl packs 31 grams of protein.",
+    "steps_short": [
+      "Brown ground turkey with garlic and ginger in a hot skillet.",
+      "Pour in low-sodium soy sauce, sesame oil, and rice vinegar.",
+      "Toss in shredded cabbage and sauté until tender-crisp.",
+      "Top with sliced green onions and toasted sesame seeds."
+    ],
+    "outro": "Get the full recipe on the website."
+  },
+  "photo_queries": [
+    "ground turkey egg roll in a bowl skillet",
+    "egg roll in a bowl cabbage turkey",
+    "turkey egg roll bowl meal prep"
+  ],
+  "must_match": [
+    "turkey",
+    "cabbage",
+    "skillet",
+    "bowl"
+  ],
+  "board": "Budget High Protein Meals",
+  "slug": "ground-turkey-egg-roll-in-a-bowl",
+  "protein_g": 31,
+  "photos": [
+    {
+      "id": "u-sStYMApc7V8",
+      "width": 3456,
+      "height": 5184,
+      "alt": "three eggs are in a glass bowl on the ground Eggs in a decorative glass",
+      "photographer": "Haley Owens",
+      "photographer_url": "https://unsplash.com/@haleyo?utm_source=easy_protein_kitchen&utm_medium=referral",
+      "page_url": "https://unsplash.com/photos/three-eggs-are-in-a-glass-bowl-on-the-ground-sStYMApc7V8?utm_source=easy_protein_kitchen&utm_medium=referral",
+      "source": "Unsplash",
+      "source_url": "https://unsplash.com/?utm_source=easy_protein_kitchen&utm_medium=referral",
+      "src": "https://images.unsplash.com/photo-1701118348050-f50838697468?ixid=M3wxMTQzODc5fDB8MXxzZWFyY2h8MTV8fGVnZyUyMHJvbGwlMjBpbiUyMGElMjBib3dsJTIwY2FiYmFnZSUyMHR1cmtleXxlbnwxfDF8fHwxNzk1ODYwMjc5fDA&ixlib=rb-4.1.0",
+      "web": "https://images.unsplash.com/photo-1701118348050-f50838697468?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTQzODc5fDB8MXxzZWFyY2h8MTV8fGVnZyUyMHJvbGwlMjBpbiUyMGElMjBib3dsJTIwY2FiYmFnZSUyMHR1cmtleXxlbnwxfDF8fHwxNzk1ODYwMjc5fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "download_location": "https://api.unsplash.com/photos/sStYMApc7V8/download?ixid=M3wxMTQzODc5fDB8MXxzZWFyY2h8MTV8fGVnZyUyMHJvbGwlMjBpbiUyMGElMjBib3dsJTIwY2FiYmFnZSUyMHR1cmtleXxlbnwxfDF8fHwxNzk1ODYwMjc5fDA",
+      "score": 8
+    },
+    {
+      "id": "u-leyiyLFtS3o",
+      "width": 3024,
+      "height": 4032,
+      "alt": "white eggs in blue ceramic bowl pastel color eggs in a bowl",
+      "photographer": "Joanna Kozik",
+      "photographer_url": "https://unsplash.com/@asiako?utm_source=easy_protein_kitchen&utm_medium=referral",
+      "page_url": "https://unsplash.com/photos/white-eggs-in-blue-ceramic-bowl-leyiyLFtS3o?utm_source=easy_protein_kitchen&utm_medium=referral",
+      "source": "Unsplash",
+      "source_url": "https://unsplash.com/?utm_source=easy_protein_kitchen&utm_medium=referral",
+      "src": "https://images.unsplash.com/photo-1613172649816-43c5321c47fa?ixid=M3wxMTQzODc5fDB8MXxzZWFyY2h8MTl8fGVnZyUyMHJvbGwlMjBpbiUyMGElMjBib3dsJTIwY2FiYmFnZSUyMHR1cmtleXxlbnwxfDF8fHwxNzk1ODYwMjc5fDA&ixlib=rb-4.1.0",
+      "web": "https://images.unsplash.com/photo-1613172649816-43c5321c47fa?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTQzODc5fDB8MXxzZWFyY2h8MTl8fGVnZyUyMHJvbGwlMjBpbiUyMGElMjBib3dsJTIwY2FiYmFnZSUyMHR1cmtleXxlbnwxfDF8fHwxNzk1ODYwMjc5fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "download_location": "https://api.unsplash.com/photos/leyiyLFtS3o/download?ixid=M3wxMTQzODc5fDB8MXxzZWFyY2h8MTl8fGVnZyUyMHJvbGwlMjBpbiUyMGElMjBib3dsJTIwY2FiYmFnZSUyMHR1cmtleXxlbnwxfDF8fHwxNzk1ODYwMjc5fDA",
+      "score": 8
+    },
+    {
+      "id": "u-LFoBRYzeXAk",
+      "width": 2519,
+      "height": 3857,
+      "alt": "Four brown eggs in a bowl with a colorful tulip Simple times",
+      "photographer": "Sebastian Schuster",
+      "photographer_url": "https://unsplash.com/@sschusterphotoart?utm_source=easy_protein_kitchen&utm_medium=referral",
+      "page_url": "https://unsplash.com/photos/four-brown-eggs-in-a-bowl-with-a-colorful-tulip-LFoBRYzeXAk?utm_source=easy_protein_kitchen&utm_medium=referral",
+      "source": "Unsplash",
+      "source_url": "https://unsplash.com/?utm_source=easy_protein_kitchen&utm_medium=referral",
+      "src": "https://images.unsplash.com/photo-1783004907882-24cb50ba6004?ixid=M3wxMTQzODc5fDB8MXxzZWFyY2h8MjF8fGVnZyUyMHJvbGwlMjBpbiUyMGElMjBib3dsJTIwY2FiYmFnZSUyMHR1cmtleXxlbnwxfDF8fHwxNzk1ODYwMjc5fDA&ixlib=rb-4.1.0",
+      "web": "https://images.unsplash.com/photo-1783004907882-24cb50ba6004?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTQzODc5fDB8MXxzZWFyY2h8MjF8fGVnZyUyMHJvbGwlMjBpbiUyMGElMjBib3dsJTIwY2FiYmFnZSUyMHR1cmtleXxlbnwxfDF8fHwxNzk1ODYwMjc5fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "download_location": "https://api.unsplash.com/photos/LFoBRYzeXAk/download?ixid=M3wxMTQzODc5fDB8MXxzZWFyY2h8MjF8fGVnZyUyMHJvbGwlMjBpbiUyMGElMjBib3dsJTIwY2FiYmFnZSUyMHR1cmtleXxlbnwxfDF8fHwxNzk1ODYwMjc5fDA",
+      "score": 8
+    },
+    {
+      "id": "u-wWWG0FzfwyY",
+      "width": 3072,
+      "height": 4096,
+      "alt": "five eggs in bowl",
+      "photographer": "jaikar pothula",
+      "photographer_url": "https://unsplash.com/@jaikarpothula007?utm_source=easy_protein_kitchen&utm_medium=referral",
+      "page_url": "https://unsplash.com/photos/five-eggs-in-bowl-wWWG0FzfwyY?utm_source=easy_protein_kitchen&utm_medium=referral",
+      "source": "Unsplash",
+      "source_url": "https://unsplash.com/?utm_source=easy_protein_kitchen&utm_medium=referral",
+      "src": "https://images.unsplash.com/photo-1565101893476-6ffd8d7a087a?ixid=M3wxMTQzODc5fDB8MXxzZWFyY2h8MjN8fGVnZyUyMHJvbGwlMjBpbiUyMGElMjBib3dsJTIwY2FiYmFnZSUyMHR1cmtleXxlbnwxfDF8fHwxNzk1ODYwMjc5fDA&ixlib=rb-4.1.0",
+      "web": "https://images.unsplash.com/photo-1565101893476-6ffd8d7a087a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTQzODc5fDB8MXxzZWFyY2h8MjN8fGVnZyUyMHJvbGwlMjBpbiUyMGElMjBib3dsJTIwY2FiYmFnZSUyMHR1cmtleXxlbnwxfDF8fHwxNzk1ODYwMjc5fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "download_location": "https://api.unsplash.com/photos/wWWG0FzfwyY/download?ixid=M3wxMTQzODc5fDB8MXxzZWFyY2h8MjN8fGVnZyUyMHJvbGwlMjBpbiUyMGElMjBib3dsJTIwY2FiYmFnZSUyMHR1cmtleXxlbnwxfDF8fHwxNzk1ODYwMjc5fDA",
+      "score": 8
+    },
+    {
+      "id": "u-8sK1i3BJL6k",
+      "width": 2799,
+      "height": 4032,
+      "alt": "cooked egg in bowl",
+      "photographer": "Cristina",
+      "photographer_url": "https://unsplash.com/@toussette?utm_source=easy_protein_kitchen&utm_medium=referral",
+      "page_url": "https://unsplash.com/photos/cooked-egg-in-bowl-8sK1i3BJL6k?utm_source=easy_protein_kitchen&utm_medium=referral",
+      "source": "Unsplash",
+      "source_url": "https://unsplash.com/?utm_source=easy_protein_kitchen&utm_medium=referral",
+      "src": "https://images.unsplash.com/photo-1554781026-44b3a8bf6f11?ixid=M3wxMTQzODc5fDB8MXxzZWFyY2h8MjZ8fGVnZyUyMHJvbGwlMjBpbiUyMGElMjBib3dsJTIwY2FiYmFnZSUyMHR1cmtleXxlbnwxfDF8fHwxNzk1ODYwMjc5fDA&ixlib=rb-4.1.0",
+      "web": "https://images.unsplash.com/photo-1554781026-44b3a8bf6f11?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTQzODc5fDB8MXxzZWFyY2h8MjZ8fGVnZyUyMHJvbGwlMjBpbiUyMGElMjBib3dsJTIwY2FiYmFnZSUyMHR1cmtleXxlbnwxfDF8fHwxNzk1ODYwMjc5fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "download_location": "https://api.unsplash.com/photos/8sK1i3BJL6k/download?ixid=M3wxMTQzODc5fDB8MXxzZWFyY2h8MjZ8fGVnZyUyMHJvbGwlMjBpbiUyMGElMjBib3dsJTIwY2FiYmFnZSUyMHR1cmtleXxlbnwxfDF8fHwxNzk1ODYwMjc5fDA",
+      "score": 8
+    },
+    {
+      "id": "u-aLpNRVxZrlo",
+      "width": 4000,
+      "height": 6016,
+      "alt": "a bowl of eggs",
+      "photographer": "Jennifer Chen",
+      "photographer_url": "https://unsplash.com/@jnnfrchn?utm_source=easy_protein_kitchen&utm_medium=referral",
+      "page_url": "https://unsplash.com/photos/a-bowl-of-eggs-aLpNRVxZrlo?utm_source=easy_protein_kitchen&utm_medium=referral",
+      "source": "Unsplash",
+      "source_url": "https://unsplash.com/?utm_source=easy_protein_kitchen&utm_medium=referral",
+      "src": "https://images.unsplash.com/photo-1669669420238-7a4be2e3eac6?ixid=M3wxMTQzODc5fDB8MXxzZWFyY2h8Mjh8fGVnZyUyMHJvbGwlMjBpbiUyMGElMjBib3dsJTIwY2FiYmFnZSUyMHR1cmtleXxlbnwxfDF8fHwxNzk1ODYwMjc5fDA&ixlib=rb-4.1.0",
+      "web": "https://images.unsplash.com/photo-1669669420238-7a4be2e3eac6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTQzODc5fDB8MXxzZWFyY2h8Mjh8fGVnZyUyMHJvbGwlMjBpbiUyMGElMjBib3dsJTIwY2FiYmFnZSUyMHR1cmtleXxlbnwxfDF8fHwxNzk1ODYwMjc5fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "download_location": "https://api.unsplash.com/photos/aLpNRVxZrlo/download?ixid=M3wxMTQzODc5fDB8MXxzZWFyY2h8Mjh8fGVnZyUyMHJvbGwlMjBpbiUyMGElMjBib3dsJTIwY2FiYmFnZSUyMHR1cmtleXxlbnwxfDF8fHwxNzk1ODYwMjc5fDA",
+      "score": 8
+    }
+  ],
+  "verification": {
+    "checks": [
+      {
+        "verdict": "fix",
+        "issues": [
+          "Ground turkey is ground poultry and must reach a minimum safe internal temperature of 165°F (74°C) per USDA food safety standards, not 160°F (71°C) (which applies to ground beef, pork, and lamb)."
+        ],
+        "sources": [
+          {
+            "name": "Well Plated - Egg Roll in a Bowl",
+            "url": "https://www.wellplated.com/egg-roll-in-a-bowl/"
+          },
+          {
+            "name": "Budget Bytes - How to Make Egg Roll in a Bowl",
+            "url": "https://www.budgetbytes.com/egg-roll-in-a-bowl/"
+          }
+        ],
+        "grounded": false
+      },
+      {
+        "verdict": "pass",
+        "issues": [],
+        "sources": [
+          {
+            "name": "Well Plated by Erin - Egg Roll in a Bowl",
+            "url": "https://www.wellplated.com/egg-roll-in-a-bowl/"
+          },
+          {
+            "name": "Budget Bytes - Egg Roll in a Bowl",
+            "url": "https://www.budgetbytes.com/egg-roll-in-a-bowl/"
+          },
+          {
+            "name": "RecipeTin Eats - Egg Roll in a Bowl",
+            "url": "https://www.recipetineats.com/egg-roll-in-a-bowl/"
+          }
+        ],
+        "grounded": false
+      }
+    ],
+    "rule_warnings": [
+      "unusual unit 'bag (14 oz)' for 'coleslaw mix'"
+    ],
+    "model": "gemini-3.6-flash"
+  },
+  "created": "2026-11-28"
+}

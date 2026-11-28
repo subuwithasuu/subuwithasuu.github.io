@@ -3379,5 +3379,389 @@
     "board": "High Protein Dinners",
     "reason": "only 0 matching real photos",
     "date": "2026-11-27"
+  },
+  {
+    "title": "High-Protein Greek Yogurt Tuna Melt",
+    "board": "Budget High Protein Meals",
+    "reason": {
+      "rules": [
+        "protein overclaimed: says 44g, ingredients give ~16g",
+        "only ~16g protein per serving (board needs 25g+)"
+      ]
+    },
+    "date": "2026-11-28"
+  },
+  {
+    "title": "Quick High-Protein Red Lentil Dahl",
+    "board": "Budget High Protein Meals",
+    "reason": {
+      "rules": [
+        "protein overclaimed: says 29g, ingredients give ~14g",
+        "only ~13g protein per serving (board needs 25g+)",
+        "variant 0: claims 30-Minute but recipe takes 35 min",
+        "variant 0: claims 30 Minutes but recipe takes 35 min",
+        "variant 0: number 30 in pin text is not a fact of this recipe",
+        "variant 1: claims 30-Minute but recipe takes 35 min",
+        "variant 1: claims 30 Minute but recipe takes 35 min",
+        "variant 1: number 30 in pin text is not a fact of this recipe",
+        "variant 1: number 30 in pin text is not a fact of this recipe"
+      ]
+    },
+    "date": "2026-11-28"
+  },
+  {
+    "title": "High-Protein Turkey Bacon and Egg Breakfast Burritos",
+    "board": "High Protein Breakfast",
+    "reason": {
+      "rules": [
+        "poultry recipe must state internal temp 165°F (74°C)"
+      ]
+    },
+    "date": "2026-11-28"
+  },
+  {
+    "title": "High-Protein Chocolate Baked Protein Oatmeal",
+    "board": "High Protein Breakfast",
+    "reason": {
+      "rules": [
+        "total time 35 < prep 10 + cook 30",
+        "protein overclaimed: says 25g, ingredients give ~20g",
+        "only ~19g protein per serving (board needs 20g+)"
+      ]
+    },
+    "date": "2026-11-28"
+  },
+  {
+    "title": "High-Protein Cottage Cheese and Egg White Bites",
+    "board": "High Protein Breakfast",
+    "reason": {
+      "rules": [
+        "total time 25 < prep 10 + cook 22",
+        "protein overclaimed: says 35g, ingredients give ~26g"
+      ]
+    },
+    "date": "2026-11-28"
+  },
+  {
+    "title": "High-Protein Creamy Cottage Cheese Alfredo Pasta",
+    "board": "High Protein Vegetarian",
+    "reason": {
+      "verify": "still not passing after fixes",
+      "checks": [
+        {
+          "verdict": "fix",
+          "issues": [
+            "Cottage cheese can curdle and break when exposed to direct heat in a skillet without a stabilizer or sufficient starch. Heating the blended cottage cheese directly in the skillet (even on low) can cause it to separate into a grainy texture.",
+            "The amount of pasta water (1/4 cup) is too low for 12 oz of chickpea/lentil pasta, which absorbs sauce rapidly. Increasing the reserved pasta water to 1/2 cup helps loosen and emulsify the sauce properly."
+          ],
+          "sources": [
+            {
+              "name": "Serious Eats - Creamy Cottage Cheese Pasta",
+              "url": "https://www.seriouseats.com"
+            },
+            {
+              "name": "NYT Cooking - Blended Cottage Cheese Alfredo",
+              "url": "https://cooking.nytimes.com"
+            }
+          ],
+          "grounded": false
+        },
+        {
+          "verdict": "fix",
+          "issues": [
+            "Cottage cheese has a high moisture content and when blended directly with cold ingredients and only residual heat, it can remain watery and separate or fail to properly melt the parmesan into a cohesive sauce.",
+            "The skillet method needs to gently incorporate the blended cottage cheese with the butter and garlic over low heat to emulsify properly rather than just mixing off the heat."
+          ],
+          "sources": [
+            {
+              "name": "Serious Eats - Creamy Cottage Cheese Alfredo",
+              "url": "https://www.seriouseats.com/"
+            },
+            {
+              "name": "NYT Cooking - Viral Cottage Cheese Pasta Sauce",
+              "url": "https://cooking.nytimes.com/"
+            }
+          ],
+          "grounded": false
+        }
+      ]
+    },
+    "date": "2026-11-28"
+  },
+  {
+    "title": "Crispy Air Fryer Tempeh and Quinoa Salad Bowl",
+    "board": "High Protein Vegetarian",
+    "reason": {
+      "rules": [
+        "protein overclaimed: says 26g, ingredients give ~19g",
+        "only ~19g protein per serving (board needs 20g+)"
+      ]
+    },
+    "date": "2026-11-28"
+  },
+  {
+    "title": "High-Protein Red Lentil and Chickpea Coconut Curry",
+    "board": "High Protein Vegetarian",
+    "reason": {
+      "rules": [
+        "protein overclaimed: says 35g, ingredients give ~20g",
+        "only ~19g protein per serving (board needs 20g+)",
+        "variant 0: claims 25 Minutes but recipe takes 35 min",
+        "variant 1: claims 25-Minute but recipe takes 35 min",
+        "variant 1: claims 25-Minute but recipe takes 35 min",
+        "variant 3: claims 25 Minutes but recipe takes 35 min"
+      ]
+    },
+    "date": "2026-11-28"
+  },
+  {
+    "title": "Crispy Baked Tofu and Edamame Grain Bowl",
+    "board": "High Protein Vegetarian",
+    "reason": {
+      "verify": "still not passing after fixes",
+      "checks": [
+        {
+          "verdict": "fix",
+          "issues": [
+            "Oil is specified as 1 tbsp divided, but tofu needs oil along with cornstarch to properly crisp in the oven (dry cornstarch alone on wet/soy-sauced tofu turns gummy or powdery instead of crispy).",
+            "Soy sauce is added directly to the tofu before tossing with cornstarch, which creates a wet paste that inhibits crisping. Standard method is to toss tofu with oil and soy sauce first, then dust with cornstarch.",
+            "Baking edamame for 15 minutes at 400°F alongside tofu can cause it to dry out, shrivel, or pop; edamame is already cooked when thawed and only needs a few minutes of warmth or can be added fresh/warm to the bowl."
+          ],
+          "sources": [
+            {
+              "name": "Cookie and Kate - Crispy Baked Tofu Grain Bowl",
+              "url": "https://cookieandkate.com/crispy-baked-tofu-recipe/"
+            },
+            {
+              "name": "Minimalist Baker - Peanut Tofu Edamame Bowls",
+              "url": "https://minimalistaker.com/peanut-tofu-edamame-bowls/"
+            }
+          ],
+          "grounded": false
+        },
+        {
+          "verdict": "fix",
+          "issues": [
+            "Coating tofu with liquid soy sauce and oil before adding cornstarch prevents the cornstarch from adhering properly and creating a truly crispy crust; cornstarch should be tossed onto dry, oiled tofu.",
+            "Edamame is not cooked in the current recipe steps (only thawed and added raw), whereas standard recipes either roast it alongside the tofu or warm it through for better texture and food safety.",
+            "Cook time in step 3 says 20 minutes, but the recipe metadata lists cook_minutes as 15."
+          ],
+          "sources": [
+            {
+              "name": "Cookie and Kate - Crispy Tofu Grain Bowl",
+              "url": "https://cookieandkate.com/crispy-baked-tofu-recipe/"
+            },
+            {
+              "name": "Minimalist Baker - Peanut Tofu & Edamame Grain Bowl",
+              "url": "https://minimalistbaker.com/crispy-peanut-tofu-cauliflower-rice-bowls/"
+            }
+          ],
+          "grounded": false
+        }
+      ]
+    },
+    "date": "2026-11-28"
+  },
+  {
+    "title": "High-Protein Cookie Dough Cottage Cheese Dip",
+    "board": "High Protein Snacks",
+    "reason": {
+      "rules": [
+        "protein overclaimed: says 15g, ingredients give ~8g",
+        "only ~7g protein per serving (board needs 10g+)"
+      ]
+    },
+    "date": "2026-11-28"
+  },
+  {
+    "title": "Savory Everything Bagel Cottage Cheese and Cucumber Bites",
+    "board": "High Protein Snacks",
+    "reason": "only 0 matching real photos",
+    "date": "2026-11-28"
+  },
+  {
+    "title": "High-Protein Berry and Granola Greek Yogurt Bowl",
+    "board": "High Protein Snacks",
+    "reason": {
+      "rules": [
+        "protein overclaimed: says 25g, ingredients give ~16g"
+      ]
+    },
+    "date": "2026-11-28"
+  },
+  {
+    "title": "High-Protein Steak and Sweet Potato Power Bowl",
+    "board": "High Protein Dinners",
+    "reason": {
+      "rules": [
+        "variant 0: claims 25-Minute but recipe takes 35 min",
+        "variant 0: claims 25-Minute but recipe takes 35 min",
+        "variant 0: number 25 in pin text is not a fact of this recipe",
+        "variant 0: number 25 in pin text is not a fact of this recipe",
+        "variant 1: claims 25 Minutes but recipe takes 35 min",
+        "variant 2: claims 25-Minute but recipe takes 35 min"
+      ]
+    },
+    "date": "2026-11-28"
+  },
+  {
+    "title": "High-Protein Creamy Garlic Parmesan Cottage Cheese Pasta",
+    "board": "High Protein Dinners",
+    "reason": {
+      "rules": [
+        "protein overclaimed: says 35g, ingredients give ~23g",
+        "only ~23g protein per serving (board needs 25g+)",
+        "variant 1: number 25 in pin text is not a fact of this recipe",
+        "variant 1: number 25 in pin text is not a fact of this recipe"
+      ]
+    },
+    "date": "2026-11-28"
+  },
+  {
+    "title": "High-Protein Teriyaki Salmon and Edamame Bowl",
+    "board": "High Protein Dinners",
+    "reason": "only 0 matching real photos",
+    "date": "2026-11-28"
+  },
+  {
+    "title": "High-Protein Spinach and Feta Egg White Muffins",
+    "board": "High Protein Meal Prep",
+    "reason": {
+      "verify": "still not passing after fixes",
+      "checks": [
+        {
+          "verdict": "fix",
+          "issues": [
+            "Missing salt: The recipe relies entirely on feta cheese for sodium, but 1/3 cup of feta distributed across 12 muffins leaves the dish significantly under-salted and bland.",
+            "Baking time: 15 minutes at 375°F (190°C) is often slightly too short for a full 12-cup muffin tin filled entirely with liquid egg whites to set completely in the center; standard time is 18-20 minutes."
+          ],
+          "sources": [
+            {
+              "name": "Well Plated by Erin - Healthy Egg White Muffins",
+              "url": "https://www.wellplated.com/egg-white-muffins/"
+            },
+            {
+              "name": "Ambitious Kitchen - Spinach Feta Egg Muffins",
+              "url": "https://www.ambitiouskitchen.com/spinach-feta-egg-muffins/"
+            }
+          ],
+          "grounded": false
+        },
+        {
+          "verdict": "fix",
+          "issues": [
+            "Greasing a 12-cup muffin tin requires more than 1 tablespoon of oil if relying on it solely, but more importantly, egg whites stick notoriously to muffin tins. A light coating or paper liners are safer, and greasing all 12 cups properly with just 1 tbsp is tight.",
+            "The recipe specifies making 12 muffins, but 2 1/2 cups of egg whites plus 1/2 cup of cottage cheese yields roughly 3 cups of liquid volume (approx. 720ml), which divided by 12 is only 1/4 cup (60ml) per muffin. Standard 12-cup muffin tins have a capacity of 1/3 to 1/2 cup per cup, meaning the cups will only be half full and yield very small, flat disks rather than full muffins."
+          ],
+          "sources": [
+            {
+              "name": "Allrecipes - Spinach and Feta Egg Muffins",
+              "url": "https://www.allrecipes.com/recipe/269229/spinach-and-feta-egg-muffins/"
+            },
+            {
+              "name": "Serious Eats - Standard Egg Muffin Formulas",
+              "url": "https://www.seriouseats.com"
+            }
+          ],
+          "grounded": false
+        }
+      ]
+    },
+    "date": "2026-11-28"
+  },
+  {
+    "title": "High-Protein Chicken Fajita Meal Prep Bowls with Brown Rice",
+    "board": "High Protein Meal Prep",
+    "reason": {
+      "verify": "still not passing after fixes",
+      "checks": [
+        {
+          "verdict": "fix",
+          "issues": [
+            "Total time is listed as 25 minutes, but cooking dry brown rice takes about 40-45 minutes. The total time needs to account for the rice or specify pre-cooked rice in the timing.",
+            "Dry brown rice yields approximately 3 cups cooked, but 1 cup dry yields about 3 to 4 cups; however, cooking time should be accurately reflected in the recipe metadata if starting from dry."
+          ],
+          "sources": [
+            {
+              "name": "Serious Eats - Easy Chicken Fajitas",
+              "url": "https://www.seriouseats.com/easy-chicken-fajitas-recipe"
+            },
+            {
+              "name": "Budget Bytes - Chicken Fajita Meal Prep",
+              "url": "https://www.budgetbytes.com/chicken-fajita-meal-prep/"
+            },
+            {
+              "name": "RecipeTin Eats - Chicken Fajitas",
+              "url": "https://www.recipetineats.com/chicken-fajitas/"
+            }
+          ],
+          "grounded": false
+        },
+        {
+          "verdict": "fix",
+          "issues": [
+            "Total time was inconsistent with the time required to cook dry brown rice from scratch (dry brown rice takes 40-45 minutes, making total time at least 50-55 minutes, whereas the original prep+cook stated 25 minutes total while including dry rice).",
+            "Salt quantity (1/2 teaspoon total for 1.5 lbs of chicken plus rice and vegetables) is insufficient for flavor and food seasoning standards; standard recipes use 1 to 1.5 teaspoons of salt for this quantity of ingredients.",
+            "Step 6 instructs to add the 'remaining spices and salt', but all spices were already used on the chicken in Step 3."
+          ],
+          "sources": [
+            {
+              "name": "Serious Eats - Easy Skillet Chicken Fajitas",
+              "url": "https://www.seriouseats.com/easy-skillet-chicken-fajitas-recipe"
+            },
+            {
+              "name": "Budget Bytes - Chicken Fajita Meal Prep Bowls",
+              "url": "https://www.budgetbytes.com/chicken-fajita-meal-prep-bowls/"
+            }
+          ],
+          "grounded": false
+        }
+      ]
+    },
+    "date": "2026-11-28"
+  },
+  {
+    "title": "High-Protein Lean Ground Turkey Sweet Potato Skillet",
+    "board": "High Protein Meal Prep",
+    "reason": {
+      "verify": "still not passing after fixes",
+      "checks": [
+        {
+          "verdict": "fix",
+          "issues": [
+            "Raw 1/2-inch diced sweet potatoes will not cook through in only 8 minutes of pan-frying plus 6 minutes of covered simmering with liquid. Standard recipes require either smaller cubes, par-cooking (microwaving), or a longer covered braising time (usually 10-12 minutes) to ensure they are fully fork-tender."
+          ],
+          "sources": [
+            {
+              "name": "Skinnytaste - Ground Turkey Sweet Potato Skillet",
+              "url": "https://www.skinnytaste.com/turkey-sweet-potato-skillet/"
+            },
+            {
+              "name": "Budget Bytes - Sweet Potato and Turkey Skillet",
+              "url": "https://www.budgetbytes.com/sweet-potato-and-turkey-skillet/"
+            }
+          ],
+          "grounded": false
+        },
+        {
+          "verdict": "fix",
+          "issues": [
+            "The original cooking method adds the onion after the sweet potatoes and then adds the turkey later. Ground turkey needs to be browned properly and releasing moisture from onions and raw meat together can steam rather than brown. Standard method browns the turkey and onion first, removes them or pushes them aside, partially cooks the sweet potatoes, and combines them with broth to finish."
+          ],
+          "sources": [
+            {
+              "name": "EatingWell - Ground Turkey & Sweet Potato Skillet",
+              "url": "https://www.eatingwell.com/"
+            },
+            {
+              "name": "Budget Bytes - Sweet Potato and Turkey Skillet",
+              "url": "https://www.budgetbytes.com/"
+            }
+          ],
+          "grounded": false
+        }
+      ]
+    },
+    "date": "2026-11-28"
   }
 ]

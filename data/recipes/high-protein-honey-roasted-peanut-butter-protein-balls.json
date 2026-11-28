@@ -1,0 +1,255 @@
+{
+  "title": "High Protein Honey Roasted Peanut Butter Protein Balls",
+  "description": "These no-bake energy bites combine honey-roasted peanut butter and whey protein for a quick, macro-friendly snack. Each batch is easy to mix and store for your weekly meal prep.",
+  "cuisine": "American",
+  "category": "Snack",
+  "servings": 6,
+  "protein_g_per_serving": 12,
+  "prep_minutes": 15,
+  "cook_minutes": 0,
+  "total_minutes": 15,
+  "ingredients": [
+    {
+      "qty": "1 1/2",
+      "unit": "cups",
+      "item": "rolled oats",
+      "metric": "135 g",
+      "note": "dry"
+    },
+    {
+      "qty": "1/2",
+      "unit": "cup",
+      "item": "honey-roasted peanut butter",
+      "metric": "130 g",
+      "note": "smooth or crunchy"
+    },
+    {
+      "qty": "1/4",
+      "unit": "cup",
+      "item": "honey",
+      "metric": "85 g",
+      "note": "liquid"
+    },
+    {
+      "qty": "1/2",
+      "unit": "cup",
+      "item": "vanilla whey protein powder",
+      "metric": "50 g",
+      "note": "powder"
+    },
+    {
+      "qty": "2",
+      "unit": "tbsp",
+      "item": "chia seeds",
+      "metric": "20 g",
+      "note": "whole"
+    },
+    {
+      "qty": "1/4",
+      "unit": "tsp",
+      "item": "salt",
+      "metric": "1 g",
+      "note": "fine"
+    }
+  ],
+  "steps": [
+    "In a large mixing bowl, combine 135 g rolled oats, 50 g vanilla whey protein powder, 20 g chia seeds, and 1 g salt using a rubber spatula until evenly distributed.",
+    "Add 130 g honey-roasted peanut butter and 85 g honey to the dry mixture.",
+    "Stir vigorously with a sturdy spoon for 2 minutes until a thick, uniform, and slightly sticky dough forms with no dry pockets remaining.",
+    "Scoop out portions using a 1-tablespoon cookie scoop and roll between your palms for 30 seconds each until compact, smooth spherical balls are formed.",
+    "Transfer the finished balls to an airtight container and refrigerate for 30 minutes until firm to the touch."
+  ],
+  "tips": [
+    "If the mixture feels too crumbly, add water one teaspoon at a time until it holds its shape.",
+    "Swap chia seeds for ground flaxseed if preferred."
+  ],
+  "storage": "Store in an airtight container in the refrigerator for up to 1 week or freeze for up to 2 months.",
+  "tools": [
+    "large mixing bowl",
+    "rubber spatula",
+    "measuring cups",
+    "1-tablespoon cookie scoop"
+  ],
+  "keywords": [
+    "high protein snacks",
+    "peanut butter protein balls",
+    "no bake protein bites",
+    "easy meal prep snacks",
+    "healthy protein snacks",
+    "honey peanut butter balls"
+  ],
+  "pin_variants": [
+    {
+      "hook_type": "number",
+      "title": "High Protein Honey Roasted Peanut Butter Protein Balls - 12g Protein Snack",
+      "description": "Make 12g protein honey roasted peanut butter protein balls in just 15 minutes with this easy no-bake recipe. These quick snacks fit right into your macro tracking routine. Save it for your next meal prep.",
+      "overlay": "12g Protein Peanut Butter Balls",
+      "subline": "Ready in 15 Minutes",
+      "alt_text": "A row of round peanut butter protein balls dusted with oats on parchment paper."
+    },
+    {
+      "hook_type": "speed",
+      "title": "15-Minute Honey Roasted Peanut Butter Protein Balls - High Protein Snack",
+      "description": "Whip up 15-minute honey roasted peanut butter protein balls loaded with 12g protein per serving. This simple no-bake recipe requires zero cooking time. Save it for your next meal prep.",
+      "overlay": "15-Minute Protein Balls",
+      "subline": "No-Bake Snack Recipe",
+      "alt_text": "Close up of textured protein balls made with oats and peanut butter."
+    },
+    {
+      "hook_type": "outcome",
+      "title": "High Protein Peanut Butter Protein Balls - Quick Meal Prep Snack",
+      "description": "Get your post-workout fuel with these high protein peanut butter protein balls delivering 12g protein and ready in 15 minutes. They store easily for the entire week. Save it for your next meal prep.",
+      "overlay": "Prep Once, Snack All Week",
+      "subline": "12g Protein Per Serving",
+      "alt_text": "A glass container filled with homemade protein energy bites."
+    },
+    {
+      "hook_type": "budget",
+      "title": "Pantry-Friendly Honey Roasted Peanut Butter Protein Balls - High Protein",
+      "description": "Use basic pantry staples to create honey roasted peanut butter protein balls with 12g protein in only 15 minutes. A straightforward snack for macro tracking. Save it for your next meal prep.",
+      "overlay": "Pantry Protein Snacks",
+      "subline": "Made with 6 Ingredients",
+      "alt_text": "Several peanut butter protein balls arranged on a dark plate."
+    }
+  ],
+  "video_script": {
+    "hook": "Make these 12 gram protein peanut butter balls in 15 minutes.",
+    "steps_short": [
+      "Combine the oats, protein powder, chia seeds, and salt in a bowl.",
+      "Add the honey-roasted peanut butter and liquid honey.",
+      "Stir the mixture thoroughly until a thick dough forms.",
+      "Scoop and roll the dough into firm spheres.",
+      "Chill in the fridge until completely set."
+    ],
+    "outro": "Find the complete recipe details and measurements on the website."
+  },
+  "photo_queries": [
+    "peanut butter protein balls",
+    "protein energy bites",
+    "no bake snack meal prep"
+  ],
+  "must_match": [
+    "peanut",
+    "protein",
+    "balls"
+  ],
+  "board": "High Protein Snacks",
+  "slug": "high-protein-honey-roasted-peanut-butter-protein-balls",
+  "protein_g": 12,
+  "photos": [
+    {
+      "id": "u-vEgb9Haj-rE",
+      "width": 3024,
+      "height": 4032,
+      "alt": "A white plate topped with chocolate covered balls",
+      "photographer": "Georgiana Apetrii",
+      "photographer_url": "https://unsplash.com/@jojoleescu?utm_source=easy_protein_kitchen&utm_medium=referral",
+      "page_url": "https://unsplash.com/photos/a-white-plate-topped-with-chocolate-covered-balls-vEgb9Haj-rE?utm_source=easy_protein_kitchen&utm_medium=referral",
+      "source": "Unsplash",
+      "source_url": "https://unsplash.com/?utm_source=easy_protein_kitchen&utm_medium=referral",
+      "src": "https://images.unsplash.com/photo-1723550711785-b95d41372d74?ixid=M3wxMTQzODc5fDB8MXxzZWFyY2h8MTV8fHBlYW51dCUyMGJ1dHRlciUyMHByb3RlaW4lMjBiYWxsc3xlbnwxfDF8fHwxNzk1ODYwOTU3fDA&ixlib=rb-4.1.0",
+      "web": "https://images.unsplash.com/photo-1723550711785-b95d41372d74?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTQzODc5fDB8MXxzZWFyY2h8MTV8fHBlYW51dCUyMGJ1dHRlciUyMHByb3RlaW4lMjBiYWxsc3xlbnwxfDF8fHwxNzk1ODYwOTU3fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "download_location": "https://api.unsplash.com/photos/vEgb9Haj-rE/download?ixid=M3wxMTQzODc5fDB8MXxzZWFyY2h8MTV8fHBlYW51dCUyMGJ1dHRlciUyMHByb3RlaW4lMjBiYWxsc3xlbnwxfDF8fHwxNzk1ODYwOTU3fDA",
+      "score": 6
+    },
+    {
+      "id": "u-ZUi8vrcxHUA",
+      "width": 4000,
+      "height": 6000,
+      "alt": "a group of brown balls",
+      "photographer": "Harkirt singh",
+      "photographer_url": "https://unsplash.com/@harkirt13?utm_source=easy_protein_kitchen&utm_medium=referral",
+      "page_url": "https://unsplash.com/photos/a-group-of-brown-balls-ZUi8vrcxHUA?utm_source=easy_protein_kitchen&utm_medium=referral",
+      "source": "Unsplash",
+      "source_url": "https://unsplash.com/?utm_source=easy_protein_kitchen&utm_medium=referral",
+      "src": "https://images.unsplash.com/photo-1668082685577-32968d7b1823?ixid=M3wxMTQzODc5fDB8MXxzZWFyY2h8MTh8fHBlYW51dCUyMGJ1dHRlciUyMHByb3RlaW4lMjBiYWxsc3xlbnwxfDF8fHwxNzk1ODYwOTU3fDA&ixlib=rb-4.1.0",
+      "web": "https://images.unsplash.com/photo-1668082685577-32968d7b1823?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTQzODc5fDB8MXxzZWFyY2h8MTh8fHBlYW51dCUyMGJ1dHRlciUyMHByb3RlaW4lMjBiYWxsc3xlbnwxfDF8fHwxNzk1ODYwOTU3fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "download_location": "https://api.unsplash.com/photos/ZUi8vrcxHUA/download?ixid=M3wxMTQzODc5fDB8MXxzZWFyY2h8MTh8fHBlYW51dCUyMGJ1dHRlciUyMHByb3RlaW4lMjBiYWxsc3xlbnwxfDF8fHwxNzk1ODYwOTU3fDA",
+      "score": 6
+    },
+    {
+      "id": "u-Xnyt0x6TabU",
+      "width": 3390,
+      "height": 4237,
+      "alt": "a person is holding a piece of broccoli Vegan, organic and protein energy balls for a gourmet break  💪🏼  www.nature-zen.com",
+      "photographer": "Nature Zen",
+      "photographer_url": "https://unsplash.com/@nature_zen?utm_source=easy_protein_kitchen&utm_medium=referral",
+      "page_url": "https://unsplash.com/photos/a-person-is-holding-a-piece-of-broccoli-Xnyt0x6TabU?utm_source=easy_protein_kitchen&utm_medium=referral",
+      "source": "Unsplash",
+      "source_url": "https://unsplash.com/?utm_source=easy_protein_kitchen&utm_medium=referral",
+      "src": "https://images.unsplash.com/photo-1647531379228-cecf68614924?ixid=M3wxMTQzODc5fDB8MXxzZWFyY2h8MjF8fHByb3RlaW4lMjBlbmVyZ3klMjBiaXRlc3xlbnwxfDF8fHwxNzk1ODYwOTU4fDA&ixlib=rb-4.1.0",
+      "web": "https://images.unsplash.com/photo-1647531379228-cecf68614924?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTQzODc5fDB8MXxzZWFyY2h8MjF8fHByb3RlaW4lMjBlbmVyZ3klMjBiaXRlc3xlbnwxfDF8fHwxNzk1ODYwOTU4fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "download_location": "https://api.unsplash.com/photos/Xnyt0x6TabU/download?ixid=M3wxMTQzODc5fDB8MXxzZWFyY2h8MjF8fHByb3RlaW4lMjBlbmVyZ3klMjBiaXRlc3xlbnwxfDF8fHwxNzk1ODYwOTU4fDA",
+      "score": 6
+    },
+    {
+      "id": "u-bwJSvPIXRYo",
+      "width": 6850,
+      "height": 8561,
+      "alt": "a white bowl filled with chocolate truffles covered in powdered sugar Chocolate balls with flowers and coconut are very tasty as a wonderful snack ",
+      "photographer": "Parnis Azimi",
+      "photographer_url": "https://unsplash.com/@parnissazimi?utm_source=easy_protein_kitchen&utm_medium=referral",
+      "page_url": "https://unsplash.com/photos/a-white-bowl-filled-with-chocolate-truffles-covered-in-powdered-sugar-bwJSvPIXRYo?utm_source=easy_protein_kitchen&utm_medium=referral",
+      "source": "Unsplash",
+      "source_url": "https://unsplash.com/?utm_source=easy_protein_kitchen&utm_medium=referral",
+      "src": "https://images.unsplash.com/photo-1633436374503-7bc1fde2fed0?ixid=M3wxMTQzODc5fDB8MXxzZWFyY2h8MTd8fHByb3RlaW4lMjBlbmVyZ3klMjBiaXRlc3xlbnwxfDF8fHwxNzk1ODYwOTU4fDA&ixlib=rb-4.1.0",
+      "web": "https://images.unsplash.com/photo-1633436374503-7bc1fde2fed0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTQzODc5fDB8MXxzZWFyY2h8MTd8fHByb3RlaW4lMjBlbmVyZ3klMjBiaXRlc3xlbnwxfDF8fHwxNzk1ODYwOTU4fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "download_location": "https://api.unsplash.com/photos/bwJSvPIXRYo/download?ixid=M3wxMTQzODc5fDB8MXxzZWFyY2h8MTd8fHByb3RlaW4lMjBlbmVyZ3klMjBiaXRlc3xlbnwxfDF8fHwxNzk1ODYwOTU4fDA",
+      "score": 4
+    },
+    {
+      "id": "u-WkU8zyMzeX8",
+      "width": 4024,
+      "height": 6048,
+      "alt": "a wooden cutting board topped with chocolates and a cup of coffee A pack of peanut butter cups that are high in protein and low carb with some products on the side and a cup of coffee or tea in the background",
+      "photographer": "Roel van Dam",
+      "photographer_url": "https://unsplash.com/@sfoxn?utm_source=easy_protein_kitchen&utm_medium=referral",
+      "page_url": "https://unsplash.com/photos/a-wooden-cutting-board-topped-with-chocolates-and-a-cup-of-coffee-WkU8zyMzeX8?utm_source=easy_protein_kitchen&utm_medium=referral",
+      "source": "Unsplash",
+      "source_url": "https://unsplash.com/?utm_source=easy_protein_kitchen&utm_medium=referral",
+      "src": "https://images.unsplash.com/photo-1695993331728-b828763ae2ff?ixid=M3wxMTQzODc5fDB8MXxzZWFyY2h8MTB8fG5vJTIwYmFrZSUyMHNuYWNrJTIwbWVhbCUyMHByZXB8ZW58MXwxfHx8MTc5NTg2MDk1OHww&ixlib=rb-4.1.0",
+      "web": "https://images.unsplash.com/photo-1695993331728-b828763ae2ff?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTQzODc5fDB8MXxzZWFyY2h8MTB8fG5vJTIwYmFrZSUyMHNuYWNrJTIwbWVhbCUyMHByZXB8ZW58MXwxfHx8MTc5NTg2MDk1OHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "download_location": "https://api.unsplash.com/photos/WkU8zyMzeX8/download?ixid=M3wxMTQzODc5fDB8MXxzZWFyY2h8MTB8fG5vJTIwYmFrZSUyMHNuYWNrJTIwbWVhbCUyMHByZXB8ZW58MXwxfHx8MTc5NTg2MDk1OHww",
+      "score": 4
+    }
+  ],
+  "verification": {
+    "checks": [
+      {
+        "verdict": "fix",
+        "issues": [
+          "The ratio of wet binders (1/2 cup peanut butter + 1/3 cup honey = 245g) to dry ingredients (1 cup oats + 1/3 cup protein powder = 125g) is extremely skewed toward wet ingredients. Standard energy ball ratios require roughly 1 cup of dry base (oats) to 1/2 cup total wet/sticky binders. With 115g of honey and 130g of peanut butter for only 90g of oats, the resulting mixture will be a runny, unrollable batter rather than a dough."
+        ],
+        "sources": [
+          {
+            "name": "Sally's Baking Addiction - Energy Bites",
+            "url": "https://sallysbakingaddiction.com/energy-bites/"
+          },
+          {
+            "name": "Ambitious Kitchen - Peanut Butter Protein Energy Balls",
+            "url": "https://www.ambitiouskitchen.com/peanut-butter-protein-energy-balls/"
+          }
+        ],
+        "grounded": false
+      },
+      {
+        "verdict": "pass",
+        "issues": [],
+        "sources": [
+          {
+            "name": "Sally's Baking Addiction - Peanut Butter Energy Bites",
+            "url": "https://sallysbakingaddiction.com/peanut-butter-energy-bites/"
+          },
+          {
+            "name": "Ambitious Kitchen - No Bake Peanut Butter Protein Energy Bites",
+            "url": "https://www.ambitiouskitchen.com/peanut-butter-protein-energy-bites/"
+          }
+        ],
+        "grounded": false
+      }
+    ],
+    "rule_warnings": [],
+    "model": "gemini-3.6-flash"
+  },
+  "created": "2026-11-28"
+}

@@ -1,0 +1,334 @@
+{
+  "title": "30-Minute High-Protein Turkey and Bean Chili",
+  "description": "This high-protein turkey and bean chili offers 29 grams of protein per serving in just 30 minutes. Packed with lean ground turkey, kidney beans, and aromatic spices, it is perfect for fast weeknight meals.",
+  "cuisine": "American",
+  "category": "Dinner",
+  "servings": 4,
+  "protein_g_per_serving": 33,
+  "prep_minutes": 10,
+  "cook_minutes": 20,
+  "total_minutes": 30,
+  "ingredients": [
+    {
+      "qty": "1",
+      "unit": "tbsp",
+      "item": "olive oil",
+      "metric": "15 ml",
+      "note": ""
+    },
+    {
+      "qty": "1",
+      "unit": "medium",
+      "item": "yellow onion",
+      "metric": "150 g",
+      "note": "diced"
+    },
+    {
+      "qty": "1",
+      "unit": "medium",
+      "item": "red bell pepper",
+      "metric": "150 g",
+      "note": "diced"
+    },
+    {
+      "qty": "2",
+      "unit": "cloves",
+      "item": "garlic",
+      "metric": "6 g",
+      "note": "minced"
+    },
+    {
+      "qty": "1",
+      "unit": "lb",
+      "item": "93% lean ground turkey",
+      "metric": "454 g",
+      "note": ""
+    },
+    {
+      "qty": "2",
+      "unit": "tbsp",
+      "item": "tomato paste",
+      "metric": "32 g",
+      "note": ""
+    },
+    {
+      "qty": "1",
+      "unit": "tbsp",
+      "item": "chili powder",
+      "metric": "8 g",
+      "note": ""
+    },
+    {
+      "qty": "1",
+      "unit": "tsp",
+      "item": "ground cumin",
+      "metric": "3 g",
+      "note": ""
+    },
+    {
+      "qty": "1/2",
+      "unit": "tsp",
+      "item": "smoked paprika",
+      "metric": "1 g",
+      "note": ""
+    },
+    {
+      "qty": "1/2",
+      "unit": "tsp",
+      "item": "dried oregano",
+      "metric": "1 g",
+      "note": ""
+    },
+    {
+      "qty": "1/2",
+      "unit": "tsp",
+      "item": "fine sea salt",
+      "metric": "3 g",
+      "note": ""
+    },
+    {
+      "qty": "1/4",
+      "unit": "tsp",
+      "item": "ground black pepper",
+      "metric": "1 g",
+      "note": ""
+    },
+    {
+      "qty": "1",
+      "unit": "can (14.5 oz)",
+      "item": "diced tomatoes",
+      "metric": "411 g",
+      "note": "with juice"
+    },
+    {
+      "qty": "1",
+      "unit": "can (15 oz)",
+      "item": "dark red kidney beans",
+      "metric": "250 g",
+      "note": "rinsed and drained"
+    },
+    {
+      "qty": "1",
+      "unit": "can (15 oz)",
+      "item": "black beans",
+      "metric": "250 g",
+      "note": "rinsed and drained"
+    },
+    {
+      "qty": "1",
+      "unit": "cup",
+      "item": "low-sodium chicken broth",
+      "metric": "240 ml",
+      "note": ""
+    }
+  ],
+  "steps": [
+    "Heat 1 tbsp (15 ml) olive oil in a 5-quart Dutch oven over medium-high heat for 2 minutes until shimmering.",
+    "Add 1 medium diced yellow onion (150 g) and 1 medium diced red bell pepper (150 g); cook over medium-high heat for 4 to 5 minutes, stirring occasionally, until onions are translucent and peppers are softened.",
+    "Add 2 minced garlic cloves (6 g) and 1 lb (454 g) ground turkey; cook over medium-high heat for 5 to 6 minutes, breaking up the meat with a wooden spoon, until no pink remains and turkey reaches an internal temperature of 165°F (74°C).",
+    "Stir in 2 tbsp (32 g) tomato paste, 1 tbsp (8 g) chili powder, 1 tsp (3 g) ground cumin, 1/2 tsp (1 g) smoked paprika, 1/2 tsp (1 g) dried oregano, 1/2 tsp (3 g) salt, and 1/4 tsp (1 g) black pepper; cook over medium heat for 1 minute until fragrant.",
+    "Pour in one 14.5 oz (411 g) can diced tomatoes with juices, one 15 oz (250 g) can rinsed kidney beans, one 15 oz (250 g) can rinsed black beans, and 1 cup (240 ml) low-sodium chicken broth.",
+    "Bring liquid to a boil over high heat, then reduce heat to medium-low and simmer uncovered for 8 to 10 minutes, stirring occasionally, until chili thickens and lightly coats the back of a spoon."
+  ],
+  "tips": [
+    "Top each bowl with 2 tablespoons of non-fat plain Greek yogurt for an extra 3 grams of protein without added heavy fat.",
+    "For a thicker consistency, mash half of the kidney beans with a fork before adding them to the pot.",
+    "Double the recipe to split into four glass prep containers for high-protein lunches during the week."
+  ],
+  "storage": "Store in an airtight container in the refrigerator for up to 4 days, or freeze in freezer-safe containers for up to 3 months.",
+  "tools": [
+    "5-quart Dutch oven or heavy pot",
+    "wooden spoon",
+    "meat thermometer",
+    "can opener"
+  ],
+  "keywords": [
+    "turkey chili recipe",
+    "high protein chili",
+    "easy ground turkey chili",
+    "30 minute meal prep",
+    "healthy turkey bean chili",
+    "budget high protein dinner",
+    "high protein meal prep"
+  ],
+  "pin_variants": [
+    {
+      "hook_type": "speed",
+      "title": "30-Minute High-Protein Turkey and Bean Chili",
+      "description": "This 30-minute high-protein turkey and bean chili packs 29 grams of protein per serving into a rich, hearty stew. Made with lean ground turkey, kidney beans, and warm spices, it comes together quickly in one pot. Save it for your next meal prep.",
+      "overlay": "30-Minute Turkey Bean Chili",
+      "subline": "Ready in 30 Minutes",
+      "alt_text": "A warm bowl of ground turkey and bean chili garnished with fresh herbs and served in a ceramic bowl."
+    },
+    {
+      "hook_type": "number",
+      "title": "High-Protein Turkey Chili (29g Protein Per Serving)",
+      "description": "Fuel your post-workout recovery with this high-protein turkey chili delivering 29g of protein per bowl. Simple pantry beans and lean ground turkey make this dish flavorful and filling. Save it for your next meal prep.",
+      "overlay": "29g Protein Turkey Chili",
+      "subline": "Easy One-Pot Dinner",
+      "alt_text": "Close-up of a hearty high-protein turkey chili topped with fresh cilantro and green onions."
+    },
+    {
+      "hook_type": "budget",
+      "title": "Budget High-Protein Turkey and Black Bean Chili",
+      "description": "Build a macro-friendly dinner on a budget with this turkey and bean chili packed with 29g of protein per serving. Canned beans, tomato paste, and ground turkey create a thick, savory chili in 30 minutes. Save it for your next meal prep.",
+      "overlay": "Budget Turkey Bean Chili",
+      "subline": "High Protein Pantry Meal",
+      "alt_text": "Dutch oven filled with simmered ground turkey, red kidney beans, black beans, and diced tomatoes."
+    },
+    {
+      "hook_type": "outcome",
+      "title": "High-Protein Turkey Chili for Meal Prep",
+      "description": "Prep four high-protein lunches with this turkey and bean chili recipe featuring 29 grams of protein per serving. It reheats wonderfully and stays rich and flavorful all week long. Save it for your next meal prep.",
+      "overlay": "High-Protein Meal Prep Chili",
+      "subline": "Packed With 29g Protein",
+      "alt_text": "Four glass meal prep containers filled with turkey and bean chili ready for the week."
+    }
+  ],
+  "video_script": {
+    "hook": "Make this 30-minute turkey bean chili packing 29 grams of protein.",
+    "steps_short": [
+      "Sauté diced onion and bell pepper in olive oil until tender.",
+      "Brown lean ground turkey with minced garlic until fully cooked.",
+      "Stir in tomato paste and chili spices until fragrant.",
+      "Add black beans, kidney beans, tomatoes, and chicken broth.",
+      "Simmer for 10 minutes until thick and rich."
+    ],
+    "outro": "Get the full recipe on the website for your next high-protein dinner."
+  },
+  "photo_queries": [
+    "bowl of turkey chili with beans and cilantro",
+    "turkey black bean chili in dutch oven",
+    "high protein ground turkey chili meal prep"
+  ],
+  "must_match": [
+    "chili",
+    "turkey",
+    "beans"
+  ],
+  "board": "Budget High Protein Meals",
+  "slug": "30-minute-high-protein-turkey-and-bean-chili",
+  "protein_g": 29,
+  "photos": [
+    {
+      "id": "u-HNVi6m5KCr8",
+      "width": 2668,
+      "height": 4000,
+      "alt": "A bowl of chili with kidney beans, melted cheese, sour cream, and green onions A warm bowl of comforting chili",
+      "photographer": "Chad Montano",
+      "photographer_url": "https://unsplash.com/@briewilly?utm_source=easy_protein_kitchen&utm_medium=referral",
+      "page_url": "https://unsplash.com/photos/chili-bowl-with-cheese-and-cream-HNVi6m5KCr8?utm_source=easy_protein_kitchen&utm_medium=referral",
+      "source": "Unsplash",
+      "source_url": "https://unsplash.com/?utm_source=easy_protein_kitchen&utm_medium=referral",
+      "src": "https://images.unsplash.com/photo-1790701909034-6c7b45c7b58a?ixid=M3wxMTQzODc5fDB8MXxzZWFyY2h8OXx8Ym93bCUyMG9mJTIwdHVya2V5JTIwY2hpbGklMjB3aXRoJTIwYmVhbnMlMjBhbmQlMjBjaWxhbnRyb3xlbnwxfDF8fHwxNzk1ODYwNjA5fDA&ixlib=rb-4.1.0",
+      "web": "https://images.unsplash.com/photo-1790701909034-6c7b45c7b58a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTQzODc5fDB8MXxzZWFyY2h8OXx8Ym93bCUyMG9mJTIwdHVya2V5JTIwY2hpbGklMjB3aXRoJTIwYmVhbnMlMjBhbmQlMjBjaWxhbnRyb3xlbnwxfDF8fHwxNzk1ODYwNjA5fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "download_location": "https://api.unsplash.com/photos/HNVi6m5KCr8/download?ixid=M3wxMTQzODc5fDB8MXxzZWFyY2h8OXx8Ym93bCUyMG9mJTIwdHVya2V5JTIwY2hpbGklMjB3aXRoJTIwYmVhbnMlMjBhbmQlMjBjaWxhbnRyb3xlbnwxfDF8fHwxNzk1ODYwNjA5fDA",
+      "score": 13
+    },
+    {
+      "id": "u-72oTVZs_730",
+      "width": 4480,
+      "height": 6720,
+      "alt": "A bowl of chili next to other bowls of food",
+      "photographer": "Maria Klichik",
+      "photographer_url": "https://unsplash.com/@switchinglanes?utm_source=easy_protein_kitchen&utm_medium=referral",
+      "page_url": "https://unsplash.com/photos/a-bowl-of-chili-next-to-other-bowls-of-food-72oTVZs_730?utm_source=easy_protein_kitchen&utm_medium=referral",
+      "source": "Unsplash",
+      "source_url": "https://unsplash.com/?utm_source=easy_protein_kitchen&utm_medium=referral",
+      "src": "https://images.unsplash.com/photo-1729450412050-6c00ec592e34?ixid=M3wxMTQzODc5fDB8MXxzZWFyY2h8MXx8Ym93bCUyMG9mJTIwdHVya2V5JTIwY2hpbGklMjB3aXRoJTIwYmVhbnMlMjBhbmQlMjBjaWxhbnRyb3xlbnwxfDF8fHwxNzk1ODYwNjA5fDA&ixlib=rb-4.1.0",
+      "web": "https://images.unsplash.com/photo-1729450412050-6c00ec592e34?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTQzODc5fDB8MXxzZWFyY2h8MXx8Ym93bCUyMG9mJTIwdHVya2V5JTIwY2hpbGklMjB3aXRoJTIwYmVhbnMlMjBhbmQlMjBjaWxhbnRyb3xlbnwxfDF8fHwxNzk1ODYwNjA5fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "download_location": "https://api.unsplash.com/photos/72oTVZs_730/download?ixid=M3wxMTQzODc5fDB8MXxzZWFyY2h8MXx8Ym93bCUyMG9mJTIwdHVya2V5JTIwY2hpbGklMjB3aXRoJTIwYmVhbnMlMjBhbmQlMjBjaWxhbnRyb3xlbnwxfDF8fHwxNzk1ODYwNjA5fDA",
+      "score": 8
+    },
+    {
+      "id": "u-5j0Ir7xLeTM",
+      "width": 4480,
+      "height": 6720,
+      "alt": "A bowl of chili next to some muffins",
+      "photographer": "Maria Klichik",
+      "photographer_url": "https://unsplash.com/@switchinglanes?utm_source=easy_protein_kitchen&utm_medium=referral",
+      "page_url": "https://unsplash.com/photos/a-bowl-of-chili-next-to-some-muffins-5j0Ir7xLeTM?utm_source=easy_protein_kitchen&utm_medium=referral",
+      "source": "Unsplash",
+      "source_url": "https://unsplash.com/?utm_source=easy_protein_kitchen&utm_medium=referral",
+      "src": "https://images.unsplash.com/photo-1729450411383-1f089460ba42?ixid=M3wxMTQzODc5fDB8MXxzZWFyY2h8NHx8Ym93bCUyMG9mJTIwdHVya2V5JTIwY2hpbGklMjB3aXRoJTIwYmVhbnMlMjBhbmQlMjBjaWxhbnRyb3xlbnwxfDF8fHwxNzk1ODYwNjA5fDA&ixlib=rb-4.1.0",
+      "web": "https://images.unsplash.com/photo-1729450411383-1f089460ba42?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTQzODc5fDB8MXxzZWFyY2h8NHx8Ym93bCUyMG9mJTIwdHVya2V5JTIwY2hpbGklMjB3aXRoJTIwYmVhbnMlMjBhbmQlMjBjaWxhbnRyb3xlbnwxfDF8fHwxNzk1ODYwNjA5fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "download_location": "https://api.unsplash.com/photos/5j0Ir7xLeTM/download?ixid=M3wxMTQzODc5fDB8MXxzZWFyY2h8NHx8Ym93bCUyMG9mJTIwdHVya2V5JTIwY2hpbGklMjB3aXRoJTIwYmVhbnMlMjBhbmQlMjBjaWxhbnRyb3xlbnwxfDF8fHwxNzk1ODYwNjA5fDA",
+      "score": 8
+    },
+    {
+      "id": "u-FhMB8pMge5U",
+      "width": 3456,
+      "height": 5184,
+      "alt": "red and green chili peppers in white ceramic bowl Vegetarian Chilli sin Carne  ",
+      "photographer": "micheile henderson",
+      "photographer_url": "https://unsplash.com/@micheile?utm_source=easy_protein_kitchen&utm_medium=referral",
+      "page_url": "https://unsplash.com/photos/red-and-green-chili-peppers-in-white-ceramic-bowl-FhMB8pMge5U?utm_source=easy_protein_kitchen&utm_medium=referral",
+      "source": "Unsplash",
+      "source_url": "https://unsplash.com/?utm_source=easy_protein_kitchen&utm_medium=referral",
+      "src": "https://images.unsplash.com/photo-1591266798549-32fa7cd32f45?ixid=M3wxMTQzODc5fDB8MXxzZWFyY2h8MTN8fGJvd2wlMjBvZiUyMHR1cmtleSUyMGNoaWxpJTIwd2l0aCUyMGJlYW5zJTIwYW5kJTIwY2lsYW50cm98ZW58MXwxfHx8MTc5NTg2MDYwOXww&ixlib=rb-4.1.0",
+      "web": "https://images.unsplash.com/photo-1591266798549-32fa7cd32f45?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTQzODc5fDB8MXxzZWFyY2h8MTN8fGJvd2wlMjBvZiUyMHR1cmtleSUyMGNoaWxpJTIwd2l0aCUyMGJlYW5zJTIwYW5kJTIwY2lsYW50cm98ZW58MXwxfHx8MTc5NTg2MDYwOXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "download_location": "https://api.unsplash.com/photos/FhMB8pMge5U/download?ixid=M3wxMTQzODc5fDB8MXxzZWFyY2h8MTN8fGJvd2wlMjBvZiUyMHR1cmtleSUyMGNoaWxpJTIwd2l0aCUyMGJlYW5zJTIwYW5kJTIwY2lsYW50cm98ZW58MXwxfHx8MTc5NTg2MDYwOXww",
+      "score": 8
+    },
+    {
+      "id": "u-SlqbDPH6Bic",
+      "width": 2736,
+      "height": 3648,
+      "alt": "a bowl of chili with sour cream on top",
+      "photographer": "stephanie monfette",
+      "photographer_url": "https://unsplash.com/@lesbibis?utm_source=easy_protein_kitchen&utm_medium=referral",
+      "page_url": "https://unsplash.com/photos/a-bowl-of-chili-with-sour-cream-on-top-SlqbDPH6Bic?utm_source=easy_protein_kitchen&utm_medium=referral",
+      "source": "Unsplash",
+      "source_url": "https://unsplash.com/?utm_source=easy_protein_kitchen&utm_medium=referral",
+      "src": "https://images.unsplash.com/photo-1638329389022-daef2efb71b3?ixid=M3wxMTQzODc5fDB8MXxzZWFyY2h8MTV8fGJvd2wlMjBvZiUyMHR1cmtleSUyMGNoaWxpJTIwd2l0aCUyMGJlYW5zJTIwYW5kJTIwY2lsYW50cm98ZW58MXwxfHx8MTc5NTg2MDYwOXww&ixlib=rb-4.1.0",
+      "web": "https://images.unsplash.com/photo-1638329389022-daef2efb71b3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTQzODc5fDB8MXxzZWFyY2h8MTV8fGJvd2wlMjBvZiUyMHR1cmtleSUyMGNoaWxpJTIwd2l0aCUyMGJlYW5zJTIwYW5kJTIwY2lsYW50cm98ZW58MXwxfHx8MTc5NTg2MDYwOXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "download_location": "https://api.unsplash.com/photos/SlqbDPH6Bic/download?ixid=M3wxMTQzODc5fDB8MXxzZWFyY2h8MTV8fGJvd2wlMjBvZiUyMHR1cmtleSUyMGNoaWxpJTIwd2l0aCUyMGJlYW5zJTIwYW5kJTIwY2lsYW50cm98ZW58MXwxfHx8MTc5NTg2MDYwOXww",
+      "score": 8
+    },
+    {
+      "id": "u-kFYjbRnklo4",
+      "width": 3840,
+      "height": 5760,
+      "alt": "cooked viand on white container Everybody's favorite Chili",
+      "photographer": "Brooke Lark",
+      "photographer_url": "https://unsplash.com/@brookelark?utm_source=easy_protein_kitchen&utm_medium=referral",
+      "page_url": "https://unsplash.com/photos/cooked-viand-on-white-container-kFYjbRnklo4?utm_source=easy_protein_kitchen&utm_medium=referral",
+      "source": "Unsplash",
+      "source_url": "https://unsplash.com/?utm_source=easy_protein_kitchen&utm_medium=referral",
+      "src": "https://images.unsplash.com/photo-1576020956260-490f5c5fc892?ixid=M3wxMTQzODc5fDB8MXxzZWFyY2h8OHx8Ym93bCUyMG9mJTIwdHVya2V5JTIwY2hpbGklMjB3aXRoJTIwYmVhbnMlMjBhbmQlMjBjaWxhbnRyb3xlbnwxfDF8fHwxNzk1ODYwNjA5fDA&ixlib=rb-4.1.0",
+      "web": "https://images.unsplash.com/photo-1576020956260-490f5c5fc892?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTQzODc5fDB8MXxzZWFyY2h8OHx8Ym93bCUyMG9mJTIwdHVya2V5JTIwY2hpbGklMjB3aXRoJTIwYmVhbnMlMjBhbmQlMjBjaWxhbnRyb3xlbnwxfDF8fHwxNzk1ODYwNjA5fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "download_location": "https://api.unsplash.com/photos/kFYjbRnklo4/download?ixid=M3wxMTQzODc5fDB8MXxzZWFyY2h8OHx8Ym93bCUyMG9mJTIwdHVya2V5JTIwY2hpbGklMjB3aXRoJTIwYmVhbnMlMjBhbmQlMjBjaWxhbnRyb3xlbnwxfDF8fHwxNzk1ODYwNjA5fDA",
+      "score": 6
+    }
+  ],
+  "verification": {
+    "checks": [
+      {
+        "verdict": "pass",
+        "issues": [],
+        "sources": [
+          {
+            "name": "NYT Cooking - Quick Turkey Chili",
+            "url": "https://cooking.nytimes.com/recipes/1018527-quick-turkey-chili"
+          },
+          {
+            "name": "RecipeTin Eats - Turkey Chili",
+            "url": "https://www.recipetineats.com/turkey-chili/"
+          },
+          {
+            "name": "Allrecipes - Simple Turkey Chili",
+            "url": "https://www.allrecipes.com/recipe/80867/simple-turkey-chili/"
+          }
+        ],
+        "grounded": false
+      }
+    ],
+    "rule_warnings": [
+      "unusual unit 'can (14.5 oz)' for 'diced tomatoes'",
+      "unusual unit 'can (15 oz)' for 'dark red kidney beans'",
+      "unusual unit 'can (15 oz)' for 'black beans'"
+    ],
+    "model": "gemini-3.6-flash"
+  },
+  "created": "2026-11-28"
+}
