@@ -328,7 +328,7 @@
     {
       "slot": "2026-11-27#07",
       "due": "2026-11-27T22:55:29+00:00",
-      "status": "planned",
+      "status": "posted",
       "item": {
         "slug": "high-protein-chicken-teriyaki-stir-fry",
         "board": "30 Minute High Protein Meals",
@@ -338,12 +338,15 @@
         "layout": "single",
         "palette": 0
       },
-      "attempts": 0
+      "attempts": 0,
+      "pin_id": "2026-11-27-07",
+      "posted_at": "2026-11-28T00:01:31.526628+00:00",
+      "via": "rss"
     },
     {
       "slot": "2026-11-27#08",
       "due": "2026-11-28T00:01:26+00:00",
-      "status": "planned",
+      "status": "posted",
       "item": {
         "slug": "high-protein-turkey-and-black-bean-burrito-bowls",
         "board": "High Protein Meal Prep",
@@ -353,7 +356,10 @@
         "layout": "single",
         "palette": 3
       },
-      "attempts": 0
+      "attempts": 0,
+      "pin_id": "2026-11-27-08",
+      "posted_at": "2026-11-28T00:01:32.105400+00:00",
+      "via": "rss"
     },
     {
       "slot": "2026-11-27#09",
