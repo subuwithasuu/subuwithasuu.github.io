@@ -1,0 +1,92 @@
+{
+  "updated": "2026-11-28T10:39:33.222790+00:00",
+  "source": "news headlines",
+  "trends": [
+    {
+      "trend": "Cottage Cheese Culinary Revival",
+      "why_now": "The Cottage Cheese Resurgence is driving a dairy category revival across food media and grocery news for its high protein and culinary versatility.",
+      "dish_ideas": [
+        "Blended Cottage Cheese Alfredo Pasta",
+        "Savory Cottage Cheese & Herb Dip",
+        "High-Protein Lemon Cottage Cheese Bowl"
+      ],
+      "boards": [
+        "High Protein Dinners",
+        "High Protein Snacks",
+        "30 Minute High Protein Meals"
+      ],
+      "source": "https://en.edairynews.com/"
+    },
+    {
+      "trend": "High-Protein Mashed Potatoes & Comfort Swaps",
+      "why_now": "Verywell Health highlighted high-protein mashed potatoes as a leading healthy food trend catching on with dietitians and home cooks.",
+      "dish_ideas": [
+        "Garlic & Cottage Cheese Mashed Potatoes",
+        "Greek Yogurt Loaded Mashed Potatoes",
+        "Protein-Boosted Shepherd's Pie"
+      ],
+      "boards": [
+        "High Protein Dinners",
+        "Budget High Protein Meals"
+      ],
+      "source": "https://www.verywellhealth.com"
+    },
+    {
+      "trend": "Savory High-Protein Snacks & Chips",
+      "why_now": "High-protein snacks are actively replacing traditional junk food in convenience stores and grocery aisles, featuring items like salmon crunch chips.",
+      "dish_ideas": [
+        "Baked Edamame Crunch Mix",
+        "Savory Tofu Nugget Bites",
+        "Spiced Chickpea and Seed Protein Snack Pack"
+      ],
+      "boards": [
+        "High Protein Snacks",
+        "Budget High Protein Meals"
+      ],
+      "source": "https://www.fbmagazine.co/zaksimlab-salmon-crunch-protein-chips-launch/"
+    },
+    {
+      "trend": "Bean & Nut Butter Protein Blends",
+      "why_now": "Food & Wine highlighted the internet food trend of incorporating beans into nut butters to supercharge protein content.",
+      "dish_ideas": [
+        "White Bean & Peanut Butter Energy Balls",
+        "Chickpea Peanut Butter Protein Toast",
+        "Black Bean & Almond Butter Smoothie Bowl"
+      ],
+      "boards": [
+        "High Protein Breakfast",
+        "High Protein Snacks"
+      ],
+      "source": "https://www.foodandwine.com/would-you-put-beans-in-your-peanut-butter-the-internet-says-you-should-10842880"
+    },
+    {
+      "trend": "High-Protein Express Breakfasts",
+      "why_now": "Martha Stewart featured 10-minute high-protein breakfast ideas meeting the massive morning demand for quick fitness fueling.",
+      "dish_ideas": [
+        "10-Minute Cottage Cheese Scrambled Eggs",
+        "Greek Yogurt Protein Power Bowl",
+        "Quick High-Protein Breakfast Tacos"
+      ],
+      "boards": [
+        "High Protein Breakfast",
+        "30 Minute High Protein Meals"
+      ],
+      "source": "https://www.marthastewart.com/11-high-protein-breakfast-ideas-you-can-make-in-10-minutes-or-less-8724128"
+    },
+    {
+      "trend": "High-Protein Vegetable & Edamame Dishes",
+      "why_now": "Media reports spotlighted trendy, surprisingly high-protein vegetables like green peas and edamame making waves across TikTok and food blogs.",
+      "dish_ideas": [
+        "Viral Mason Jar Green Pea & Feta Salad",
+        "Spicy Garlic Edamame Stir-Fry",
+        "Smashed Edamame & White Bean Toast"
+      ],
+      "boards": [
+        "High Protein Vegetarian",
+        "30 Minute High Protein Meals",
+        "High Protein Snacks"
+      ],
+      "source": "https://www.smh.com.au/good-food/the-cheap-trending-vegetable-that-s-surprisingly-high-in-protein-and-fibre-20261104-p5kc1e.html"
+    }
+  ]
+}
