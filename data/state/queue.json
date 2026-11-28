@@ -909,6 +909,171 @@
         "palette": 0
       },
       "attempts": 0
+    },
+    {
+      "slot": "2026-12-01#00",
+      "due": "2026-12-01T12:28:46+00:00",
+      "status": "planned",
+      "item": {
+        "slug": "garlic-butter-shrimp-and-zucchini-noodles",
+        "board": "30 Minute High Protein Meals",
+        "kind": "image",
+        "variant": 0,
+        "hook_type": "speed",
+        "layout": "split",
+        "palette": 0
+      },
+      "attempts": 0
+    },
+    {
+      "slot": "2026-12-01#01",
+      "due": "2026-12-01T13:07:56+00:00",
+      "status": "planned",
+      "item": {
+        "slug": "greek-lemon-herb-chicken-and-quinoa-meal-prep-bowls",
+        "board": "High Protein Meal Prep",
+        "kind": "image",
+        "variant": 0,
+        "hook_type": "speed",
+        "layout": "band",
+        "palette": 1
+      },
+      "attempts": 0
+    },
+    {
+      "slot": "2026-12-01#02",
+      "due": "2026-12-01T13:58:09+00:00",
+      "status": "planned",
+      "item": {
+        "slug": "high-protein-crispy-air-fryer-tofu-bowls-with-peanut-sauce",
+        "board": "High Protein Vegetarian",
+        "kind": "image",
+        "variant": 0,
+        "hook_type": "number",
+        "layout": "band",
+        "palette": 2
+      },
+      "attempts": 0
+    },
+    {
+      "slot": "2026-12-01#03",
+      "due": "2026-12-01T16:43:50+00:00",
+      "status": "planned",
+      "item": {
+        "slug": "blackened-salmon-with-quinoa-and-roasted-asparagus-high-protein-dinner",
+        "board": "High Protein Dinners",
+        "kind": "image",
+        "variant": 0,
+        "hook_type": "number",
+        "layout": "split",
+        "palette": 1
+      },
+      "attempts": 0
+    },
+    {
+      "slot": "2026-12-01#04",
+      "due": "2026-12-01T17:47:47+00:00",
+      "status": "planned",
+      "item": {
+        "slug": "high-protein-chicken-and-broccoli-stir-fry-with-brown-rice",
+        "board": "High Protein Chicken Recipes",
+        "kind": "image",
+        "variant": 0,
+        "hook_type": "number",
+        "layout": "band",
+        "palette": 4
+      },
+      "attempts": 0
+    },
+    {
+      "slot": "2026-12-01#05",
+      "due": "2026-12-01T22:05:29+00:00",
+      "status": "planned",
+      "item": {
+        "slug": "high-protein-creamy-tuscan-chicken-skillet",
+        "board": "30 Minute High Protein Meals",
+        "kind": "image",
+        "variant": 0,
+        "hook_type": "number",
+        "layout": "single",
+        "palette": 4
+      },
+      "attempts": 0
+    },
+    {
+      "slot": "2026-12-01#06",
+      "due": "2026-12-01T22:34:13+00:00",
+      "status": "planned",
+      "item": {
+        "slug": "high-protein-cajun-chicken-and-quinoa-meal-prep-containers",
+        "board": "High Protein Meal Prep",
+        "kind": "image",
+        "variant": 0,
+        "hook_type": "number",
+        "layout": "single",
+        "palette": 0
+      },
+      "attempts": 0
+    },
+    {
+      "slot": "2026-12-01#07",
+      "due": "2026-12-01T23:53:41+00:00",
+      "status": "planned",
+      "item": {
+        "slug": "spicy-edamame-and-crispy-tempeh-buddha-bowl",
+        "board": "High Protein Vegetarian",
+        "kind": "image",
+        "variant": 0,
+        "hook_type": "number",
+        "layout": "single",
+        "palette": 1
+      },
+      "attempts": 0
+    },
+    {
+      "slot": "2026-12-01#08",
+      "due": "2026-12-02T00:15:50+00:00",
+      "status": "planned",
+      "item": {
+        "slug": "high-protein-turkey-meatball-marinara-with-chickpea-pasta",
+        "board": "High Protein Dinners",
+        "kind": "image",
+        "variant": 0,
+        "hook_type": "number",
+        "layout": "band",
+        "palette": 4
+      },
+      "attempts": 0
+    },
+    {
+      "slot": "2026-12-01#09",
+      "due": "2026-12-02T01:16:24+00:00",
+      "status": "planned",
+      "item": {
+        "slug": "quick-lemon-garlic-shrimp-and-white-bean-skillet",
+        "board": "30 Minute High Protein Meals",
+        "kind": "image",
+        "variant": 0,
+        "hook_type": "number",
+        "layout": "split",
+        "palette": 0
+      },
+      "attempts": 0
+    },
+    {
+      "slot": "2026-12-01#10",
+      "due": "2026-12-02T01:57:48+00:00",
+      "status": "planned",
+      "item": {
+        "slug": "high-protein-cottage-cheese-cookie-dough",
+        "board": "High Protein Snacks",
+        "kind": "image",
+        "variant": 2,
+        "hook_type": "how_without",
+        "layout": "single",
+        "palette": 1
+      },
+      "attempts": 0
     }
   ]
 }
